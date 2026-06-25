@@ -1,0 +1,634 @@
+{
+  "id": "animals",
+  "title": "Animals",
+  "entries": [
+    {
+      "id": "anim-asu",
+      "word": "asu",
+      "partOfSpeech": "noun",
+      "translations": ["dog"],
+      "relatedTagalog": "aso",
+      "examples": [
+        {"kp": "Maragul ya ing asu namu.", "en": "Our dog is big."},
+        {"kp": "Ing asu matamis ya king pamangan.", "en": "The dog likes food."}
+      ],
+      "notes": "One of the most attested Kapampangan animal words. Wikibooks Kapampangan/Nouns uses 'asu' as a core example noun."
+    },
+    {
+      "id": "anim-pusa",
+      "word": "pusa",
+      "partOfSpeech": "noun",
+      "translations": ["cat"],
+      "relatedTagalog": "pusa",
+      "examples": [
+        {"kp": "Malati ya ing pusa ku.", "en": "My cat is small."},
+        {"kp": "Ing pusa atyu ya king bale.", "en": "The cat is in the house."}
+      ],
+      "notes": "Shared with Tagalog. Attested in Wikibooks Kapampangan/Nouns and multiple vocabulary guides."
+    },
+    {
+      "id": "anim-ayup",
+      "word": "ayup",
+      "partOfSpeech": "noun",
+      "translations": ["bird"],
+      "relatedTagalog": "ibon",
+      "examples": [
+        {"kp": "Malipad ya ing ayup king alang-alang.", "en": "The bird flies in the sky."},
+        {"kp": "Mengébun yang atlu ing ayup.", "en": "The bird laid three eggs."}
+      ],
+      "notes": "Primary modern meaning is bird (Tagalog: ibon). Historically also meant animal in general. The second example is attested on bigwas.com. Do not confuse with Tagalog 'hayop' (animal)."
+    },
+    {
+      "id": "anim-babi",
+      "word": "babi",
+      "partOfSpeech": "noun",
+      "translations": ["pig"],
+      "relatedTagalog": "baboy",
+      "examples": [
+        {"kp": "Maragul ya ing babi king bukid.", "en": "The pig in the farm is big."},
+        {"kp": "Ing babi mataba ya.", "en": "The pig is fat."}
+      ],
+      "notes": "Well-attested in multiple Kapampangan vocabulary sources. The lechon and sisig traditions give this word special cultural weight in Pampanga."
+    },
+    {
+      "id": "anim-damulag",
+      "word": "damulag",
+      "partOfSpeech": "noun",
+      "translations": ["carabao", "water buffalo"],
+      "relatedTagalog": "kalabaw",
+      "examples": [
+        {"kp": "Ing damulag tutulung ya king bukid.", "en": "The carabao helps in the field."},
+        {"kp": "Maragul at mabangis ya ing damulag.", "en": "The carabao is big and strong."}
+      ],
+      "notes": "Attested in Wiktionary as Kapampangan for carabao/water buffalo. Also used in Tagalog and Central Bikol with the same meaning."
+    },
+    {
+      "id": "anim-baka",
+      "word": "baka",
+      "partOfSpeech": "noun",
+      "translations": ["cow"],
+      "relatedTagalog": "baka",
+      "examples": [
+        {"kp": "Ing baka magbibigay ya ning gatas.", "en": "The cow gives milk."},
+        {"kp": "Atyu ya ing baka king dalan.", "en": "The cow is on the road."}
+      ],
+      "notes": "Shared with Tagalog. Confirmed in Kapampangan vocabulary guides and the Vocabulario Pampango-Tagalog-Ingles."
+    },
+    {
+      "id": "anim-kabayu",
+      "word": "kabayu",
+      "partOfSpeech": "noun",
+      "translations": ["horse"],
+      "relatedTagalog": "kabayo",
+      "examples": [
+        {"kp": "Mabilisan ya ing kabayu.", "en": "The horse is fast."},
+        {"kp": "Ing kabayu mataba ya at mabangis.", "en": "The horse is strong and powerful."}
+      ],
+      "notes": "Attested in Wikibooks Kapampangan/Nouns ('Ing asu, ing pusa, ampon ing kabayu mikakaluguran la'). Spanish loanword from 'caballo'. Kapampangan spelling is 'kabayu' (with final u)."
+    },
+    {
+      "id": "anim-kambing",
+      "word": "kambing",
+      "partOfSpeech": "noun",
+      "translations": ["goat"],
+      "relatedTagalog": "kambing",
+      "examples": [
+        {"kp": "Ing kambing makmak ya ning damu.", "en": "The goat eats grass."},
+        {"kp": "Adwang kambing ing atyu king bakuran.", "en": "There are two goats in the yard."}
+      ],
+      "notes": "Shared with Tagalog. Attested in Wiktionary (from Proto-Malayo-Polynesian *kambiŋ) and confirmed in Kapampangan vocabulary guides and the Vocabulario Pampango."
+    },
+    {
+      "id": "anim-dagis",
+      "word": "dagis",
+      "partOfSpeech": "noun",
+      "translations": ["mouse", "rat"],
+      "relatedTagalog": "daga",
+      "examples": [
+        {"kp": "Ing dagis maliksi ya.", "en": "The rat is quick."},
+        {"kp": "Mekita ku ing dagis king kusina.", "en": "I saw a mouse in the kitchen."}
+      ],
+      "notes": "Attested in multiple Kapampangan word lists. The Tagalog cognate is 'daga'; the Kapampangan form shifts to 'dagis'."
+    },
+    {
+      "id": "anim-panas",
+      "word": "panas",
+      "partOfSpeech": "noun",
+      "translations": ["ant"],
+      "relatedTagalog": "langgam",
+      "examples": [
+        {"kp": "Dakal yang panas king balat ning kekan.", "en": "There are many ants on the food."},
+        {"kp": "Ing panas masipag ya.", "en": "The ant is hardworking."}
+      ],
+      "notes": "Confirmed in multiple Kapampangan insect vocabulary sources. The Google Groups Kapampangan linguistics discussion lists 'panas' as a familiar/well-known term for ant."
+    },
+    {
+      "id": "anim-ubingan",
+      "word": "ubingan",
+      "partOfSpeech": "noun",
+      "translations": ["snake"],
+      "relatedTagalog": "ahas",
+      "examples": [
+        {"kp": "Ing ubingan atneng makapantag.", "en": "The snake is very frightening."},
+        {"kp": "Mekita da ing ubingan king damu.", "en": "They saw the snake in the grass."}
+      ],
+      "notes": "Classical Kapampangan form attested in Bergano's dictionary and confirmed in the diachronic analysis study. The phrase 'Ing ubingan atneng catapang' (The snake is very ferocious) appears in classical texts. Modern usage sometimes shortens to 'bingan'."
+    },
+    {
+      "id": "anim-tugak",
+      "word": "tugak",
+      "partOfSpeech": "noun",
+      "translations": ["frog"],
+      "relatedTagalog": "palaka",
+      "examples": [
+        {"kp": "Ing tugak lumaluksad king tubig.", "en": "The frog jumps in the water."},
+        {"kp": "Dakal yang tugak king pulo.", "en": "There are many frogs in the rice field."}
+      ],
+      "notes": "Attested in multiple sources as the Kapampangan word for frog. Distinct from Tagalog 'palaka'. Confirmed in comparative Philippine linguistics references."
+    },
+    {
+      "id": "anim-talubang",
+      "word": "talubang",
+      "partOfSpeech": "noun",
+      "translations": ["butterfly"],
+      "relatedTagalog": "paruparo",
+      "examples": [
+        {"kp": "Malutu ya ing talubang.", "en": "The butterfly is colorful."},
+        {"kp": "Ing talubang lumalukbad king bulak.", "en": "The butterfly lands on the flower."}
+      ],
+      "notes": "The native Kapampangan term for butterfly, attested in the Kapampangan Listorian insect vocabulary article. Distinct from Tagalog 'paruparo'. The name is derived from a traditional Kapampangan game."
+    },
+    {
+      "id": "anim-yamuk",
+      "word": "yamuk",
+      "partOfSpeech": "noun",
+      "translations": ["mosquito"],
+      "relatedTagalog": "lamok",
+      "examples": [
+        {"kp": "Mabangis ya ing yamuk king bengi.", "en": "Mosquitoes are fierce at night."},
+        {"kp": "Kailangan ku ing kulambung para king yamuk.", "en": "I need a mosquito net for the mosquitoes."}
+      ],
+      "notes": "Attested in the Google Groups Kapampangan linguistics thread and tagaloglang.com. 'Amuk' is also used; 'yamuk' appears in the phrase 'kulambung panyalang yamuk' (mosquito net) in Kapampangan texts."
+    },
+    {
+      "id": "anim-bibi",
+      "word": "bibi",
+      "partOfSpeech": "noun",
+      "translations": ["duck"],
+      "relatedTagalog": "itik / pato",
+      "examples": [
+        {"kp": "Ing bibi lulusong ya king danum.", "en": "The duck goes into the water."},
+        {"kp": "Malutu ya ing bibi a maguimbal.", "en": "The waddling duck is funny."}
+      ],
+      "notes": "Consistently attested in Kapampangan vocabulary guides as the word for duck. Confirmed in 'Common Kapampangan Words & Phrases' document and pdfcoffee source."
+    },
+    {
+      "id": "anim-babagwa",
+      "word": "babagwa",
+      "partOfSpeech": "noun",
+      "translations": ["spider"],
+      "relatedTagalog": "gagamba",
+      "examples": [
+        {"kp": "Ing babagwa gumawa ya ning gawa na.", "en": "The spider makes its web."},
+        {"kp": "Mekita ku ing babagwa king suluk.", "en": "I saw a spider in the corner."}
+      ],
+      "notes": "Attested in the Google Groups Kapampangan linguistics discussion and multiple word lists. Also spelled 'babagua' in older sources."
+    },
+    {
+      "id": "anim-ayupayupan",
+      "word": "ayup-ayupan",
+      "partOfSpeech": "noun",
+      "translations": ["insects", "bugs"],
+      "relatedTagalog": "insekto / kulisap",
+      "examples": [
+        {"kp": "Dakal yang ayup-ayupan king damu.", "en": "There are many insects in the grass."},
+        {"kp": "Ing ayup-ayupan mapandaig la king bengi.", "en": "The insects come out at night."}
+      ],
+      "notes": "Documented in the Bigwas.com Kapampangan language article: 'Insects are called ayup-ayupan in Pampanga.' A reduplication of 'ayup' (bird/animal), forming a collective noun for small creatures and insects."
+    },
+    {
+      "id": "anim-kamaru",
+      "word": "kamaru",
+      "partOfSpeech": "noun",
+      "translations": ["mole cricket"],
+      "relatedTagalog": "kamaro",
+      "examples": [
+        {"kp": "Ing kamaru manyaman ya lutuan.", "en": "The mole cricket is delicious when cooked."},
+        {"kp": "Makulit ya ing kamaru king bengi.", "en": "The mole cricket is noisy at night."}
+      ],
+      "notes": "Iconic Kapampangan insect and culinary delicacy. Confirmed in Kapampangan Listorian insect article and multiple sources as 'kamaru' = mole cricket. The dish 'adobong kamaru' is a famous Pampanga specialty."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "anim-1",
+      "title": "Pets & Household Animals",
+      "theme": "dog, cat, duck, and pig",
+      "intro": "In Kapampangan, common household animals are called 'asu' (dog), 'pusa' (cat), 'bibi' (duck), and 'babi' (pig). These are animals you would find around a typical Kapampangan home.",
+      "wordIds": ["anim-asu", "anim-pusa", "anim-bibi", "anim-babi"],
+      "exercises": [
+        {
+          "id": "anim-1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"asu\" mean?",
+          "wordIds": ["anim-asu"],
+          "answerId": "anim-asu"
+        },
+        {
+          "id": "anim-1-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"pusa\" mean?",
+          "wordIds": ["anim-pusa"],
+          "answerId": "anim-pusa"
+        },
+        {
+          "id": "anim-1-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"bibi\" mean?",
+          "wordIds": ["anim-bibi"],
+          "answerId": "anim-bibi"
+        },
+        {
+          "id": "anim-1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malati ya ing pusa ku.",
+          "wordIds": ["anim-pusa"],
+          "accepted": ["my cat is small", "my cat is little"]
+        },
+        {
+          "id": "anim-1-fb1",
+          "type": "fill-blank",
+          "prompt": "Maragul ya ing ____ namu.  (Our dog is big.)",
+          "wordIds": ["anim-asu"],
+          "answerId": "anim-asu"
+        },
+        {
+          "id": "anim-1-fb2",
+          "type": "fill-blank",
+          "prompt": "Ing ____ lulusong ya king danum.  (The duck goes into the water.)",
+          "wordIds": ["anim-bibi"],
+          "answerId": "anim-bibi"
+        },
+        {
+          "id": "anim-1-ma1",
+          "type": "matching",
+          "wordIds": ["anim-asu", "anim-pusa", "anim-bibi", "anim-babi"],
+          "pairs": [
+            {"wordId": "anim-asu"},
+            {"wordId": "anim-pusa"},
+            {"wordId": "anim-bibi"},
+            {"wordId": "anim-babi"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anim-2",
+      "title": "Farm Animals",
+      "theme": "carabao, cow, horse, and goat",
+      "intro": "Pampanga is agricultural land. The carabao ('damulag') is the national animal of the Philippines and essential to farming. 'Baka' is cow, 'kabayu' is horse, and 'kambing' is goat.",
+      "wordIds": ["anim-damulag", "anim-baka", "anim-kabayu", "anim-kambing"],
+      "exercises": [
+        {
+          "id": "anim-2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"damulag\" mean?",
+          "wordIds": ["anim-damulag"],
+          "answerId": "anim-damulag"
+        },
+        {
+          "id": "anim-2-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kabayu\" mean?",
+          "wordIds": ["anim-kabayu"],
+          "answerId": "anim-kabayu"
+        },
+        {
+          "id": "anim-2-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kambing\" mean?",
+          "wordIds": ["anim-kambing"],
+          "answerId": "anim-kambing"
+        },
+        {
+          "id": "anim-2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ing damulag tutulung ya king bukid.",
+          "wordIds": ["anim-damulag"],
+          "accepted": ["the carabao helps in the field", "the water buffalo helps in the field"]
+        },
+        {
+          "id": "anim-2-fb1",
+          "type": "fill-blank",
+          "prompt": "Ing ____ magbibigay ya ning gatas.  (The cow gives milk.)",
+          "wordIds": ["anim-baka"],
+          "answerId": "anim-baka"
+        },
+        {
+          "id": "anim-2-fb2",
+          "type": "fill-blank",
+          "prompt": "Mabilisan ya ing ____.  (The horse is fast.)",
+          "wordIds": ["anim-kabayu"],
+          "answerId": "anim-kabayu"
+        },
+        {
+          "id": "anim-2-ma1",
+          "type": "matching",
+          "wordIds": ["anim-damulag", "anim-baka", "anim-kabayu", "anim-kambing"],
+          "pairs": [
+            {"wordId": "anim-damulag"},
+            {"wordId": "anim-baka"},
+            {"wordId": "anim-kabayu"},
+            {"wordId": "anim-kambing"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anim-3",
+      "title": "Wild Creatures",
+      "theme": "bird, frog, snake, and rat",
+      "intro": "The fields and wetlands of Pampanga are home to many wild creatures. 'Ayup' means bird, 'tugak' is frog, 'ubingan' is snake, and 'dagis' is mouse or rat.",
+      "wordIds": ["anim-ayup", "anim-tugak", "anim-ubingan", "anim-dagis"],
+      "exercises": [
+        {
+          "id": "anim-3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"ayup\" mean?",
+          "wordIds": ["anim-ayup"],
+          "answerId": "anim-ayup"
+        },
+        {
+          "id": "anim-3-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"tugak\" mean?",
+          "wordIds": ["anim-tugak"],
+          "answerId": "anim-tugak"
+        },
+        {
+          "id": "anim-3-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"ubingan\" mean?",
+          "wordIds": ["anim-ubingan"],
+          "answerId": "anim-ubingan"
+        },
+        {
+          "id": "anim-3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malipad ya ing ayup king alang-alang.",
+          "wordIds": ["anim-ayup"],
+          "accepted": ["the bird flies in the sky", "the bird is flying in the sky"]
+        },
+        {
+          "id": "anim-3-fb1",
+          "type": "fill-blank",
+          "prompt": "Ing ____ lumaluksad king tubig.  (The frog jumps in the water.)",
+          "wordIds": ["anim-tugak"],
+          "answerId": "anim-tugak"
+        },
+        {
+          "id": "anim-3-fb2",
+          "type": "fill-blank",
+          "prompt": "Ing ____ maliksi ya.  (The rat is quick.)",
+          "wordIds": ["anim-dagis"],
+          "answerId": "anim-dagis"
+        },
+        {
+          "id": "anim-3-ma1",
+          "type": "matching",
+          "wordIds": ["anim-ayup", "anim-tugak", "anim-ubingan", "anim-dagis"],
+          "pairs": [
+            {"wordId": "anim-ayup"},
+            {"wordId": "anim-tugak"},
+            {"wordId": "anim-ubingan"},
+            {"wordId": "anim-dagis"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anim-4",
+      "title": "Insects: Biters & Fliers",
+      "theme": "mosquito, ant, butterfly, and spider",
+      "intro": "Kapampangan has unique native words for insects. 'Yamuk' is mosquito, 'panas' is ant, 'talubang' is the native Kapampangan word for butterfly (not the Tagalog paruparo), and 'babagwa' is spider.",
+      "wordIds": ["anim-yamuk", "anim-panas", "anim-talubang", "anim-babagwa"],
+      "exercises": [
+        {
+          "id": "anim-4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"yamuk\" mean?",
+          "wordIds": ["anim-yamuk"],
+          "answerId": "anim-yamuk"
+        },
+        {
+          "id": "anim-4-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"talubang\" mean?",
+          "wordIds": ["anim-talubang"],
+          "answerId": "anim-talubang"
+        },
+        {
+          "id": "anim-4-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"babagwa\" mean?",
+          "wordIds": ["anim-babagwa"],
+          "answerId": "anim-babagwa"
+        },
+        {
+          "id": "anim-4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mabangis ya ing yamuk king bengi.",
+          "wordIds": ["anim-yamuk"],
+          "accepted": ["mosquitoes are fierce at night", "the mosquito is fierce at night", "mosquitoes are bad at night"]
+        },
+        {
+          "id": "anim-4-fb1",
+          "type": "fill-blank",
+          "prompt": "Dakal yang ____ king balat ning kekan.  (There are many ants on the food.)",
+          "wordIds": ["anim-panas"],
+          "answerId": "anim-panas"
+        },
+        {
+          "id": "anim-4-fb2",
+          "type": "fill-blank",
+          "prompt": "Ing ____ gumawa ya ning gawa na.  (The spider makes its web.)",
+          "wordIds": ["anim-babagwa"],
+          "answerId": "anim-babagwa"
+        },
+        {
+          "id": "anim-4-ma1",
+          "type": "matching",
+          "wordIds": ["anim-yamuk", "anim-panas", "anim-talubang", "anim-babagwa"],
+          "pairs": [
+            {"wordId": "anim-yamuk"},
+            {"wordId": "anim-panas"},
+            {"wordId": "anim-talubang"},
+            {"wordId": "anim-babagwa"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anim-5",
+      "title": "Insects in General",
+      "theme": "insects and the mole cricket",
+      "intro": "In Kapampangan, insects as a group are called 'ayup-ayupan' — a reduplication of 'ayup' (bird) referring to all small flying and crawling creatures. The 'kamaru' (mole cricket) is especially famous as a Kapampangan culinary delicacy.",
+      "wordIds": ["anim-ayupayupan", "anim-kamaru"],
+      "exercises": [
+        {
+          "id": "anim-5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"ayup-ayupan\" mean?",
+          "wordIds": ["anim-ayupayupan"],
+          "answerId": "anim-ayupayupan"
+        },
+        {
+          "id": "anim-5-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kamaru\" mean?",
+          "wordIds": ["anim-kamaru"],
+          "answerId": "anim-kamaru"
+        },
+        {
+          "id": "anim-5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Dakal yang ayup-ayupan king damu.",
+          "wordIds": ["anim-ayupayupan"],
+          "accepted": ["there are many insects in the grass", "there are many bugs in the grass"]
+        },
+        {
+          "id": "anim-5-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ing kamaru manyaman ya lutuan.",
+          "wordIds": ["anim-kamaru"],
+          "accepted": ["the mole cricket is delicious when cooked", "the mole cricket is delicious to cook", "mole cricket is delicious when cooked"]
+        },
+        {
+          "id": "anim-5-fb1",
+          "type": "fill-blank",
+          "prompt": "Ing ____ mapandaig la king bengi.  (The insects come out at night.)",
+          "wordIds": ["anim-ayupayupan"],
+          "answerId": "anim-ayupayupan"
+        },
+        {
+          "id": "anim-5-fb2",
+          "type": "fill-blank",
+          "prompt": "Makulit ya ing ____ king bengi.  (The mole cricket is noisy at night.)",
+          "wordIds": ["anim-kamaru"],
+          "answerId": "anim-kamaru"
+        },
+        {
+          "id": "anim-5-ma1",
+          "type": "matching",
+          "wordIds": ["anim-ayupayupan", "anim-kamaru"],
+          "pairs": [
+            {"wordId": "anim-ayupayupan"},
+            {"wordId": "anim-kamaru"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anim-6",
+      "title": "Animals All Around",
+      "theme": "review of all animals",
+      "intro": "Let's bring it all together! From the loyal 'asu' (dog) to the feared 'ubingan' (snake), and from the farm 'damulag' (carabao) to the tiny 'yamuk' (mosquito), Kapampangan has a rich vocabulary for the animal world.",
+      "wordIds": ["anim-asu", "anim-pusa", "anim-ayup", "anim-babi", "anim-damulag", "anim-baka", "anim-kabayu", "anim-kambing", "anim-dagis", "anim-panas", "anim-ubingan", "anim-tugak", "anim-talubang", "anim-yamuk", "anim-bibi", "anim-babagwa", "anim-ayupayupan", "anim-kamaru"],
+      "exercises": [
+        {
+          "id": "anim-6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"damulag\" mean?",
+          "wordIds": ["anim-damulag"],
+          "answerId": "anim-damulag"
+        },
+        {
+          "id": "anim-6-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"tugak\" mean?",
+          "wordIds": ["anim-tugak"],
+          "answerId": "anim-tugak"
+        },
+        {
+          "id": "anim-6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ing babagwa gumawa ya ning gawa na.",
+          "wordIds": ["anim-babagwa"],
+          "accepted": ["the spider makes its web", "the spider is making its web"]
+        },
+        {
+          "id": "anim-6-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ing kambing makmak ya ning damu.",
+          "wordIds": ["anim-kambing"],
+          "accepted": ["the goat eats grass", "the goat is eating grass"]
+        },
+        {
+          "id": "anim-6-fb1",
+          "type": "fill-blank",
+          "prompt": "Ing ____ lumaluksad king tubig.  (The frog jumps in the water.)",
+          "wordIds": ["anim-tugak"],
+          "answerId": "anim-tugak"
+        },
+        {
+          "id": "anim-6-fb2",
+          "type": "fill-blank",
+          "prompt": "Malipad ya ing ____ king alang-alang.  (The bird flies in the sky.)",
+          "wordIds": ["anim-ayup"],
+          "answerId": "anim-ayup"
+        },
+        {
+          "id": "anim-6-ma1",
+          "type": "matching",
+          "wordIds": ["anim-asu", "anim-baka", "anim-talubang", "anim-yamuk", "anim-kamaru"],
+          "pairs": [
+            {"wordId": "anim-asu"},
+            {"wordId": "anim-baka"},
+            {"wordId": "anim-talubang"},
+            {"wordId": "anim-yamuk"},
+            {"wordId": "anim-kamaru"}
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://pdfcoffee.com/common-kapampangan-words-amp-phrasesdocx-pdf-free.html",
+    "https://idoc.pub/documents/common-kapampangan-words-phrasesdocx-vlr9gpp65jlz",
+    "https://en.wiktionary.org/wiki/ayup",
+    "https://en.wiktionary.org/wiki/damulag",
+    "https://en.wikibooks.org/wiki/Kapampangan/Nouns",
+    "https://www.bigwas.com/2023/03/ebunayup.html",
+    "https://www.tagaloglang.com/kapampangan-dictionary/",
+    "https://groups.google.com/g/alt.language.kapampangan/c/PIpUQV9kMGw",
+    "http://kaplistorian.blogspot.com/2016/08/10-23-names-of-common-and-not-so-common.html",
+    "https://archive.org/stream/aaw9129.0001.001.umich.edu/aaw9129.0001.001.umich.edu_djvu.txt",
+    "https://www.researchgate.net/publication/387682150_The_Changing_Landscape_of_Kapampangan_Vocabularies_A_Diachronic_Analysis",
+    "https://sinukwan.wordpress.com/10-salitang-kapampangan/"
+  ],
+  "confidenceNotes": "HIGH CONFIDENCE: asu (dog), pusa (cat), babi (pig), baka (cow), damulag (carabao), bibi (duck) — attested in Wikibooks, multiple vocabulary guides, and the Vocabulario Pampango-Tagalog-Ingles. kabayu (horse) — attested in Wikibooks Kapampangan/Nouns in the sentence 'Ing asu, ing pusa, ampon ing kabayu mikakaluguran la'; Spanish loanword from 'caballo'. ayup (bird) — confirmed in Wiktionary with dual meaning bird/animal; bigwas.com states the primary modern meaning is bird. kambing (goat) — attested in Wiktionary from Proto-Malayo-Polynesian root; shared with Tagalog. dagis (mouse/rat) — attested in multiple independent word lists. panas (ant) — attested in the Google Groups Kapampangan linguistics thread as a 'familiar term'. babagwa (spider) — attested in the Google Groups discussion. yamuk (mosquito) — attested on tagaloglang.com and in the Google Groups thread; also spelled 'amuk'. tugak (frog) — confirmed in multiple sources as Kapampangan frog term distinct from Tagalog 'palaka'. talubang (butterfly) — attested in the Kapampangan Listorian insect article as the native Kapampangan term for butterfly, distinct from Tagalog paruparo. ubingan (snake) — attested in Bergano's classical dictionary; the phrase 'Ing ubingan atneng catapang' is documented in the diachronic analysis study. ayup-ayupan (insects) — documented in bigwas.com: 'Insects are called ayup-ayupan in Pampanga.' kamaru (mole cricket) — well-attested in the Kapampangan Listorian insect article and multiple food/culture sources as the iconic Kapampangan mole cricket delicacy. EXCLUDED due to insufficient Kapampangan-specific attestation or avoid-list conflicts: 'paru-paru' (Tagalog butterfly term, not native Kapampangan); 'ahas' (Tagalog snake, less attested in Kapampangan); 'daga' (Tagalog rat — Kapampangan form is dagis)."
+}
