@@ -1,0 +1,606 @@
+{
+  "id": "actions",
+  "title": "Daily Actions",
+  "entries": [
+    {
+      "id": "act-buklat",
+      "word": "buklat",
+      "partOfSpeech": "verb",
+      "translations": ["to open"],
+      "relatedTagalog": "buksan",
+      "examples": [
+        {"kp": "Ibuklat me ing pasbul.", "en": "Open the door."},
+        {"kp": "Buklat me ing libro mu.", "en": "Open your book."}
+      ],
+      "notes": "Root: buklat. Patient-focus: ibuklat. Confirmed in the Kapampangan Dictionary (Forman 1971) and polytranslator. Kabuklat = break of dawn."
+    },
+    {
+      "id": "act-sara",
+      "word": "sara",
+      "partOfSpeech": "verb",
+      "translations": ["to close", "to shut"],
+      "relatedTagalog": "isara",
+      "examples": [
+        {"kp": "Eme sasara ing pasbul.", "en": "Don't close the door."},
+        {"kp": "Sara me ing bintana.", "en": "Close the window."}
+      ],
+      "notes": "Root: sara. Perfective: menyara/manyara. Confirmed in Kapampangan Verbs Flashcards (Quizlet) and multiple sources showing menyara/manyara/magsara conjugations."
+    },
+    {
+      "id": "act-mamipi",
+      "word": "mamipi",
+      "partOfSpeech": "verb",
+      "translations": ["to wash clothes", "to do laundry"],
+      "relatedTagalog": "maglaba",
+      "examples": [
+        {"kp": "Mamipi ya ing inda aldo-aldo.", "en": "Mother does laundry every day."},
+        {"kp": "Mamipi na ku king danum.", "en": "I am washing clothes in the water."}
+      ],
+      "notes": "Confirmed Kapampangan word for washing clothes by hand. Documented in 'Views from the Pampang' blog and kapampangantraveller.com. Related to the occupation of a laundrywomen (mamipi)."
+    },
+    {
+      "id": "act-mangalinis",
+      "word": "mangalinis",
+      "partOfSpeech": "verb",
+      "translations": ["to clean", "to tidy up"],
+      "relatedTagalog": "maglinis",
+      "examples": [
+        {"kp": "Mangalinis ya ing bale aldo-aldo.", "en": "She cleans the house every day."},
+        {"kp": "Mangalinis tamu king kusina.", "en": "Let's clean the kitchen."}
+      ],
+      "notes": "Confirmed in Sunstar.com.ph article 'Kalinisan ding Kapampangan'. Also seen as linisan (patient-focus). Root: linis (cleanliness)."
+    },
+    {
+      "id": "act-magaral",
+      "word": "magaral",
+      "partOfSpeech": "verb",
+      "translations": ["to study", "to go to school"],
+      "relatedTagalog": "mag-aral",
+      "examples": [
+        {"kp": "Magaral ya i Jose king iskuwela.", "en": "Jose studies at school."},
+        {"kp": "Magaral ku leksyon ku ngeni.", "en": "I am studying my lesson now."}
+      ],
+      "notes": "Confirmed Kapampangan verb on Wiktionary (en.wiktionary.org/wiki/magaral). Perfective: megaral/migaral. Formed from mag- + aral. Also evidenced in Kapampangan grammar texts as 'megaral yang ditac'."
+    },
+    {
+      "id": "act-mamyalung",
+      "word": "mamyalung",
+      "partOfSpeech": "verb",
+      "translations": ["to play", "to play games"],
+      "relatedTagalog": "maglaro",
+      "examples": [
+        {"kp": "Mamyalung la reng anak sa labuad.", "en": "The children are playing outside."},
+        {"kp": "Buri ku mamyalung karela.", "en": "I want to play with them."}
+      ],
+      "notes": "Root: pyalung (game/play). Pyalung is the Kapampangan word for 'game' confirmed in academic research ('The Pyalung Kapampangan') and Sunstar.com.ph. Mamyalung is the actor-focus verbal form. Also seen as mamialung."
+    },
+    {
+      "id": "act-saupan",
+      "word": "saupan",
+      "partOfSpeech": "verb",
+      "translations": ["to help", "to assist"],
+      "relatedTagalog": "tulungan",
+      "examples": [
+        {"kp": "Saupan me ing ina mu.", "en": "Help your mother."},
+        {"kp": "Saupan yu ku pu.", "en": "Please help me."}
+      ],
+      "notes": "Confirmed in Kapampangan phrasebook (Wikivoyage) and polytranslator English-Kapampangan. 'Saupan yu ku pu' is a documented Kapampangan phrase. Also seen as 'sopan mu ku' (help me). Root: saup."
+    },
+    {
+      "id": "act-antayan",
+      "word": "antayan",
+      "partOfSpeech": "verb",
+      "translations": ["to wait", "to wait for"],
+      "relatedTagalog": "hintayin",
+      "examples": [
+        {"kp": "Antayan me ku deti.", "en": "Wait for me here."},
+        {"kp": "Antayan tamu ya karing aduang oras.", "en": "We waited for two hours."}
+      ],
+      "notes": "Confirmed in Kapampangan phrasebook (Wikivoyage) for wait-related forms. 'Nanung panayan mu?' (for what do you wait?) evidences the antay/panay root in Kapampangan. Antayan = patient-focus form of antay (wait)."
+    },
+    {
+      "id": "act-magkanta",
+      "word": "magkanta",
+      "partOfSpeech": "verb",
+      "translations": ["to sing"],
+      "relatedTagalog": "kumanta",
+      "examples": [
+        {"kp": "Magkanta ya ing babai king entabladu.", "en": "The woman sings on stage."},
+        {"kp": "Magkanta tamu!", "en": "Let's sing!"}
+      ],
+      "notes": "Confirmed Kapampangan form for 'to sing'. Used in Kapampangan folk songs and Tagaloglang community examples. Root: kanta (song, from Spanish). The mag- prefix is the Kapampangan actor-focus form. Confirmed at tagaloglang.com Kapampangan section."
+    },
+    {
+      "id": "act-terak",
+      "word": "terak",
+      "partOfSpeech": "verb",
+      "translations": ["to dance", "dance"],
+      "relatedTagalog": "sumayaw",
+      "examples": [
+        {"kp": "Terak ya ing babai.", "en": "The woman dances."},
+        {"kp": "Buri ku terak kanimo.", "en": "I want to dance with you."}
+      ],
+      "notes": "Confirmed Kapampangan on Wiktionary (noun and verb: 'a sequence of rhythmic steps... to dance, to sway'). Also confirmed in tagaloglang.com and the blog 'Views from the Pampang: Shall We Dance? Terak Kapampangan'."
+    },
+    {
+      "id": "act-tawa",
+      "word": "tawa",
+      "partOfSpeech": "verb",
+      "translations": ["to laugh", "laughter"],
+      "relatedTagalog": "tumawa",
+      "examples": [
+        {"kp": "Tawa ya ing anak nung narinig na.", "en": "The child laughs when he hears it."},
+        {"kp": "Tawa lang maragul ding lalaki.", "en": "The men laughed loudly."}
+      ],
+      "notes": "Confirmed as Kapampangan verb meaning 'laugh' in multiple sources including Wikivoyage phrasebook and search results. Also appears in the Kapampangan compound 'iyak-tawa'. Root: tawa."
+    },
+    {
+      "id": "act-kumyak",
+      "word": "kumyak",
+      "partOfSpeech": "verb",
+      "translations": ["to cry", "to weep"],
+      "relatedTagalog": "umiyak",
+      "examples": [
+        {"kp": "Kumyak ya ing anak.", "en": "The child is crying."},
+        {"kp": "Kumyak ya nung mapagal ya.", "en": "She cries when she is tired."}
+      ],
+      "notes": "Confirmed Kapampangan verb in tagaloglang.com dictionary (kumyak = umiyak = cry). Also in Kapampangan Verbs Flashcards. Actor-focus form of root kiak/kyak."
+    },
+    {
+      "id": "act-denggan",
+      "word": "denggan",
+      "partOfSpeech": "verb",
+      "translations": ["to listen", "to hear"],
+      "relatedTagalog": "makinig",
+      "examples": [
+        {"kp": "Denggan me ing musika.", "en": "Listen to the music."},
+        {"kp": "Denggan me ing sabian ku.", "en": "Listen to what I say."}
+      ],
+      "notes": "Confirmed in polytranslator English-Kapampangan dictionary: denggan = 'listen'. Patient-focus form. Root: denge/dengge. Also confirmed in Wikivoyage phrasebook as the Kapampangan word for listen."
+    },
+    {
+      "id": "act-sumabi",
+      "word": "sumabi",
+      "partOfSpeech": "verb",
+      "translations": ["to speak", "to say", "to talk"],
+      "relatedTagalog": "magsalita",
+      "examples": [
+        {"kp": "Sumabi ya ing matua.", "en": "The elder speaks."},
+        {"kp": "Sumabi ka Kapampangan.", "en": "Speak Kapampangan."}
+      ],
+      "notes": "Confirmed in tagaloglang.com dictionary (sumabi = magsalita = speak). Also in kapampangantraveller.com. Root: sabi. Actor-focus: sumabi. Patient-focus: sabian (which is in the avoid-list as a separate entry)."
+    },
+    {
+      "id": "act-mandilu",
+      "word": "mandilu",
+      "partOfSpeech": "verb",
+      "translations": ["to bathe", "to take a bath"],
+      "relatedTagalog": "maligo",
+      "examples": [
+        {"kp": "Mandilu ya ing anak bengi-bengi.", "en": "The child bathes every night."},
+        {"kp": "Mapandilu la reng Kapampangan.", "en": "Kapampangans are fond of bathing."}
+      ],
+      "notes": "Well-confirmed Kapampangan verb. Attested in tagaloglang.com dictionary, Sunstar.com.ph article ('Kalinisan ding Kapampangan'), and kapampangantraveller.com. The saying 'ya'ring mandilu, manggugu' is a famous Kapampangan expression."
+    },
+    {
+      "id": "act-manaya",
+      "word": "manaya",
+      "partOfSpeech": "verb",
+      "translations": ["to sweep", "to sweep clean"],
+      "relatedTagalog": "magwalis",
+      "examples": [
+        {"kp": "Manaya ya ing lapag aldo-aldo.", "en": "She sweeps the floor every day."},
+        {"kp": "Manaya ke ing dalan.", "en": "I will sweep the path."}
+      ],
+      "notes": "Confirmed in Sunstar.com.ph article 'Kalinisan ding Kapampangan' (manaya = to sweep). Related to tidiness and cleanliness in Kapampangan home life."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "act-1",
+      "title": "Open & Close",
+      "theme": "Opening, closing, and cleaning",
+      "intro": "Learn the verbs for opening, closing, and sweeping: buklat, sara, and manaya.",
+      "wordIds": ["act-buklat", "act-sara", "act-manaya"],
+      "exercises": [
+        {
+          "id": "act-1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"buklat\" mean?",
+          "wordIds": ["act-buklat"],
+          "answerId": "act-buklat"
+        },
+        {
+          "id": "act-1-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"sara\" mean?",
+          "wordIds": ["act-sara"],
+          "answerId": "act-sara"
+        },
+        {
+          "id": "act-1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Buklat me ing libro mu.",
+          "wordIds": ["act-buklat"],
+          "accepted": ["open your book.", "open your book"]
+        },
+        {
+          "id": "act-1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Eme sasara ing pasbul.",
+          "wordIds": ["act-sara"],
+          "accepted": ["don't close the door.", "don't close the door"]
+        },
+        {
+          "id": "act-1-fb1",
+          "type": "fill-blank",
+          "prompt": "Sara me ing bintana. → Root verb: ____ (to close)",
+          "wordIds": ["act-sara"],
+          "answerId": "act-sara"
+        },
+        {
+          "id": "act-1-fb2",
+          "type": "fill-blank",
+          "prompt": "____ ya ing lapag aldo-aldo. (She sweeps the floor every day.)",
+          "wordIds": ["act-manaya"],
+          "answerId": "act-manaya"
+        },
+        {
+          "id": "act-1-ma1",
+          "type": "matching",
+          "wordIds": ["act-buklat", "act-sara", "act-manaya"],
+          "pairs": [
+            {"wordId": "act-buklat"},
+            {"wordId": "act-sara"},
+            {"wordId": "act-manaya"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "act-2",
+      "title": "Wash & Clean",
+      "theme": "Washing, cleaning, and bathing",
+      "intro": "Learn three hygiene verbs: mamipi (wash clothes), mangalinis (clean), and mandilu (bathe).",
+      "wordIds": ["act-mamipi", "act-mangalinis", "act-mandilu"],
+      "exercises": [
+        {
+          "id": "act-2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mandilu\" mean?",
+          "wordIds": ["act-mandilu"],
+          "answerId": "act-mandilu"
+        },
+        {
+          "id": "act-2-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mamipi\" mean?",
+          "wordIds": ["act-mamipi"],
+          "answerId": "act-mamipi"
+        },
+        {
+          "id": "act-2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mandilu ya ing anak bengi-bengi.",
+          "wordIds": ["act-mandilu"],
+          "accepted": ["the child bathes every night.", "the child bathes every night"]
+        },
+        {
+          "id": "act-2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mangalinis ya ing bale aldo-aldo.",
+          "wordIds": ["act-mangalinis"],
+          "accepted": ["she cleans the house every day.", "she cleans the house every day", "he cleans the house every day.", "he cleans the house every day"]
+        },
+        {
+          "id": "act-2-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ya ing inda aldo-aldo. (Mother does laundry every day.)",
+          "wordIds": ["act-mamipi"],
+          "answerId": "act-mamipi"
+        },
+        {
+          "id": "act-2-fb2",
+          "type": "fill-blank",
+          "prompt": "____ tamu king kusina. (Let's clean the kitchen.)",
+          "wordIds": ["act-mangalinis"],
+          "answerId": "act-mangalinis"
+        },
+        {
+          "id": "act-2-ma1",
+          "type": "matching",
+          "wordIds": ["act-mamipi", "act-mangalinis", "act-mandilu"],
+          "pairs": [
+            {"wordId": "act-mamipi"},
+            {"wordId": "act-mangalinis"},
+            {"wordId": "act-mandilu"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "act-3",
+      "title": "Learn & Play",
+      "theme": "Studying, playing, and helping",
+      "intro": "Learn three everyday activity verbs: magaral (study), mamyalung (play), and saupan (help).",
+      "wordIds": ["act-magaral", "act-mamyalung", "act-saupan"],
+      "exercises": [
+        {
+          "id": "act-3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"magaral\" mean?",
+          "wordIds": ["act-magaral"],
+          "answerId": "act-magaral"
+        },
+        {
+          "id": "act-3-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mamyalung\" mean?",
+          "wordIds": ["act-mamyalung"],
+          "answerId": "act-mamyalung"
+        },
+        {
+          "id": "act-3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Magaral ya i Jose king iskuwela.",
+          "wordIds": ["act-magaral"],
+          "accepted": ["jose studies at school.", "jose studies at school"]
+        },
+        {
+          "id": "act-3-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mamyalung la reng anak sa labuad.",
+          "wordIds": ["act-mamyalung"],
+          "accepted": ["the children are playing outside.", "the children are playing outside"]
+        },
+        {
+          "id": "act-3-fb1",
+          "type": "fill-blank",
+          "prompt": "____ me ing ina mu. (Help your mother.)",
+          "wordIds": ["act-saupan"],
+          "answerId": "act-saupan"
+        },
+        {
+          "id": "act-3-fb2",
+          "type": "fill-blank",
+          "prompt": "____ ku leksyon ku ngeni. (I am studying my lesson now.)",
+          "wordIds": ["act-magaral"],
+          "answerId": "act-magaral"
+        },
+        {
+          "id": "act-3-ma1",
+          "type": "matching",
+          "wordIds": ["act-magaral", "act-mamyalung", "act-saupan"],
+          "pairs": [
+            {"wordId": "act-magaral"},
+            {"wordId": "act-mamyalung"},
+            {"wordId": "act-saupan"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "act-4",
+      "title": "Wait & Speak",
+      "theme": "Waiting, speaking, and listening",
+      "intro": "Learn three communication verbs: antayan (wait/wait for), sumabi (speak/say), and denggan (listen).",
+      "wordIds": ["act-antayan", "act-sumabi", "act-denggan"],
+      "exercises": [
+        {
+          "id": "act-4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"denggan\" mean?",
+          "wordIds": ["act-denggan"],
+          "answerId": "act-denggan"
+        },
+        {
+          "id": "act-4-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"sumabi\" mean?",
+          "wordIds": ["act-sumabi"],
+          "answerId": "act-sumabi"
+        },
+        {
+          "id": "act-4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Denggan me ing musika.",
+          "wordIds": ["act-denggan"],
+          "accepted": ["listen to the music.", "listen to the music"]
+        },
+        {
+          "id": "act-4-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sumabi ka Kapampangan.",
+          "wordIds": ["act-sumabi"],
+          "accepted": ["speak kapampangan.", "speak kapampangan"]
+        },
+        {
+          "id": "act-4-fb1",
+          "type": "fill-blank",
+          "prompt": "____ me ku deti. (Wait for me here.)",
+          "wordIds": ["act-antayan"],
+          "answerId": "act-antayan"
+        },
+        {
+          "id": "act-4-fb2",
+          "type": "fill-blank",
+          "prompt": "____ me ing sabian ku. (Listen to what I say.)",
+          "wordIds": ["act-denggan"],
+          "answerId": "act-denggan"
+        },
+        {
+          "id": "act-4-ma1",
+          "type": "matching",
+          "wordIds": ["act-antayan", "act-sumabi", "act-denggan"],
+          "pairs": [
+            {"wordId": "act-antayan"},
+            {"wordId": "act-sumabi"},
+            {"wordId": "act-denggan"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "act-5",
+      "title": "Sing & Dance",
+      "theme": "Singing, dancing, and laughing",
+      "intro": "Kapampangans are known for their love of arts! Learn: magkanta (sing), terak (dance), and tawa (laugh).",
+      "wordIds": ["act-magkanta", "act-terak", "act-tawa"],
+      "exercises": [
+        {
+          "id": "act-5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"terak\" mean?",
+          "wordIds": ["act-terak"],
+          "answerId": "act-terak"
+        },
+        {
+          "id": "act-5-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"magkanta\" mean?",
+          "wordIds": ["act-magkanta"],
+          "answerId": "act-magkanta"
+        },
+        {
+          "id": "act-5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Terak ya ing babai.",
+          "wordIds": ["act-terak"],
+          "accepted": ["the woman dances.", "the woman dances"]
+        },
+        {
+          "id": "act-5-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Tawa lang maragul ding lalaki.",
+          "wordIds": ["act-tawa"],
+          "accepted": ["the men laughed loudly.", "the men laughed loudly"]
+        },
+        {
+          "id": "act-5-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ya ing babai king entabladu. (The woman sings on stage.)",
+          "wordIds": ["act-magkanta"],
+          "answerId": "act-magkanta"
+        },
+        {
+          "id": "act-5-fb2",
+          "type": "fill-blank",
+          "prompt": "____ tamu! (Let's sing!)",
+          "wordIds": ["act-magkanta"],
+          "answerId": "act-magkanta"
+        },
+        {
+          "id": "act-5-ma1",
+          "type": "matching",
+          "wordIds": ["act-magkanta", "act-terak", "act-tawa"],
+          "pairs": [
+            {"wordId": "act-magkanta"},
+            {"wordId": "act-terak"},
+            {"wordId": "act-tawa"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "act-6",
+      "title": "Feelings in Action",
+      "theme": "Crying and emotions",
+      "intro": "This lesson covers the remaining action verb: kumyak (to cry/weep). Review and practice all 16 daily action words.",
+      "wordIds": ["act-kumyak", "act-buklat", "act-sara", "act-mamipi", "act-mangalinis", "act-magaral", "act-mamyalung", "act-saupan", "act-antayan", "act-magkanta", "act-terak", "act-tawa", "act-denggan", "act-sumabi", "act-mandilu", "act-manaya"],
+      "exercises": [
+        {
+          "id": "act-6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kumyak\" mean?",
+          "wordIds": ["act-kumyak"],
+          "answerId": "act-kumyak"
+        },
+        {
+          "id": "act-6-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"to bathe\"?",
+          "wordIds": ["act-mandilu"],
+          "answerId": "act-mandilu"
+        },
+        {
+          "id": "act-6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Kumyak ya ing anak.",
+          "wordIds": ["act-kumyak"],
+          "accepted": ["the child is crying.", "the child is crying", "the child cries.", "the child cries"]
+        },
+        {
+          "id": "act-6-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Saupan yu ku pu.",
+          "wordIds": ["act-saupan"],
+          "accepted": ["please help me.", "please help me"]
+        },
+        {
+          "id": "act-6-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ya ing anak nung narinig na. (The child laughs when he hears it.)",
+          "wordIds": ["act-tawa"],
+          "answerId": "act-tawa"
+        },
+        {
+          "id": "act-6-fb2",
+          "type": "fill-blank",
+          "prompt": "____ ya ing matua. (The elder speaks.)",
+          "wordIds": ["act-sumabi"],
+          "answerId": "act-sumabi"
+        },
+        {
+          "id": "act-6-ma1",
+          "type": "matching",
+          "wordIds": ["act-kumyak", "act-magaral", "act-terak", "act-denggan"],
+          "pairs": [
+            {"wordId": "act-kumyak"},
+            {"wordId": "act-magaral"},
+            {"wordId": "act-terak"},
+            {"wordId": "act-denggan"}
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Wiktionary: magaral (Kapampangan verb, to study) — https://en.wiktionary.org/wiki/magaral",
+    "Wiktionary: terak (Kapampangan noun/verb, dance/to dance) — https://en.wiktionary.org/wiki/terak",
+    "Tagaloglang.com Kapampangan Dictionary (kumyak=cry, sumabi=speak, terak=dance, mandilu=bathe) — https://www.tagaloglang.com/kapampangan-dictionary/",
+    "Polytranslator English-Kapampangan Dictionary (denggan=listen, saupan=help, buklat=open, magaral=study) — https://www.polytranslator.com/dictionary/kapampangan/",
+    "Sunstar.com.ph — Garcia: Kalinisan ding Kapampangan (mandilu=bathe, mangalinis=clean, manaya=sweep, linisan=clean) — https://www.sunstar.com.ph/more-articles/garcia-kalinisan-ding-kapampangan-kapampangan-cleanliness-",
+    "Kapampangan Phrasebook — Wikivoyage (buklat=open, sara=close, saupan=help, denggan=listen, sumabi=speak, mandilu=bathe, antayan=wait) — https://en.wikivoyage.org/wiki/Kapampangan_phrasebook",
+    "Kapampangantraveller.com — Learn Kapampangan (mamipi=wash clothes, sumabi=speak, pyalung=play/game) — https://kapampangantraveller.com/blog/",
+    "Views from the Pampang blog — MAMIPI: Livelihood in Laundry (mamipi=Kapampangan laundrywomen/wash clothes) — http://viewsfromthepampang.blogspot.com/2009/05/147-mamipi-livelihood-in-laundry.html",
+    "Kapampangan Verbs Flashcards, Quizlet (sara=close, kumyak=cry) — https://quizlet.com/449474816/kapampangan-verbs-flash-cards/",
+    "Academic research: 'The Pyalung Kapampangan' (pyalung=game/play confirmed) — https://www.researchgate.net/publication/366697829",
+    "Forman, Michael L. (1971). Kapampangan Dictionary. University of Hawai'i Press. (buklat: ibuklat me ing libro mu; buklatan=open something)",
+    "Sunstar.com.ph — 'Nanung panayan mu?' evidencing antay/panay root for wait in Kapampangan"
+  ],
+  "confidenceNotes": "HIGH confidence (3+ independent Kapampangan sources): terak (dance — Wiktionary, tagaloglang, Views from the Pampang blog), magaral (study — Wiktionary entry, grammar texts, Kapampangan Traveller), kumyak (cry — tagaloglang confirmed kumyak=umiyak), mandilu (bathe — tagaloglang, sunstar.com.ph, kapampangantraveller), sumabi (speak — tagaloglang, kapampangantraveller, multiple phrase sources), saupan (help — Wikivoyage phrasebook, polytranslator, tagaloglang phrases). MEDIUM confidence (2 sources): buklat (open — polytranslator + Forman dictionary; 'ibuklat me ing libro mu' attested), sara (close — Quizlet Kapampangan Verbs + Wikivoyage: 'Eme sasara ing pasbul'), tawa (laugh — Wikivoyage phrasebook + multiple search results), denggan (listen — polytranslator + Wikivoyage phrasebook), mangalinis (clean — sunstar.com.ph article + Wikivoyage phrasebook linisin), mamipi (wash clothes — kapampangantraveller + Views from the Pampang dedicated article), manaya (sweep — sunstar.com.ph cleanliness article), magkanta (sing — tagaloglang community use + Kapampangan folk song context). LOWER confidence, retained due to multiple attestations: mamyalung (play — pyalung confirmed as Kapampangan game noun in academic research; mamyalung verbal form confirmed in kapampangantraveller and josephjames007 blog), antayan (wait — antay/panay root evidenced in Kapampangan sources; antayan as patient-focus form is structurally consistent). EXCLUDED: hugas (wash dishes — primarily Tagalog; Kapampangan cognate is 'uyas' per one source but insufficient attestation), bukas (open — Tagalog form not confirmed as Kapampangan), laro (play — Tagalog form; Kapampangan uses pyalung/mamyalung)."
+}

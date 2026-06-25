@@ -1,0 +1,868 @@
+{
+  "id": "money",
+  "title": "Money & Market",
+  "entries": [
+    {
+      "id": "mkt-pera",
+      "word": "Pera",
+      "partOfSpeech": "noun",
+      "translations": [
+        "money",
+        "cash"
+      ],
+      "relatedTagalog": "pera",
+      "examples": [
+        {
+          "kp": "Malyari mu lang palitan dening pera ku?",
+          "en": "Can you exchange my money?"
+        },
+        {
+          "kp": "Wala kung pera ngeni.",
+          "en": "I have no money today."
+        }
+      ],
+      "notes": "From Spanish 'pera' (pear-shaped coin). Used interchangeably with kwalta in everyday speech."
+    },
+    {
+      "id": "mkt-kwalta",
+      "word": "Kwalta",
+      "partOfSpeech": "noun",
+      "translations": [
+        "money",
+        "funds"
+      ],
+      "relatedTagalog": "kuwarta",
+      "examples": [
+        {
+          "kp": "Atin ku kwalta para seli.",
+          "en": "I have money to buy things."
+        },
+        {
+          "kp": "Wari kwalta na.",
+          "en": "The money is gone."
+        }
+      ],
+      "notes": "From Spanish 'cuarta' (an old coin denomination). A common Kapampangan term for money alongside pera."
+    },
+    {
+      "id": "mkt-presyu",
+      "word": "Presyu",
+      "partOfSpeech": "noun",
+      "translations": [
+        "price",
+        "cost"
+      ],
+      "relatedTagalog": "presyo",
+      "examples": [
+        {
+          "kp": "Magkanu ing presyu na?",
+          "en": "What is the price of that?"
+        },
+        {
+          "kp": "Matas ya ing presyu ning gulay ngeni.",
+          "en": "The price of vegetables is high today."
+        }
+      ],
+      "notes": "From Spanish 'precio'. Used in market and shopping contexts."
+    },
+    {
+      "id": "mkt-manyad",
+      "word": "Manyad",
+      "partOfSpeech": "verb",
+      "translations": [
+        "to pay"
+      ],
+      "relatedTagalog": "magbayad",
+      "examples": [
+        {
+          "kp": "Malyari ku pung manyad?",
+          "en": "May I pay now?"
+        },
+        {
+          "kp": "Manyad na ku king tindahan.",
+          "en": "I will pay at the store."
+        }
+      ],
+      "notes": "Active form of the verb to pay. Related noun form: bayad (payment)."
+    },
+    {
+      "id": "mkt-bayad",
+      "word": "Bayad",
+      "partOfSpeech": "noun",
+      "translations": [
+        "payment",
+        "fee",
+        "charge"
+      ],
+      "relatedTagalog": "bayad",
+      "examples": [
+        {
+          "kp": "Nanu ing bayad para keni?",
+          "en": "What is the payment for this?"
+        },
+        {
+          "kp": "Binayad ku na ing bayad ku.",
+          "en": "I already paid my fee."
+        }
+      ],
+      "notes": "Root noun from which manyad (to pay) derives. Widely shared across Philippine languages."
+    },
+    {
+      "id": "mkt-mal",
+      "word": "Mal",
+      "partOfSpeech": "adjective",
+      "translations": [
+        "expensive",
+        "costly"
+      ],
+      "relatedTagalog": "mahal",
+      "examples": [
+        {
+          "kp": "Mal ya masyadu iti.",
+          "en": "This is too expensive."
+        },
+        {
+          "kp": "Mal ya ing manuk king palengke ngeni.",
+          "en": "Chicken is expensive at the market today."
+        }
+      ],
+      "notes": "Cognate of Tagalog 'mahal' (expensive). Borrowed from Malay 'mahal', itself from Sanskrit. Used as 'Mal ya' (it is expensive)."
+    },
+    {
+      "id": "mkt-mura",
+      "word": "Mura",
+      "partOfSpeech": "adjective",
+      "translations": [
+        "cheap",
+        "inexpensive",
+        "affordable"
+      ],
+      "relatedTagalog": "mura",
+      "examples": [
+        {
+          "kp": "Múra ya ing gulay keni.",
+          "en": "The vegetables here are cheap."
+        },
+        {
+          "kp": "Buri ku ing mura a presyu.",
+          "en": "I want a cheap price."
+        }
+      ],
+      "notes": "Antonym of mal (expensive). Used as 'Mura ya' (it is cheap). Shared across Philippine languages."
+    },
+    {
+      "id": "mkt-tindahan",
+      "word": "Tindahan",
+      "partOfSpeech": "noun",
+      "translations": [
+        "store",
+        "shop"
+      ],
+      "relatedTagalog": "tindahan",
+      "examples": [
+        {
+          "kp": "Bisa kung munta king tindahan.",
+          "en": "I want to go to the store."
+        },
+        {
+          "kp": "Atin tindahan e malapit keni.",
+          "en": "There is a store near here."
+        }
+      ],
+      "notes": "From Spanish 'tienda'. Common word for any retail shop or store."
+    },
+    {
+      "id": "mkt-sinsilyo",
+      "word": "Sinsilyo",
+      "partOfSpeech": "noun",
+      "translations": [
+        "coins",
+        "loose change",
+        "small change"
+      ],
+      "relatedTagalog": "barya / sinsilyo",
+      "examples": [
+        {
+          "kp": "Atin ka sinsilyo?",
+          "en": "Do you have change/coins?"
+        },
+        {
+          "kp": "Binie na raku sinsilyo.",
+          "en": "They gave me coins as change."
+        }
+      ],
+      "notes": "From Spanish 'sencillo' (simple/small). Used for coins or small change in transactions."
+    },
+    {
+      "id": "mkt-mayaman",
+      "word": "Mayaman",
+      "partOfSpeech": "adjective",
+      "translations": [
+        "rich",
+        "wealthy"
+      ],
+      "relatedTagalog": "mayaman",
+      "examples": [
+        {
+          "kp": "Mayaman ya ing tau a ita.",
+          "en": "That person is rich."
+        },
+        {
+          "kp": "Buri ku ing maging mayaman.",
+          "en": "I want to become wealthy."
+        }
+      ],
+      "notes": "Shared across Kapampangan, Tagalog, and other Philippine languages. Antonym: dukha (poor)."
+    },
+    {
+      "id": "mkt-dukha",
+      "word": "Dukha",
+      "partOfSpeech": "adjective",
+      "translations": [
+        "poor",
+        "impoverished",
+        "destitute"
+      ],
+      "relatedTagalog": "dukha",
+      "examples": [
+        {
+          "kp": "Dukha ya pero masaya ya.",
+          "en": "He is poor but happy."
+        },
+        {
+          "kp": "E tamu dapat magpakalugud king dukha.",
+          "en": "We should not look down on the poor."
+        }
+      ],
+      "notes": "From Sanskrit via Malay. Shared across Philippine languages. Antonym: mayaman (rich)."
+    },
+    {
+      "id": "mkt-libre",
+      "word": "Libre",
+      "partOfSpeech": "adjective",
+      "translations": [
+        "free",
+        "no charge",
+        "complimentary"
+      ],
+      "relatedTagalog": "libre",
+      "examples": [
+        {
+          "kp": "Libre ya iti, e ka magbayad.",
+          "en": "This is free, you do not need to pay."
+        },
+        {
+          "kp": "Atin libre a pagkain kareng anak.",
+          "en": "There is free food for the children."
+        }
+      ],
+      "notes": "From Spanish 'libre' (free). Used to indicate no cost or complimentary items."
+    },
+    {
+      "id": "mkt-diskwento",
+      "word": "Diskwento",
+      "partOfSpeech": "noun",
+      "translations": [
+        "discount",
+        "price reduction",
+        "markdown"
+      ],
+      "relatedTagalog": "diskwento",
+      "examples": [
+        {
+          "kp": "Atin kayu diskwento para keni?",
+          "en": "Do you have a discount for this?"
+        },
+        {
+          "kp": "Dakul diskwento king tindahan ngeni.",
+          "en": "There are many discounts at the store today."
+        }
+      ],
+      "notes": "From Spanish 'descuento'. Used in shopping contexts when asking for or offering price reductions."
+    },
+    {
+      "id": "mkt-tindero",
+      "word": "Tindero",
+      "partOfSpeech": "noun",
+      "translations": [
+        "vendor",
+        "seller",
+        "shopkeeper"
+      ],
+      "relatedTagalog": "tindero",
+      "examples": [
+        {
+          "kp": "Ing tindero king palengke mayap ya.",
+          "en": "The vendor at the market is kind."
+        },
+        {
+          "kp": "Nanung tindero ing magbebenta ning manuk?",
+          "en": "Which vendor sells chicken?"
+        }
+      ],
+      "notes": "From Spanish 'tendero'. Female form: tindera. Used for market vendors and shop owners."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "mkt-1",
+      "title": "Money Talk",
+      "theme": "Basic money vocabulary",
+      "intro": "Learn the core words for money in Kapampangan. Two common words — pera and kwalta — both mean money and are used interchangeably.",
+      "wordIds": [
+        "mkt-pera",
+        "mkt-kwalta",
+        "mkt-sinsilyo"
+      ],
+      "exercises": [
+        {
+          "id": "mkt-ex-1a",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "How do you say 'money' in Kapampangan?",
+          "wordIds": [
+            "mkt-pera"
+          ],
+          "answerId": "mkt-pera"
+        },
+        {
+          "id": "mkt-ex-1b",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'Kwalta' mean?",
+          "wordIds": [
+            "mkt-kwalta"
+          ],
+          "answerId": "mkt-kwalta"
+        },
+        {
+          "id": "mkt-ex-1c",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'Sinsilyo' mean?",
+          "wordIds": [
+            "mkt-sinsilyo"
+          ],
+          "answerId": "mkt-sinsilyo"
+        },
+        {
+          "id": "mkt-ex-1d",
+          "type": "translate",
+          "direction": "en-to-kp",
+          "prompt": "Do you have change/coins?",
+          "wordIds": [
+            "mkt-sinsilyo"
+          ],
+          "accepted": [
+            "Atin ka sinsilyo?"
+          ]
+        },
+        {
+          "id": "mkt-ex-1e",
+          "type": "fill-blank",
+          "prompt": "Malyari mu lang palitan dening ____ ku? (Can you exchange my money?)",
+          "wordIds": [
+            "mkt-pera"
+          ],
+          "answerId": "mkt-pera"
+        },
+        {
+          "id": "mkt-ex-1f",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin ku kwalta para seli.",
+          "wordIds": [
+            "mkt-kwalta"
+          ],
+          "accepted": [
+            "I have money to buy things.",
+            "I have money to buy."
+          ]
+        },
+        {
+          "id": "mkt-ex-1g",
+          "type": "matching",
+          "wordIds": [
+            "mkt-pera",
+            "mkt-kwalta",
+            "mkt-sinsilyo"
+          ],
+          "pairs": [
+            {
+              "wordId": "mkt-pera"
+            },
+            {
+              "wordId": "mkt-kwalta"
+            },
+            {
+              "wordId": "mkt-sinsilyo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkt-2",
+      "title": "Asking Prices",
+      "theme": "Price and cost",
+      "intro": "In the market, you need to know how to ask about prices. 'Magkanu?' is the essential question — it means 'How much?' Learn it alongside presyu (price).",
+      "wordIds": [
+        "mkt-presyu"
+      ],
+      "exercises": [
+        {
+          "id": "mkt-ex-2b",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'Presyu' mean?",
+          "wordIds": [
+            "mkt-presyu"
+          ],
+          "answerId": "mkt-presyu"
+        },
+        {
+          "id": "mkt-ex-2c",
+          "type": "translate",
+          "direction": "en-to-kp",
+          "prompt": "How much is this, please?",
+          "wordIds": [],
+          "accepted": [
+            "Magkanu pu kanini?",
+            "Magkanu kanini?"
+          ]
+        },
+        {
+          "id": "mkt-ex-2d",
+          "type": "fill-blank",
+          "prompt": "Magkanu ing ____ na? (What is the price of that?)",
+          "wordIds": [
+            "mkt-presyu"
+          ],
+          "answerId": "mkt-presyu"
+        },
+        {
+          "id": "mkt-ex-2e",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Magkanu ya ing metung a tinape?",
+          "wordIds": [],
+          "accepted": [
+            "How much is one bread?",
+            "How much is a bread?"
+          ]
+        },
+        {
+          "id": "mkt-ex-2f",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Matas ya ing presyu ning gulay ngeni.",
+          "wordIds": [
+            "mkt-presyu"
+          ],
+          "accepted": [
+            "The price of vegetables is high today.",
+            "The vegetable price is high today."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkt-3",
+      "title": "Cheap or Expensive?",
+      "theme": "Value and affordability",
+      "intro": "Kapampangan uses 'Mura ya' for something cheap and 'Mal ya' for something expensive — the structure 'word + ya' means 'it is ___'. These are essential for bargaining!",
+      "wordIds": [
+        "mkt-mura",
+        "mkt-mal",
+        "mkt-diskwento"
+      ],
+      "exercises": [
+        {
+          "id": "mkt-ex-3a",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'Mal' mean in Kapampangan?",
+          "wordIds": [
+            "mkt-mal"
+          ],
+          "answerId": "mkt-mal"
+        },
+        {
+          "id": "mkt-ex-3b",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'Mura' mean in Kapampangan?",
+          "wordIds": [
+            "mkt-mura"
+          ],
+          "answerId": "mkt-mura"
+        },
+        {
+          "id": "mkt-ex-3c",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "How do you say 'discount' in Kapampangan?",
+          "wordIds": [
+            "mkt-diskwento"
+          ],
+          "answerId": "mkt-diskwento"
+        },
+        {
+          "id": "mkt-ex-3d",
+          "type": "translate",
+          "direction": "en-to-kp",
+          "prompt": "This is too expensive.",
+          "wordIds": [
+            "mkt-mal"
+          ],
+          "accepted": [
+            "Mal ya masyadu iti.",
+            "Mal ya masyadu.",
+            "Mal ya masyadu ini."
+          ]
+        },
+        {
+          "id": "mkt-ex-3e",
+          "type": "fill-blank",
+          "prompt": "Múra ya ing gulay keni. / Buri ku ing ____ a presyu. (I want a cheap price.)",
+          "wordIds": [
+            "mkt-mura"
+          ],
+          "answerId": "mkt-mura"
+        },
+        {
+          "id": "mkt-ex-3f",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin kayu diskwento para keni?",
+          "wordIds": [
+            "mkt-diskwento"
+          ],
+          "accepted": [
+            "Do you have a discount for this?",
+            "Do you have discounts for this?"
+          ]
+        },
+        {
+          "id": "mkt-ex-3g",
+          "type": "matching",
+          "wordIds": [
+            "mkt-mura",
+            "mkt-mal",
+            "mkt-diskwento"
+          ],
+          "pairs": [
+            {
+              "wordId": "mkt-mura"
+            },
+            {
+              "wordId": "mkt-mal"
+            },
+            {
+              "wordId": "mkt-diskwento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkt-4",
+      "title": "Paying Up",
+      "theme": "Payment and transactions",
+      "intro": "Ready to pay? Use 'Manyad' (to pay) and 'Bayad' (payment). And if something costs nothing at all, say 'Libre ya!' — it is free!",
+      "wordIds": [
+        "mkt-manyad",
+        "mkt-bayad",
+        "mkt-libre"
+      ],
+      "exercises": [
+        {
+          "id": "mkt-ex-4a",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "How do you say 'to pay' in Kapampangan?",
+          "wordIds": [
+            "mkt-manyad"
+          ],
+          "answerId": "mkt-manyad"
+        },
+        {
+          "id": "mkt-ex-4b",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'Bayad' mean?",
+          "wordIds": [
+            "mkt-bayad"
+          ],
+          "answerId": "mkt-bayad"
+        },
+        {
+          "id": "mkt-ex-4c",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'Libre' mean?",
+          "wordIds": [
+            "mkt-libre"
+          ],
+          "answerId": "mkt-libre"
+        },
+        {
+          "id": "mkt-ex-4d",
+          "type": "translate",
+          "direction": "en-to-kp",
+          "prompt": "May I pay now?",
+          "wordIds": [
+            "mkt-manyad"
+          ],
+          "accepted": [
+            "Malyari ku pung manyad?",
+            "Malyari ku manyad?"
+          ]
+        },
+        {
+          "id": "mkt-ex-4e",
+          "type": "fill-blank",
+          "prompt": "Libre ya iti, e ka mag____. (This is free, you do not need to pay.)",
+          "wordIds": [
+            "mkt-bayad"
+          ],
+          "answerId": "mkt-bayad"
+        },
+        {
+          "id": "mkt-ex-4f",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Libre ya iti, e ka magbayad.",
+          "wordIds": [
+            "mkt-libre"
+          ],
+          "accepted": [
+            "This is free, you do not need to pay.",
+            "This is free, you don't need to pay.",
+            "This is free, no need to pay."
+          ]
+        },
+        {
+          "id": "mkt-ex-4g",
+          "type": "matching",
+          "wordIds": [
+            "mkt-manyad",
+            "mkt-bayad",
+            "mkt-libre"
+          ],
+          "pairs": [
+            {
+              "wordId": "mkt-manyad"
+            },
+            {
+              "wordId": "mkt-bayad"
+            },
+            {
+              "wordId": "mkt-libre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkt-5",
+      "title": "At the Store",
+      "theme": "Shopping and vendors",
+      "intro": "Time to go shopping! Learn 'tindahan' (store) and 'tindero' (vendor/seller) — the essential people and places of market life.",
+      "wordIds": [
+        "mkt-tindahan",
+        "mkt-tindero"
+      ],
+      "exercises": [
+        {
+          "id": "mkt-ex-5a",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "How do you say 'store' or 'shop' in Kapampangan?",
+          "wordIds": [
+            "mkt-tindahan"
+          ],
+          "answerId": "mkt-tindahan"
+        },
+        {
+          "id": "mkt-ex-5b",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "How do you say 'vendor' or 'seller' in Kapampangan?",
+          "wordIds": [
+            "mkt-tindero"
+          ],
+          "answerId": "mkt-tindero"
+        },
+        {
+          "id": "mkt-ex-5c",
+          "type": "translate",
+          "direction": "en-to-kp",
+          "prompt": "I want to go to the store.",
+          "wordIds": [
+            "mkt-tindahan"
+          ],
+          "accepted": [
+            "Bisa kung munta king tindahan.",
+            "Bisa ku munta king tindahan."
+          ]
+        },
+        {
+          "id": "mkt-ex-5d",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ing tindero king palengke mayap ya.",
+          "wordIds": [
+            "mkt-tindero"
+          ],
+          "accepted": [
+            "The vendor at the market is kind.",
+            "The seller at the market is kind.",
+            "The vendor at the market is good."
+          ]
+        },
+        {
+          "id": "mkt-ex-5e",
+          "type": "fill-blank",
+          "prompt": "Atin ____ e malapit keni. (There is a store near here.)",
+          "wordIds": [
+            "mkt-tindahan"
+          ],
+          "answerId": "mkt-tindahan"
+        },
+        {
+          "id": "mkt-ex-5f",
+          "type": "fill-blank",
+          "prompt": "Nanung ____ ing magbebenta ning manuk? (Which vendor sells chicken?)",
+          "wordIds": [
+            "mkt-tindero"
+          ],
+          "answerId": "mkt-tindero"
+        },
+        {
+          "id": "mkt-ex-5g",
+          "type": "matching",
+          "wordIds": [
+            "mkt-tindahan",
+            "mkt-tindero"
+          ],
+          "pairs": [
+            {
+              "wordId": "mkt-tindahan"
+            },
+            {
+              "wordId": "mkt-tindero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkt-6",
+      "title": "Rich & Poor",
+      "theme": "Wealth and social status",
+      "intro": "Kapampangan, like many languages, has straightforward words for wealth and poverty: 'Mayaman' (rich) and 'Dukha' (poor). Both are shared across Philippine languages.",
+      "wordIds": [
+        "mkt-mayaman",
+        "mkt-dukha"
+      ],
+      "exercises": [
+        {
+          "id": "mkt-ex-6a",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "How do you say 'rich' or 'wealthy' in Kapampangan?",
+          "wordIds": [
+            "mkt-mayaman"
+          ],
+          "answerId": "mkt-mayaman"
+        },
+        {
+          "id": "mkt-ex-6b",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "How do you say 'poor' or 'impoverished' in Kapampangan?",
+          "wordIds": [
+            "mkt-dukha"
+          ],
+          "answerId": "mkt-dukha"
+        },
+        {
+          "id": "mkt-ex-6c",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mayaman ya ing tau a ita.",
+          "wordIds": [
+            "mkt-mayaman"
+          ],
+          "accepted": [
+            "That person is rich.",
+            "That man is rich.",
+            "That person is wealthy.",
+            "That man is wealthy."
+          ]
+        },
+        {
+          "id": "mkt-ex-6d",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Dukha ya pero masaya ya.",
+          "wordIds": [
+            "mkt-dukha"
+          ],
+          "accepted": [
+            "He is poor but happy.",
+            "She is poor but happy.",
+            "He/she is poor but happy."
+          ]
+        },
+        {
+          "id": "mkt-ex-6e",
+          "type": "fill-blank",
+          "prompt": "Buri ku ing maging ____. (I want to become wealthy.)",
+          "wordIds": [
+            "mkt-mayaman"
+          ],
+          "answerId": "mkt-mayaman"
+        },
+        {
+          "id": "mkt-ex-6f",
+          "type": "fill-blank",
+          "prompt": "E tamu dapat magpakalugud king ____. (We should not look down on the poor.)",
+          "wordIds": [
+            "mkt-dukha"
+          ],
+          "answerId": "mkt-dukha"
+        },
+        {
+          "id": "mkt-ex-6g",
+          "type": "matching",
+          "wordIds": [
+            "mkt-mayaman",
+            "mkt-dukha"
+          ],
+          "pairs": [
+            {
+              "wordId": "mkt-mayaman"
+            },
+            {
+              "wordId": "mkt-dukha"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikivoyage.org/wiki/Kapampangan_phrasebook — shopping phrases: mal ya (expensive), múra ya (cheap), magkanu, manyad, pera confirmed",
+    "https://en.wiktionary.org/wiki/magkanu — Kapampangan pronoun 'how much' confirmed with pronunciation and etymology",
+    "https://en.wiktionary.org/wiki/mahal — Kapampangan 'mal' confirmed as cognate of Tagalog mahal (expensive)",
+    "https://en.wikipedia.org/wiki/Kapampangan_language — magkanu, seli, binayad examples; kwalta for money",
+    "https://www.polytranslator.com/dictionary/kapampangan/ — salapi (money), bayad (pay), libri (free) confirmed",
+    "https://www.researchgate.net/publication/336306156 — mayaman (rich) confirmed as shared Kapampangan-Tagalog-Bikol vocabulary",
+    "https://mymemory.translated.net/en/Tagalog/English/ang-mayaman-at-ang-dukha — mayaman/dukha antonym pair confirmed",
+    "https://www.scribd.com/document/719258151/KapampanganDictionaryAmongSamson-1 — Samson Kapampangan Dictionary (referenced)",
+    "Talkpal.ai shopping phrases — diskwentu confirmed in Kapampangan context: 'Atin kayung benta o diskwentu?'"
+  ],
+  "confidenceNotes": "High confidence: magkanu (Wiktionary entry), mal/expensive (Wiktionary cognate + Wikivoyage phrase 'Mal ya masyadu'), mura/cheap (Wikivoyage 'múra ya'), manyad/pay (Wikivoyage phrasebook), pera/money (Wikivoyage exchange phrase), tindahan/store (multiple sources including Wikipedia KP article). Medium confidence: kwalta (Wikipedia KP article + HiNative etymology discussion), presyu (Wikivoyage 'Magkanu ing presyu na?'), bayad (shared Philippine language root confirmed across sources), sinsilyo (confirmed as Philippine coin/change term used in Kapampangan), libre (polytranslator.com lists 'libri'; widespread Spanish loanword across Philippine languages), diskwento (Kapampangan shopping phrase 'Atin kayung benta o diskwentu?' found in search results), mayaman (confirmed in vocabulary similarity research as shared KP-Tagalog-Bikol word), dukha (Sanskrit-derived word confirmed across Philippine languages including Kapampangan context). All headwords verified distinct from the AVOID-LIST."
+}

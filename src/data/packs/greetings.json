@@ -1,0 +1,909 @@
+{
+  "id": "greetings",
+  "title": "Greetings & Courtesy",
+  "entries": [
+    {
+      "id": "greet-mayap-a-abak",
+      "word": "Mayap a abak",
+      "partOfSpeech": "phrase",
+      "translations": [
+        "good morning"
+      ],
+      "relatedTagalog": "magandang umaga",
+      "examples": [
+        {
+          "kp": "Mayap a abak, Tatang!",
+          "en": "Good morning, Father!"
+        },
+        {
+          "kp": "Mayap a abak pu keka.",
+          "en": "Good morning to you (respectful)."
+        }
+      ],
+      "notes": "Literally 'good morning'. Add 'pu' after the phrase to show respect to elders."
+    },
+    {
+      "id": "greet-mayap-a-gatpanapun",
+      "word": "Mayap a gatpanapun",
+      "partOfSpeech": "phrase",
+      "translations": [
+        "good afternoon"
+      ],
+      "relatedTagalog": "magandang hapon",
+      "examples": [
+        {
+          "kp": "Mayap a gatpanapun keka!",
+          "en": "Good afternoon to you!"
+        },
+        {
+          "kp": "Mayap a gatpanapun, Ima.",
+          "en": "Good afternoon, Mother."
+        }
+      ],
+      "notes": "Standard afternoon greeting. 'Gatpanapun' means afternoon in Kapampangan."
+    },
+    {
+      "id": "greet-mayap-a-bengi",
+      "word": "Mayap a bengi",
+      "partOfSpeech": "phrase",
+      "translations": [
+        "good evening",
+        "good night"
+      ],
+      "relatedTagalog": "magandang gabi",
+      "examples": [
+        {
+          "kp": "Mayap a bengi, kaklase!",
+          "en": "Good evening, classmate!"
+        },
+        {
+          "kp": "Mayap a bengi pu, Ingkung.",
+          "en": "Good evening, Grandfather (respectful)."
+        }
+      ],
+      "notes": "Used both as an evening greeting and a parting phrase at night. 'Bengi' means night/evening."
+    },
+    {
+      "id": "greet-paalam",
+      "word": "Paalam",
+      "partOfSpeech": "interjection",
+      "translations": [
+        "goodbye",
+        "farewell"
+      ],
+      "relatedTagalog": "paalam",
+      "examples": [
+        {
+          "kp": "Paalam na ku!",
+          "en": "I'm saying goodbye now!"
+        },
+        {
+          "kp": "Paalam, Tatang. Balik naku mamaya.",
+          "en": "Goodbye, Father. I'll be back later."
+        }
+      ],
+      "notes": "From Spanish 'para Alá'. Used when leaving; same form as Tagalog. A shared loanword across Philippine languages."
+    },
+    {
+      "id": "greet-patawad-na",
+      "word": "Patawad na",
+      "partOfSpeech": "phrase",
+      "translations": [
+        "sorry",
+        "please forgive me",
+        "I'm sorry"
+      ],
+      "relatedTagalog": "patawad / pasensya na",
+      "examples": [
+        {
+          "kp": "Patawad na, e ku iti ginawa karing sala.",
+          "en": "Sorry, I didn't mean to make a mistake."
+        },
+        {
+          "kp": "Patawad na, naulagang ku.",
+          "en": "I'm sorry, I forgot."
+        }
+      ],
+      "notes": "A sincere apology phrase. 'Patawad' means forgiveness; 'na' softens the request."
+    },
+    {
+      "id": "greet-makilabas-ku",
+      "word": "Makilabas ku",
+      "partOfSpeech": "phrase",
+      "translations": [
+        "excuse me",
+        "pardon me"
+      ],
+      "relatedTagalog": "makikiraan / excuse me",
+      "examples": [
+        {
+          "kp": "Makilabas ku pu, munta ku na.",
+          "en": "Excuse me, I'm going already."
+        },
+        {
+          "kp": "Makilabas ku, ali ku iti naintindihan.",
+          "en": "Excuse me, I didn't understand that."
+        }
+      ],
+      "notes": "Used when politely asking to pass through or excusing oneself. Adding 'pu' makes it more respectful."
+    },
+    {
+      "id": "greet-malaus-ko-pu",
+      "word": "Malaus ko pu",
+      "partOfSpeech": "phrase",
+      "translations": [
+        "welcome",
+        "please come in"
+      ],
+      "relatedTagalog": "tuloy kayo / maligayang pagdating",
+      "examples": [
+        {
+          "kp": "Malaus ko pu, kumain kamu deni!",
+          "en": "Welcome, please eat here!"
+        },
+        {
+          "kp": "Malaus ko pu sa bale mi.",
+          "en": "Welcome to our home."
+        }
+      ],
+      "notes": "Warm hospitality phrase. Literally 'please proceed in'. 'Kayu' replaces 'ko' when addressing multiple guests."
+    },
+    {
+      "id": "greet-mimingat",
+      "word": "Mimingat",
+      "partOfSpeech": "phrase",
+      "translations": [
+        "take care",
+        "be careful"
+      ],
+      "relatedTagalog": "ingat",
+      "examples": [
+        {
+          "kp": "Mimingat ka keraklan!",
+          "en": "Take care always!"
+        },
+        {
+          "kp": "Paalam na, Mimingat ka pu.",
+          "en": "Goodbye, take care (respectful)."
+        }
+      ],
+      "notes": "Said when parting with someone as a caring farewell. Equivalent to 'ingat' in Tagalog."
+    },
+    {
+      "id": "greet-alang-nanu-naman",
+      "word": "Alang nanu naman",
+      "partOfSpeech": "phrase",
+      "translations": [
+        "you're welcome",
+        "it's nothing",
+        "don't mention it"
+      ],
+      "relatedTagalog": "walang anuman",
+      "examples": [
+        {
+          "kp": "\"Dakal a salamat!\" \"Alang nanu naman.\"",
+          "en": "\"Thank you very much!\" \"You're welcome.\""
+        },
+        {
+          "kp": "Alang nanu naman, kaibigan.",
+          "en": "It's nothing, friend."
+        }
+      ],
+      "notes": "The standard response to 'salamat' (thank you). Literally 'there is nothing at all'."
+    },
+    {
+      "id": "greet-pagmananwan",
+      "word": "Págmanánwan",
+      "partOfSpeech": "interjection",
+      "translations": [
+        "congratulations"
+      ],
+      "relatedTagalog": "maligayang bati",
+      "examples": [
+        {
+          "kp": "Págmanánwan daká!",
+          "en": "Congratulations to you!"
+        },
+        {
+          "kp": "Págmanánwan keka king panalung mu.",
+          "en": "Congratulations on your victory."
+        }
+      ],
+      "notes": "Attested on Tatoeba as the Kapampangan equivalent of 'Congratulations!'. 'Daká' means 'to you'."
+    },
+    {
+      "id": "greet-tara-na",
+      "word": "Tara na",
+      "partOfSpeech": "phrase",
+      "translations": [
+        "let's go",
+        "come on, let's go"
+      ],
+      "relatedTagalog": "tara na / halika na",
+      "examples": [
+        {
+          "kp": "Tara na, atulan na kaming dalan.",
+          "en": "Let's go, we'll be late."
+        },
+        {
+          "kp": "Tara na, munta tana kang mangan!",
+          "en": "Let's go, let's go eat!"
+        }
+      ],
+      "notes": "Common informal phrase used to prompt someone to leave or start moving. Also used as 'Tara' alone."
+    },
+    {
+      "id": "greet-mikit-tana",
+      "word": "Mikit tana",
+      "partOfSpeech": "phrase",
+      "translations": [
+        "see you",
+        "see you later",
+        "see you next time"
+      ],
+      "relatedTagalog": "magkita tayo",
+      "examples": [
+        {
+          "kp": "Mikit tana keng tutuki!",
+          "en": "See you next time!"
+        },
+        {
+          "kp": "Paalam na, Mikit tana mamaya.",
+          "en": "Goodbye, see you later."
+        }
+      ],
+      "notes": "A farewell phrase. 'Mikit' comes from the root 'ikit' (to see/meet). 'Tana' means 'let us'."
+    },
+    {
+      "id": "greet-malyari",
+      "word": "Malyari",
+      "partOfSpeech": "particle",
+      "translations": [
+        "please (may I/could you)",
+        "may I",
+        "is it possible"
+      ],
+      "relatedTagalog": "puwede / maaari",
+      "examples": [
+        {
+          "kp": "Malyari mu akung tulungan?",
+          "en": "Could you please help me?"
+        },
+        {
+          "kp": "Malyari ku pong lumabas?",
+          "en": "May I please go out?"
+        }
+      ],
+      "notes": "Used to make polite requests. Equivalent to 'puwede' or 'maaari' in Tagalog. Often precedes a verb."
+    },
+    {
+      "id": "greet-dispus",
+      "word": "Dispû",
+      "partOfSpeech": "interjection",
+      "translations": [
+        "hello",
+        "hi (respectful response)"
+      ],
+      "relatedTagalog": "kumusta / mano po",
+      "examples": [
+        {
+          "kp": "Dispû, Apu! Mayap a abak!",
+          "en": "Hello, Grandma! Good morning!"
+        },
+        {
+          "kp": "Dispû! Kumusta na ka?",
+          "en": "Hello! How are you?"
+        }
+      ],
+      "notes": "A respectful greeting used especially toward elders. Wikivoyage lists this as the standard Kapampangan hello."
+    },
+    {
+      "id": "greet-masayang-kebaitan",
+      "word": "Masayang kebaitan",
+      "partOfSpeech": "phrase",
+      "translations": [
+        "happy birthday"
+      ],
+      "relatedTagalog": "maligayang kaarawan",
+      "examples": [
+        {
+          "kp": "Masayang kebaitan keka!",
+          "en": "Happy birthday to you!"
+        },
+        {
+          "kp": "Masayang kebaitan, Ima!",
+          "en": "Happy birthday, Mother!"
+        }
+      ],
+      "notes": "The standard Kapampangan birthday greeting. 'Kebaitan' means birthday/birth anniversary."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "greet-1",
+      "title": "Good Morning & Good Evening",
+      "theme": "time-of-day greetings",
+      "intro": "In Kapampangan, greetings change depending on the time of day. They all begin with 'Mayap a' (good) followed by the time word. Adding 'pu' shows respect to elders.",
+      "wordIds": [
+        "greet-mayap-a-abak",
+        "greet-mayap-a-gatpanapun",
+        "greet-mayap-a-bengi",
+        "greet-dispus"
+      ],
+      "exercises": [
+        {
+          "id": "greet-1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Mayap a abak\" mean?",
+          "wordIds": [
+            "greet-mayap-a-abak"
+          ],
+          "answerId": "greet-mayap-a-abak"
+        },
+        {
+          "id": "greet-1-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Mayap a gatpanapun\" mean?",
+          "wordIds": [
+            "greet-mayap-a-gatpanapun"
+          ],
+          "answerId": "greet-mayap-a-gatpanapun"
+        },
+        {
+          "id": "greet-1-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Mayap a bengi\" mean?",
+          "wordIds": [
+            "greet-mayap-a-bengi"
+          ],
+          "answerId": "greet-mayap-a-bengi"
+        },
+        {
+          "id": "greet-1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mayap a abak, Tatang!",
+          "wordIds": [
+            "greet-mayap-a-abak"
+          ],
+          "accepted": [
+            "good morning, father!",
+            "good morning, father"
+          ]
+        },
+        {
+          "id": "greet-1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mayap a bengi, kaklase!",
+          "wordIds": [
+            "greet-mayap-a-bengi"
+          ],
+          "accepted": [
+            "good evening, classmate!",
+            "good evening, classmate"
+          ]
+        },
+        {
+          "id": "greet-1-fb1",
+          "type": "fill-blank",
+          "prompt": "____ (Good afternoon), Ima.",
+          "wordIds": [
+            "greet-mayap-a-gatpanapun"
+          ],
+          "answerId": "greet-mayap-a-gatpanapun"
+        },
+        {
+          "id": "greet-1-ma1",
+          "type": "matching",
+          "wordIds": [
+            "greet-mayap-a-abak",
+            "greet-mayap-a-gatpanapun",
+            "greet-mayap-a-bengi",
+            "greet-dispus"
+          ],
+          "pairs": [
+            {
+              "wordId": "greet-mayap-a-abak"
+            },
+            {
+              "wordId": "greet-mayap-a-gatpanapun"
+            },
+            {
+              "wordId": "greet-mayap-a-bengi"
+            },
+            {
+              "wordId": "greet-dispus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "greet-2",
+      "title": "Goodbye & Take Care",
+      "theme": "farewells",
+      "intro": "Kapampangan has several farewell expressions. 'Paalam' is the main goodbye, while 'Mimingat' (take care) and 'Mikit tana' (see you) add warmth to parting.",
+      "wordIds": [
+        "greet-paalam",
+        "greet-mimingat",
+        "greet-mikit-tana",
+        "greet-tara-na"
+      ],
+      "exercises": [
+        {
+          "id": "greet-2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Paalam\" mean?",
+          "wordIds": [
+            "greet-paalam"
+          ],
+          "answerId": "greet-paalam"
+        },
+        {
+          "id": "greet-2-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Mimingat\" mean?",
+          "wordIds": [
+            "greet-mimingat"
+          ],
+          "answerId": "greet-mimingat"
+        },
+        {
+          "id": "greet-2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mikit tana keng tutuki!",
+          "wordIds": [
+            "greet-mikit-tana"
+          ],
+          "accepted": [
+            "see you next time!",
+            "see you next time"
+          ]
+        },
+        {
+          "id": "greet-2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Tara na, munta tana kang mangan!",
+          "wordIds": [
+            "greet-tara-na"
+          ],
+          "accepted": [
+            "let's go, let's go eat!",
+            "let's go, let's go eat"
+          ]
+        },
+        {
+          "id": "greet-2-fb1",
+          "type": "fill-blank",
+          "prompt": "____ (Take care) ka keraklan!",
+          "wordIds": [
+            "greet-mimingat"
+          ],
+          "answerId": "greet-mimingat"
+        },
+        {
+          "id": "greet-2-fb2",
+          "type": "fill-blank",
+          "prompt": "____ (Goodbye), Tatang. Balik naku mamaya.",
+          "wordIds": [
+            "greet-paalam"
+          ],
+          "answerId": "greet-paalam"
+        },
+        {
+          "id": "greet-2-ma1",
+          "type": "matching",
+          "wordIds": [
+            "greet-paalam",
+            "greet-mimingat",
+            "greet-mikit-tana",
+            "greet-tara-na"
+          ],
+          "pairs": [
+            {
+              "wordId": "greet-paalam"
+            },
+            {
+              "wordId": "greet-mimingat"
+            },
+            {
+              "wordId": "greet-mikit-tana"
+            },
+            {
+              "wordId": "greet-tara-na"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "greet-3",
+      "title": "Please & Excuse Me",
+      "theme": "polite requests",
+      "intro": "Politeness is central to Kapampangan culture. 'Malyari' is used to make requests ('may I / could you please'), while 'Makilabas ku' is how you politely excuse yourself.",
+      "wordIds": [
+        "greet-malyari",
+        "greet-makilabas-ku"
+      ],
+      "exercises": [
+        {
+          "id": "greet-3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Malyari\" mean?",
+          "wordIds": [
+            "greet-malyari"
+          ],
+          "answerId": "greet-malyari"
+        },
+        {
+          "id": "greet-3-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Makilabas ku\" mean?",
+          "wordIds": [
+            "greet-makilabas-ku"
+          ],
+          "answerId": "greet-makilabas-ku"
+        },
+        {
+          "id": "greet-3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malyari mu akung tulungan?",
+          "wordIds": [
+            "greet-malyari"
+          ],
+          "accepted": [
+            "could you please help me?",
+            "could you help me?",
+            "please help me"
+          ]
+        },
+        {
+          "id": "greet-3-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Makilabas ku pu, munta ku na.",
+          "wordIds": [
+            "greet-makilabas-ku"
+          ],
+          "accepted": [
+            "excuse me, i'm going already.",
+            "excuse me, i am going already."
+          ]
+        },
+        {
+          "id": "greet-3-fb1",
+          "type": "fill-blank",
+          "prompt": "____ (Excuse me) pu, ali ku iti naintindihan.",
+          "wordIds": [
+            "greet-makilabas-ku"
+          ],
+          "answerId": "greet-makilabas-ku"
+        },
+        {
+          "id": "greet-3-fb2",
+          "type": "fill-blank",
+          "prompt": "____ (May I) ku pong lumabas?",
+          "wordIds": [
+            "greet-malyari"
+          ],
+          "answerId": "greet-malyari"
+        },
+        {
+          "id": "greet-3-ma1",
+          "type": "matching",
+          "wordIds": [
+            "greet-malyari",
+            "greet-makilabas-ku"
+          ],
+          "pairs": [
+            {
+              "wordId": "greet-malyari"
+            },
+            {
+              "wordId": "greet-makilabas-ku"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "greet-4",
+      "title": "Sorry & You're Welcome",
+      "theme": "apologies and responses",
+      "intro": "Apologies and gracious responses are part of everyday Kapampangan courtesy. 'Patawad na' asks for forgiveness, and 'Alang nanu naman' is the warm reply to a thank you.",
+      "wordIds": [
+        "greet-patawad-na",
+        "greet-alang-nanu-naman"
+      ],
+      "exercises": [
+        {
+          "id": "greet-4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Patawad na\" mean?",
+          "wordIds": [
+            "greet-patawad-na"
+          ],
+          "answerId": "greet-patawad-na"
+        },
+        {
+          "id": "greet-4-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Alang nanu naman\" mean?",
+          "wordIds": [
+            "greet-alang-nanu-naman"
+          ],
+          "answerId": "greet-alang-nanu-naman"
+        },
+        {
+          "id": "greet-4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Patawad na, naulagang ku.",
+          "wordIds": [
+            "greet-patawad-na"
+          ],
+          "accepted": [
+            "i'm sorry, i forgot.",
+            "sorry, i forgot."
+          ]
+        },
+        {
+          "id": "greet-4-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Alang nanu naman, kaibigan.",
+          "wordIds": [
+            "greet-alang-nanu-naman"
+          ],
+          "accepted": [
+            "it's nothing, friend.",
+            "you're welcome, friend.",
+            "don't mention it, friend."
+          ]
+        },
+        {
+          "id": "greet-4-fb1",
+          "type": "fill-blank",
+          "prompt": "____ (I'm sorry), e ku iti ginawa karing sala.",
+          "wordIds": [
+            "greet-patawad-na"
+          ],
+          "answerId": "greet-patawad-na"
+        },
+        {
+          "id": "greet-4-fb2",
+          "type": "fill-blank",
+          "prompt": "\"Dakal a salamat!\" \"____ (You're welcome).\"",
+          "wordIds": [
+            "greet-alang-nanu-naman"
+          ],
+          "answerId": "greet-alang-nanu-naman"
+        },
+        {
+          "id": "greet-4-ma1",
+          "type": "matching",
+          "wordIds": [
+            "greet-patawad-na",
+            "greet-alang-nanu-naman"
+          ],
+          "pairs": [
+            {
+              "wordId": "greet-patawad-na"
+            },
+            {
+              "wordId": "greet-alang-nanu-naman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "greet-5",
+      "title": "Welcome & Congratulations",
+      "theme": "welcoming and celebrating",
+      "intro": "Kapampangans are known for their warm hospitality. 'Malaus ko pu' invites guests in, 'Págmanánwan' celebrates achievements, and 'Masayang kebaitan' marks birthdays.",
+      "wordIds": [
+        "greet-malaus-ko-pu",
+        "greet-pagmananwan",
+        "greet-masayang-kebaitan"
+      ],
+      "exercises": [
+        {
+          "id": "greet-5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Malaus ko pu\" mean?",
+          "wordIds": [
+            "greet-malaus-ko-pu"
+          ],
+          "answerId": "greet-malaus-ko-pu"
+        },
+        {
+          "id": "greet-5-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Págmanánwan\" mean?",
+          "wordIds": [
+            "greet-pagmananwan"
+          ],
+          "answerId": "greet-pagmananwan"
+        },
+        {
+          "id": "greet-5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malaus ko pu sa bale mi.",
+          "wordIds": [
+            "greet-malaus-ko-pu"
+          ],
+          "accepted": [
+            "welcome to our home.",
+            "welcome to our house."
+          ]
+        },
+        {
+          "id": "greet-5-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Págmanánwan daká!",
+          "wordIds": [
+            "greet-pagmananwan"
+          ],
+          "accepted": [
+            "congratulations to you!",
+            "congratulations!"
+          ]
+        },
+        {
+          "id": "greet-5-fb1",
+          "type": "fill-blank",
+          "prompt": "____ (Congratulations) keka king panalung mu.",
+          "wordIds": [
+            "greet-pagmananwan"
+          ],
+          "answerId": "greet-pagmananwan"
+        },
+        {
+          "id": "greet-5-fb2",
+          "type": "fill-blank",
+          "prompt": "____ (Welcome), kumain kamu deni!",
+          "wordIds": [
+            "greet-malaus-ko-pu"
+          ],
+          "answerId": "greet-malaus-ko-pu"
+        },
+        {
+          "id": "greet-5-ma1",
+          "type": "matching",
+          "wordIds": [
+            "greet-malaus-ko-pu",
+            "greet-pagmananwan",
+            "greet-masayang-kebaitan"
+          ],
+          "pairs": [
+            {
+              "wordId": "greet-malaus-ko-pu"
+            },
+            {
+              "wordId": "greet-pagmananwan"
+            },
+            {
+              "wordId": "greet-masayang-kebaitan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "greet-6",
+      "title": "Yes, Okay & Review",
+      "theme": "affirmatives and full review",
+      "intro": "The word 'Wa' covers 'yes', 'okay', and 'of course' in Kapampangan. In this final lesson you'll also review all the greetings and courtesy phrases from the pack.",
+      "wordIds": [],
+      "exercises": [
+        {
+          "id": "greet-6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Wa, munta na tamu!",
+          "wordIds": [],
+          "accepted": [
+            "yes, let's go!",
+            "okay, let's go!",
+            "of course, let's go!"
+          ]
+        },
+        {
+          "id": "greet-6-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Masayang kebaitan\" mean?",
+          "wordIds": [
+            "greet-masayang-kebaitan"
+          ],
+          "answerId": "greet-masayang-kebaitan"
+        },
+        {
+          "id": "greet-6-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Masayang kebaitan keka!",
+          "wordIds": [
+            "greet-masayang-kebaitan"
+          ],
+          "accepted": [
+            "happy birthday to you!",
+            "happy birthday!"
+          ]
+        },
+        {
+          "id": "greet-6-ma1",
+          "type": "matching",
+          "wordIds": [
+            "greet-paalam",
+            "greet-patawad-na",
+            "greet-malaus-ko-pu"
+          ],
+          "pairs": [
+            {
+              "wordId": "greet-paalam"
+            },
+            {
+              "wordId": "greet-patawad-na"
+            },
+            {
+              "wordId": "greet-malaus-ko-pu"
+            }
+          ]
+        },
+        {
+          "id": "greet-6-ma2",
+          "type": "matching",
+          "wordIds": [
+            "greet-mimingat",
+            "greet-tara-na",
+            "greet-mikit-tana",
+            "greet-pagmananwan"
+          ],
+          "pairs": [
+            {
+              "wordId": "greet-mimingat"
+            },
+            {
+              "wordId": "greet-tara-na"
+            },
+            {
+              "wordId": "greet-mikit-tana"
+            },
+            {
+              "wordId": "greet-pagmananwan"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikivoyage.org/wiki/Kapampangan_phrasebook",
+    "https://en.wikibooks.org/wiki/Kapampangan/Greeting",
+    "https://tatoeba.org/en/sentences/show/4626151",
+    "https://www.tumblr.com/learnkapampangan/633107825315463168/common-phrases-used-in-kapampangan",
+    "https://josephjames007.blogspot.com/2013/01/common-phrases-in-kapampangan.html",
+    "https://pdfcoffee.com/common-kapampangan-words-amp-phrasesdocx-pdf-free.html",
+    "https://www.tagaloglang.com/kapampangan-phrases/"
+  ],
+  "confidenceNotes": "HIGH confidence (attested in Wikivoyage phrasebook and/or multiple independent sources): Mayap a abak, Mayap a gatpanapun, Mayap a bengi, Paalam, Patawad na, Makilabas ku, Malaus ko pu, Mimingat, Alang nanu naman, Tara na, Mikit tana keng tutuki, Malyari, Dispû, Wa, Masayang kebaitan. MEDIUM-HIGH confidence: Págmanánwan — attested on Tatoeba Kapampangan corpus as translation of 'Congratulations!', and confirmed by multiple search references. No entries are based solely on machine translation."
+}

@@ -6,11 +6,20 @@
       "id": "emo-masaya",
       "word": "masaya",
       "partOfSpeech": "adjective",
-      "translations": ["happy", "joyful"],
+      "translations": [
+        "happy",
+        "joyful"
+      ],
       "relatedTagalog": "masaya",
       "examples": [
-        {"kp": "Masaya ku ngeni!", "en": "I am happy today!"},
-        {"kp": "Masaya ing anak king aldong iti.", "en": "The child is happy on this day."}
+        {
+          "kp": "Masaya ku ngeni!",
+          "en": "I am happy today!"
+        },
+        {
+          "kp": "Masaya ing anak king aldong iti.",
+          "en": "The child is happy on this day."
+        }
       ],
       "notes": "Widely attested in Kapampangan greetings (e.g., 'Masayang pasku keka' = Merry Christmas). Shared with Tagalog."
     },
@@ -18,11 +27,21 @@
       "id": "emo-malungkut",
       "word": "malungkut",
       "partOfSpeech": "adjective",
-      "translations": ["sad", "lonely", "sorrowful"],
+      "translations": [
+        "sad",
+        "lonely",
+        "sorrowful"
+      ],
       "relatedTagalog": "malungkot",
       "examples": [
-        {"kp": "Malungkut ing anak uling wala ne ing asawa na.", "en": "The child is sad because his pet is gone."},
-        {"kp": "Malungkut ku nung miras ka.", "en": "I am lonely when you are away."}
+        {
+          "kp": "Malungkut ing anak uling wala ne ing asawa na.",
+          "en": "The child is sad because his pet is gone."
+        },
+        {
+          "kp": "Malungkut ku nung miras ka.",
+          "en": "I am lonely when you are away."
+        }
       ],
       "notes": "Root: lungkut (Wiktionary: Kapampangan noun meaning sadness, loneliness, sorrow, melancholy). Antonym of masaya."
     },
@@ -30,11 +49,20 @@
       "id": "emo-mimwa",
       "word": "mimwa",
       "partOfSpeech": "adjective",
-      "translations": ["angry", "mad"],
+      "translations": [
+        "angry",
+        "mad"
+      ],
       "relatedTagalog": "galit",
       "examples": [
-        {"kp": "Mimwa ku keka!", "en": "I am angry at you!"},
-        {"kp": "Nung mimwa ka, huminga ka maralas.", "en": "When you are angry, breathe slowly."}
+        {
+          "kp": "Mimwa ku keka!",
+          "en": "I am angry at you!"
+        },
+        {
+          "kp": "Nung mimwa ka, huminga ka maralas.",
+          "en": "When you are angry, breathe slowly."
+        }
       ],
       "notes": "Attested in tagaloglang.com phrase list: 'Mimwa ku keka' = 'I'm angry at you'. Also appears as 'mimua' in some transliterations."
     },
@@ -42,11 +70,21 @@
       "id": "emo-matakut",
       "word": "matakut",
       "partOfSpeech": "adjective",
-      "translations": ["afraid", "scared", "frightened"],
+      "translations": [
+        "afraid",
+        "scared",
+        "frightened"
+      ],
       "relatedTagalog": "takot / natatakot",
       "examples": [
-        {"kp": "Matakut kami king bengi.", "en": "We are afraid at night."},
-        {"kp": "Ali ka matakut; kayabe ku ka.", "en": "Don't be afraid; I am with you."}
+        {
+          "kp": "Matakut kami king bengi.",
+          "en": "We are afraid at night."
+        },
+        {
+          "kp": "Ali ka matakut; kayabe ku ka.",
+          "en": "Don't be afraid; I am with you."
+        }
       ],
       "notes": "Derived from takut (fear, noun; Wiktionary Kapampangan entry). Phrase 'tatakut kami' = 'we are afraid' attested in pdfcoffee Kapampangan phrasebook. Standard ma- adjectival prefix."
     },
@@ -54,11 +92,21 @@
       "id": "emo-meniglo",
       "word": "meniglo",
       "partOfSpeech": "adjective",
-      "translations": ["surprised", "astonished", "amazed"],
+      "translations": [
+        "surprised",
+        "astonished",
+        "amazed"
+      ],
       "relatedTagalog": "nagulat / nasorpresa",
       "examples": [
-        {"kp": "Meniglo ku king balita.", "en": "I am surprised by the news."},
-        {"kp": "Meniglo la ngan king gewa na.", "en": "They were all astonished at what he did."}
+        {
+          "kp": "Meniglo ku king balita.",
+          "en": "I am surprised by the news."
+        },
+        {
+          "kp": "Meniglo la ngan king gewa na.",
+          "en": "They were all astonished at what he did."
+        }
       ],
       "notes": "Attested on tagaloglang.com and confirmed by Wearkap (Facebook): 'meniglo does not have a direct translation into English'. Used in Kapampangan Bible translation for astonishment (Luke 4:32)."
     },
@@ -66,11 +114,21 @@
       "id": "emo-marine",
       "word": "marine",
       "partOfSpeech": "adjective",
-      "translations": ["shy", "ashamed", "embarrassed"],
+      "translations": [
+        "shy",
+        "ashamed",
+        "embarrassed"
+      ],
       "relatedTagalog": "mahiyain / nahihiya",
       "examples": [
-        {"kp": "Marine ku makipagusap king bayung tau.", "en": "I am shy when talking to new people."},
-        {"kp": "Marine ya uling binura ne ing sulat na.", "en": "She is ashamed because she erased her letter."}
+        {
+          "kp": "Marine ku makipagusap king bayung tau.",
+          "en": "I am shy when talking to new people."
+        },
+        {
+          "kp": "Marine ya uling binura ne ing sulat na.",
+          "en": "She is ashamed because she erased her letter."
+        }
       ],
       "notes": "Listed as a feeling adjective in 'The Use of Kapampangan Adjectives' (SlideShare) and in the pdfcoffee Kapampangan phrase document as 'Marine – Shamed'."
     },
@@ -78,11 +136,20 @@
       "id": "emo-pagmaragul",
       "word": "pagmaragul",
       "partOfSpeech": "noun",
-      "translations": ["pride", "feeling of being proud"],
+      "translations": [
+        "pride",
+        "feeling of being proud"
+      ],
       "relatedTagalog": "pagmamalaki",
       "examples": [
-        {"kp": "Pagmaragul ku king balen ku.", "en": "I have pride in my hometown."},
-        {"kp": "Dakal a pagmaragul king puso ku para keka.", "en": "There is great pride in my heart for you."}
+        {
+          "kp": "Pagmaragul ku king balen ku.",
+          "en": "I have pride in my hometown."
+        },
+        {
+          "kp": "Dakal a pagmaragul king puso ku para keka.",
+          "en": "There is great pride in my heart for you."
+        }
       ],
       "notes": "Attested as 'Pagmaragul ku' = 'I am proud' in the pdfcoffee Kapampangan phrase document and Tumblr learnkapampangan resource. Root: maragul (great/big)."
     },
@@ -90,11 +157,20 @@
       "id": "emo-marirya",
       "word": "marirya",
       "partOfSpeech": "adjective",
-      "translations": ["jealous", "envious"],
+      "translations": [
+        "jealous",
+        "envious"
+      ],
       "relatedTagalog": "nagseselos / mainggit",
       "examples": [
-        {"kp": "Marirya ya uling dakal a lugud ku para king anak.", "en": "He is jealous because I have a lot of love for the child."},
-        {"kp": "Ali ka marirya king biyaya na kapatad mu.", "en": "Don't be jealous of your sibling's blessings."}
+        {
+          "kp": "Marirya ya uling dakal a lugud ku para king anak.",
+          "en": "He is jealous because I have a lot of love for the child."
+        },
+        {
+          "kp": "Ali ka marirya king biyaya na kapatad mu.",
+          "en": "Don't be jealous of your sibling's blessings."
+        }
       ],
       "notes": "Attested on kamaru.blogspot: 'marirya – jealous'. Also listed in the pdfcoffee Kapampangan phrase document as 'Maririya – Jealous'."
     },
@@ -102,11 +178,21 @@
       "id": "emo-matula",
       "word": "matula",
       "partOfSpeech": "adjective",
-      "translations": ["joyful", "glad", "content"],
+      "translations": [
+        "joyful",
+        "glad",
+        "content"
+      ],
       "relatedTagalog": "masaya / nagagalak",
       "examples": [
-        {"kp": "Matula ku king lugud mu para kaku.", "en": "I am glad for your love for me."},
-        {"kp": "Matula la ngan keng kasuyuan king aldo na ita.", "en": "They were all joyful on that happy day."}
+        {
+          "kp": "Matula ku king lugud mu para kaku.",
+          "en": "I am glad for your love for me."
+        },
+        {
+          "kp": "Matula la ngan keng kasuyuan king aldo na ita.",
+          "en": "They were all joyful on that happy day."
+        }
       ],
       "notes": "Attested in Kapampangan hymn 'Matula Sasamban Daka' (Joyful We Adore Thee) and in Kapampangan religious texts. Expresses a deeper, contented joy distinct from the livelier masaya."
     },
@@ -114,11 +200,21 @@
       "id": "emo-madalumdum",
       "word": "madalumdum",
       "partOfSpeech": "adjective",
-      "translations": ["gloomy", "dark-hearted", "melancholy"],
+      "translations": [
+        "gloomy",
+        "dark-hearted",
+        "melancholy"
+      ],
       "relatedTagalog": "malungkot / madilim ang loob",
       "examples": [
-        {"kp": "Madalumdum ya ing obra na ngeni.", "en": "His mood is gloomy today."},
-        {"kp": "Madalumdum ku nung umuran.", "en": "I feel gloomy when it rains."}
+        {
+          "kp": "Madalumdum ya ing obra na ngeni.",
+          "en": "His mood is gloomy today."
+        },
+        {
+          "kp": "Madalumdum ku nung umuran.",
+          "en": "I feel gloomy when it rains."
+        }
       ],
       "notes": "Verified Wiktionary entry: Kapampangan adjective meaning 'dark; obscure'. Tagaloglang lists it as meaning 'gloomy' (Tagalog: madilim). Formed with ma- prefix + dalumdum."
     },
@@ -126,11 +222,20 @@
       "id": "emo-takut",
       "word": "takut",
       "partOfSpeech": "noun",
-      "translations": ["fear", "fright"],
+      "translations": [
+        "fear",
+        "fright"
+      ],
       "relatedTagalog": "takot",
       "examples": [
-        {"kp": "Dakal a takut ing nasa puso na.", "en": "There is much fear in his heart."},
-        {"kp": "Balu mu ing takut ku king bengi?", "en": "Do you know my fear of the night?"}
+        {
+          "kp": "Dakal a takut ing nasa puso na.",
+          "en": "There is much fear in his heart."
+        },
+        {
+          "kp": "Balu mu ing takut ku king bengi?",
+          "en": "Do you know my fear of the night?"
+        }
       ],
       "notes": "Wiktionary Kapampangan entry: takut = 'fear' (noun). From Proto-Malayo-Polynesian *takut. Cognate with Tagalog takot, Malay takut, Indonesian takut."
     },
@@ -138,11 +243,21 @@
       "id": "emo-sawa",
       "word": "sawa",
       "partOfSpeech": "adjective",
-      "translations": ["bored", "fed up", "weary of"],
+      "translations": [
+        "bored",
+        "fed up",
+        "weary of"
+      ],
       "relatedTagalog": "sawa / sawang-sawa",
       "examples": [
-        {"kp": "Sawa na ku king obra a iti.", "en": "I am already bored with this work."},
-        {"kp": "Sawa na ku king paulit-ulit a bisita.", "en": "I am fed up with the constant visits."}
+        {
+          "kp": "Sawa na ku king obra a iti.",
+          "en": "I am already bored with this work."
+        },
+        {
+          "kp": "Sawa na ku king paulit-ulit a bisita.",
+          "en": "I am fed up with the constant visits."
+        }
       ],
       "notes": "Attested in Wiktionary as a Kapampangan/Philippine form from Proto-Malayo-Polynesian *sawəqaq (eat too much; bored). Shared across Philippine languages."
     },
@@ -150,11 +265,21 @@
       "id": "emo-mipaindatun",
       "word": "mipaindatun",
       "partOfSpeech": "verb",
-      "translations": ["to become calm", "to become peaceful", "to settle down"],
+      "translations": [
+        "to become calm",
+        "to become peaceful",
+        "to settle down"
+      ],
       "relatedTagalog": "tumahimik / napanatag",
       "examples": [
-        {"kp": "Ali ya mipaindatun uling kasal ne bukas.", "en": "He is not calm because his wedding is tomorrow."},
-        {"kp": "Mipaindatun ya king lubu-lubu nang pamagmula.", "en": "She became calm after a long rest."}
+        {
+          "kp": "Ali ya mipaindatun uling kasal ne bukas.",
+          "en": "He is not calm because his wedding is tomorrow."
+        },
+        {
+          "kp": "Mipaindatun ya king lubu-lubu nang pamagmula.",
+          "en": "She became calm after a long rest."
+        }
       ],
       "notes": "Attested on kamaru.blogspot: 'mipaindatun – to become peaceful; to kill restlessness'. The negated form 'ali ya mipaindatun' = 'he is restless' is given as the usage example."
     },
@@ -162,11 +287,22 @@
       "id": "emo-mataranta",
       "word": "mataranta",
       "partOfSpeech": "adjective",
-      "translations": ["flustered", "panicked", "worried", "rattled"],
+      "translations": [
+        "flustered",
+        "panicked",
+        "worried",
+        "rattled"
+      ],
       "relatedTagalog": "natataranta / balisa",
       "examples": [
-        {"kp": "Mataranta ya nung dakal a obra na.", "en": "He gets flustered when he has a lot of work."},
-        {"kp": "Mataranta ku namu nung ali ku makita ing anak.", "en": "I get worried when I cannot see the child."}
+        {
+          "kp": "Mataranta ya nung dakal a obra na.",
+          "en": "He gets flustered when he has a lot of work."
+        },
+        {
+          "kp": "Mataranta ku namu nung ali ku makita ing anak.",
+          "en": "I get worried when I cannot see the child."
+        }
       ],
       "notes": "Listed in tagaloglang Kapampangan dictionary. Shared across Philippine languages meaning to be confused, flustered, panicked, or worried. Covers both the worried and flustered emotional states."
     },
@@ -174,25 +310,23 @@
       "id": "emo-mabaya",
       "word": "mabaya",
       "partOfSpeech": "adjective",
-      "translations": ["aching", "hurting", "pained"],
+      "translations": [
+        "aching",
+        "hurting",
+        "pained"
+      ],
       "relatedTagalog": "sumasakit / masakit ang pakiramdam",
       "examples": [
-        {"kp": "Mabaya ku king pusu ku.", "en": "My heart is aching."},
-        {"kp": "Mabaya ya namu king sinalita mu kaya.", "en": "She is hurting because of what you said to her."}
+        {
+          "kp": "Mabaya ku king pusu ku.",
+          "en": "My heart is aching."
+        },
+        {
+          "kp": "Mabaya ya namu king sinalita mu kaya.",
+          "en": "She is hurting because of what you said to her."
+        }
       ],
       "notes": "Attested on kamaru.blogspot Kapampangan word list: 'mabaya – aching'. Covers emotional hurt as well as physical aching; distinct from masakit (sick/painful in a medical sense)."
-    },
-    {
-      "id": "emo-kumyak",
-      "word": "kumyak",
-      "partOfSpeech": "verb",
-      "translations": ["to cry", "to weep"],
-      "relatedTagalog": "umiyak",
-      "examples": [
-        {"kp": "Kumyak ya ing anak nung malungkut ya.", "en": "The child cries when he is sad."},
-        {"kp": "Ali ka kumyak; kayabe ku ka.", "en": "Don't cry; I am with you."}
-      ],
-      "notes": "Listed in the tagaloglang.com Kapampangan dictionary: 'kumyak – to cry'. Common emotional expression verb in Kapampangan."
     }
   ],
   "lessons": [
@@ -201,14 +335,20 @@
       "title": "Happy & Sad",
       "theme": "Basic positive and negative emotions",
       "intro": "Learn the two most fundamental emotions in Kapampangan — masaya (happy) and malungkut (sad) — plus fear (takut) and the act of crying (kumyak).",
-      "wordIds": ["emo-masaya", "emo-malungkut", "emo-takut", "emo-kumyak"],
+      "wordIds": [
+        "emo-masaya",
+        "emo-malungkut",
+        "emo-takut"
+      ],
       "exercises": [
         {
           "id": "emo-1-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"masaya\" mean?",
-          "wordIds": ["emo-masaya"],
+          "wordIds": [
+            "emo-masaya"
+          ],
           "answerId": "emo-masaya"
         },
         {
@@ -216,7 +356,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"malungkut\" mean?",
-          "wordIds": ["emo-malungkut"],
+          "wordIds": [
+            "emo-malungkut"
+          ],
           "answerId": "emo-malungkut"
         },
         {
@@ -224,40 +366,67 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Masaya ku ngeni!",
-          "wordIds": ["emo-masaya"],
-          "accepted": ["i am happy today!", "i am happy today", "i'm happy today!", "i'm happy today"]
+          "wordIds": [
+            "emo-masaya"
+          ],
+          "accepted": [
+            "i am happy today!",
+            "i am happy today",
+            "i'm happy today!",
+            "i'm happy today"
+          ]
         },
         {
           "id": "emo-1-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Kumyak ya ing anak nung malungkut ya.",
-          "wordIds": ["emo-kumyak", "emo-malungkut"],
-          "accepted": ["the child cries when he is sad.", "the child cries when he is sad", "the child weeps when he is sad.", "the child weeps when he is sad"]
+          "wordIds": [
+            "emo-malungkut"
+          ],
+          "accepted": [
+            "the child cries when he is sad.",
+            "the child cries when he is sad",
+            "the child weeps when he is sad.",
+            "the child weeps when he is sad"
+          ]
         },
         {
           "id": "emo-1-fb1",
           "type": "fill-blank",
           "prompt": "____ ku ngeni! (happy)",
-          "wordIds": ["emo-masaya"],
+          "wordIds": [
+            "emo-masaya"
+          ],
           "answerId": "emo-masaya"
         },
         {
           "id": "emo-1-fb2",
           "type": "fill-blank",
           "prompt": "Dakal a ____ ing nasa puso na. (fear)",
-          "wordIds": ["emo-takut"],
+          "wordIds": [
+            "emo-takut"
+          ],
           "answerId": "emo-takut"
         },
         {
           "id": "emo-1-ma1",
           "type": "matching",
-          "wordIds": ["emo-masaya", "emo-malungkut", "emo-takut", "emo-kumyak"],
+          "wordIds": [
+            "emo-masaya",
+            "emo-malungkut",
+            "emo-takut"
+          ],
           "pairs": [
-            {"wordId": "emo-masaya"},
-            {"wordId": "emo-malungkut"},
-            {"wordId": "emo-takut"},
-            {"wordId": "emo-kumyak"}
+            {
+              "wordId": "emo-masaya"
+            },
+            {
+              "wordId": "emo-malungkut"
+            },
+            {
+              "wordId": "emo-takut"
+            }
           ]
         }
       ]
@@ -267,14 +436,20 @@
       "title": "Anger & Surprise",
       "theme": "Strong reactive emotions",
       "intro": "Explore two powerful reactive emotions: mimwa (angry) and meniglo (surprised/astonished). These are among the most commonly used emotion words in everyday Kapampangan.",
-      "wordIds": ["emo-mimwa", "emo-meniglo", "emo-mataranta"],
+      "wordIds": [
+        "emo-mimwa",
+        "emo-meniglo",
+        "emo-mataranta"
+      ],
       "exercises": [
         {
           "id": "emo-2-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"mimwa\" mean?",
-          "wordIds": ["emo-mimwa"],
+          "wordIds": [
+            "emo-mimwa"
+          ],
           "answerId": "emo-mimwa"
         },
         {
@@ -282,7 +457,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"meniglo\" mean?",
-          "wordIds": ["emo-meniglo"],
+          "wordIds": [
+            "emo-meniglo"
+          ],
           "answerId": "emo-meniglo"
         },
         {
@@ -290,39 +467,67 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mimwa ku keka!",
-          "wordIds": ["emo-mimwa"],
-          "accepted": ["i am angry at you!", "i am angry at you", "i'm angry at you!", "i'm angry at you"]
+          "wordIds": [
+            "emo-mimwa"
+          ],
+          "accepted": [
+            "i am angry at you!",
+            "i am angry at you",
+            "i'm angry at you!",
+            "i'm angry at you"
+          ]
         },
         {
           "id": "emo-2-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Meniglo ku king balita.",
-          "wordIds": ["emo-meniglo"],
-          "accepted": ["i am surprised by the news.", "i am surprised by the news", "i was surprised by the news.", "i was surprised by the news"]
+          "wordIds": [
+            "emo-meniglo"
+          ],
+          "accepted": [
+            "i am surprised by the news.",
+            "i am surprised by the news",
+            "i was surprised by the news.",
+            "i was surprised by the news"
+          ]
         },
         {
           "id": "emo-2-fb1",
           "type": "fill-blank",
           "prompt": "____ ya nung dakal a obra na. (flustered/panicked)",
-          "wordIds": ["emo-mataranta"],
+          "wordIds": [
+            "emo-mataranta"
+          ],
           "answerId": "emo-mataranta"
         },
         {
           "id": "emo-2-fb2",
           "type": "fill-blank",
           "prompt": "____ ku keka! (angry)",
-          "wordIds": ["emo-mimwa"],
+          "wordIds": [
+            "emo-mimwa"
+          ],
           "answerId": "emo-mimwa"
         },
         {
           "id": "emo-2-ma1",
           "type": "matching",
-          "wordIds": ["emo-mimwa", "emo-meniglo", "emo-mataranta"],
+          "wordIds": [
+            "emo-mimwa",
+            "emo-meniglo",
+            "emo-mataranta"
+          ],
           "pairs": [
-            {"wordId": "emo-mimwa"},
-            {"wordId": "emo-meniglo"},
-            {"wordId": "emo-mataranta"}
+            {
+              "wordId": "emo-mimwa"
+            },
+            {
+              "wordId": "emo-meniglo"
+            },
+            {
+              "wordId": "emo-mataranta"
+            }
           ]
         }
       ]
@@ -332,14 +537,20 @@
       "title": "Shy & Proud",
       "theme": "Social emotions",
       "intro": "Social emotions shape how we relate to others. Learn marine (shy/ashamed), pagmaragul (pride), and marirya (jealous) — three feelings central to Kapampangan social life.",
-      "wordIds": ["emo-marine", "emo-pagmaragul", "emo-marirya"],
+      "wordIds": [
+        "emo-marine",
+        "emo-pagmaragul",
+        "emo-marirya"
+      ],
       "exercises": [
         {
           "id": "emo-3-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"marine\" mean?",
-          "wordIds": ["emo-marine"],
+          "wordIds": [
+            "emo-marine"
+          ],
           "answerId": "emo-marine"
         },
         {
@@ -347,7 +558,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"marirya\" mean?",
-          "wordIds": ["emo-marirya"],
+          "wordIds": [
+            "emo-marirya"
+          ],
           "answerId": "emo-marirya"
         },
         {
@@ -355,39 +568,67 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Marine ku makipagusap king bayung tau.",
-          "wordIds": ["emo-marine"],
-          "accepted": ["i am shy when talking to new people.", "i am shy when talking to new people", "i'm shy when talking to new people.", "i'm shy when talking to new people"]
+          "wordIds": [
+            "emo-marine"
+          ],
+          "accepted": [
+            "i am shy when talking to new people.",
+            "i am shy when talking to new people",
+            "i'm shy when talking to new people.",
+            "i'm shy when talking to new people"
+          ]
         },
         {
           "id": "emo-3-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Pagmaragul ku king balen ku.",
-          "wordIds": ["emo-pagmaragul"],
-          "accepted": ["i have pride in my hometown.", "i have pride in my hometown", "i am proud of my hometown.", "i am proud of my hometown"]
+          "wordIds": [
+            "emo-pagmaragul"
+          ],
+          "accepted": [
+            "i have pride in my hometown.",
+            "i have pride in my hometown",
+            "i am proud of my hometown.",
+            "i am proud of my hometown"
+          ]
         },
         {
           "id": "emo-3-fb1",
           "type": "fill-blank",
           "prompt": "____ ya uling dakal a lugud ku para king anak. (jealous)",
-          "wordIds": ["emo-marirya"],
+          "wordIds": [
+            "emo-marirya"
+          ],
           "answerId": "emo-marirya"
         },
         {
           "id": "emo-3-fb2",
           "type": "fill-blank",
           "prompt": "Dakal a ____ king puso ku para keka. (pride)",
-          "wordIds": ["emo-pagmaragul"],
+          "wordIds": [
+            "emo-pagmaragul"
+          ],
           "answerId": "emo-pagmaragul"
         },
         {
           "id": "emo-3-ma1",
           "type": "matching",
-          "wordIds": ["emo-marine", "emo-pagmaragul", "emo-marirya"],
+          "wordIds": [
+            "emo-marine",
+            "emo-pagmaragul",
+            "emo-marirya"
+          ],
           "pairs": [
-            {"wordId": "emo-marine"},
-            {"wordId": "emo-pagmaragul"},
-            {"wordId": "emo-marirya"}
+            {
+              "wordId": "emo-marine"
+            },
+            {
+              "wordId": "emo-pagmaragul"
+            },
+            {
+              "wordId": "emo-marirya"
+            }
           ]
         }
       ]
@@ -397,14 +638,20 @@
       "title": "Joy & Gloom",
       "theme": "Deeper emotional states",
       "intro": "Beyond basic happiness and sadness lie deeper emotional states. Matula expresses a quiet, content joy, while madalumdum captures a dark or gloomy mood. Mabaya describes the ache of emotional pain.",
-      "wordIds": ["emo-matula", "emo-madalumdum", "emo-mabaya"],
+      "wordIds": [
+        "emo-matula",
+        "emo-madalumdum",
+        "emo-mabaya"
+      ],
       "exercises": [
         {
           "id": "emo-4-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"matula\" mean?",
-          "wordIds": ["emo-matula"],
+          "wordIds": [
+            "emo-matula"
+          ],
           "answerId": "emo-matula"
         },
         {
@@ -412,7 +659,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"madalumdum\" mean?",
-          "wordIds": ["emo-madalumdum"],
+          "wordIds": [
+            "emo-madalumdum"
+          ],
           "answerId": "emo-madalumdum"
         },
         {
@@ -420,39 +669,67 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Matula ku king lugud mu para kaku.",
-          "wordIds": ["emo-matula"],
-          "accepted": ["i am glad for your love for me.", "i am glad for your love for me", "i am joyful for your love for me.", "i am joyful for your love for me"]
+          "wordIds": [
+            "emo-matula"
+          ],
+          "accepted": [
+            "i am glad for your love for me.",
+            "i am glad for your love for me",
+            "i am joyful for your love for me.",
+            "i am joyful for your love for me"
+          ]
         },
         {
           "id": "emo-4-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mabaya ku king pusu ku.",
-          "wordIds": ["emo-mabaya"],
-          "accepted": ["my heart is aching.", "my heart is aching", "my heart aches.", "my heart aches"]
+          "wordIds": [
+            "emo-mabaya"
+          ],
+          "accepted": [
+            "my heart is aching.",
+            "my heart is aching",
+            "my heart aches.",
+            "my heart aches"
+          ]
         },
         {
           "id": "emo-4-fb1",
           "type": "fill-blank",
           "prompt": "____ ku nung umuran. (gloomy)",
-          "wordIds": ["emo-madalumdum"],
+          "wordIds": [
+            "emo-madalumdum"
+          ],
           "answerId": "emo-madalumdum"
         },
         {
           "id": "emo-4-fb2",
           "type": "fill-blank",
           "prompt": "____ ya namu king sinalita mu kaya. (hurting/aching)",
-          "wordIds": ["emo-mabaya"],
+          "wordIds": [
+            "emo-mabaya"
+          ],
           "answerId": "emo-mabaya"
         },
         {
           "id": "emo-4-ma1",
           "type": "matching",
-          "wordIds": ["emo-matula", "emo-madalumdum", "emo-mabaya"],
+          "wordIds": [
+            "emo-matula",
+            "emo-madalumdum",
+            "emo-mabaya"
+          ],
           "pairs": [
-            {"wordId": "emo-matula"},
-            {"wordId": "emo-madalumdum"},
-            {"wordId": "emo-mabaya"}
+            {
+              "wordId": "emo-matula"
+            },
+            {
+              "wordId": "emo-madalumdum"
+            },
+            {
+              "wordId": "emo-mabaya"
+            }
           ]
         }
       ]
@@ -462,14 +739,19 @@
       "title": "Bored & Calm",
       "theme": "States of stillness and restlessness",
       "intro": "Sometimes we feel fed up or restless; other times we find peace. Learn sawa (bored/fed up) and mipaindatun (to become calm/peaceful), two contrasting states of inner stillness.",
-      "wordIds": ["emo-sawa", "emo-mipaindatun"],
+      "wordIds": [
+        "emo-sawa",
+        "emo-mipaindatun"
+      ],
       "exercises": [
         {
           "id": "emo-5-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"sawa\" mean?",
-          "wordIds": ["emo-sawa"],
+          "wordIds": [
+            "emo-sawa"
+          ],
           "answerId": "emo-sawa"
         },
         {
@@ -477,7 +759,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"mipaindatun\" mean?",
-          "wordIds": ["emo-mipaindatun"],
+          "wordIds": [
+            "emo-mipaindatun"
+          ],
           "answerId": "emo-mipaindatun"
         },
         {
@@ -485,38 +769,63 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Sawa na ku king obra a iti.",
-          "wordIds": ["emo-sawa"],
-          "accepted": ["i am already bored with this work.", "i am already bored with this work", "i am fed up with this work.", "i am fed up with this work"]
+          "wordIds": [
+            "emo-sawa"
+          ],
+          "accepted": [
+            "i am already bored with this work.",
+            "i am already bored with this work",
+            "i am fed up with this work.",
+            "i am fed up with this work"
+          ]
         },
         {
           "id": "emo-5-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ali ya mipaindatun uling kasal ne bukas.",
-          "wordIds": ["emo-mipaindatun"],
-          "accepted": ["he is not calm because his wedding is tomorrow.", "he is not calm because his wedding is tomorrow", "he is restless because his wedding is tomorrow.", "he is restless because his wedding is tomorrow"]
+          "wordIds": [
+            "emo-mipaindatun"
+          ],
+          "accepted": [
+            "he is not calm because his wedding is tomorrow.",
+            "he is not calm because his wedding is tomorrow",
+            "he is restless because his wedding is tomorrow.",
+            "he is restless because his wedding is tomorrow"
+          ]
         },
         {
           "id": "emo-5-fb1",
           "type": "fill-blank",
           "prompt": "____ na ku king paulit-ulit a bisita. (fed up/bored)",
-          "wordIds": ["emo-sawa"],
+          "wordIds": [
+            "emo-sawa"
+          ],
           "answerId": "emo-sawa"
         },
         {
           "id": "emo-5-fb2",
           "type": "fill-blank",
           "prompt": "____ ya king lubu-lubu nang pamagmula. (became calm)",
-          "wordIds": ["emo-mipaindatun"],
+          "wordIds": [
+            "emo-mipaindatun"
+          ],
           "answerId": "emo-mipaindatun"
         },
         {
           "id": "emo-5-ma1",
           "type": "matching",
-          "wordIds": ["emo-sawa", "emo-mipaindatun"],
+          "wordIds": [
+            "emo-sawa",
+            "emo-mipaindatun"
+          ],
           "pairs": [
-            {"wordId": "emo-sawa"},
-            {"wordId": "emo-mipaindatun"}
+            {
+              "wordId": "emo-sawa"
+            },
+            {
+              "wordId": "emo-mipaindatun"
+            }
           ]
         }
       ]
@@ -526,14 +835,32 @@
       "title": "Emotions Review",
       "theme": "Comprehensive review of all emotion words",
       "intro": "Put it all together! This final lesson reviews all sixteen emotion words from the pack with a mix of translation, fill-in, and matching exercises.",
-      "wordIds": ["emo-masaya", "emo-malungkut", "emo-mimwa", "emo-matakut", "emo-meniglo", "emo-marine", "emo-pagmaragul", "emo-marirya", "emo-matula", "emo-madalumdum", "emo-takut", "emo-sawa", "emo-mipaindatun", "emo-mataranta", "emo-mabaya", "emo-kumyak"],
+      "wordIds": [
+        "emo-masaya",
+        "emo-malungkut",
+        "emo-mimwa",
+        "emo-matakut",
+        "emo-meniglo",
+        "emo-marine",
+        "emo-pagmaragul",
+        "emo-marirya",
+        "emo-matula",
+        "emo-madalumdum",
+        "emo-takut",
+        "emo-sawa",
+        "emo-mipaindatun",
+        "emo-mataranta",
+        "emo-mabaya"
+      ],
       "exercises": [
         {
           "id": "emo-6-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"matakut\" mean?",
-          "wordIds": ["emo-matakut"],
+          "wordIds": [
+            "emo-matakut"
+          ],
           "answerId": "emo-matakut"
         },
         {
@@ -541,51 +868,108 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Matakut kami king bengi.",
-          "wordIds": ["emo-matakut"],
-          "accepted": ["we are afraid at night.", "we are afraid at night", "we are scared at night.", "we are scared at night"]
+          "wordIds": [
+            "emo-matakut"
+          ],
+          "accepted": [
+            "we are afraid at night.",
+            "we are afraid at night",
+            "we are scared at night.",
+            "we are scared at night"
+          ]
         },
         {
           "id": "emo-6-fb1",
           "type": "fill-blank",
           "prompt": "____ ku nung miras ka. (sad/lonely)",
-          "wordIds": ["emo-malungkut"],
+          "wordIds": [
+            "emo-malungkut"
+          ],
           "answerId": "emo-malungkut"
         },
         {
           "id": "emo-6-fb2",
           "type": "fill-blank",
           "prompt": "Ali ka ____ king biyaya na kapatad mu. (jealous)",
-          "wordIds": ["emo-marirya"],
+          "wordIds": [
+            "emo-marirya"
+          ],
           "answerId": "emo-marirya"
         },
         {
           "id": "emo-6-ma1",
           "type": "matching",
-          "wordIds": ["emo-masaya", "emo-mimwa", "emo-marine", "emo-matula", "emo-meniglo", "emo-malungkut", "emo-marirya", "emo-matakut"],
+          "wordIds": [
+            "emo-masaya",
+            "emo-mimwa",
+            "emo-marine",
+            "emo-matula",
+            "emo-meniglo",
+            "emo-malungkut",
+            "emo-marirya",
+            "emo-matakut"
+          ],
           "pairs": [
-            {"wordId": "emo-masaya"},
-            {"wordId": "emo-mimwa"},
-            {"wordId": "emo-marine"},
-            {"wordId": "emo-matula"},
-            {"wordId": "emo-meniglo"},
-            {"wordId": "emo-malungkut"},
-            {"wordId": "emo-marirya"},
-            {"wordId": "emo-matakut"}
+            {
+              "wordId": "emo-masaya"
+            },
+            {
+              "wordId": "emo-mimwa"
+            },
+            {
+              "wordId": "emo-marine"
+            },
+            {
+              "wordId": "emo-matula"
+            },
+            {
+              "wordId": "emo-meniglo"
+            },
+            {
+              "wordId": "emo-malungkut"
+            },
+            {
+              "wordId": "emo-marirya"
+            },
+            {
+              "wordId": "emo-matakut"
+            }
           ]
         },
         {
           "id": "emo-6-ma2",
           "type": "matching",
-          "wordIds": ["emo-pagmaragul", "emo-madalumdum", "emo-takut", "emo-sawa", "emo-mipaindatun", "emo-mataranta", "emo-mabaya", "emo-kumyak"],
+          "wordIds": [
+            "emo-pagmaragul",
+            "emo-madalumdum",
+            "emo-takut",
+            "emo-sawa",
+            "emo-mipaindatun",
+            "emo-mataranta",
+            "emo-mabaya"
+          ],
           "pairs": [
-            {"wordId": "emo-pagmaragul"},
-            {"wordId": "emo-madalumdum"},
-            {"wordId": "emo-takut"},
-            {"wordId": "emo-sawa"},
-            {"wordId": "emo-mipaindatun"},
-            {"wordId": "emo-mataranta"},
-            {"wordId": "emo-mabaya"},
-            {"wordId": "emo-kumyak"}
+            {
+              "wordId": "emo-pagmaragul"
+            },
+            {
+              "wordId": "emo-madalumdum"
+            },
+            {
+              "wordId": "emo-takut"
+            },
+            {
+              "wordId": "emo-sawa"
+            },
+            {
+              "wordId": "emo-mipaindatun"
+            },
+            {
+              "wordId": "emo-mataranta"
+            },
+            {
+              "wordId": "emo-mabaya"
+            }
           ]
         },
         {
@@ -593,8 +977,15 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Sawa na ku king obra a iti.",
-          "wordIds": ["emo-sawa"],
-          "accepted": ["i am already bored with this work.", "i am already bored with this work", "i am fed up with this work.", "i am fed up with this work"]
+          "wordIds": [
+            "emo-sawa"
+          ],
+          "accepted": [
+            "i am already bored with this work.",
+            "i am already bored with this work",
+            "i am fed up with this work.",
+            "i am fed up with this work"
+          ]
         }
       ]
     }

@@ -9,8 +9,13 @@ import body from './body.json'
 import animals from './animals.json'
 import house from './house.json'
 import nature from './nature.json'
+import greetings from './greetings.json'
+import emotions from './emotions.json'
 import questions from './questions.json'
+import travel from './travel.json'
 import clothing from './clothing.json'
+import actions from './actions.json'
+import money from './money.json'
 
 /**
  * Additional content packs, aggregated into the global dictionary & lessons.
@@ -28,6 +33,11 @@ export const extraPacks: ContentPack[] = [
   animals as ContentPack,
   house as ContentPack,
   nature as ContentPack,
+  greetings as ContentPack,
+  emotions as ContentPack,
   questions as ContentPack,
+  travel as ContentPack,
   clothing as ContentPack,
+  actions as ContentPack,
+  money as ContentPack,
 ]

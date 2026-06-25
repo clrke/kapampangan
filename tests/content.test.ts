@@ -11,12 +11,17 @@ describe('content stats', () => {
     expect(totalMinutes()).toBeGreaterThan(0)
   })
 
-  it('logs the running content total (visibility while building toward 10 hours)', () => {
+  it('logs the running content total', () => {
     // eslint-disable-next-line no-console
     console.log(
       `\n📚 Content: ${contentStats.lessons} lessons · ${contentStats.words} words · ` +
         `${contentStats.minutes.toFixed(0)} min (${contentStats.hours.toFixed(2)} h)\n`,
     )
     expect(contentStats.hours).toBeGreaterThan(0)
+  })
+
+  it('provides at least 10 hours of learning content', () => {
+    // Target locked in: the app must always ship >= 10 hours of material.
+    expect(contentStats.minutes).toBeGreaterThanOrEqual(600)
   })
 })
