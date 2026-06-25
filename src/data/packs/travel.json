@@ -1,0 +1,607 @@
+{
+  "id": "travel",
+  "title": "Directions & Travel",
+  "entries": [
+    {
+      "id": "trav-kayli",
+      "word": "kayli",
+      "partOfSpeech": "noun",
+      "translations": ["left", "left side"],
+      "relatedTagalog": "kaliwa",
+      "examples": [
+        {"kp": "Magkayli ka king susunud a kanto.", "en": "Turn left at the next corner."},
+        {"kp": "Atyu ya ing bale king kayli.", "en": "The house is on the left."}
+      ],
+      "notes": "Directional noun for the left side. Used in the Wikivoyage Kapampangan phrasebook and multiple vocabulary guides. Phrase 'magkayli ka' means 'turn left'."
+    },
+    {
+      "id": "trav-wanan",
+      "word": "wanan",
+      "partOfSpeech": "noun",
+      "translations": ["right", "right side"],
+      "relatedTagalog": "kanan",
+      "examples": [
+        {"kp": "Magwanan ka king kanto.", "en": "Turn right at the corner."},
+        {"kp": "Atyu ya ing iskuwela king wanan ning dalan.", "en": "The school is on the right side of the road."}
+      ],
+      "notes": "Attested in the UCLA Kapampangan word list (1974) as entry 148. Cognate with Proto-Malayo-Polynesian *(ka-)wanan; related to Tagalog 'kanan'."
+    },
+    {
+      "id": "trav-siping",
+      "word": "siping",
+      "partOfSpeech": "adjective",
+      "translations": ["near", "close", "nearby"],
+      "relatedTagalog": "malapit / katabi",
+      "examples": [
+        {"kp": "Siping ya ing tindahan keni.", "en": "The store is near here."},
+        {"kp": "Siping na tamu king balen.", "en": "We are already near the town."}
+      ],
+      "notes": "Attested in the UCLA Kapampangan phonetics word list (entry 102). Cognate with Proto-Philippine *sipiŋ meaning 'next to, in close proximity'. Also used in Tagalog with a slightly different shade (beside/next to)."
+    },
+    {
+      "id": "trav-malawut",
+      "word": "malawut",
+      "partOfSpeech": "adjective",
+      "translations": ["far", "distant"],
+      "relatedTagalog": "malayo",
+      "examples": [
+        {"kp": "Malawut ya ing Maynila king Kapampangan.", "en": "Manila is far from Kapampangan territory."},
+        {"kp": "Ali malawut ya ing tindahan; siping ya.", "en": "The store is not far; it is near."}
+      ],
+      "notes": "Confirmed in multiple Kapampangan vocabulary guides including The Kapampangan Traveller blog and common phrase lists. Distinct from Tagalog 'malayo'."
+    },
+    {
+      "id": "trav-babo",
+      "word": "babo",
+      "partOfSpeech": "noun",
+      "translations": ["above", "upstairs", "up", "on top"],
+      "relatedTagalog": "taas / sa itaas",
+      "examples": [
+        {"kp": "Atyu ya king babo ning lamesa.", "en": "It is on top of the table."},
+        {"kp": "Munta ka king babo; atyu ya karin ing kwartu.", "en": "Go upstairs; the room is there."}
+      ],
+      "notes": "Attested in UCLA Kapampangan word list (entry 40: 'upstairs'). Also confirmed in the Wikivoyage Kapampangan phrasebook and The Kapampangan Traveller vocabulary list."
+    },
+    {
+      "id": "trav-lalam",
+      "word": "lalam",
+      "partOfSpeech": "noun",
+      "translations": ["below", "under", "underneath", "downstairs"],
+      "relatedTagalog": "ibaba / sa ilalim",
+      "examples": [
+        {"kp": "Atyu ya king lalam ning lamesa.", "en": "It is under the table."},
+        {"kp": "Munta ka king lalam; keni ku iti nakalukluk.", "en": "Go downstairs; I am seated here."}
+      ],
+      "notes": "Attested in UCLA Kapampangan word list (entry 124: 'beneath'). Confirmed in the Wikivoyage phrasebook and multiple vocabulary sources. Also appears in Kapampangan idiomatic expressions."
+    },
+    {
+      "id": "trav-arap",
+      "word": "arap",
+      "partOfSpeech": "noun",
+      "translations": ["front", "the front", "ahead"],
+      "relatedTagalog": "harap",
+      "examples": [
+        {"kp": "Atyu ya ing kotsi king arap ning bale.", "en": "The car is in front of the house."},
+        {"kp": "Sumulung ka; miras ka king arap.", "en": "Go straight; you will arrive at the front."}
+      ],
+      "notes": "Confirmed in tagaloglang.com Kapampangan dictionary ('keng arap' = sa harap). Also appears in a traditional Kapampangan riddle as 'arap' (front). Related to Tagalog 'harap'."
+    },
+    {
+      "id": "trav-likuran",
+      "word": "likuran",
+      "partOfSpeech": "noun",
+      "translations": ["back", "behind", "rear"],
+      "relatedTagalog": "likod / likuran",
+      "examples": [
+        {"kp": "Atyu ya ing tindahan king likuran ning bale.", "en": "The store is behind the house."},
+        {"kp": "Munta ka king likuran; karin ya ing puerta.", "en": "Go to the back; the door is there."}
+      ],
+      "notes": "Confirmed in Kapampangan riddle context: 'likuran' as back/behind. Related to Tagalog 'likuran/likod'. Synonym 'gulut' also used but less commonly documented."
+    },
+    {
+      "id": "trav-lub",
+      "word": "lub",
+      "partOfSpeech": "noun",
+      "translations": ["inside", "interior", "within"],
+      "relatedTagalog": "loob",
+      "examples": [
+        {"kp": "Atyu ya king lub ning bale.", "en": "He is inside the house."},
+        {"kp": "Munta ka king lub ning kotsi.", "en": "Get inside the car."}
+      ],
+      "notes": "Attested in UCLA Kapampangan word list (entry 49: 'inside'). Extended form 'kilub' also used. Directional form 'papalub' means 'going inside/inward'. Cognate with Tagalog 'loob'."
+    },
+    {
+      "id": "trav-lual",
+      "word": "lual",
+      "partOfSpeech": "noun",
+      "translations": ["outside", "exterior"],
+      "relatedTagalog": "labas",
+      "examples": [
+        {"kp": "Atyu ya king lual ning bale.", "en": "He is outside the house."},
+        {"kp": "Lumwal ka; mainit ya king lub.", "en": "Go outside; it is hot inside."}
+      ],
+      "notes": "Root of directional 'papaluwal' (going outside/outward) confirmed in vocabulary guides. The root 'lual' is the nominal form for outside/exterior. Related verb 'lumwal' means to go outside."
+    },
+    {
+      "id": "trav-kotsi",
+      "word": "kotsi",
+      "partOfSpeech": "noun",
+      "translations": ["car", "automobile"],
+      "relatedTagalog": "kotse",
+      "examples": [
+        {"kp": "Buri ku arkilan ing kotsi.", "en": "I want to rent a car."},
+        {"kp": "Atyu ya ing kotsi king arap ning bale.", "en": "The car is in front of the house."}
+      ],
+      "notes": "Confirmed in the Wikivoyage Kapampangan phrasebook ('Buri keng arkilan ing kotsi' = I want to rent a car). From Spanish 'coche'. Variant 'kotse' also appears; 'kotsi' is the Kapampangan phonological form."
+    },
+    {
+      "id": "trav-dyip",
+      "word": "dyip",
+      "partOfSpeech": "noun",
+      "translations": ["jeepney", "jeep"],
+      "relatedTagalog": "dyip / jeepney",
+      "examples": [
+        {"kp": "Sake kang dyip papunta king balen.", "en": "Ride a jeepney going to town."},
+        {"kp": "Pila ing pamasahe ning dyip?", "en": "How much is the jeepney fare?"}
+      ],
+      "notes": "Used in Kapampangan context ('sake kung jeep' = I will ride a jeep) documented in vocabulary resources. Loanword from English via back-formation from 'jeepney'. The most iconic Philippine public transport vehicle."
+    },
+    {
+      "id": "trav-traysikel",
+      "word": "traysikel",
+      "partOfSpeech": "noun",
+      "translations": ["tricycle", "trike", "motorized tricycle"],
+      "relatedTagalog": "traysikel",
+      "examples": [
+        {"kp": "Sake na ku king traysikel papunta king iskuwela.", "en": "I will ride the tricycle going to school."},
+        {"kp": "Ing traysikel malutu ya.", "en": "The tricycle is red."}
+      ],
+      "notes": "Cross-Philippine loanword from English 'tricycle' (Philippine motorized tricycle with sidecar). Widely used in Pampanga and attested in Kapampangan travel resources."
+    },
+    {
+      "id": "trav-tuknang",
+      "word": "tuknang",
+      "partOfSpeech": "verb",
+      "translations": ["stop", "halt", "cease"],
+      "relatedTagalog": "huminto / tigil",
+      "examples": [
+        {"kp": "Tuknang ka keni, pakisuyo.", "en": "Please stop here."},
+        {"kp": "Tuknang naka ing kotsi king kayli.", "en": "Stop the car on the left."}
+      ],
+      "notes": "Confirmed in Wiktionary as Kapampangan: 'stop; cessation; break'. Also listed as synonym of 'patugut' in kaikki.org Kapampangan dictionary. Phrase 'Keni na mu, pakisuyo' (Please stop here) attested in philippinestravelmap.com."
+    },
+    {
+      "id": "trav-liku",
+      "word": "liku",
+      "partOfSpeech": "verb",
+      "translations": ["turn", "make a turn", "curve"],
+      "relatedTagalog": "liko / lumiko",
+      "examples": [
+        {"kp": "Liku ka king wanan king susunud a dalan.", "en": "Turn right at the next road."},
+        {"kp": "Liku ka king kayli; siping na ing bale.", "en": "Turn left; the house is nearby."}
+      ],
+      "notes": "Root verb for turning/changing direction. Confirmed across Philippine languages as a shared Austronesian root. Wikivoyage Kapampangan phrasebook uses 'magkayli ka' and 'magwanan ka' for directional turns; 'liku' is the root."
+    },
+    {
+      "id": "trav-sumulung",
+      "word": "sumulung",
+      "partOfSpeech": "verb",
+      "translations": ["go straight", "go straight ahead", "proceed forward"],
+      "relatedTagalog": "diretso / tumuloy",
+      "examples": [
+        {"kp": "Sumulung ka king dalan.", "en": "Go straight along the road."},
+        {"kp": "Sumulung ka; ali ka liku.", "en": "Go straight ahead; do not turn."}
+      ],
+      "notes": "Confirmed directly in the Wikivoyage Kapampangan phrasebook: 'sumulung ka' = 'straight ahead'. The imperative form 'sumulung ka' is the standard phrase for directing someone to go straight."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "trav-1",
+      "title": "Left, Right & Straight",
+      "theme": "Basic directional commands",
+      "intro": "Learn the three most essential direction words for navigating Pampanga: left, right, and straight ahead.",
+      "wordIds": ["trav-kayli", "trav-wanan", "trav-sumulung", "trav-liku"],
+      "exercises": [
+        {
+          "id": "trav-ex-1-1",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "left",
+          "answerId": "trav-kayli",
+          "wordIds": ["trav-kayli", "trav-wanan", "trav-sumulung", "trav-liku"]
+        },
+        {
+          "id": "trav-ex-1-2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "wanan",
+          "answerId": "trav-wanan",
+          "wordIds": ["trav-kayli", "trav-wanan", "trav-sumulung", "trav-liku"]
+        },
+        {
+          "id": "trav-ex-1-3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sumulung ka king dalan.",
+          "accepted": ["go straight along the road", "go straight on the road"],
+          "wordIds": ["trav-sumulung"]
+        },
+        {
+          "id": "trav-ex-1-4",
+          "type": "fill-blank",
+          "prompt": "Mag____ ka king kayli. (Turn left.)",
+          "answerId": "trav-kayli",
+          "wordIds": ["trav-kayli", "trav-wanan"]
+        },
+        {
+          "id": "trav-ex-1-5",
+          "type": "matching",
+          "pairs": [
+            {"wordId": "trav-kayli"},
+            {"wordId": "trav-wanan"},
+            {"wordId": "trav-sumulung"},
+            {"wordId": "trav-liku"}
+          ],
+          "wordIds": ["trav-kayli", "trav-wanan", "trav-sumulung", "trav-liku"]
+        },
+        {
+          "id": "trav-ex-1-6",
+          "type": "translate",
+          "direction": "en-to-kp",
+          "prompt": "Turn right at the corner.",
+          "accepted": ["liku ka king wanan king kanto", "magwanan ka king kanto"],
+          "wordIds": ["trav-wanan", "trav-liku"]
+        },
+        {
+          "id": "trav-ex-1-7",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "go straight ahead",
+          "answerId": "trav-sumulung",
+          "wordIds": ["trav-kayli", "trav-wanan", "trav-sumulung", "trav-liku"]
+        }
+      ]
+    },
+    {
+      "id": "trav-2",
+      "title": "Near & Far",
+      "theme": "Distance and proximity",
+      "intro": "Describe how close or far something is. These two words are essential for asking about distances when traveling.",
+      "wordIds": ["trav-siping", "trav-malawut"],
+      "exercises": [
+        {
+          "id": "trav-ex-2-1",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "near",
+          "answerId": "trav-siping",
+          "wordIds": ["trav-siping", "trav-malawut"]
+        },
+        {
+          "id": "trav-ex-2-2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "malawut",
+          "answerId": "trav-malawut",
+          "wordIds": ["trav-siping", "trav-malawut"]
+        },
+        {
+          "id": "trav-ex-2-3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Siping ya ing tindahan keni.",
+          "accepted": ["the store is near here", "the shop is near here", "the store is nearby"],
+          "wordIds": ["trav-siping"]
+        },
+        {
+          "id": "trav-ex-2-4",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malawut ya ing Maynila.",
+          "accepted": ["manila is far", "manila is far away", "manila is distant"],
+          "wordIds": ["trav-malawut"]
+        },
+        {
+          "id": "trav-ex-2-5",
+          "type": "fill-blank",
+          "prompt": "____ ya ing balen; ali malawut. (The town is near; not far.)",
+          "answerId": "trav-siping",
+          "wordIds": ["trav-siping", "trav-malawut"]
+        },
+        {
+          "id": "trav-ex-2-6",
+          "type": "matching",
+          "pairs": [
+            {"wordId": "trav-siping"},
+            {"wordId": "trav-malawut"}
+          ],
+          "wordIds": ["trav-siping", "trav-malawut"]
+        },
+        {
+          "id": "trav-ex-2-7",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "far",
+          "answerId": "trav-malawut",
+          "wordIds": ["trav-siping", "trav-malawut", "trav-kayli", "trav-sumulung"]
+        }
+      ]
+    },
+    {
+      "id": "trav-3",
+      "title": "Up, Down & Stop",
+      "theme": "Vertical directions and halting",
+      "intro": "Learn words for vertical position and how to tell vehicles to stop — a must-know for riding jeepneys and tricycles.",
+      "wordIds": ["trav-babo", "trav-lalam", "trav-tuknang"],
+      "exercises": [
+        {
+          "id": "trav-ex-3-1",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "above / upstairs",
+          "answerId": "trav-babo",
+          "wordIds": ["trav-babo", "trav-lalam", "trav-tuknang"]
+        },
+        {
+          "id": "trav-ex-3-2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "lalam",
+          "answerId": "trav-lalam",
+          "wordIds": ["trav-babo", "trav-lalam", "trav-tuknang"]
+        },
+        {
+          "id": "trav-ex-3-3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Tuknang ka keni, pakisuyo.",
+          "accepted": ["please stop here", "stop here please"],
+          "wordIds": ["trav-tuknang"]
+        },
+        {
+          "id": "trav-ex-3-4",
+          "type": "fill-blank",
+          "prompt": "Atyu ya king ____ ning lamesa. (It is on top of the table.)",
+          "answerId": "trav-babo",
+          "wordIds": ["trav-babo", "trav-lalam"]
+        },
+        {
+          "id": "trav-ex-3-5",
+          "type": "matching",
+          "pairs": [
+            {"wordId": "trav-babo"},
+            {"wordId": "trav-lalam"},
+            {"wordId": "trav-tuknang"}
+          ],
+          "wordIds": ["trav-babo", "trav-lalam", "trav-tuknang"]
+        },
+        {
+          "id": "trav-ex-3-6",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atyu ya king lalam ning lamesa.",
+          "accepted": ["it is under the table", "it is below the table", "he is under the table"],
+          "wordIds": ["trav-lalam"]
+        },
+        {
+          "id": "trav-ex-3-7",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "stop / halt",
+          "answerId": "trav-tuknang",
+          "wordIds": ["trav-babo", "trav-lalam", "trav-tuknang"]
+        }
+      ]
+    },
+    {
+      "id": "trav-4",
+      "title": "Front & Back",
+      "theme": "Front-to-back spatial positions",
+      "intro": "Describe where things are in relation to the front or back. Useful for giving and following directions around buildings and streets.",
+      "wordIds": ["trav-arap", "trav-likuran"],
+      "exercises": [
+        {
+          "id": "trav-ex-4-1",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "front",
+          "answerId": "trav-arap",
+          "wordIds": ["trav-arap", "trav-likuran"]
+        },
+        {
+          "id": "trav-ex-4-2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "likuran",
+          "answerId": "trav-likuran",
+          "wordIds": ["trav-arap", "trav-likuran"]
+        },
+        {
+          "id": "trav-ex-4-3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atyu ya ing kotsi king arap ning bale.",
+          "accepted": ["the car is in front of the house", "the car is at the front of the house"],
+          "wordIds": ["trav-arap", "trav-kotsi"]
+        },
+        {
+          "id": "trav-ex-4-4",
+          "type": "fill-blank",
+          "prompt": "Atyu ya ing tindahan king ____ ning bale. (The store is behind the house.)",
+          "answerId": "trav-likuran",
+          "wordIds": ["trav-arap", "trav-likuran"]
+        },
+        {
+          "id": "trav-ex-4-5",
+          "type": "matching",
+          "pairs": [
+            {"wordId": "trav-arap"},
+            {"wordId": "trav-likuran"}
+          ],
+          "wordIds": ["trav-arap", "trav-likuran"]
+        },
+        {
+          "id": "trav-ex-4-6",
+          "type": "translate",
+          "direction": "en-to-kp",
+          "prompt": "Go to the back; the door is there.",
+          "accepted": ["munta ka king likuran; karin ya ing puerta", "munta ka king likuran"],
+          "wordIds": ["trav-likuran"]
+        },
+        {
+          "id": "trav-ex-4-7",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "behind / back",
+          "answerId": "trav-likuran",
+          "wordIds": ["trav-arap", "trav-likuran", "trav-babo", "trav-lalam"]
+        }
+      ]
+    },
+    {
+      "id": "trav-5",
+      "title": "Inside & Outside",
+      "theme": "Interior and exterior positions",
+      "intro": "Master the words for inside and outside — essential when boarding vehicles and describing locations.",
+      "wordIds": ["trav-lub", "trav-lual"],
+      "exercises": [
+        {
+          "id": "trav-ex-5-1",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "inside",
+          "answerId": "trav-lub",
+          "wordIds": ["trav-lub", "trav-lual"]
+        },
+        {
+          "id": "trav-ex-5-2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "lual",
+          "answerId": "trav-lual",
+          "wordIds": ["trav-lub", "trav-lual"]
+        },
+        {
+          "id": "trav-ex-5-3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atyu ya king lub ning bale.",
+          "accepted": ["he is inside the house", "she is inside the house", "it is inside the house", "they are inside the house"],
+          "wordIds": ["trav-lub"]
+        },
+        {
+          "id": "trav-ex-5-4",
+          "type": "fill-blank",
+          "prompt": "Atyu ya king ____ ning bale. (He is outside the house.)",
+          "answerId": "trav-lual",
+          "wordIds": ["trav-lub", "trav-lual"]
+        },
+        {
+          "id": "trav-ex-5-5",
+          "type": "matching",
+          "pairs": [
+            {"wordId": "trav-lub"},
+            {"wordId": "trav-lual"}
+          ],
+          "wordIds": ["trav-lub", "trav-lual"]
+        },
+        {
+          "id": "trav-ex-5-6",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta ka king lub ning kotsi.",
+          "accepted": ["get inside the car", "go inside the car", "go into the car"],
+          "wordIds": ["trav-lub", "trav-kotsi"]
+        },
+        {
+          "id": "trav-ex-5-7",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "outside",
+          "answerId": "trav-lual",
+          "wordIds": ["trav-lub", "trav-lual", "trav-arap", "trav-likuran"]
+        }
+      ]
+    },
+    {
+      "id": "trav-6",
+      "title": "Vehicles & Getting Around",
+      "theme": "Transportation in Pampanga",
+      "intro": "Learn the names of the vehicles you will use in Pampanga: the iconic jeepney, the tricycle, and the car.",
+      "wordIds": ["trav-kotsi", "trav-dyip", "trav-traysikel"],
+      "exercises": [
+        {
+          "id": "trav-ex-6-1",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "car / automobile",
+          "answerId": "trav-kotsi",
+          "wordIds": ["trav-kotsi", "trav-dyip", "trav-traysikel"]
+        },
+        {
+          "id": "trav-ex-6-2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "dyip",
+          "answerId": "trav-dyip",
+          "wordIds": ["trav-kotsi", "trav-dyip", "trav-traysikel"]
+        },
+        {
+          "id": "trav-ex-6-3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sake kang dyip papunta king balen.",
+          "accepted": ["ride a jeepney going to town", "take a jeepney going to town", "ride the jeepney going to town"],
+          "wordIds": ["trav-dyip"]
+        },
+        {
+          "id": "trav-ex-6-4",
+          "type": "fill-blank",
+          "prompt": "Sake na ku king ____ papunta king iskuwela. (I will ride the tricycle going to school.)",
+          "answerId": "trav-traysikel",
+          "wordIds": ["trav-kotsi", "trav-dyip", "trav-traysikel"]
+        },
+        {
+          "id": "trav-ex-6-5",
+          "type": "matching",
+          "pairs": [
+            {"wordId": "trav-kotsi"},
+            {"wordId": "trav-dyip"},
+            {"wordId": "trav-traysikel"}
+          ],
+          "wordIds": ["trav-kotsi", "trav-dyip", "trav-traysikel"]
+        },
+        {
+          "id": "trav-ex-6-6",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Buri ku arkilan ing kotsi.",
+          "accepted": ["i want to rent a car", "i would like to rent a car"],
+          "wordIds": ["trav-kotsi"]
+        },
+        {
+          "id": "trav-ex-6-7",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "tricycle / trike",
+          "answerId": "trav-traysikel",
+          "wordIds": ["trav-kotsi", "trav-dyip", "trav-traysikel"]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikivoyage.org/wiki/Kapampangan_phrasebook",
+    "https://archive.phonetics.ucla.edu/Language/PAM/pam_word-list_1974_01.html",
+    "https://en.wiktionary.org/wiki/tuknang",
+    "https://kaikki.org/dictionary/Kapampangan/meaning/p/pa/patugut.html",
+    "https://www.tagaloglang.com/kapampangan-dictionary/",
+    "https://kapampangantraveller.com/blog/",
+    "https://idoc.pub/documents/common-kapampangan-words-phrasesdocx-vlr9gpp65jlz",
+    "https://en.wikipedia.org/wiki/Kapampangan_language",
+    "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)",
+    "https://en.wikipedia.org/wiki/Jeepney"
+  ],
+  "confidenceNotes": "HIGH confidence (multiple independent sources): kayli (left), wanan (right), babo (above), lalam (below), lub (inside), kotsi (car), tuknang (stop), sumulung (straight ahead) — all confirmed in Wikivoyage phrasebook and/or UCLA 1974 word list and/or Wiktionary. MEDIUM-HIGH confidence: siping (near) — confirmed in UCLA word list as Kapampangan; malapit is the Tagalog cognate. malawut (far) — confirmed across multiple vocabulary guides. arap (front), likuran (back) — confirmed in Kapampangan riddle context and tagaloglang dictionary. lual (outside) — inferred from directional form 'papaluwal' attested in vocabulary guides; root 'lual' is the nominal form. liku (turn) — root attested across Austronesian languages; used in Kapampangan direction context. MEDIUM confidence: dyip (jeepney), traysikel (tricycle) — pan-Philippine loanwords widely used in Pampanga, attested in travel resources, though not in a dedicated Kapampangan dictionary entry."
+}
