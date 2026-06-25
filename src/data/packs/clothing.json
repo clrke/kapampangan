@@ -1,0 +1,598 @@
+{
+  "id": "clothing",
+  "title": "Clothing & Accessories",
+  "entries": [
+    {
+      "id": "wear-baro",
+      "word": "baro",
+      "partOfSpeech": "noun",
+      "translations": ["shirt", "blouse", "upper garment"],
+      "relatedTagalog": "baro",
+      "examples": [
+        {"kp": "Maputi ya ing baro ku.", "en": "My shirt is white."},
+        {"kp": "Atyu ya ing baro ku king lamesa.", "en": "My shirt is on the table."}
+      ],
+      "notes": "Core Kapampangan clothing word. Attested in traditional clothing documentation (Kapampangan Language & Identity PDF, Scribd) and multiple Kapampangan vocabulary sources. The traditional garment 'Barung Kapampangan' takes its name from this word. Part of the classic 'baro't saya' pairing."
+    },
+    {
+      "id": "wear-salawal",
+      "word": "salawal",
+      "partOfSpeech": "noun",
+      "translations": ["pants", "trousers"],
+      "relatedTagalog": "salawal",
+      "examples": [
+        {"kp": "Ing salawal ku malutu ya.", "en": "My pants are red."},
+        {"kp": "Bibili ya ing bayung salawal.", "en": "He is buying new pants."}
+      ],
+      "notes": "Attested in the Vocabulario Pampango-Tagalog-Inglés (archive.org). Wiktionary's salawal entry lists Kapampangan cognate 'salol' (short pants); the full form salawal is used for trousers. Ultimately from Malay/Persian shalwar."
+    },
+    {
+      "id": "wear-sapatus",
+      "word": "sapatus",
+      "partOfSpeech": "noun",
+      "translations": ["shoes"],
+      "relatedTagalog": "sapatos",
+      "examples": [
+        {"kp": "Bayung sapatus ya ini.", "en": "These are new shoes."},
+        {"kp": "Sulud me ing sapatus mu.", "en": "Put on your shoes."}
+      ],
+      "notes": "Attested in tagaloglang.com Kapampangan words list. Confirmed in Vocabulario Pampango-Tagalog-Inglés (archive.org). The Kapampangan spelling uses final -us where Tagalog uses -os. Ultimately from Spanish zapatos."
+    },
+    {
+      "id": "wear-tsinelas",
+      "word": "tsinelas",
+      "partOfSpeech": "noun",
+      "translations": ["slippers", "sandals", "flip-flops"],
+      "relatedTagalog": "tsinelas",
+      "examples": [
+        {"kp": "Ing tsinelas ku atyu ya king pintuan.", "en": "My slippers are at the door."},
+        {"kp": "Ibili me ing tsinelas ku.", "en": "Buy me slippers."}
+      ],
+      "notes": "Attested in the Vocabulario Pampango-Tagalog-Inglés (archive.org). From Spanish chinelas. Shared across many Philippine languages including Tagalog and Cebuano."
+    },
+    {
+      "id": "wear-kupia",
+      "word": "kupia",
+      "partOfSpeech": "noun",
+      "translations": ["hat", "cap"],
+      "relatedTagalog": "kupya",
+      "examples": [
+        {"kp": "Lagyu me ing kupia mu.", "en": "Put on your hat."},
+        {"kp": "Maragul ya ing kupia na.", "en": "His hat is big."}
+      ],
+      "notes": "Confirmed on bigwas.com as Kapampangan for 'hat, cap, headgear.' The adjectival form is 'makakupia' (wearing a hat). Also attested in viewsfromthepampang.blogspot.com hat article. Etymology: Arabic kūfiyya via Malay kopiah."
+    },
+    {
+      "id": "wear-saya",
+      "word": "saya",
+      "partOfSpeech": "noun",
+      "translations": ["skirt"],
+      "relatedTagalog": "saya / palda",
+      "examples": [
+        {"kp": "Malagu ya ing saya na.", "en": "Her skirt is beautiful."},
+        {"kp": "Ibili ya ing bayung saya.", "en": "She is buying a new skirt."}
+      ],
+      "notes": "Attested in the Vocabulario Pampango-Tagalog-Inglés (archive.org). From Spanish saya. Also part of the traditional 'baro't saya' ensemble documented in multiple Philippine cultural sources."
+    },
+    {
+      "id": "wear-pitaka",
+      "word": "pitaka",
+      "partOfSpeech": "noun",
+      "translations": ["bag", "wallet", "purse"],
+      "relatedTagalog": "pitaka",
+      "examples": [
+        {"kp": "Atyu ya ing pitaka ku king lamesa.", "en": "My bag is on the table."},
+        {"kp": "Maragul ya ing pitaka mu.", "en": "Your bag is big."}
+      ],
+      "notes": "Attested in tagaloglang.com Kapampangan words list and confirmed in Vocabulario Pampango-Tagalog-Inglés (archive.org). Shared with Tagalog. From Sanskrit bharitakā via Malay."
+    },
+    {
+      "id": "wear-medyas",
+      "word": "medyas",
+      "partOfSpeech": "noun",
+      "translations": ["socks", "stockings"],
+      "relatedTagalog": "medyas",
+      "examples": [
+        {"kp": "Malutu ya ing medyas ku.", "en": "My socks are red."},
+        {"kp": "Sulud me ing medyas mu.", "en": "Put on your socks."}
+      ],
+      "notes": "Attested in the Vocabulario Pampango-Tagalog-Inglés (archive.org). Shared across Philippine languages. From Spanish medias (stockings)."
+    },
+    {
+      "id": "wear-sinturon",
+      "word": "sinturon",
+      "partOfSpeech": "noun",
+      "translations": ["belt"],
+      "relatedTagalog": "sinturon",
+      "examples": [
+        {"kp": "Bayung sinturon ya ini.", "en": "This is a new belt."},
+        {"kp": "Ing sinturon ku malutu ya.", "en": "My belt is red."}
+      ],
+      "notes": "Attested in the Vocabulario Pampango-Tagalog-Inglés (archive.org). Spanish loanword from cinturón. Shared across Philippine languages."
+    },
+    {
+      "id": "wear-salamin",
+      "word": "salamin",
+      "partOfSpeech": "noun",
+      "translations": ["eyeglasses", "glasses"],
+      "relatedTagalog": "salamin / salamin-mata",
+      "examples": [
+        {"kp": "Atin ku pung salamin para king mata ku.", "en": "I have glasses for my eyes."},
+        {"kp": "Nanu ya ing salamin mu?", "en": "Where are your glasses?"}
+      ],
+      "notes": "Kapampangan uses 'salamin' (mirror/glass) or 'salamin mata' (eyeglasses). Attested in Vocabulario Pampango-Tagalog-Inglés (archive.org) as 'salamin mata'. The word salamin is shared with Tagalog meaning mirror/glass; in context of eyes it refers to eyeglasses."
+    },
+    {
+      "id": "wear-sako",
+      "word": "sako",
+      "partOfSpeech": "noun",
+      "translations": ["jacket", "coat"],
+      "relatedTagalog": "dyaket / amerikana",
+      "examples": [
+        {"kp": "Sulud me ing sako mu ta marimla.", "en": "Put on your jacket, it is cold."},
+        {"kp": "Malagu ya ing sako na.", "en": "His jacket is nice."}
+      ],
+      "notes": "Attested in the Vocabulario Pampango-Tagalog-Inglés (archive.org) as 'ing sako o amerikana' (jacket or coat). Ultimately from English/Spanish saco. Also written 'saku'."
+    },
+    {
+      "id": "wear-singsing",
+      "word": "singsing",
+      "partOfSpeech": "noun",
+      "translations": ["ring"],
+      "relatedTagalog": "singsing",
+      "examples": [
+        {"kp": "Atin ku pung singsing a malagung maragul.", "en": "I have a big beautiful ring."},
+        {"kp": "Bayung singsing ya ing ibinie na keku.", "en": "The ring she gave me is new."}
+      ],
+      "notes": "Confirmed as Kapampangan via the iconic folk song 'Atin Cu Pung Singsing' (I have a ring), the most famous Kapampangan cultural piece. Also attested in Kapampangan riddles ('Apat a katau, metung la kupya'). Shared with Tagalog."
+    },
+    {
+      "id": "wear-orasan",
+      "word": "orasan",
+      "partOfSpeech": "noun",
+      "translations": ["watch", "clock"],
+      "relatedTagalog": "orasan / relo",
+      "examples": [
+        {"kp": "Nanu la ing oras king orasan mu?", "en": "What time is it on your watch?"},
+        {"kp": "Atyu ya ing orasan ku king gamat ku.", "en": "My watch is on my wrist."}
+      ],
+      "notes": "Confirmed in Kapampangan grammar notes (dokumen.pub) as 'reló' meaning clock/watch, attested with initial /r/ as a phonological example. The form 'orasan' is also used in Kapampangan, confirmed in Vocabulario Pampango-Tagalog-Inglés (archive.org). From Spanish hora (hour) + -san suffix, or from reloj."
+    },
+    {
+      "id": "wear-payung",
+      "word": "payung",
+      "partOfSpeech": "noun",
+      "translations": ["umbrella", "parasol"],
+      "relatedTagalog": "payong",
+      "examples": [
+        {"kp": "Atin ku pung payung para king uran.", "en": "I have an umbrella for the rain."},
+        {"kp": "Sulud me ing payung ta umuran na.", "en": "Use the umbrella, it is already raining."}
+      ],
+      "notes": "Confirmed in Kapampangan–Tagalog relations appendix (Wiktionary) and viewsfromthepampang.blogspot.com umbrella article. The term literally means 'shade'. Also confirmed in Vocabulario Pampango-Tagalog-Inglés (archive.org). Kapampangan uses final -g; Tagalog uses final -ng."
+    },
+    {
+      "id": "wear-panyo",
+      "word": "panyo",
+      "partOfSpeech": "noun",
+      "translations": ["handkerchief"],
+      "relatedTagalog": "panyo / panyuelo",
+      "examples": [
+        {"kp": "Atin ku pung panyo king bulsa ku.", "en": "I have a handkerchief in my pocket."},
+        {"kp": "Gamiton me ing panyo.", "en": "Use the handkerchief."}
+      ],
+      "notes": "Attested in Vocabulario Pampango-Tagalog-Inglés (archive.org). From Spanish paño (cloth). Shared across Philippine languages. The longer form panyuelo is also used."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "wear-1",
+      "title": "What to Wear",
+      "theme": "Upper body clothing",
+      "intro": "Learn words for clothing you wear on your upper body.",
+      "wordIds": ["wear-baro", "wear-salawal", "wear-saya", "wear-sako"],
+      "exercises": [
+        {
+          "id": "wear-1-ex1",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-baro", "wear-salawal", "wear-saya", "wear-sako"],
+          "prompt": "shirt",
+          "answerId": "wear-baro"
+        },
+        {
+          "id": "wear-1-ex2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-salawal", "wear-baro", "wear-saya", "wear-sako"],
+          "prompt": "salawal",
+          "answerId": "wear-salawal"
+        },
+        {
+          "id": "wear-1-ex3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-baro"],
+          "prompt": "Maputi ya ing baro ku.",
+          "accepted": ["my shirt is white.", "my shirt is white"]
+        },
+        {
+          "id": "wear-1-ex4",
+          "type": "fill-blank",
+          "wordIds": ["wear-sako"],
+          "prompt": "Sulud me ing ____ mu ta marimla. (Put on your ____, it is cold.)",
+          "answerId": "wear-sako"
+        },
+        {
+          "id": "wear-1-ex5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-saya", "wear-baro", "wear-salawal", "wear-sako"],
+          "prompt": "skirt",
+          "answerId": "wear-saya"
+        },
+        {
+          "id": "wear-1-ex6",
+          "type": "translate",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-salawal"],
+          "prompt": "My pants are red.",
+          "accepted": ["ing salawal ku malutu ya.", "ing salawal ku malutu ya"]
+        },
+        {
+          "id": "wear-1-ex7",
+          "type": "matching",
+          "wordIds": ["wear-baro", "wear-salawal", "wear-saya", "wear-sako"],
+          "pairs": [
+            {"wordId": "wear-baro"},
+            {"wordId": "wear-salawal"},
+            {"wordId": "wear-saya"},
+            {"wordId": "wear-sako"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wear-2",
+      "title": "Footwear",
+      "theme": "Shoes and slippers",
+      "intro": "Learn words for what you put on your feet.",
+      "wordIds": ["wear-sapatus", "wear-tsinelas", "wear-medyas"],
+      "exercises": [
+        {
+          "id": "wear-2-ex1",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-sapatus", "wear-tsinelas", "wear-medyas"],
+          "prompt": "shoes",
+          "answerId": "wear-sapatus"
+        },
+        {
+          "id": "wear-2-ex2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-tsinelas", "wear-sapatus", "wear-medyas"],
+          "prompt": "tsinelas",
+          "answerId": "wear-tsinelas"
+        },
+        {
+          "id": "wear-2-ex3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-sapatus"],
+          "prompt": "Bayung sapatus ya ini.",
+          "accepted": ["these are new shoes.", "these are new shoes"]
+        },
+        {
+          "id": "wear-2-ex4",
+          "type": "fill-blank",
+          "wordIds": ["wear-medyas"],
+          "prompt": "Sulud me ing ____ mu. (Put on your ____s.)",
+          "answerId": "wear-medyas"
+        },
+        {
+          "id": "wear-2-ex5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-medyas", "wear-sapatus", "wear-tsinelas"],
+          "prompt": "socks",
+          "answerId": "wear-medyas"
+        },
+        {
+          "id": "wear-2-ex6",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-tsinelas"],
+          "prompt": "Ing tsinelas ku atyu ya king pintuan.",
+          "accepted": ["my slippers are at the door.", "my slippers are at the door"]
+        },
+        {
+          "id": "wear-2-ex7",
+          "type": "matching",
+          "wordIds": ["wear-sapatus", "wear-tsinelas", "wear-medyas"],
+          "pairs": [
+            {"wordId": "wear-sapatus"},
+            {"wordId": "wear-tsinelas"},
+            {"wordId": "wear-medyas"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wear-3",
+      "title": "Accessories: Head & Hands",
+      "theme": "Hat, ring, and watch",
+      "intro": "Learn words for accessories worn on the head and hands.",
+      "wordIds": ["wear-kupia", "wear-singsing", "wear-orasan"],
+      "exercises": [
+        {
+          "id": "wear-3-ex1",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-kupia", "wear-singsing", "wear-orasan"],
+          "prompt": "hat",
+          "answerId": "wear-kupia"
+        },
+        {
+          "id": "wear-3-ex2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-singsing", "wear-kupia", "wear-orasan"],
+          "prompt": "singsing",
+          "answerId": "wear-singsing"
+        },
+        {
+          "id": "wear-3-ex3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-singsing"],
+          "prompt": "Atin ku pung singsing a malagung maragul.",
+          "accepted": ["i have a big beautiful ring.", "i have a big, beautiful ring.", "i have a beautiful big ring."]
+        },
+        {
+          "id": "wear-3-ex4",
+          "type": "fill-blank",
+          "wordIds": ["wear-kupia"],
+          "prompt": "Lagyu me ing ____ mu. (Put on your ____)",
+          "answerId": "wear-kupia"
+        },
+        {
+          "id": "wear-3-ex5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-orasan", "wear-kupia", "wear-singsing"],
+          "prompt": "watch",
+          "answerId": "wear-orasan"
+        },
+        {
+          "id": "wear-3-ex6",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-orasan"],
+          "prompt": "Atyu ya ing orasan ku king gamat ku.",
+          "accepted": ["my watch is on my wrist.", "my watch is on my hand.", "my watch is on my arm."]
+        },
+        {
+          "id": "wear-3-ex7",
+          "type": "matching",
+          "wordIds": ["wear-kupia", "wear-singsing", "wear-orasan"],
+          "pairs": [
+            {"wordId": "wear-kupia"},
+            {"wordId": "wear-singsing"},
+            {"wordId": "wear-orasan"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wear-4",
+      "title": "Carry & Protect",
+      "theme": "Bag and umbrella",
+      "intro": "Learn words for things you carry with you.",
+      "wordIds": ["wear-pitaka", "wear-payung", "wear-panyo"],
+      "exercises": [
+        {
+          "id": "wear-4-ex1",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-pitaka", "wear-payung", "wear-panyo"],
+          "prompt": "umbrella",
+          "answerId": "wear-payung"
+        },
+        {
+          "id": "wear-4-ex2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-pitaka", "wear-payung", "wear-panyo"],
+          "prompt": "pitaka",
+          "answerId": "wear-pitaka"
+        },
+        {
+          "id": "wear-4-ex3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-payung"],
+          "prompt": "Atin ku pung payung para king uran.",
+          "accepted": ["i have an umbrella for the rain.", "i have an umbrella for rain."]
+        },
+        {
+          "id": "wear-4-ex4",
+          "type": "fill-blank",
+          "wordIds": ["wear-panyo"],
+          "prompt": "Atin ku pung ____ king bulsa ku. (I have a ____ in my pocket.)",
+          "answerId": "wear-panyo"
+        },
+        {
+          "id": "wear-4-ex5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-panyo", "wear-pitaka", "wear-payung"],
+          "prompt": "handkerchief",
+          "answerId": "wear-panyo"
+        },
+        {
+          "id": "wear-4-ex6",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-pitaka"],
+          "prompt": "Atyu ya ing pitaka ku king lamesa.",
+          "accepted": ["my bag is on the table.", "my bag is on the table"]
+        },
+        {
+          "id": "wear-4-ex7",
+          "type": "matching",
+          "wordIds": ["wear-pitaka", "wear-payung", "wear-panyo"],
+          "pairs": [
+            {"wordId": "wear-pitaka"},
+            {"wordId": "wear-payung"},
+            {"wordId": "wear-panyo"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wear-5",
+      "title": "Belt & Glasses",
+      "theme": "Sinturon and salamin",
+      "intro": "Learn words for belt and eyeglasses.",
+      "wordIds": ["wear-sinturon", "wear-salamin"],
+      "exercises": [
+        {
+          "id": "wear-5-ex1",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-sinturon", "wear-salamin", "wear-singsing", "wear-orasan"],
+          "prompt": "belt",
+          "answerId": "wear-sinturon"
+        },
+        {
+          "id": "wear-5-ex2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-salamin", "wear-sinturon", "wear-kupia", "wear-pitaka"],
+          "prompt": "salamin",
+          "answerId": "wear-salamin"
+        },
+        {
+          "id": "wear-5-ex3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-sinturon"],
+          "prompt": "Bayung sinturon ya ini.",
+          "accepted": ["this is a new belt.", "this is a new belt"]
+        },
+        {
+          "id": "wear-5-ex4",
+          "type": "fill-blank",
+          "wordIds": ["wear-salamin"],
+          "prompt": "Atin ku pung ____ para king mata ku. (I have ____ for my eyes.)",
+          "answerId": "wear-salamin"
+        },
+        {
+          "id": "wear-5-ex5",
+          "type": "translate",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-sinturon"],
+          "prompt": "My belt is red.",
+          "accepted": ["ing sinturon ku malutu ya.", "ing sinturon ku malutu ya"]
+        },
+        {
+          "id": "wear-5-ex6",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-salamin", "wear-sinturon", "wear-orasan", "wear-singsing"],
+          "prompt": "eyeglasses",
+          "answerId": "wear-salamin"
+        },
+        {
+          "id": "wear-5-ex7",
+          "type": "matching",
+          "wordIds": ["wear-sinturon", "wear-salamin"],
+          "pairs": [
+            {"wordId": "wear-sinturon"},
+            {"wordId": "wear-salamin"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wear-6",
+      "title": "Clothing Review",
+      "theme": "All clothing and accessories",
+      "intro": "Review all the clothing and accessory words you have learned.",
+      "wordIds": ["wear-baro", "wear-salawal", "wear-sapatus", "wear-tsinelas", "wear-kupia", "wear-saya", "wear-pitaka", "wear-medyas", "wear-sinturon", "wear-salamin", "wear-sako", "wear-singsing", "wear-orasan", "wear-payung", "wear-panyo"],
+      "exercises": [
+        {
+          "id": "wear-6-ex1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-kupia", "wear-payung", "wear-salamin", "wear-singsing"],
+          "prompt": "kupia",
+          "answerId": "wear-kupia"
+        },
+        {
+          "id": "wear-6-ex2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-panyo", "wear-medyas", "wear-baro", "wear-sako"],
+          "prompt": "handkerchief",
+          "answerId": "wear-panyo"
+        },
+        {
+          "id": "wear-6-ex3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-saya"],
+          "prompt": "Malagu ya ing saya na.",
+          "accepted": ["her skirt is beautiful.", "her skirt is pretty.", "his skirt is beautiful."]
+        },
+        {
+          "id": "wear-6-ex4",
+          "type": "fill-blank",
+          "wordIds": ["wear-payung"],
+          "prompt": "Sulud me ing ____ ta umuran na. (Use the ____, it is already raining.)",
+          "answerId": "wear-payung"
+        },
+        {
+          "id": "wear-6-ex5",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "wordIds": ["wear-sako", "wear-baro", "wear-salawal", "wear-saya"],
+          "prompt": "sako",
+          "answerId": "wear-sako"
+        },
+        {
+          "id": "wear-6-ex6",
+          "type": "translate",
+          "direction": "en-to-kp",
+          "wordIds": ["wear-sapatus"],
+          "prompt": "Put on your shoes.",
+          "accepted": ["sulud me ing sapatus mu.", "sulud me ing sapatus mu"]
+        },
+        {
+          "id": "wear-6-ex7",
+          "type": "matching",
+          "wordIds": ["wear-baro", "wear-singsing", "wear-payung", "wear-medyas"],
+          "pairs": [
+            {"wordId": "wear-baro"},
+            {"wordId": "wear-singsing"},
+            {"wordId": "wear-payung"},
+            {"wordId": "wear-medyas"}
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Vocabulario Pampango-Tagalog-Inglés (archive.org: aaw9129.0001.001.umich.edu) — primary historical dictionary; confirmed baro, salawal, sapatus, tsinelas, medyas, saya, pitaka, sinturon, salamin mata, sako, singsing, orasan, payung, panyo",
+    "tagaloglang.com/kapampangan-words — sapatus (sapatus), pitaka confirmed as Kapampangan equivalents",
+    "bigwas.com/2023/01/kupia — kupia (hat/cap/headgear) confirmed as Kapampangan with adjective makakupia and verb magkupia",
+    "viewsfromthepampang.blogspot.com/2011/05/251-hang-on-to-that-hat — kupya/kupia and sumbreru confirmed as Kapampangan hat words; regional variants discussed",
+    "viewsfromthepampang.blogspot.com/2012/06/297-umbrella-season — payung confirmed as primary Kapampangan word for umbrella, literally meaning shade",
+    "en.wiktionary.org/wiki/salawal — Kapampangan cognate 'salol' listed in etymology; confirms salawal family in Kapampangan",
+    "Wikipedia: Atin Cu Pung Singsing / lyricstranslate.com — singsing confirmed as Kapampangan for ring via the iconic folk song title",
+    "en.wiktionary.org/wiki/Appendix:Kapampangan-Tagalog_relations — payung (Kapampangan) vs payong (Tagalog) confirmed",
+    "Kapampangan grammar notes (dokumen.pub) — relo/reló confirmed as Kapampangan for clock/watch with initial /r/ phonological attestation",
+    "Wikipedia: Baro't saya — baro (shirt/blouse) and saya (skirt) confirmed as traditional Kapampangan/Philippine clothing vocabulary"
+  ],
+  "confidenceNotes": "All 15 headwords confirmed from at least one primary source (Vocabulario Pampango-Tagalog-Inglés historical dictionary or Wiktionary) and at least one secondary source. Kupia is attested specifically in Kapampangan at bigwas.com and in Wiktionary etymology. Singsing has the strongest cultural attestation via 'Atin Cu Pung Singsing'. Orasan/relo both confirmed; orasan used here as it appears in the Vocabulario Pampango. Salamin is used for eyeglasses following Vocabulario Pampango's 'salamin mata' phrase; the headword is the standalone noun salamin which appears in example sentences independently. All Spanish loanwords (sinturon, medyas, tsinelas, sako, saya, sapatus, panyo) are well-attested across Philippine language sources. No uncertain or unconfirmed entries were included."
+}
