@@ -1,0 +1,767 @@
+{
+  "id": "particles",
+  "title": "Particles & Oblique Pronouns",
+  "entries": [
+    {
+      "id": "part-king",
+      "word": "king",
+      "partOfSpeech": "particle",
+      "translations": ["in", "at", "to", "into", "for", "of"],
+      "relatedTagalog": "sa",
+      "examples": [
+        {
+          "kp": "Munta ku king palengke.",
+          "en": "I am going to the market."
+        },
+        {
+          "kp": "Atyu ya king bale.",
+          "en": "He is at home."
+        },
+        {
+          "kp": "Sali ku ning prutas king tindahan.",
+          "en": "I will buy fruit at the store."
+        },
+        {
+          "kp": "Magkanu ya ing libro king tindahan?",
+          "en": "How much is the book at the store?"
+        }
+      ],
+      "notes": "The primary locative/oblique particle in Kapampangan, equivalent to Tagalog 'sa'. Marks location ('in/at'), direction ('to/into'), recipient ('for'), and oblique nouns generally. It is the oblique counterpart of 'ing' (absolutive) and 'ning' (genitive). Extremely high frequency — appears in virtually every sentence with a locative complement. Confidence: very high; attested extensively in grammars (Bergaño tradition) and all modern sources."
+    },
+    {
+      "id": "part-para",
+      "word": "para",
+      "partOfSpeech": "preposition",
+      "translations": ["for", "in order to", "so that"],
+      "relatedTagalog": "para",
+      "examples": [
+        {
+          "kp": "Atin ku kwalta para seli.",
+          "en": "I have money to buy (something)."
+        },
+        {
+          "kp": "Kailangan ku ning gamut para king sakit ku.",
+          "en": "I need medicine for my illness."
+        },
+        {
+          "kp": "Atin ku pung payung para king uran.",
+          "en": "I have an umbrella for the rain."
+        }
+      ],
+      "notes": "Spanish loanword (para) fully integrated into Kapampangan. Used to mark purpose ('in order to') or beneficiary ('for'). Often precedes king + noun phrase. Confidence: very high."
+    },
+    {
+      "id": "part-pu",
+      "word": "pu",
+      "partOfSpeech": "particle",
+      "translations": ["(politeness/respect marker)", "please (softener)"],
+      "relatedTagalog": "po",
+      "examples": [
+        {
+          "kp": "Mayap a abak pu keka.",
+          "en": "Good morning (polite)."
+        },
+        {
+          "kp": "Mayap a bengi pu, Ingkung.",
+          "en": "Good evening, grandfather (respectful)."
+        },
+        {
+          "kp": "Saupan yu ku pu.",
+          "en": "Please help me."
+        },
+        {
+          "kp": "Makilabas ku pu, munta ku na.",
+          "en": "Excuse me, I am leaving now."
+        }
+      ],
+      "notes": "Politeness/respect enclitic, equivalent to Tagalog 'po'. Used when addressing elders, strangers, or people of higher status. Often appears fused as 'pung' (pu + ng ligature) before vowel-initial words: e.g., 'Atin ku pung payung'. Confidence: very high; widely attested."
+    },
+    {
+      "id": "part-pa",
+      "word": "pa",
+      "partOfSpeech": "particle",
+      "translations": ["still", "yet", "more", "also", "even"],
+      "relatedTagalog": "pa",
+      "examples": [
+        {
+          "kp": "Maranup ko pa.",
+          "en": "I am still hungry."
+        },
+        {
+          "kp": "Guagua pa ing Wali ku.",
+          "en": "My younger sibling is still little."
+        },
+        {
+          "kp": "Atin pa tamu.",
+          "en": "We still have (some)."
+        },
+        {
+          "kp": "Munta pa ka king tindahan.",
+          "en": "Go to the store again / also."
+        }
+      ],
+      "notes": "Aspectual/modal enclitic particle. Indicates continuation of a state ('still'), incompleteness ('yet'), or addition ('also/more'). Cognate with and functions similarly to Tagalog 'pa'. Confidence: very high."
+    },
+    {
+      "id": "part-nung",
+      "word": "nung",
+      "partOfSpeech": "conjunction",
+      "translations": ["if", "when", "whenever"],
+      "relatedTagalog": "kung / kapag",
+      "examples": [
+        {
+          "kp": "Nung ati kang sakit, punta ka king doktor.",
+          "en": "If you are sick, go to the doctor."
+        },
+        {
+          "kp": "Dakal lang batuin nung bengi.",
+          "en": "There are many stars when it is night."
+        },
+        {
+          "kp": "Malungkut ku nung miras ka.",
+          "en": "I am sad when you leave."
+        }
+      ],
+      "notes": "Conditional/temporal subordinating conjunction. Equivalent to Tagalog 'kung' (if) or 'kapag/pag' (when). Used for both hypothetical conditions and habitual/temporal clauses. Confidence: very high; attested in existing pack sentences."
+    },
+    {
+      "id": "part-uling",
+      "word": "uling",
+      "partOfSpeech": "conjunction",
+      "translations": ["because", "since", "for (reason)"],
+      "relatedTagalog": "kasi / dahil",
+      "examples": [
+        {
+          "kp": "Malungkut ing anak uling wala ne ing asawa na.",
+          "en": "The child is sad because his parent is gone."
+        },
+        {
+          "kp": "Marine ya uling binura ne ing sulat na.",
+          "en": "She is embarrassed because her letter was erased."
+        },
+        {
+          "kp": "Marirya ya uling dakal a lugud ku para king anak.",
+          "en": "She is touched because I have great love for the child."
+        }
+      ],
+      "notes": "Causal subordinating conjunction meaning 'because/since'. Equivalent to Tagalog 'kasi' or 'dahil'. Introduces the reason or cause clause. Confidence: very high; directly attested in existing pack sentences."
+    },
+    {
+      "id": "part-bisa",
+      "word": "bisa",
+      "partOfSpeech": "verb",
+      "translations": ["to want", "to like", "to desire"],
+      "relatedTagalog": "gusto / ibig",
+      "examples": [
+        {
+          "kp": "Bisa kung munta king tindahan.",
+          "en": "I want to go to the store."
+        },
+        {
+          "kp": "Bisa kung pumunta king bunduk.",
+          "en": "I want to go to the mountain."
+        },
+        {
+          "kp": "Nanu ing bisa mu?",
+          "en": "What do you want?"
+        },
+        {
+          "kp": "Bisa ku ing kape.",
+          "en": "I want coffee."
+        }
+      ],
+      "notes": "Stative verb/modal meaning 'to want, to like'. Takes the genitive enclitic ku (I) or mu (you) when the wanter is subject. Very commonly followed by an infinitive verb phrase. Attested in existing pack sentences and the Wikipedia Kapampangan article ('Isanu deti ya ing bisa ka?'). Confidence: very high."
+    },
+    {
+      "id": "part-mu",
+      "word": "mu",
+      "partOfSpeech": "pronoun",
+      "translations": ["your (singular)", "by you", "you (genitive/non-subject)"],
+      "relatedTagalog": "mo",
+      "examples": [
+        {
+          "kp": "Nanu ya ing lagyu mu?",
+          "en": "What is your name?"
+        },
+        {
+          "kp": "Manyaman ing lutu mu.",
+          "en": "Your cooking is delicious."
+        },
+        {
+          "kp": "Maragul ya ing pitaka mu.",
+          "en": "Your bag is big."
+        },
+        {
+          "kp": "Malyari mu lang palitan dening pera ku?",
+          "en": "Can you exchange my money for me?"
+        }
+      ],
+      "notes": "2nd-person singular genitive/non-subject (ng-set) enclitic pronoun. Marks possession ('your') or the actor of a non-topic action ('by you'). Equivalent to Tagalog 'mo'. Not to be confused with the particle 'mu' meaning 'only/just', which is a separate homophone sometimes noted in older Kapampangan texts but rare in modern speech. Confidence: very high."
+    },
+    {
+      "id": "part-ke",
+      "word": "ke",
+      "partOfSpeech": "pronoun",
+      "translations": ["I (do it to) him/her/it", "I … it/him/her"],
+      "relatedTagalog": "ko siya / ko ito",
+      "examples": [
+        {
+          "kp": "Ibie ke ing libro kaniya.",
+          "en": "I will give the book to him/her."
+        },
+        {
+          "kp": "Kunan ke ing libro.",
+          "en": "I will take the book."
+        },
+        {
+          "kp": "Manaya ke ing dalan.",
+          "en": "I will sweep the path."
+        },
+        {
+          "kp": "Sige, kunan ke.",
+          "en": "OK, I will take it."
+        }
+      ],
+      "notes": "Portmanteau pronoun combining 1st-singular actor (ku) and 3rd-singular object (ya). The form 'ke' is the reduced/fused enclitic that appears when both a 1sg actor and a 3sg patient are expressed together, analogous to Tagalog 'ko' (actor) + 'siya/ito' context. Some analyses derive it as ku + ya → ke by vowel coalescence. Listed in Kapampangan grammar references as a lexicalized enclitic cluster. Confidence: high — directly attested in existing pack sentences."
+    },
+    {
+      "id": "part-keka",
+      "word": "keka",
+      "partOfSpeech": "pronoun",
+      "translations": ["to you", "for you", "you (oblique singular)"],
+      "relatedTagalog": "sa iyo",
+      "examples": [
+        {
+          "kp": "Dakal a pagmaragul king puso ku para keka.",
+          "en": "There is great pride in my heart for you."
+        },
+        {
+          "kp": "Mimwa ku keka!",
+          "en": "I miss you!"
+        },
+        {
+          "kp": "Ing doktor tutulungan ya keka.",
+          "en": "The doctor will help you."
+        },
+        {
+          "kp": "Mayap a abak pu keka.",
+          "en": "Good morning to you (polite)."
+        }
+      ],
+      "notes": "Oblique (sa-set) 2nd-person singular pronoun. Equivalent to Tagalog 'sa iyo'. Used as indirect object ('to you'), recipient ('for you'), or other oblique roles. Contrast with absolutive 'ka' (you, topic) and genitive 'mu' (your). Confidence: very high; widely attested."
+    },
+    {
+      "id": "part-kaku",
+      "word": "kaku",
+      "partOfSpeech": "pronoun",
+      "translations": ["to me", "for me", "me (oblique)"],
+      "relatedTagalog": "sa akin",
+      "examples": [
+        {
+          "kp": "Sabian me kaku.",
+          "en": "Tell me."
+        },
+        {
+          "kp": "Mayap ya ing Ingkung ku kaku.",
+          "en": "My grandfather is good to me."
+        },
+        {
+          "kp": "Matula ku king lugud mu para kaku.",
+          "en": "I am happy about your love for me."
+        },
+        {
+          "kp": "Dara ku ing tumawag kaku.",
+          "en": "My aunt is the one who called me."
+        }
+      ],
+      "notes": "Oblique (sa-set) 1st-person singular pronoun. Equivalent to Tagalog 'sa akin'. Also sometimes written or pronounced 'kanaku'. Used as indirect object ('to me'), recipient ('for me'), or other oblique roles. Confidence: very high; directly attested in existing pack sentences."
+    },
+    {
+      "id": "part-kaniya",
+      "word": "kaniya",
+      "partOfSpeech": "pronoun",
+      "translations": ["to him", "to her", "for him", "for her", "him/her (oblique)"],
+      "relatedTagalog": "sa kanya",
+      "examples": [
+        {
+          "kp": "Ibie ke ing libro kaniya.",
+          "en": "I will give the book to him/her."
+        },
+        {
+          "kp": "Susulat ku liham kaniya.",
+          "en": "I am writing a letter to him/her."
+        },
+        {
+          "kp": "Dakal ing lugud ku kaniya.",
+          "en": "I have great love for her."
+        }
+      ],
+      "notes": "Oblique (sa-set) 3rd-person singular pronoun. Equivalent to Tagalog 'sa kanya'. Also found as 'keya' in some dialect/register variation, but 'kaniya' is the standard modern form. Used as indirect object or other oblique role. Confidence: very high; attested in existing pack sentences."
+    },
+    {
+      "id": "part-kang",
+      "word": "kang",
+      "partOfSpeech": "particle",
+      "translations": ["to (personal name)", "for (a person)", "(oblique personal article)"],
+      "relatedTagalog": "kay",
+      "examples": [
+        {
+          "kp": "Ibie ke ing susi kang Carmen.",
+          "en": "I will give the key to Carmen."
+        },
+        {
+          "kp": "Sulat ku liham kang Tatang.",
+          "en": "I am writing a letter to Father."
+        },
+        {
+          "kp": "Ibiye mu kang Pedro ing kwalta.",
+          "en": "Give the money to Pedro."
+        }
+      ],
+      "notes": "Oblique personal article used before proper names (personal names, kinship terms used as names). Equivalent to Tagalog 'kay'. Marks the oblique (indirect object, beneficiary, location) role of a named person. Contrast with 'king' (oblique for common nouns) and 'kang' as a contraction of 'ka + ng' ligature (a separate use). Confidence: high."
+    },
+    {
+      "id": "part-kareng",
+      "word": "kareng",
+      "partOfSpeech": "particle",
+      "translations": ["to the (plural)", "for the (plural)", "among the (plural)"],
+      "relatedTagalog": "sa mga",
+      "examples": [
+        {
+          "kp": "Atin libre a pagkain kareng anak.",
+          "en": "There is free food for the children."
+        },
+        {
+          "kp": "Kabsi ko kareng nasi.",
+          "en": "I am full from the rice (among/of the rice)."
+        },
+        {
+          "kp": "Ibie me kareng tau ing pagkain.",
+          "en": "Give the food to the people."
+        }
+      ],
+      "notes": "Oblique (sa-set) plural article. Equivalent to Tagalog 'sa mga'. Used when the oblique noun phrase is plural and is a common noun. Corresponds to the absolutive plural 'reng/ding'. Confidence: high; attested in existing pack sentences."
+    },
+    {
+      "id": "part-atin",
+      "word": "atin",
+      "partOfSpeech": "verb",
+      "translations": ["there is", "there are", "to have", "to exist"],
+      "relatedTagalog": "mayroon / meron",
+      "examples": [
+        {
+          "kp": "Atin api keni, masileng tamu.",
+          "en": "There is fire here, let us be careful."
+        },
+        {
+          "kp": "Atin ku kwalta para seli.",
+          "en": "I have money to buy (something)."
+        },
+        {
+          "kp": "Atin ku pung payung para king uran.",
+          "en": "I have an umbrella for the rain."
+        },
+        {
+          "kp": "Atin dakal batu king ilug.",
+          "en": "There are many stones in the river."
+        }
+      ],
+      "notes": "Existential verb/particle meaning 'there is/are' or 'to have'. Equivalent to Tagalog 'mayroon/meron'. When combined with a pronoun enclitic (e.g., atin ku = I have), it expresses possession. Negated by 'ala' (there is not). Confidence: very high; extensively attested."
+    },
+    {
+      "id": "part-atyu",
+      "word": "atyu",
+      "partOfSpeech": "verb",
+      "translations": ["is located at", "is present", "to be (at a place)"],
+      "relatedTagalog": "nandoon / narito / nasa",
+      "examples": [
+        {
+          "kp": "Atyu ya king bale.",
+          "en": "He is at home."
+        },
+        {
+          "kp": "Atyu ya king lalam ning lamesa.",
+          "en": "It is under the table."
+        },
+        {
+          "kp": "Atyu ya ing kotsi king arap ning bale.",
+          "en": "The car is in front of the house."
+        },
+        {
+          "kp": "Atyu ing pamangan king lamesa.",
+          "en": "The food is on the table."
+        }
+      ],
+      "notes": "Locative existential verb/predicate. While 'atin' asserts existence ('there is'), 'atyu' specifies location ('is located at/in'). Equivalent to Tagalog 'nandoon/narito/nasa'. Requires a locative complement marked by 'king'. Confidence: very high; extensively attested in existing packs."
+    },
+    {
+      "id": "part-iti",
+      "word": "iti",
+      "partOfSpeech": "pronoun",
+      "translations": ["this", "this one (near speaker)"],
+      "relatedTagalog": "ito",
+      "examples": [
+        {
+          "kp": "Makananu iti gawan?",
+          "en": "How do you do this?"
+        },
+        {
+          "kp": "Mal ya masyadu iti.",
+          "en": "This is too expensive."
+        },
+        {
+          "kp": "Nanu ya iti?",
+          "en": "What is this?"
+        },
+        {
+          "kp": "Manyaman ya iti.",
+          "en": "This is delicious."
+        }
+      ],
+      "notes": "Proximal demonstrative pronoun meaning 'this' (near the speaker). Equivalent to Tagalog 'ito'. Functions as a noun substitute. Attested in Wikipedia ('Makananu iti gawan?') and widely in other sources. Contrast with 'iyan' (that, near addressee) and 'ita' (that, far from both). Confidence: very high."
+    },
+    {
+      "id": "part-ini",
+      "word": "ini",
+      "partOfSpeech": "pronoun",
+      "translations": ["this", "this one (proximal)"],
+      "relatedTagalog": "ito / itong",
+      "examples": [
+        {
+          "kp": "Kaninu ya ing bag ini?",
+          "en": "Whose bag is this?"
+        },
+        {
+          "kp": "Manyaman deng prutas ini.",
+          "en": "These fruits are delicious."
+        },
+        {
+          "kp": "Malagu ya ing damit ini.",
+          "en": "This dress is beautiful."
+        }
+      ],
+      "notes": "Proximal demonstrative, closely related to 'iti'. 'Ini' typically functions as a post-nominal modifier ('the bag ini' = 'this bag'), while 'iti' is more often used as a sentence-level predicative or object pronoun. The distinction in modern Kapampangan is not always sharp; both translate to 'this'. Attested in existing pack sentences ('Kaninu ya ing bag ini?'). Confidence: high."
+    },
+    {
+      "id": "part-deti",
+      "word": "deti",
+      "partOfSpeech": "pronoun",
+      "translations": ["these", "these ones (proximal plural)"],
+      "relatedTagalog": "ang mga ito / mga ito",
+      "examples": [
+        {
+          "kp": "Isanu deti ya ing bisa ka?",
+          "en": "Which of these do you want?"
+        },
+        {
+          "kp": "Manyaman deng prutas deti.",
+          "en": "These fruits are delicious."
+        },
+        {
+          "kp": "Antayan me ku deti.",
+          "en": "Wait for me here (at these)."
+        },
+        {
+          "kp": "Dakal deti a prutas.",
+          "en": "These fruits are many."
+        }
+      ],
+      "notes": "Proximal plural demonstrative pronoun meaning 'these'. Equivalent to Tagalog 'mga ito'. The plural counterpart of 'iti/ini'. Attested in Wikipedia ('Isanu deti ya ing bisa ka?') and in existing pack sentences. Confidence: very high."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "part-L1",
+      "title": "Key Particles: king, para, pu, pa, nung, uling, bisa",
+      "theme": "High-frequency grammatical particles and connectors",
+      "intro": "Kapampangan has a set of particles and conjunctions that appear in almost every sentence. The locative particle 'king' (= Tagalog 'sa') is the most common word in the language — it marks location, direction, and oblique nouns. 'Para' (for/in order to) marks purpose. 'Pu' adds politeness when speaking to elders. 'Pa' means 'still/yet/more'. 'Nung' introduces 'if/when' clauses, and 'uling' means 'because'. 'Bisa' is the main verb for wanting or liking something.",
+      "wordIds": [
+        "part-king",
+        "part-para",
+        "part-pu",
+        "part-pa",
+        "part-nung",
+        "part-uling",
+        "part-bisa"
+      ],
+      "exercises": [
+        {
+          "id": "part-L1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does the particle \"king\" mean?",
+          "wordIds": ["part-king"],
+          "answerId": "part-king"
+        },
+        {
+          "id": "part-L1-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"uling\" mean?",
+          "wordIds": ["part-uling"],
+          "answerId": "part-uling"
+        },
+        {
+          "id": "part-L1-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"to want\" or \"to like\"?",
+          "wordIds": ["part-bisa"],
+          "answerId": "part-bisa"
+        },
+        {
+          "id": "part-L1-mc4",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"pu\" signal in a sentence?",
+          "wordIds": ["part-pu"],
+          "answerId": "part-pu"
+        },
+        {
+          "id": "part-L1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta ku king palengke.",
+          "wordIds": ["part-king"],
+          "accepted": [
+            "i am going to the market",
+            "i am going to the market.",
+            "i will go to the market",
+            "i will go to the market."
+          ]
+        },
+        {
+          "id": "part-L1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Nung ati kang sakit, punta ka king doktor.",
+          "wordIds": ["part-nung", "part-king"],
+          "accepted": [
+            "if you are sick, go to the doctor",
+            "if you are sick, go to the doctor.",
+            "when you are sick, go to the doctor",
+            "when you are sick, go to the doctor."
+          ]
+        },
+        {
+          "id": "part-L1-fb1",
+          "type": "fill-blank",
+          "prompt": "Bisa kung munta ____ tindahan. (in/to)",
+          "wordIds": ["part-king"],
+          "answerId": "part-king"
+        },
+        {
+          "id": "part-L1-fb2",
+          "type": "fill-blank",
+          "prompt": "Maranup ko ____. (still)",
+          "wordIds": ["part-pa"],
+          "answerId": "part-pa"
+        },
+        {
+          "id": "part-L1-ma1",
+          "type": "matching",
+          "wordIds": ["part-king", "part-para", "part-pu", "part-nung", "part-uling", "part-bisa"],
+          "pairs": [
+            {"wordId": "part-king"},
+            {"wordId": "part-para"},
+            {"wordId": "part-pu"},
+            {"wordId": "part-nung"},
+            {"wordId": "part-uling"},
+            {"wordId": "part-bisa"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-L2",
+      "title": "Oblique Pronouns: mu, ke, keka, kaku, kaniya, kang, kareng",
+      "theme": "The sa-set (oblique) pronouns and genitive enclitic",
+      "intro": "Kapampangan has a full set of oblique pronouns — equivalents of Tagalog 'sa akin, sa iyo, sa kanya'. These mark indirect objects, beneficiaries, and other non-topic roles. 'Mu' is the 2nd-singular genitive enclitic meaning 'your' or 'by you'. 'Ke' is a portmanteau combining I + it/him/her into a single enclitic. 'Keka' means 'to/for you', 'kaku' means 'to/for me', and 'kaniya' means 'to/for him or her'. For proper names, 'kang' is used (= Tagalog 'kay'). For plural nouns, 'kareng' is the oblique plural article.",
+      "wordIds": [
+        "part-mu",
+        "part-ke",
+        "part-keka",
+        "part-kaku",
+        "part-kaniya",
+        "part-kang",
+        "part-kareng"
+      ],
+      "exercises": [
+        {
+          "id": "part-L2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mu\" mean?",
+          "wordIds": ["part-mu"],
+          "answerId": "part-mu"
+        },
+        {
+          "id": "part-L2-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kaku\" mean?",
+          "wordIds": ["part-kaku"],
+          "answerId": "part-kaku"
+        },
+        {
+          "id": "part-L2-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "How do you say \"to you / for you\" (singular) in Kapampangan?",
+          "wordIds": ["part-keka"],
+          "answerId": "part-keka"
+        },
+        {
+          "id": "part-L2-mc4",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kaniya\" mean?",
+          "wordIds": ["part-kaniya"],
+          "answerId": "part-kaniya"
+        },
+        {
+          "id": "part-L2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Nanu ya ing lagyu mu?",
+          "wordIds": ["part-mu"],
+          "accepted": [
+            "what is your name",
+            "what is your name?",
+            "what is your name?."
+          ]
+        },
+        {
+          "id": "part-L2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ibie ke ing libro kaniya.",
+          "wordIds": ["part-ke", "part-kaniya"],
+          "accepted": [
+            "i will give the book to him",
+            "i will give the book to him.",
+            "i will give the book to her",
+            "i will give the book to her."
+          ]
+        },
+        {
+          "id": "part-L2-fb1",
+          "type": "fill-blank",
+          "prompt": "Sabian me ____. (to me)",
+          "wordIds": ["part-kaku"],
+          "answerId": "part-kaku"
+        },
+        {
+          "id": "part-L2-fb2",
+          "type": "fill-blank",
+          "prompt": "Ibie ke ing susi ____ Carmen. (to — before a name)",
+          "wordIds": ["part-kang"],
+          "answerId": "part-kang"
+        },
+        {
+          "id": "part-L2-ma1",
+          "type": "matching",
+          "wordIds": ["part-mu", "part-keka", "part-kaku", "part-kaniya", "part-kareng"],
+          "pairs": [
+            {"wordId": "part-mu"},
+            {"wordId": "part-keka"},
+            {"wordId": "part-kaku"},
+            {"wordId": "part-kaniya"},
+            {"wordId": "part-kareng"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-L3",
+      "title": "Existentials & Demonstratives: atin, atyu, iti, ini, deti",
+      "theme": "Expressing existence, location, and nearness",
+      "intro": "Two verbs cover existence and location in Kapampangan. 'Atin' (there is/are; to have) is the general existential — equivalent to Tagalog 'mayroon'. 'Atyu' (is located at) is the locative existential that always pairs with the particle 'king' to specify where. For pointing out things nearby, Kapampangan uses three demonstratives: 'iti' (this — used as a pronoun), 'ini' (this — used as a modifier after the noun), and 'deti' (these — plural). These words let learners point at and identify objects in conversation.",
+      "wordIds": [
+        "part-atin",
+        "part-atyu",
+        "part-iti",
+        "part-ini",
+        "part-deti"
+      ],
+      "exercises": [
+        {
+          "id": "part-L3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"atin\" mean?",
+          "wordIds": ["part-atin"],
+          "answerId": "part-atin"
+        },
+        {
+          "id": "part-L3-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"atyu\" mean?",
+          "wordIds": ["part-atyu"],
+          "answerId": "part-atyu"
+        },
+        {
+          "id": "part-L3-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"these\" (plural proximal)?",
+          "wordIds": ["part-deti"],
+          "answerId": "part-deti"
+        },
+        {
+          "id": "part-L3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin api keni, masileng tamu.",
+          "wordIds": ["part-atin"],
+          "accepted": [
+            "there is fire here, let us be careful",
+            "there is fire here, let us be careful.",
+            "there is fire here, we must be careful",
+            "there is fire here, we must be careful."
+          ]
+        },
+        {
+          "id": "part-L3-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atyu ya king lalam ning lamesa.",
+          "wordIds": ["part-atyu"],
+          "accepted": [
+            "it is under the table",
+            "it is under the table.",
+            "he is under the table",
+            "he is under the table."
+          ]
+        },
+        {
+          "id": "part-L3-fb1",
+          "type": "fill-blank",
+          "prompt": "Nanu ya ____? (this — pronoun form)",
+          "wordIds": ["part-iti"],
+          "answerId": "part-iti"
+        },
+        {
+          "id": "part-L3-fb2",
+          "type": "fill-blank",
+          "prompt": "Kaninu ya ing bag ____? (this — modifier form)",
+          "wordIds": ["part-ini"],
+          "answerId": "part-ini"
+        },
+        {
+          "id": "part-L3-ma1",
+          "type": "matching",
+          "wordIds": ["part-atin", "part-atyu", "part-iti", "part-ini", "part-deti"],
+          "pairs": [
+            {"wordId": "part-atin"},
+            {"wordId": "part-atyu"},
+            {"wordId": "part-iti"},
+            {"wordId": "part-ini"},
+            {"wordId": "part-deti"}
+          ]
+        }
+      ]
+    }
+  ]
+}
