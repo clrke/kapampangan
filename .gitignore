@@ -1,3 +1,8 @@
+# Dependencies & build output
+node_modules/
+dist/
+*.tsbuildinfo
+
 # Saint Expeditus internal
 .saint-expeditus/
 
