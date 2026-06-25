@@ -4,6 +4,7 @@ import family from './family.json'
 import food from './food.json'
 import colors from './colors.json'
 import house from './house.json'
+import verbs from './verbs.json'
 
 /**
  * Additional content packs, aggregated into the global dictionary & lessons.
@@ -16,4 +17,5 @@ export const extraPacks: ContentPack[] = [
   food as ContentPack,
   colors as ContentPack,
   house as ContentPack,
+  verbs as ContentPack,
 ]

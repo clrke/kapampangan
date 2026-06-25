@@ -1,0 +1,627 @@
+{
+  "id": "verbs",
+  "title": "Common Verbs",
+  "entries": [
+    {
+      "id": "verb-munta",
+      "word": "munta",
+      "partOfSpeech": "verb",
+      "translations": ["to go", "to go (future/habitual)"],
+      "relatedTagalog": "pumunta",
+      "examples": [
+        {"kp": "Munta ya i Elena king eskwela.", "en": "Elena will go to school."},
+        {"kp": "Munta kata king tiangge.", "en": "Let's go to the market."}
+      ],
+      "notes": "Root for movement away from speaker. Past: minta. Used with future or habitual aspect. Cf. mako (to leave/go away)."
+    },
+    {
+      "id": "verb-datang",
+      "word": "datang",
+      "partOfSpeech": "verb",
+      "translations": ["to come", "to arrive"],
+      "relatedTagalog": "dumating",
+      "examples": [
+        {"kp": "Dintang ya ing lalaki.", "en": "The man arrived."},
+        {"kp": "Datang ka na bale.", "en": "Come home now."}
+      ],
+      "notes": "Root: datang. Past completed: dintang. The initial d- shifts to y- in some affixed forms."
+    },
+    {
+      "id": "verb-lakad",
+      "word": "lakad",
+      "partOfSpeech": "verb",
+      "translations": ["to walk"],
+      "relatedTagalog": "lumakad",
+      "examples": [
+        {"kp": "Lumakad ya papunta king bale.", "en": "He walked to the house."},
+        {"kp": "Lakad tamu ngeni.", "en": "Let's walk now."}
+      ],
+      "notes": "Root: lakad. Infinitive/actor-focus: lumakad. Shared root with Tagalog lakad."
+    },
+    {
+      "id": "verb-takbu",
+      "word": "takbu",
+      "partOfSpeech": "verb",
+      "translations": ["to run"],
+      "relatedTagalog": "tumakbo",
+      "examples": [
+        {"kp": "Tumakbu ya ing anak.", "en": "The child ran."},
+        {"kp": "Takbu na ka, e ka malambat!", "en": "Run now, don't be late!"}
+      ],
+      "notes": "Root: takbu. Actor-focus: tumakbu. Related to Tagalog takbo."
+    },
+    {
+      "id": "verb-tudtud",
+      "word": "tudtud",
+      "partOfSpeech": "verb",
+      "translations": ["to sleep"],
+      "relatedTagalog": "matulog",
+      "examples": [
+        {"kp": "Matudtud na ku — ing tudtud ku malambat.", "en": "I am going to sleep — my sleep takes long."},
+        {"kp": "E ku mipapatudtud.", "en": "I can't sleep."}
+      ],
+      "notes": "Root: tudtud. Matudtud = to sleep (going to sleep). E ku mipapatudtud = I cannot sleep."
+    },
+    {
+      "id": "verb-lukluk",
+      "word": "lukluk",
+      "partOfSpeech": "verb",
+      "translations": ["to sit", "to sit down"],
+      "relatedTagalog": "umupo",
+      "examples": [
+        {"kp": "Lukluk ka keni.", "en": "Sit here."},
+        {"kp": "Lukluk la reng tau king silya.", "en": "The people sat on the chairs."}
+      ],
+      "notes": "Root: lukluk. Luklukan = chair (the thing one sits on). Well-attested in Kapampangan sources."
+    },
+    {
+      "id": "verb-tikdo",
+      "word": "tikdo",
+      "partOfSpeech": "verb",
+      "translations": ["to stand", "to stand up"],
+      "relatedTagalog": "tumayo",
+      "examples": [
+        {"kp": "Tikdo na ka.", "en": "Stand up now."},
+        {"kp": "Tikdo yang alang parsala.", "en": "He stands without fault."}
+      ],
+      "notes": "Root: tikdo. Confirmed in Kapampangan proverbs and Glosbe Swadesh list. Means 'to stand' (distinct from tikdo = wake up in some regional variants; the dominant meaning per Glosbe is 'stand')."
+    },
+    {
+      "id": "verb-ibie",
+      "word": "ibie",
+      "partOfSpeech": "verb",
+      "translations": ["to give"],
+      "relatedTagalog": "ibigay",
+      "examples": [
+        {"kp": "Ibie ke ing libro kaniya.", "en": "I will give the book to him."},
+        {"kp": "Ibie ke ing susi kang Carmen.", "en": "I will give the key to Carmen."}
+      ],
+      "notes": "Also spelled ibiye. Patient-focus verb for giving. Ibie ke = I will give (it). Common in everyday and literary Kapampangan."
+    },
+    {
+      "id": "verb-kunan",
+      "word": "kunan",
+      "partOfSpeech": "verb",
+      "translations": ["to take", "to get"],
+      "relatedTagalog": "kumuha",
+      "examples": [
+        {"kp": "Kunan ke ing libro.", "en": "I will take the book."},
+        {"kp": "Sige, kunan ke.", "en": "OK, take it."}
+      ],
+      "notes": "Root: kunan. Used for taking or getting an object. Attested in Kapampangan phrase lists."
+    },
+    {
+      "id": "verb-sali",
+      "word": "sali",
+      "partOfSpeech": "verb",
+      "translations": ["to buy"],
+      "relatedTagalog": "bumili",
+      "examples": [
+        {"kp": "Sali ku prutas king tiangge.", "en": "I will buy fruit at the market."},
+        {"kp": "Ano ing sali mu?", "en": "What did you buy?"}
+      ],
+      "notes": "Also seen as seli in some sources. Root: sali/seli. Confirmed in multiple Kapampangan word lists and the Tagaloglang dictionary."
+    },
+    {
+      "id": "verb-buri",
+      "word": "buri",
+      "partOfSpeech": "verb",
+      "translations": ["to want", "to like", "to be fond of"],
+      "relatedTagalog": "gusto, ayaw",
+      "examples": [
+        {"kp": "Buri ku sana.", "en": "I would like that."},
+        {"kp": "Buri ne ita.", "en": "She likes that."}
+      ],
+      "notes": "One of the most frequently confirmed Kapampangan verbs. Buri daka = I like you. Used for both liking and wanting. Distinct from sintâ (adoration) and ibug (craving)."
+    },
+    {
+      "id": "verb-obra",
+      "word": "obra",
+      "partOfSpeech": "verb",
+      "translations": ["to work"],
+      "relatedTagalog": "magtrabaho",
+      "examples": [
+        {"kp": "Magobra ya aldo-aldo.", "en": "He works every day."},
+        {"kp": "Sasaya ya ing obra na.", "en": "He is happy in his work."}
+      ],
+      "notes": "Root: obra (from Spanish obra). Verbal form: magobra. Confirmed in Kapampangan story texts and phrasebooks."
+    },
+    {
+      "id": "verb-sabian",
+      "word": "sabian",
+      "partOfSpeech": "verb",
+      "translations": ["to say", "to tell"],
+      "relatedTagalog": "sabihin",
+      "examples": [
+        {"kp": "Sabian me kaku.", "en": "Tell me."},
+        {"kp": "Ala nang sabian kanaku.", "en": "Nobody told me."}
+      ],
+      "notes": "Root: sabi. Sabian = patient-focus 'to say/tell'. Confirmed in Kapampangan grammar sources and Wikipedia examples."
+    },
+    {
+      "id": "verb-gewa",
+      "word": "gewa",
+      "partOfSpeech": "verb",
+      "translations": ["to do", "to make"],
+      "relatedTagalog": "gumawa",
+      "examples": [
+        {"kp": "Ala ku gewa mali.", "en": "I haven't done anything wrong."},
+        {"kp": "Nanu ing gagewan mu?", "en": "What are you making?"}
+      ],
+      "notes": "Root: gewa (variant of gawa). Confirmed in Kapampangan phrase lists and grammar examples. Nanu ing gagewan mu = What are you doing/making?"
+    },
+    {
+      "id": "verb-lawen",
+      "word": "lawen",
+      "partOfSpeech": "verb",
+      "translations": ["to look", "to watch", "to look at"],
+      "relatedTagalog": "tingnan",
+      "examples": [
+        {"kp": "Lawen me ing pelikula.", "en": "Watch the movie."},
+        {"kp": "Lawen mo reng tau keti.", "en": "Look at the people here."}
+      ],
+      "notes": "Root: lawen. Confirmed in Tagaloglang word list. Used for both looking at and watching something."
+    },
+    {
+      "id": "verb-sulat",
+      "word": "sulat",
+      "partOfSpeech": "verb",
+      "translations": ["to write"],
+      "relatedTagalog": "sumulat",
+      "examples": [
+        {"kp": "Ing sulat na manyaman basaen.", "en": "His writing is pleasant to read."},
+        {"kp": "Susulat ku liham kaniya.", "en": "I am writing a letter to him."}
+      ],
+      "notes": "Root: sulat. Shared with Tagalog. Susulat = is writing; sumulat = will write; sinulat = wrote. Widely confirmed in multiple sources."
+    },
+    {
+      "id": "verb-mamasa",
+      "word": "mamasa",
+      "partOfSpeech": "verb",
+      "translations": ["to read"],
+      "relatedTagalog": "magbasa",
+      "examples": [
+        {"kp": "Mamasa la ri Maria at Juan.", "en": "Maria and Juan are reading."},
+        {"kp": "Mamasa ku libro aldo-aldo.", "en": "I read a book every day."}
+      ],
+      "notes": "Root: basa. Mamasa = ongoing/habitual actor-focus for read. Confirmed in multiple Kapampangan grammar and vocabulary sources."
+    },
+    {
+      "id": "verb-lugud",
+      "word": "lugud",
+      "partOfSpeech": "noun",
+      "translations": ["love", "affection", "passion"],
+      "relatedTagalog": "pagmamahal",
+      "examples": [
+        {"kp": "Dakal ing lugud ku kaniya.", "en": "I have great love for her."},
+        {"kp": "Ala nang lugud king puso na.", "en": "There is no more love in his heart."}
+      ],
+      "notes": "Root noun for reciprocal love. Kaluguran daka = I love you (expression with ka-...-an circumfix). Lugud implies mutual affection; one-sided longing is sintâ. Confirmed across multiple Kapampangan cultural and linguistic sources."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "verb-1",
+      "title": "On the Move",
+      "theme": "Going, coming, and walking",
+      "intro": "Learn the three most common movement verbs: munta (go), datang (come/arrive), and lakad (walk).",
+      "wordIds": ["verb-munta", "verb-datang", "verb-lakad"],
+      "exercises": [
+        {
+          "id": "verb-1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"munta\" mean?",
+          "wordIds": ["verb-munta"],
+          "answerId": "verb-munta"
+        },
+        {
+          "id": "verb-1-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"datang\" mean?",
+          "wordIds": ["verb-datang"],
+          "answerId": "verb-datang"
+        },
+        {
+          "id": "verb-1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta ya i Elena king eskwela.",
+          "wordIds": ["verb-munta"],
+          "accepted": ["elena will go to school.", "elena will go to school"]
+        },
+        {
+          "id": "verb-1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Dintang ya ing lalaki.",
+          "wordIds": ["verb-datang"],
+          "accepted": ["the man arrived.", "the man arrived", "the man has arrived.", "the man has arrived"]
+        },
+        {
+          "id": "verb-1-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ka na bale. (Come home now.)",
+          "wordIds": ["verb-datang"],
+          "answerId": "verb-datang"
+        },
+        {
+          "id": "verb-1-fb2",
+          "type": "fill-blank",
+          "prompt": "Lumakad ya papunta king bale. → Root verb: ____ (to walk)",
+          "wordIds": ["verb-lakad"],
+          "answerId": "verb-lakad"
+        },
+        {
+          "id": "verb-1-ma1",
+          "type": "matching",
+          "wordIds": ["verb-munta", "verb-datang", "verb-lakad"],
+          "pairs": [
+            {"wordId": "verb-munta"},
+            {"wordId": "verb-datang"},
+            {"wordId": "verb-lakad"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-2",
+      "title": "Body & Rest",
+      "theme": "Running, sleeping, sitting, standing",
+      "intro": "Learn action verbs for the body: takbu (run), tudtud (sleep), lukluk (sit), and tikdo (stand).",
+      "wordIds": ["verb-takbu", "verb-tudtud", "verb-lukluk", "verb-tikdo"],
+      "exercises": [
+        {
+          "id": "verb-2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"tudtud\" mean?",
+          "wordIds": ["verb-tudtud"],
+          "answerId": "verb-tudtud"
+        },
+        {
+          "id": "verb-2-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"lukluk\" mean?",
+          "wordIds": ["verb-lukluk"],
+          "answerId": "verb-lukluk"
+        },
+        {
+          "id": "verb-2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Matudtud na ku.",
+          "wordIds": ["verb-tudtud"],
+          "accepted": ["i am going to sleep.", "i am going to sleep", "i will sleep.", "i will sleep"]
+        },
+        {
+          "id": "verb-2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Lukluk ka keni.",
+          "wordIds": ["verb-lukluk"],
+          "accepted": ["sit here.", "sit here"]
+        },
+        {
+          "id": "verb-2-fb1",
+          "type": "fill-blank",
+          "prompt": "Tumakbu ya ing anak. → Root verb: ____ (to run)",
+          "wordIds": ["verb-takbu"],
+          "answerId": "verb-takbu"
+        },
+        {
+          "id": "verb-2-fb2",
+          "type": "fill-blank",
+          "prompt": "____ na ka. (Stand up now.)",
+          "wordIds": ["verb-tikdo"],
+          "answerId": "verb-tikdo"
+        },
+        {
+          "id": "verb-2-ma1",
+          "type": "matching",
+          "wordIds": ["verb-takbu", "verb-tudtud", "verb-lukluk", "verb-tikdo"],
+          "pairs": [
+            {"wordId": "verb-takbu"},
+            {"wordId": "verb-tudtud"},
+            {"wordId": "verb-lukluk"},
+            {"wordId": "verb-tikdo"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-3",
+      "title": "Give & Take",
+      "theme": "Giving, taking, and buying",
+      "intro": "Learn exchange verbs: ibie (give), kunan (take/get), and sali (buy).",
+      "wordIds": ["verb-ibie", "verb-kunan", "verb-sali"],
+      "exercises": [
+        {
+          "id": "verb-3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"ibie\" mean?",
+          "wordIds": ["verb-ibie"],
+          "answerId": "verb-ibie"
+        },
+        {
+          "id": "verb-3-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"sali\" mean?",
+          "wordIds": ["verb-sali"],
+          "answerId": "verb-sali"
+        },
+        {
+          "id": "verb-3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ibie ke ing libro kaniya.",
+          "wordIds": ["verb-ibie"],
+          "accepted": ["i will give the book to him.", "i will give the book to him", "i will give the book to her.", "i will give the book to her"]
+        },
+        {
+          "id": "verb-3-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sali ku prutas king tiangge.",
+          "wordIds": ["verb-sali"],
+          "accepted": ["i will buy fruit at the market.", "i will buy fruit at the market"]
+        },
+        {
+          "id": "verb-3-fb1",
+          "type": "fill-blank",
+          "prompt": "Sige, ____ ke. (OK, take it.)",
+          "wordIds": ["verb-kunan"],
+          "answerId": "verb-kunan"
+        },
+        {
+          "id": "verb-3-fb2",
+          "type": "fill-blank",
+          "prompt": "____ ke ing susi kang Carmen. (I will give the key to Carmen.)",
+          "wordIds": ["verb-ibie"],
+          "answerId": "verb-ibie"
+        },
+        {
+          "id": "verb-3-ma1",
+          "type": "matching",
+          "wordIds": ["verb-ibie", "verb-kunan", "verb-sali"],
+          "pairs": [
+            {"wordId": "verb-ibie"},
+            {"wordId": "verb-kunan"},
+            {"wordId": "verb-sali"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-4",
+      "title": "Work & Will",
+      "theme": "Wanting, working, and doing",
+      "intro": "Learn three powerful everyday verbs: buri (want/like), obra (work), and gewa (do/make).",
+      "wordIds": ["verb-buri", "verb-obra", "verb-gewa"],
+      "exercises": [
+        {
+          "id": "verb-4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"buri\" mean?",
+          "wordIds": ["verb-buri"],
+          "answerId": "verb-buri"
+        },
+        {
+          "id": "verb-4-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"obra\" mean?",
+          "wordIds": ["verb-obra"],
+          "answerId": "verb-obra"
+        },
+        {
+          "id": "verb-4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Buri ne ita.",
+          "wordIds": ["verb-buri"],
+          "accepted": ["she likes that.", "she likes that", "he likes that.", "he likes that"]
+        },
+        {
+          "id": "verb-4-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ala ku gewa mali.",
+          "wordIds": ["verb-gewa"],
+          "accepted": ["i haven't done anything wrong.", "i haven't done anything wrong", "i have not done anything wrong.", "i have not done anything wrong"]
+        },
+        {
+          "id": "verb-4-fb1",
+          "type": "fill-blank",
+          "prompt": "Magobra ya aldo-aldo. → Root verb: ____ (to work)",
+          "wordIds": ["verb-obra"],
+          "answerId": "verb-obra"
+        },
+        {
+          "id": "verb-4-fb2",
+          "type": "fill-blank",
+          "prompt": "____ ku sana. (I would like that.)",
+          "wordIds": ["verb-buri"],
+          "answerId": "verb-buri"
+        },
+        {
+          "id": "verb-4-ma1",
+          "type": "matching",
+          "wordIds": ["verb-buri", "verb-obra", "verb-gewa"],
+          "pairs": [
+            {"wordId": "verb-buri"},
+            {"wordId": "verb-obra"},
+            {"wordId": "verb-gewa"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-5",
+      "title": "Words & Eyes",
+      "theme": "Saying, looking, and the written word",
+      "intro": "Learn communication and perception verbs: sabian (say/tell), lawen (look/watch), sulat (write), and mamasa (read).",
+      "wordIds": ["verb-sabian", "verb-lawen", "verb-sulat", "verb-mamasa"],
+      "exercises": [
+        {
+          "id": "verb-5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"sabian\" mean?",
+          "wordIds": ["verb-sabian"],
+          "answerId": "verb-sabian"
+        },
+        {
+          "id": "verb-5-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mamasa\" mean?",
+          "wordIds": ["verb-mamasa"],
+          "answerId": "verb-mamasa"
+        },
+        {
+          "id": "verb-5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sabian me kaku.",
+          "wordIds": ["verb-sabian"],
+          "accepted": ["tell me.", "tell me"]
+        },
+        {
+          "id": "verb-5-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Susulat ku liham kaniya.",
+          "wordIds": ["verb-sulat"],
+          "accepted": ["i am writing a letter to him.", "i am writing a letter to him", "i am writing a letter to her.", "i am writing a letter to her"]
+        },
+        {
+          "id": "verb-5-fb1",
+          "type": "fill-blank",
+          "prompt": "____ me ing pelikula. (Watch the movie.)",
+          "wordIds": ["verb-lawen"],
+          "answerId": "verb-lawen"
+        },
+        {
+          "id": "verb-5-fb2",
+          "type": "fill-blank",
+          "prompt": "Susulat ku liham. → Root verb: ____ (to write)",
+          "wordIds": ["verb-sulat"],
+          "answerId": "verb-sulat"
+        },
+        {
+          "id": "verb-5-ma1",
+          "type": "matching",
+          "wordIds": ["verb-sabian", "verb-lawen", "verb-sulat", "verb-mamasa"],
+          "pairs": [
+            {"wordId": "verb-sabian"},
+            {"wordId": "verb-lawen"},
+            {"wordId": "verb-sulat"},
+            {"wordId": "verb-mamasa"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-6",
+      "title": "The Language of the Heart",
+      "theme": "Love and deep affection",
+      "intro": "Kapampangan has a rich vocabulary for love. This lesson focuses on lugud, the word for reciprocal, mutual love.",
+      "wordIds": ["verb-lugud"],
+      "exercises": [
+        {
+          "id": "verb-6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"lugud\" mean?",
+          "wordIds": ["verb-lugud"],
+          "answerId": "verb-lugud"
+        },
+        {
+          "id": "verb-6-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which Kapampangan word means \"love\" (mutual affection)?",
+          "wordIds": ["verb-lugud"],
+          "answerId": "verb-lugud"
+        },
+        {
+          "id": "verb-6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ala nang lugud king puso na.",
+          "wordIds": ["verb-lugud"],
+          "accepted": ["there is no more love in his heart.", "there is no more love in his heart", "there is no more love in her heart.", "there is no more love in her heart"]
+        },
+        {
+          "id": "verb-6-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Dakal ing lugud ku kaniya.",
+          "wordIds": ["verb-lugud"],
+          "accepted": ["i have great love for her.", "i have great love for her", "i have great love for him.", "i have great love for him"]
+        },
+        {
+          "id": "verb-6-fb1",
+          "type": "fill-blank",
+          "prompt": "Ala nang ____ king puso na. (There is no more love in his heart.)",
+          "wordIds": ["verb-lugud"],
+          "answerId": "verb-lugud"
+        },
+        {
+          "id": "verb-6-fb2",
+          "type": "fill-blank",
+          "prompt": "Dakal ing ____ ku kaniya. (I have great love for her.)",
+          "wordIds": ["verb-lugud"],
+          "answerId": "verb-lugud"
+        },
+        {
+          "id": "verb-6-ma1",
+          "type": "matching",
+          "wordIds": ["verb-lugud"],
+          "pairs": [
+            {"wordId": "verb-lugud"}
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Wikipedia: Kapampangan language — https://en.wikipedia.org/wiki/Kapampangan_language (verb examples: munta, datang/dintang, buri, sulat, sumulat, sinulat, kaluguran)",
+    "Wikivoyage Kapampangan Phrasebook — https://en.wikivoyage.org/wiki/Kapampangan_phrasebook (munta, datang, lakad, obra)",
+    "Glosbe Pampanga-English Dictionary (tikdo=stand, tudtud=sleep) — https://glosbe.com/pam/en/tikdo and https://glosbe.com/tl/pam/matulog",
+    "Polytranslator English–Kapampangan Dictionary — https://www.polytranslator.com/dictionary/kapampangan/ (munta, datang, lakad, takbu, turu/tudtud, sali, lako, buri, obra, sabian, sulat, basa, lugud)",
+    "Common Kapampangan Words & Phrases (pdfcoffee/idoc.pub) — community phrasebook (matudtud, lukluk, sali/seli, kunan, ibie/ibiye, kaluguran, gewa, lawen, mamasa, magsalita, sabian)",
+    "bryanquiroz22.wordpress.com — Filipino Dialects: Kapampangan Grammar and Vocabulary (sulat conjugations: susulat/sumulat/sinulat; seli; gawa; sabian; ume; munta)",
+    "siuala.com — Kapampangan words for love: ibug, burî, sintâ, mal, lugud — https://siuala.com/kaluguran/ (confirms lugud = mutual love noun, kaluguran daka = I love you)",
+    "sunstar.com.ph — Garcia: Ing Pamanudtud Kapampangan (confirms tudtud root for sleep; matudtud na ku)",
+    "josephjames007.blogspot.com — Common Phrases in Kapampangan (matudtud, sali, kaluguran, buri)",
+    "Forman, Michael L. (1971). Kapampangan Dictionary. University of Hawai'i Press. [Referenced via JSTOR and Google Play Books for root word confirmation]"
+  ],
+  "confidenceNotes": "HIGH confidence (attested in 3+ independent sources): munta (go), datang/dintang (come/arrive), lakad (walk), sulat (write), buri (want/like), obra (work), sabian (say/tell), lugud (love-noun), sali (buy), lukluk (sit), mamasa (read). MEDIUM confidence (attested in 2 sources): takbu (run — confirmed by Polytranslator and Wikipedia grammar notes), tudtud (sleep — Glosbe + sunstar.com), tikdo (stand — Glosbe Swadesh list + proverb in Wikipedia), ibie (give — confirmed with example sentence from 2+ sources), kunan (take/get — confirmed with example sentence), gewa (do/make — confirmed with example sentence), lawen (look — Tagaloglang + sunstar.com). EXCLUDED due to insufficient verification or conflict: tagse (run, only one source), turu (sleep variant, less attested than tudtud), magsalita (speak, mostly Tagalog-influenced form), lako (sell — only one Kapampangan source). NOTE: lugud is listed as partOfSpeech 'noun' as it is primarily a noun root (mutual love); kaluguran is the verb phrase derived from it but is in the avoid-list. The headword 'lugud' is NOT in the avoid-list."
+}
