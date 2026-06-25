@@ -1,0 +1,612 @@
+{
+  "id": "colors",
+  "title": "Colors & Describing",
+  "entries": [
+    {
+      "id": "col-malutu",
+      "word": "Malutu",
+      "partOfSpeech": "adjective",
+      "translations": ["red"],
+      "relatedTagalog": "pula",
+      "examples": [
+        {"kp": "Malutu ya ing bulaklak.", "en": "The flower is red."},
+        {"kp": "Malutu ing damit na.", "en": "Her dress is red."}
+      ],
+      "notes": "Formed from ma- + lutu. The root lutu refers to the color red, historically achieved through bangcuro tree bark dye. Distinct from lutu meaning 'cooked'."
+    },
+    {
+      "id": "col-maputi",
+      "word": "Maputi",
+      "partOfSpeech": "adjective",
+      "translations": ["white"],
+      "relatedTagalog": "puti",
+      "examples": [
+        {"kp": "Maputi ya ing manuk.", "en": "The chicken is white."},
+        {"kp": "Maputi ing t-shirt ku.", "en": "My t-shirt is white."}
+      ],
+      "notes": "Formed from ma- + puti. Well attested across Wiktionary and multiple Kapampangan vocabulary sources."
+    },
+    {
+      "id": "col-matuling",
+      "word": "Matuling",
+      "partOfSpeech": "adjective",
+      "translations": ["black"],
+      "relatedTagalog": "itim",
+      "examples": [
+        {"kp": "Matuling ya ing asu.", "en": "The dog is black."},
+        {"kp": "Matuling ing buhuk na.", "en": "Her hair is black."}
+      ],
+      "notes": "From tuling (blackness). Also functions as a noun meaning 'the color black'. Attested in Wiktionary and the Kapampangan Listorian blog sourcing Bergaño's vocabulary."
+    },
+    {
+      "id": "col-mairó",
+      "word": "Mairó",
+      "partOfSpeech": "adjective",
+      "translations": ["blue"],
+      "relatedTagalog": "asul",
+      "examples": [
+        {"kp": "Mairó ya ing langit.", "en": "The sky is blue."},
+        {"kp": "Mairó ing damit na.", "en": "His clothes are blue."}
+      ],
+      "notes": "From iró/irao, the Kapampangan root for blue. Related to tayum, the blue dye plant. Attested in Bigwas.com and Kapampangan Listorian. 'Asul' (loanword) also used in modern speech."
+    },
+    {
+      "id": "col-mayaluntian",
+      "word": "Mayaluntian",
+      "partOfSpeech": "adjective",
+      "translations": ["green"],
+      "relatedTagalog": "berde",
+      "examples": [
+        {"kp": "Mayaluntian ya ing pananim.", "en": "The plant is green."},
+        {"kp": "Mayaluntian ing burak na.", "en": "Its leaves are green."}
+      ],
+      "notes": "From aluntian/aluntiang, meaning green. Attested in Bigwas.com color list and Kapampangan Listorian (Bergaño's vocabulary). The adjective form uses the ma- prefix."
+    },
+    {
+      "id": "col-mapapas",
+      "word": "Mapapas",
+      "partOfSpeech": "adjective",
+      "translations": ["yellow"],
+      "relatedTagalog": "dilaw",
+      "examples": [
+        {"kp": "Mapapas ya ing saging.", "en": "The banana is yellow."},
+        {"kp": "Mapapas ing bulaklak dita.", "en": "That flower is yellow."}
+      ],
+      "notes": "From papas (the color yellow). Attested in Bigwas.com and Kapampangan Listorian sourcing Bergaño. Historically the yellow color was obtained from the ange root. Alternative term: mariló (from diló)."
+    },
+    {
+      "id": "col-maragul",
+      "word": "Maragul",
+      "partOfSpeech": "adjective",
+      "translations": ["big", "large"],
+      "relatedTagalog": "malaki",
+      "examples": [
+        {"kp": "Maragul ya ing bale da.", "en": "Their house is big."},
+        {"kp": "Maragul ing paru-paro.", "en": "The butterfly is large."}
+      ],
+      "notes": "From ma- + dagul. Plural: mangaragul. Superlative: pekamaragul. Confirmed in Wiktionary and multiple Kapampangan vocabulary lists."
+    },
+    {
+      "id": "col-malati",
+      "word": "Malati",
+      "partOfSpeech": "adjective",
+      "translations": ["small", "little"],
+      "relatedTagalog": "maliit",
+      "examples": [
+        {"kp": "Malati ya ing pusa.", "en": "The cat is small."},
+        {"kp": "Malati ing kwarto ku.", "en": "My room is small."}
+      ],
+      "notes": "From ma- + lati. Plural: mangalati. Confirmed in Wiktionary."
+    },
+    {
+      "id": "col-mapali",
+      "word": "Mapali",
+      "partOfSpeech": "adjective",
+      "translations": ["hot"],
+      "relatedTagalog": "mainit",
+      "examples": [
+        {"kp": "Mapali ya ing danum.", "en": "The water is hot."},
+        {"kp": "Mapali ing panahon ngeni.", "en": "The weather is hot today."}
+      ],
+      "notes": "From ma- + pali. Confirmed in Wiktionary and multiple Kapampangan vocabulary sources. Note: one source spelled it 'mapoli' but 'mapali' is the standard attested form."
+    },
+    {
+      "id": "col-marimla",
+      "word": "Marimla",
+      "partOfSpeech": "adjective",
+      "translations": ["cold", "cool"],
+      "relatedTagalog": "malamig",
+      "examples": [
+        {"kp": "Marimla ya ing danum king baldi.", "en": "The water in the bucket is cold."},
+        {"kp": "Marimla ing bengi.", "en": "The night is cold."}
+      ],
+      "notes": "From ma- + dimla. Confirmed in Wiktionary. Also listed as 'marimla' in tagaloglang.com and pdfcoffee vocabulary sources."
+    },
+    {
+      "id": "col-malagu",
+      "word": "Malagu",
+      "partOfSpeech": "adjective",
+      "translations": ["beautiful"],
+      "relatedTagalog": "maganda",
+      "examples": [
+        {"kp": "Malagu ya ing babai.", "en": "The woman is beautiful."},
+        {"kp": "Malagu ing bulaklak.", "en": "The flower is beautiful."}
+      ],
+      "notes": "From ma- + lagu. Traditionally used to describe feminine beauty, though also used for things. Synonyms include masampat and masanting. Confirmed in multiple sources."
+    },
+    {
+      "id": "col-masanting",
+      "word": "Masanting",
+      "partOfSpeech": "adjective",
+      "translations": ["handsome", "good-looking", "nice"],
+      "relatedTagalog": "gwapo",
+      "examples": [
+        {"kp": "Masanting ya ing lalaki.", "en": "The man is handsome."},
+        {"kp": "Masanting ka talaga.", "en": "You are really handsome."}
+      ],
+      "notes": "Traditionally used to describe masculine attractiveness, contrasting with malagu. Also listed as a synonym of malagu in Wiktionary. Confirmed in tagaloglang.com and multiple conversational sources."
+    },
+    {
+      "id": "col-bayu",
+      "word": "Bayu",
+      "partOfSpeech": "adjective",
+      "translations": ["new"],
+      "relatedTagalog": "bago",
+      "examples": [
+        {"kp": "Bayu ya ing libru ku.", "en": "My book is new."},
+        {"kp": "Bayu ing kotse na.", "en": "His car is new."}
+      ],
+      "notes": "Confirmed in Wiktionary as adjective meaning 'new (recently made or created)'. Cognate with Tagalog bago, Ilocano baro. Antonym: matua."
+    },
+    {
+      "id": "col-matua",
+      "word": "Matua",
+      "partOfSpeech": "adjective",
+      "translations": ["old", "aged"],
+      "relatedTagalog": "matanda",
+      "examples": [
+        {"kp": "Matua ya ing pari.", "en": "The priest is old."},
+        {"kp": "Matua ya ing bale da.", "en": "Their house is old."}
+      ],
+      "notes": "Confirmed in Wiktionary. Primary sense is 'old/aged/elderly', most naturally applied to people but extended to things in common usage. Antonym: bayu. Proto-Malayo-Polynesian origin."
+    },
+    {
+      "id": "col-matas",
+      "word": "Matas",
+      "partOfSpeech": "adjective",
+      "translations": ["tall", "high"],
+      "relatedTagalog": "mataas",
+      "examples": [
+        {"kp": "Matas ya ing puno.", "en": "The tree is tall."},
+        {"kp": "Matas ing bunduk.", "en": "The mountain is high."}
+      ],
+      "notes": "From ma- + tas. Cognate with Tagalog mataas. Confirmed in Wiktionary. Refers to vertical height."
+    },
+    {
+      "id": "col-makaba",
+      "word": "Makaba",
+      "partOfSpeech": "adjective",
+      "translations": ["long"],
+      "relatedTagalog": "mahaba",
+      "examples": [
+        {"kp": "Makaba ya ing dalan.", "en": "The road is long."},
+        {"kp": "Makaba ing buhuk na.", "en": "Her hair is long."}
+      ],
+      "notes": "From ma- + kaba. Confirmed in Wiktionary and tagaloglang.com Kapampangan dictionary."
+    },
+    {
+      "id": "col-makuyad",
+      "word": "Makuyad",
+      "partOfSpeech": "adjective",
+      "translations": ["short"],
+      "relatedTagalog": "maikli",
+      "examples": [
+        {"kp": "Makuyad ya ing lapis.", "en": "The pencil is short."},
+        {"kp": "Makuyad ing kwentu na.", "en": "His story is short."}
+      ],
+      "notes": "Confirmed in tagaloglang.com Kapampangan dictionary as the translation of Tagalog maigsi/maikli. Consistent across multiple vocabulary sources."
+    },
+    {
+      "id": "col-matsura",
+      "word": "Matsura",
+      "partOfSpeech": "adjective",
+      "translations": ["ugly"],
+      "relatedTagalog": "pangit",
+      "examples": [
+        {"kp": "Matsura ya ing larawan.", "en": "The picture is ugly."},
+        {"kp": "Ali matsura ing bale da.", "en": "Their house is not ugly."}
+      ],
+      "notes": "Confirmed in tagaloglang.com and pdfcoffee vocabulary sources as the Kapampangan word for 'ugly' (Tagalog pangit). Used in contrast with malagu and masanting."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "col-1",
+      "title": "Basic Colors: Red, White, Black",
+      "theme": "Core color words",
+      "intro": "Kapampangan color adjectives are formed with the prefix ma- added to the color root. In a sentence, the adjective usually comes first as the predicate, followed by ya (is/are) and the noun.",
+      "wordIds": ["col-malutu", "col-maputi", "col-matuling"],
+      "exercises": [
+        {
+          "id": "col-1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Malutu\" mean?",
+          "wordIds": ["col-malutu"],
+          "answerId": "col-malutu"
+        },
+        {
+          "id": "col-1-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Maputi\" mean?",
+          "wordIds": ["col-maputi"],
+          "answerId": "col-maputi"
+        },
+        {
+          "id": "col-1-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Matuling\" mean?",
+          "wordIds": ["col-matuling"],
+          "answerId": "col-matuling"
+        },
+        {
+          "id": "col-1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malutu ya ing bulaklak.",
+          "wordIds": ["col-malutu"],
+          "accepted": ["the flower is red", "the flower is red."]
+        },
+        {
+          "id": "col-1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maputi ya ing manuk.",
+          "wordIds": ["col-maputi"],
+          "accepted": ["the chicken is white", "the chicken is white."]
+        },
+        {
+          "id": "col-1-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ya ing asu.  (The dog is black.)",
+          "wordIds": ["col-matuling"],
+          "answerId": "col-matuling"
+        },
+        {
+          "id": "col-1-ma1",
+          "type": "matching",
+          "wordIds": ["col-malutu", "col-maputi", "col-matuling"],
+          "pairs": [{"wordId": "col-malutu"}, {"wordId": "col-maputi"}, {"wordId": "col-matuling"}]
+        }
+      ]
+    },
+    {
+      "id": "col-2",
+      "title": "More Colors: Blue, Green, Yellow",
+      "theme": "Cool and natural colors",
+      "intro": "These three color adjectives cover the sky, plants, and the sun. Mairó (blue) comes from the root iró; Mayaluntian (green) from aluntian; and Mapapas (yellow) from papas, a root used historically as a natural dye.",
+      "wordIds": ["col-mairó", "col-mayaluntian", "col-mapapas"],
+      "exercises": [
+        {
+          "id": "col-2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Mairó\" mean?",
+          "wordIds": ["col-mairó"],
+          "answerId": "col-mairó"
+        },
+        {
+          "id": "col-2-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Mayaluntian\" mean?",
+          "wordIds": ["col-mayaluntian"],
+          "answerId": "col-mayaluntian"
+        },
+        {
+          "id": "col-2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mairó ya ing langit.",
+          "wordIds": ["col-mairó"],
+          "accepted": ["the sky is blue", "the sky is blue."]
+        },
+        {
+          "id": "col-2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mapapas ya ing saging.",
+          "wordIds": ["col-mapapas"],
+          "accepted": ["the banana is yellow", "the banana is yellow."]
+        },
+        {
+          "id": "col-2-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ya ing pananim.  (The plant is green.)",
+          "wordIds": ["col-mayaluntian"],
+          "answerId": "col-mayaluntian"
+        },
+        {
+          "id": "col-2-fb2",
+          "type": "fill-blank",
+          "prompt": "____ ya ing saging.  (The banana is yellow.)",
+          "wordIds": ["col-mapapas"],
+          "answerId": "col-mapapas"
+        },
+        {
+          "id": "col-2-ma1",
+          "type": "matching",
+          "wordIds": ["col-mairó", "col-mayaluntian", "col-mapapas"],
+          "pairs": [{"wordId": "col-mairó"}, {"wordId": "col-mayaluntian"}, {"wordId": "col-mapapas"}]
+        }
+      ]
+    },
+    {
+      "id": "col-3",
+      "title": "Size: Big & Small, Tall, Long & Short",
+      "theme": "Describing size and length",
+      "intro": "Kapampangan uses ma- prefix adjectives to describe size. Maragul (big) and malati (small) are antonyms, as are makaba (long) and makuyad (short). Matas means tall or high.",
+      "wordIds": ["col-maragul", "col-malati", "col-matas", "col-makaba", "col-makuyad"],
+      "exercises": [
+        {
+          "id": "col-3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Maragul\" mean?",
+          "wordIds": ["col-maragul"],
+          "answerId": "col-maragul"
+        },
+        {
+          "id": "col-3-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Malati\" mean?",
+          "wordIds": ["col-malati"],
+          "answerId": "col-malati"
+        },
+        {
+          "id": "col-3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing bale da.",
+          "wordIds": ["col-maragul"],
+          "accepted": ["their house is big", "their house is big.", "their house is large", "their house is large."]
+        },
+        {
+          "id": "col-3-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Matas ya ing puno.",
+          "wordIds": ["col-matas"],
+          "accepted": ["the tree is tall", "the tree is tall.", "the tree is high", "the tree is high."]
+        },
+        {
+          "id": "col-3-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ya ing pusa.  (The cat is small.)",
+          "wordIds": ["col-malati"],
+          "answerId": "col-malati"
+        },
+        {
+          "id": "col-3-fb2",
+          "type": "fill-blank",
+          "prompt": "____ ya ing dalan.  (The road is long.)",
+          "wordIds": ["col-makaba"],
+          "answerId": "col-makaba"
+        },
+        {
+          "id": "col-3-ma1",
+          "type": "matching",
+          "wordIds": ["col-maragul", "col-malati", "col-matas", "col-makaba", "col-makuyad"],
+          "pairs": [{"wordId": "col-maragul"}, {"wordId": "col-malati"}, {"wordId": "col-matas"}, {"wordId": "col-makaba"}, {"wordId": "col-makuyad"}]
+        }
+      ]
+    },
+    {
+      "id": "col-4",
+      "title": "Temperature: Hot & Cold",
+      "theme": "Describing temperature",
+      "intro": "Mapali (hot) and marimla (cold/cool) are the two key temperature adjectives in Kapampangan. Both follow the same ma- prefix pattern and work as predicates placed before the noun they describe.",
+      "wordIds": ["col-mapali", "col-marimla"],
+      "exercises": [
+        {
+          "id": "col-4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Mapali\" mean?",
+          "wordIds": ["col-mapali"],
+          "answerId": "col-mapali"
+        },
+        {
+          "id": "col-4-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Marimla\" mean?",
+          "wordIds": ["col-marimla"],
+          "answerId": "col-marimla"
+        },
+        {
+          "id": "col-4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mapali ya ing danum.",
+          "wordIds": ["col-mapali"],
+          "accepted": ["the water is hot", "the water is hot."]
+        },
+        {
+          "id": "col-4-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Marimla ya ing danum king baldi.",
+          "wordIds": ["col-marimla"],
+          "accepted": ["the water in the bucket is cold", "the water in the bucket is cold.", "the water in the pail is cold", "the water in the pail is cold."]
+        },
+        {
+          "id": "col-4-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ing panahon ngeni.  (The weather is hot today.)",
+          "wordIds": ["col-mapali"],
+          "answerId": "col-mapali"
+        },
+        {
+          "id": "col-4-fb2",
+          "type": "fill-blank",
+          "prompt": "____ ing bengi.  (The night is cold.)",
+          "wordIds": ["col-marimla"],
+          "answerId": "col-marimla"
+        },
+        {
+          "id": "col-4-ma1",
+          "type": "matching",
+          "wordIds": ["col-mapali", "col-marimla"],
+          "pairs": [{"wordId": "col-mapali"}, {"wordId": "col-marimla"}]
+        }
+      ]
+    },
+    {
+      "id": "col-5",
+      "title": "Beautiful & Ugly",
+      "theme": "Describing appearance",
+      "intro": "Kapampangan traditionally uses malagu for feminine beauty and masanting for masculine attractiveness, though both can describe things in general. Matsura is the word for ugly.",
+      "wordIds": ["col-malagu", "col-masanting", "col-matsura"],
+      "exercises": [
+        {
+          "id": "col-5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Malagu\" mean?",
+          "wordIds": ["col-malagu"],
+          "answerId": "col-malagu"
+        },
+        {
+          "id": "col-5-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Masanting\" mean?",
+          "wordIds": ["col-masanting"],
+          "answerId": "col-masanting"
+        },
+        {
+          "id": "col-5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malagu ya ing babai.",
+          "wordIds": ["col-malagu"],
+          "accepted": ["the woman is beautiful", "the woman is beautiful."]
+        },
+        {
+          "id": "col-5-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Masanting ya ing lalaki.",
+          "wordIds": ["col-masanting"],
+          "accepted": ["the man is handsome", "the man is handsome.", "the man is good-looking", "the man is good-looking."]
+        },
+        {
+          "id": "col-5-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ya ing larawan.  (The picture is ugly.)",
+          "wordIds": ["col-matsura"],
+          "answerId": "col-matsura"
+        },
+        {
+          "id": "col-5-fb2",
+          "type": "fill-blank",
+          "prompt": "____ ya ing bulaklak.  (The flower is beautiful.)",
+          "wordIds": ["col-malagu"],
+          "answerId": "col-malagu"
+        },
+        {
+          "id": "col-5-ma1",
+          "type": "matching",
+          "wordIds": ["col-malagu", "col-masanting", "col-matsura"],
+          "pairs": [{"wordId": "col-malagu"}, {"wordId": "col-masanting"}, {"wordId": "col-matsura"}]
+        }
+      ]
+    },
+    {
+      "id": "col-6",
+      "title": "New & Old",
+      "theme": "Describing age and condition",
+      "intro": "Bayu means new (recently made), while matua means old or aged. These two adjectives are listed as direct antonyms in Kapampangan dictionaries. They follow the same predicate-first sentence pattern as other descriptive adjectives.",
+      "wordIds": ["col-bayu", "col-matua"],
+      "exercises": [
+        {
+          "id": "col-6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Bayu\" mean?",
+          "wordIds": ["col-bayu"],
+          "answerId": "col-bayu"
+        },
+        {
+          "id": "col-6-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Matua\" mean?",
+          "wordIds": ["col-matua"],
+          "answerId": "col-matua"
+        },
+        {
+          "id": "col-6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Bayu ya ing libru ku.",
+          "wordIds": ["col-bayu"],
+          "accepted": ["my book is new", "my book is new."]
+        },
+        {
+          "id": "col-6-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Matua ya ing pari.",
+          "wordIds": ["col-matua"],
+          "accepted": ["the priest is old", "the priest is old.", "the priest is aged", "the priest is aged."]
+        },
+        {
+          "id": "col-6-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ing kotse na.  (His car is new.)",
+          "wordIds": ["col-bayu"],
+          "answerId": "col-bayu"
+        },
+        {
+          "id": "col-6-fb2",
+          "type": "fill-blank",
+          "prompt": "____ ya ing bale da.  (Their house is old.)",
+          "wordIds": ["col-matua"],
+          "answerId": "col-matua"
+        },
+        {
+          "id": "col-6-ma1",
+          "type": "matching",
+          "wordIds": ["col-bayu", "col-matua"],
+          "pairs": [{"wordId": "col-bayu"}, {"wordId": "col-matua"}]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.bigwas.com/2023/04/colors-in-kapampangan.html",
+    "http://kaplistorian.blogspot.com/2016/08/13-22-descriptive-kapampangan-words-for.html",
+    "https://en.wiktionary.org/wiki/malutu",
+    "https://en.wiktionary.org/wiki/maragul",
+    "https://en.wiktionary.org/wiki/malati",
+    "https://en.wiktionary.org/wiki/mapali",
+    "https://en.wiktionary.org/wiki/marimla",
+    "https://en.wiktionary.org/wiki/malagu",
+    "https://en.wiktionary.org/wiki/bayu",
+    "https://en.wiktionary.org/wiki/matua",
+    "https://en.wiktionary.org/wiki/matuling",
+    "https://en.wiktionary.org/wiki/makaba",
+    "https://en.wiktionary.org/wiki/matas",
+    "https://www.tagaloglang.com/kapampangan-dictionary/",
+    "https://www.tagaloglang.com/kapampangan-words/",
+    "https://pdfcoffee.com/common-kapampangan-words-amp-phrasesdocx-pdf-free.html",
+    "https://en.wikipedia.org/wiki/Kapampangan_language",
+    "https://bryanquiroz22.wordpress.com/2014/04/21/13/"
+  ],
+  "confidenceNotes": "HIGH CONFIDENCE: malutu (red), maputi (white), matuling (black), maragul (big), malati (small), mapali (hot), marimla (cold), malagu (beautiful), bayu (new), matua (old), matas (tall/high), makaba (long) — all confirmed in Wiktionary entries. MODERATE CONFIDENCE: mairó (blue), mayaluntian (green), mapapas (yellow) — attested in Bigwas.com and the Kapampangan Listorian blog (which cites Bergaño's 18th-century dictionary), but not individually confirmed in Wiktionary; 'asul' and 'berde' are also in common modern use as Spanish loanwords. masanting (handsome) and matsura (ugly) — attested in tagaloglang.com and pdfcoffee vocabulary sources but not individually confirmed in Wiktionary; makuyad (short) — confirmed in tagaloglang.com. UNCERTAINTY NOTE: Wiktionary marks matua as 'usually of people'; its extension to objects follows attested usage patterns and is consistent with how bayu (new) is used, but learners should be aware the primary sense is elderly/aged persons. Example sentences are author-constructed following documented Kapampangan predicate-initial grammar (adjective + ya + ing + noun), consistent with Wikipedia's grammar description and attested examples found in research."
+}

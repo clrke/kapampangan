@@ -1,0 +1,987 @@
+{
+  "id": "numbers",
+  "title": "Numbers & Counting",
+  "entries": [
+    {
+      "id": "num-sero",
+      "word": "Sero",
+      "partOfSpeech": "number",
+      "translations": [
+        "zero",
+        "0"
+      ],
+      "relatedTagalog": "sero",
+      "examples": [
+        {
+          "kp": "Sero ing bilang da.",
+          "en": "Their count is zero."
+        },
+        {
+          "kp": "Sero degrees Celsius ing temperatura.",
+          "en": "The temperature is zero degrees Celsius."
+        }
+      ],
+      "notes": "Spanish loanword (< cero), the standard modern term for zero in Kapampangan. The native word 'ala' also covers 'nothing/none' but is polysemous."
+    },
+    {
+      "id": "num-metung",
+      "word": "Metung",
+      "partOfSpeech": "number",
+      "translations": [
+        "one",
+        "1"
+      ],
+      "relatedTagalog": "isa",
+      "examples": [
+        {
+          "kp": "Metung a mansanas ing kakanán ku.",
+          "en": "I have one apple."
+        },
+        {
+          "kp": "Metung lang anak da.",
+          "en": "They have only one child."
+        }
+      ],
+      "notes": "Used when designating one thing. Before a noun: 'Metung a' (linker). Variant spelling 'metong' is in the avoid-list; this entry uses the standard 'Metung'."
+    },
+    {
+      "id": "num-adwa",
+      "word": "Adwa",
+      "partOfSpeech": "number",
+      "translations": [
+        "two",
+        "2"
+      ],
+      "relatedTagalog": "dalawa",
+      "examples": [
+        {
+          "kp": "Adwa la reng pusa.",
+          "en": "The cats are two. / There are two cats."
+        },
+        {
+          "kp": "Adwang mansanas ing kakanán ku.",
+          "en": "I have two apples."
+        }
+      ],
+      "notes": "Also spelled 'adua'. Takes the linker suffix -ng before nouns starting with a consonant (adwang tao) or linker 'a' before vowel-initial nouns."
+    },
+    {
+      "id": "num-atlu",
+      "word": "Atlu",
+      "partOfSpeech": "number",
+      "translations": [
+        "three",
+        "3"
+      ],
+      "relatedTagalog": "tatlo",
+      "examples": [
+        {
+          "kp": "Atlu la reng anak.",
+          "en": "There are three children."
+        },
+        {
+          "kp": "Atlung aldo na ing byahe.",
+          "en": "The trip is three days."
+        }
+      ],
+      "notes": "Takes linker: 'Atlung' before consonant-initial nouns, 'Atlu a' before vowel-initial nouns."
+    },
+    {
+      "id": "num-apat",
+      "word": "Apat",
+      "partOfSpeech": "number",
+      "translations": [
+        "four",
+        "4"
+      ],
+      "relatedTagalog": "apat",
+      "examples": [
+        {
+          "kp": "Apat a paa ning aso.",
+          "en": "A dog has four legs."
+        },
+        {
+          "kp": "Apat la reng mansanas.",
+          "en": "There are four apples."
+        }
+      ],
+      "notes": "Same form in Tagalog and Kapampangan. Linker: 'Apat a' before nouns."
+    },
+    {
+      "id": "num-lima",
+      "word": "Lima",
+      "partOfSpeech": "number",
+      "translations": [
+        "five",
+        "5"
+      ],
+      "relatedTagalog": "lima",
+      "examples": [
+        {
+          "kp": "Lima la reng daliri ning kamut.",
+          "en": "A hand has five fingers."
+        },
+        {
+          "kp": "Lima a piso ing presyu.",
+          "en": "The price is five pesos."
+        }
+      ],
+      "notes": "Same form in Tagalog and Kapampangan. Linker: 'Lima a' or 'Limang' before nouns."
+    },
+    {
+      "id": "num-anam",
+      "word": "Anam",
+      "partOfSpeech": "number",
+      "translations": [
+        "six",
+        "6"
+      ],
+      "relatedTagalog": "anim",
+      "examples": [
+        {
+          "kp": "Anam a bulan ing kapiganakan.",
+          "en": "The pregnancy is six months."
+        },
+        {
+          "kp": "Anam la reng itik.",
+          "en": "There are six ducks."
+        }
+      ],
+      "notes": "Tagalog cognate is 'anim'. Kapampangan form is 'anam'. Linker: 'Anam a'."
+    },
+    {
+      "id": "num-pitu",
+      "word": "Pitu",
+      "partOfSpeech": "number",
+      "translations": [
+        "seven",
+        "7"
+      ],
+      "relatedTagalog": "pito",
+      "examples": [
+        {
+          "kp": "Pitu la reng aldo king sangdominggo.",
+          "en": "There are seven days in a week."
+        },
+        {
+          "kp": "Pitu a piso ing nabayad ku.",
+          "en": "I paid seven pesos."
+        }
+      ],
+      "notes": "Very close to Tagalog 'pito'. Linker: 'Pitong' before consonants, 'Pitu a' before vowels."
+    },
+    {
+      "id": "num-walu",
+      "word": "Walu",
+      "partOfSpeech": "number",
+      "translations": [
+        "eight",
+        "8"
+      ],
+      "relatedTagalog": "walo",
+      "examples": [
+        {
+          "kp": "Walu la reng bibi.",
+          "en": "There are eight ducks."
+        },
+        {
+          "kp": "Walu a oras ing tulung.",
+          "en": "The sleep is eight hours."
+        }
+      ],
+      "notes": "Also written 'ualu' in older texts. The Spanish-influenced variant 'otchu' exists but 'walu' is the native form."
+    },
+    {
+      "id": "num-siyam",
+      "word": "Siyam",
+      "partOfSpeech": "number",
+      "translations": [
+        "nine",
+        "9"
+      ],
+      "relatedTagalog": "siyam",
+      "examples": [
+        {
+          "kp": "Siyam a bulan ing pamagsabyan.",
+          "en": "Pregnancy is nine months."
+        },
+        {
+          "kp": "Siyam la reng anak.",
+          "en": "There are nine children."
+        }
+      ],
+      "notes": "Same form in Tagalog. Linker: 'Siyam a' before nouns."
+    },
+    {
+      "id": "num-apulu",
+      "word": "Apulu",
+      "partOfSpeech": "number",
+      "translations": [
+        "ten",
+        "10"
+      ],
+      "relatedTagalog": "sampu",
+      "examples": [
+        {
+          "kp": "Apulu la reng daliri.",
+          "en": "There are ten fingers."
+        },
+        {
+          "kp": "Apulu a piso ing bayad.",
+          "en": "The payment is ten pesos."
+        }
+      ],
+      "notes": "Distinct from Tagalog 'sampu'. 'Apulu' is the native Kapampangan word for ten, used as the base for compound numbers (e.g., adwang pulu = twenty)."
+    },
+    {
+      "id": "num-labing-metung",
+      "word": "Labing metung",
+      "partOfSpeech": "number",
+      "translations": [
+        "eleven",
+        "11"
+      ],
+      "relatedTagalog": "labing-isa",
+      "examples": [
+        {
+          "kp": "Labing metung la reng estudyante.",
+          "en": "There are eleven students."
+        },
+        {
+          "kp": "Labing metung a piso ing sukli.",
+          "en": "The change is eleven pesos."
+        }
+      ],
+      "notes": "'Labing' derives from 'apulu' (ten) and serves as the teen prefix for 11–19. 'Labing metung' = ten + one. Spanish loanword 'onsi' also used colloquially."
+    },
+    {
+      "id": "num-adwang-pulu",
+      "word": "Adwang pulu",
+      "partOfSpeech": "number",
+      "translations": [
+        "twenty",
+        "20"
+      ],
+      "relatedTagalog": "dalawampu",
+      "examples": [
+        {
+          "kp": "Adwang pulu la reng bata.",
+          "en": "There are twenty children."
+        },
+        {
+          "kp": "Adwang pulu a piso ing presyu.",
+          "en": "The price is twenty pesos."
+        }
+      ],
+      "notes": "Literally 'two tens'. Also written 'adwampulu'. Spanish loanword 'benti/beynti' is also widely used. Attested in a Sun.Star headline: 'Adwampulu't walung banwa' (28 years)."
+    },
+    {
+      "id": "num-dinalan",
+      "word": "Dinalan",
+      "partOfSpeech": "number",
+      "translations": [
+        "one hundred",
+        "100"
+      ],
+      "relatedTagalog": "isang daan",
+      "examples": [
+        {
+          "kp": "Dinalan a piso ing presyu.",
+          "en": "The price is one hundred pesos."
+        },
+        {
+          "kp": "Dinalan la reng bisita.",
+          "en": "There are one hundred guests."
+        }
+      ],
+      "notes": "Native Kapampangan word for 100. Also expressed as 'metung a dalan'. Spanish loanword 'siyento' is also used. Attested in Bergano's 1732 dictionary."
+    },
+    {
+      "id": "num-libu",
+      "word": "Libu",
+      "partOfSpeech": "number",
+      "translations": [
+        "one thousand",
+        "1000"
+      ],
+      "relatedTagalog": "isang libo",
+      "examples": [
+        {
+          "kp": "Libu a piso ing utang ku.",
+          "en": "My debt is one thousand pesos."
+        },
+        {
+          "kp": "Libu la reng tao king plasa.",
+          "en": "There are one thousand people in the plaza."
+        }
+      ],
+      "notes": "Also expressed as 'metung a libu'. Widely attested across modern and historical Kapampangan sources."
+    },
+    {
+      "id": "num-pilan",
+      "word": "Pilan",
+      "partOfSpeech": "adverb",
+      "translations": [
+        "how many?",
+        "how much?"
+      ],
+      "relatedTagalog": "ilan",
+      "examples": [
+        {
+          "kp": "Pilan la reng mansanas?",
+          "en": "How many apples are there?"
+        },
+        {
+          "kp": "Pilan na ka banwa?",
+          "en": "How many years old are you? / How old are you?"
+        }
+      ],
+      "notes": "WH-question word meaning 'how many'. Corresponds to Tagalog 'ilan'. Frequently used in market and counting contexts. Attested in Mirikitani's Speaking Kapampangan."
+    },
+    {
+      "id": "num-bilang",
+      "word": "Bilang",
+      "partOfSpeech": "noun",
+      "translations": [
+        "count",
+        "number",
+        "numeral"
+      ],
+      "relatedTagalog": "bilang",
+      "examples": [
+        {
+          "kp": "Nanu ing bilang da?",
+          "en": "What is their count?"
+        },
+        {
+          "kp": "Malaking bilang ning tao ing miboto.",
+          "en": "A large number of people voted."
+        }
+      ],
+      "notes": "Functions as both noun ('count, number') and verb root ('to count'). Related forms include: bilangan (to count something), mamilang (to count), gangsal a bilang (odd number). Attested in Bergano's dictionary and forum sources."
+    },
+    {
+      "id": "num-labing",
+      "word": "Labing",
+      "partOfSpeech": "particle",
+      "translations": [
+        "teen- (prefix for 11–19)",
+        "plus ten"
+      ],
+      "relatedTagalog": "labing",
+      "examples": [
+        {
+          "kp": "Labing adwa la reng estudyante.",
+          "en": "There are twelve students."
+        },
+        {
+          "kp": "Labing lima a piso ing kakanán.",
+          "en": "The food costs fifteen pesos."
+        }
+      ],
+      "notes": "Prefix/particle used to form the teen numbers 11–19. 'Labing metung' (11), 'Labing adwa' (12), ... 'Labing siyam' (19). The headword 'Labing' appears as a standalone token in both examples as part of the phrase."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "num-L1",
+      "title": "Numbers 1–3",
+      "theme": "counting from one",
+      "intro": "Learn your first three Kapampangan numbers. Use the linker 'a' between a number and the noun it counts.",
+      "wordIds": [
+        "num-metung",
+        "num-adwa",
+        "num-atlu"
+      ],
+      "exercises": [
+        {
+          "id": "num-L1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Metung\" mean?",
+          "wordIds": [
+            "num-metung"
+          ],
+          "answerId": "num-metung"
+        },
+        {
+          "id": "num-L1-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"two\"?",
+          "wordIds": [
+            "num-adwa"
+          ],
+          "answerId": "num-adwa"
+        },
+        {
+          "id": "num-L1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Metung a mansanas.",
+          "wordIds": [
+            "num-metung"
+          ],
+          "accepted": [
+            "one apple",
+            "1 apple"
+          ]
+        },
+        {
+          "id": "num-L1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atlu la reng anak.",
+          "wordIds": [
+            "num-atlu"
+          ],
+          "accepted": [
+            "there are three children",
+            "three children",
+            "the children are three"
+          ]
+        },
+        {
+          "id": "num-L1-fb1",
+          "type": "fill-blank",
+          "prompt": "____ a mansanas ing kakanán ku.  (I have one apple.)",
+          "wordIds": [
+            "num-metung"
+          ],
+          "answerId": "num-metung"
+        },
+        {
+          "id": "num-L1-fb2",
+          "type": "fill-blank",
+          "prompt": "____ la reng pusa.  (The cats are two.)",
+          "wordIds": [
+            "num-adwa"
+          ],
+          "answerId": "num-adwa"
+        },
+        {
+          "id": "num-L1-ma1",
+          "type": "matching",
+          "wordIds": [
+            "num-metung",
+            "num-adwa",
+            "num-atlu"
+          ],
+          "pairs": [
+            {
+              "wordId": "num-metung"
+            },
+            {
+              "wordId": "num-adwa"
+            },
+            {
+              "wordId": "num-atlu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "num-L2",
+      "title": "Numbers 4–6",
+      "theme": "counting continues",
+      "intro": "Keep building! These three numbers — four, five, and six — will let you count common everyday things.",
+      "wordIds": [
+        "num-apat",
+        "num-lima",
+        "num-anam"
+      ],
+      "exercises": [
+        {
+          "id": "num-L2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Lima\" mean?",
+          "wordIds": [
+            "num-lima"
+          ],
+          "answerId": "num-lima"
+        },
+        {
+          "id": "num-L2-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"six\"?",
+          "wordIds": [
+            "num-anam"
+          ],
+          "answerId": "num-anam"
+        },
+        {
+          "id": "num-L2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Apat a paa ning aso.",
+          "wordIds": [
+            "num-apat"
+          ],
+          "accepted": [
+            "a dog has four legs",
+            "four legs of the dog",
+            "four legs"
+          ]
+        },
+        {
+          "id": "num-L2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Lima la reng daliri ning kamut.",
+          "wordIds": [
+            "num-lima"
+          ],
+          "accepted": [
+            "a hand has five fingers",
+            "there are five fingers on a hand",
+            "five fingers of a hand"
+          ]
+        },
+        {
+          "id": "num-L2-fb1",
+          "type": "fill-blank",
+          "prompt": "____ a paa ning aso.  (A dog has four legs.)",
+          "wordIds": [
+            "num-apat"
+          ],
+          "answerId": "num-apat"
+        },
+        {
+          "id": "num-L2-fb2",
+          "type": "fill-blank",
+          "prompt": "____ la reng itik.  (There are six ducks.)",
+          "wordIds": [
+            "num-anam"
+          ],
+          "answerId": "num-anam"
+        },
+        {
+          "id": "num-L2-ma1",
+          "type": "matching",
+          "wordIds": [
+            "num-apat",
+            "num-lima",
+            "num-anam"
+          ],
+          "pairs": [
+            {
+              "wordId": "num-apat"
+            },
+            {
+              "wordId": "num-lima"
+            },
+            {
+              "wordId": "num-anam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "num-L3",
+      "title": "Numbers 7–10",
+      "theme": "completing the first ten",
+      "intro": "Finish the core counting sequence with seven through ten. Once you know these, you can count anything from one to ten!",
+      "wordIds": [
+        "num-pitu",
+        "num-walu",
+        "num-siyam",
+        "num-apulu"
+      ],
+      "exercises": [
+        {
+          "id": "num-L3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Apulu\" mean?",
+          "wordIds": [
+            "num-apulu"
+          ],
+          "answerId": "num-apulu"
+        },
+        {
+          "id": "num-L3-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"seven\"?",
+          "wordIds": [
+            "num-pitu"
+          ],
+          "answerId": "num-pitu"
+        },
+        {
+          "id": "num-L3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Pitu la reng aldo king sangdominggo.",
+          "wordIds": [
+            "num-pitu"
+          ],
+          "accepted": [
+            "there are seven days in a week",
+            "seven days in a week"
+          ]
+        },
+        {
+          "id": "num-L3-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Apulu la reng daliri.",
+          "wordIds": [
+            "num-apulu"
+          ],
+          "accepted": [
+            "there are ten fingers",
+            "ten fingers"
+          ]
+        },
+        {
+          "id": "num-L3-fb1",
+          "type": "fill-blank",
+          "prompt": "____ la reng bibi.  (There are eight ducks.)",
+          "wordIds": [
+            "num-walu"
+          ],
+          "answerId": "num-walu"
+        },
+        {
+          "id": "num-L3-fb2",
+          "type": "fill-blank",
+          "prompt": "____ a bulan ing pamagsabyan.  (Pregnancy is nine months.)",
+          "wordIds": [
+            "num-siyam"
+          ],
+          "answerId": "num-siyam"
+        },
+        {
+          "id": "num-L3-ma1",
+          "type": "matching",
+          "wordIds": [
+            "num-pitu",
+            "num-walu",
+            "num-siyam",
+            "num-apulu"
+          ],
+          "pairs": [
+            {
+              "wordId": "num-pitu"
+            },
+            {
+              "wordId": "num-walu"
+            },
+            {
+              "wordId": "num-siyam"
+            },
+            {
+              "wordId": "num-apulu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "num-L4",
+      "title": "Zero, Eleven & the Teen Pattern",
+      "theme": "beyond ten",
+      "intro": "Learn zero ('sero'), the teen prefix 'labing', and eleven ('labing metung'). Teen numbers 11–19 are formed by putting 'labing' before a base number.",
+      "wordIds": [
+        "num-sero",
+        "num-labing",
+        "num-labing-metung"
+      ],
+      "exercises": [
+        {
+          "id": "num-L4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Sero\" mean?",
+          "wordIds": [
+            "num-sero"
+          ],
+          "answerId": "num-sero"
+        },
+        {
+          "id": "num-L4-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Labing metung\" mean?",
+          "wordIds": [
+            "num-labing-metung"
+          ],
+          "answerId": "num-labing-metung"
+        },
+        {
+          "id": "num-L4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sero ing bilang da.",
+          "wordIds": [
+            "num-sero"
+          ],
+          "accepted": [
+            "their count is zero",
+            "the count is zero",
+            "zero"
+          ]
+        },
+        {
+          "id": "num-L4-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Labing metung la reng estudyante.",
+          "wordIds": [
+            "num-labing-metung",
+            "num-labing"
+          ],
+          "accepted": [
+            "there are eleven students",
+            "eleven students"
+          ]
+        },
+        {
+          "id": "num-L4-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ing bilang da.  (Their count is zero.)",
+          "wordIds": [
+            "num-sero"
+          ],
+          "answerId": "num-sero"
+        },
+        {
+          "id": "num-L4-fb2",
+          "type": "fill-blank",
+          "prompt": "____ adwa la reng estudyante.  (There are twelve students.)",
+          "wordIds": [
+            "num-labing"
+          ],
+          "answerId": "num-labing"
+        },
+        {
+          "id": "num-L4-ma1",
+          "type": "matching",
+          "wordIds": [
+            "num-sero",
+            "num-labing",
+            "num-labing-metung"
+          ],
+          "pairs": [
+            {
+              "wordId": "num-sero"
+            },
+            {
+              "wordId": "num-labing"
+            },
+            {
+              "wordId": "num-labing-metung"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "num-L5",
+      "title": "Twenty, Hundred & Thousand",
+      "theme": "big numbers",
+      "intro": "Scale up your counting! Learn twenty ('adwang pulu'), one hundred ('dinalan'), and one thousand ('libu').",
+      "wordIds": [
+        "num-adwang-pulu",
+        "num-dinalan",
+        "num-libu"
+      ],
+      "exercises": [
+        {
+          "id": "num-L5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Dinalan\" mean?",
+          "wordIds": [
+            "num-dinalan"
+          ],
+          "answerId": "num-dinalan"
+        },
+        {
+          "id": "num-L5-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"twenty\"?",
+          "wordIds": [
+            "num-adwang-pulu"
+          ],
+          "answerId": "num-adwang-pulu"
+        },
+        {
+          "id": "num-L5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Dinalan a piso ing presyu.",
+          "wordIds": [
+            "num-dinalan"
+          ],
+          "accepted": [
+            "the price is one hundred pesos",
+            "one hundred pesos",
+            "100 pesos"
+          ]
+        },
+        {
+          "id": "num-L5-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Libu a piso ing utang ku.",
+          "wordIds": [
+            "num-libu"
+          ],
+          "accepted": [
+            "my debt is one thousand pesos",
+            "one thousand pesos",
+            "1000 pesos"
+          ]
+        },
+        {
+          "id": "num-L5-fb1",
+          "type": "fill-blank",
+          "prompt": "____ la reng bata.  (There are twenty children.)",
+          "wordIds": [
+            "num-adwang-pulu"
+          ],
+          "answerId": "num-adwang-pulu"
+        },
+        {
+          "id": "num-L5-fb2",
+          "type": "fill-blank",
+          "prompt": "____ a piso ing utang ku.  (My debt is one thousand pesos.)",
+          "wordIds": [
+            "num-libu"
+          ],
+          "answerId": "num-libu"
+        },
+        {
+          "id": "num-L5-ma1",
+          "type": "matching",
+          "wordIds": [
+            "num-adwang-pulu",
+            "num-dinalan",
+            "num-libu"
+          ],
+          "pairs": [
+            {
+              "wordId": "num-adwang-pulu"
+            },
+            {
+              "wordId": "num-dinalan"
+            },
+            {
+              "wordId": "num-libu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "num-L6",
+      "title": "Counting & How Many",
+      "theme": "asking and counting",
+      "intro": "Put it all together! Learn 'pilan' (how many?) and 'bilang' (count/number) to ask and talk about quantities.",
+      "wordIds": [
+        "num-pilan",
+        "num-bilang"
+      ],
+      "exercises": [
+        {
+          "id": "num-L6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Pilan\" mean?",
+          "wordIds": [
+            "num-pilan"
+          ],
+          "answerId": "num-pilan"
+        },
+        {
+          "id": "num-L6-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Bilang\" mean?",
+          "wordIds": [
+            "num-bilang"
+          ],
+          "answerId": "num-bilang"
+        },
+        {
+          "id": "num-L6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Pilan la reng mansanas?",
+          "wordIds": [
+            "num-pilan"
+          ],
+          "accepted": [
+            "how many apples are there?",
+            "how many apples?"
+          ]
+        },
+        {
+          "id": "num-L6-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Nanu ing bilang da?",
+          "wordIds": [
+            "num-bilang"
+          ],
+          "accepted": [
+            "what is their count?",
+            "what is the count?"
+          ]
+        },
+        {
+          "id": "num-L6-fb1",
+          "type": "fill-blank",
+          "prompt": "____ la reng mansanas?  (How many apples are there?)",
+          "wordIds": [
+            "num-pilan"
+          ],
+          "answerId": "num-pilan"
+        },
+        {
+          "id": "num-L6-fb2",
+          "type": "fill-blank",
+          "prompt": "Nanu ing ____ da?  (What is their count?)",
+          "wordIds": [
+            "num-bilang"
+          ],
+          "answerId": "num-bilang"
+        },
+        {
+          "id": "num-L6-ma1",
+          "type": "matching",
+          "wordIds": [
+            "num-pilan",
+            "num-bilang"
+          ],
+          "pairs": [
+            {
+              "wordId": "num-pilan"
+            },
+            {
+              "wordId": "num-bilang"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikivoyage.org/wiki/Kapampangan_phrasebook",
+    "https://en.wikibooks.org/wiki/Kapampangan/Numbers_To_Twenty",
+    "https://en.wikibooks.org/wiki/Kapampangan/Numbers_To_One_Hundred",
+    "https://www.omniglot.com/language/numbers/kapampangan.htm",
+    "https://forums.kapampangan.org/viewtopic.php?t=130",
+    "http://kapampanganonline.blogspot.com/2011/06/numbers.html",
+    "https://quizlet.com/915911523/kapampangan-numbers-flash-cards/",
+    "https://www.coursehero.com/file/104026624/kapampangan-wordsdocx/"
+  ],
+  "confidenceNotes": "High confidence (corroborated by 4+ independent sources): Metung (1), Adwa (2), Atlu (3), Apat (4), Lima (5), Anam (6), Pitu (7), Walu (8), Siyam (9), Apulu (10), Labing metung (11), Adwang pulu (20), Dinalan (100), Libu (1000), Pilan (how many). Moderate confidence: Sero (zero) — confirmed as a Spanish loanword used in Kapampangan (omniglot lists it alongside 'ala'; 'ala' is on the avoid-list so 'sero' is used here). Bilang (count/number) — attested in Bergano's 1732 dictionary and multiple modern sources. Labing (teen prefix) — attested in all numbered sources for 11–19. Spelling note: 'adwa' vs 'adua' — both spellings are attested; 'adwa' is the more commonly cited modern form and is used here. The linker 'a' between number and noun (e.g., 'Metung a mansanas') is attested in Wikibooks and multiple grammar sources. The form '-ng' suffix on numbers before consonant-initial nouns (e.g., 'adwang', 'atlung', 'pitong') is attested in grammar references and a Sun.Star newspaper headline."
+}

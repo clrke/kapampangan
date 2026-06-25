@@ -1,4 +1,5 @@
 import type { DictionaryEntry } from './types'
+import { extraPacks } from './packs'
 
 /**
  * The Kapampangan dictionary — single source of truth.
@@ -11,7 +12,7 @@ import type { DictionaryEntry } from './types'
  *
  * Per project decision: the dictionary expands as lessons demand it.
  */
-export const dictionary: DictionaryEntry[] = [
+const coreEntries: DictionaryEntry[] = [
   // --- Greetings & courtesy ---
   {
     id: 'kumusta',
@@ -242,6 +243,12 @@ export const dictionary: DictionaryEntry[] = [
     ],
     relatedTagalog: 'katawan',
   },
+]
+
+/** The full dictionary: core words plus every content pack's entries. */
+export const dictionary: DictionaryEntry[] = [
+  ...coreEntries,
+  ...extraPacks.flatMap((p) => p.entries),
 ]
 
 export default dictionary

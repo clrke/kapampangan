@@ -91,3 +91,15 @@ export interface Lesson {
   wordIds: string[]
   exercises: Exercise[]
 }
+
+/**
+ * A self-contained content pack: its lessons teach exactly its entries.
+ * Packs are aggregated into the global dictionary/lessons, keeping new
+ * content additive and the coverage invariants easy to satisfy locally.
+ */
+export interface ContentPack {
+  id: string
+  title: string
+  entries: DictionaryEntry[]
+  lessons: Lesson[]
+}

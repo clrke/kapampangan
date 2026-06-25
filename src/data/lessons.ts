@@ -1,10 +1,11 @@
 import type { Lesson } from './types'
+import { extraPacks } from './packs'
 
 /**
  * Lessons. Each `wordIds` entry teaches a dictionary word.
  * The union of all lesson wordIds MUST equal the dictionary (enforced by tests).
  */
-export const lessons: Lesson[] = [
+const coreLessons: Lesson[] = [
   {
     id: 'greetings',
     title: 'Greetings & Courtesy',
@@ -218,6 +219,12 @@ export const lessons: Lesson[] = [
       },
     ],
   },
+]
+
+/** All lessons: core lessons followed by every content pack's lessons. */
+export const lessons: Lesson[] = [
+  ...coreLessons,
+  ...extraPacks.flatMap((p) => p.lessons),
 ]
 
 export default lessons

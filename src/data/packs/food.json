@@ -1,0 +1,624 @@
+{
+  "id": "food",
+  "title": "Food & Eating",
+  "entries": [
+    {
+      "id": "food-mangan",
+      "word": "Mangan",
+      "partOfSpeech": "verb",
+      "translations": ["to eat"],
+      "relatedTagalog": "kain",
+      "examples": [
+        {"kp": "Mangan na tamu.", "en": "Let us eat now."},
+        {"kp": "Bisa kung mangan.", "en": "I want to eat."}
+      ],
+      "notes": "Root: kan (food). Active form: mamangan (will eat). Past: mengan."
+    },
+    {
+      "id": "food-minum",
+      "word": "Minum",
+      "partOfSpeech": "verb",
+      "translations": ["to drink"],
+      "relatedTagalog": "inom",
+      "examples": [
+        {"kp": "Bisa ku minum danum.", "en": "I want to drink water."},
+        {"kp": "Minum ku kape.", "en": "I am drinking coffee."}
+      ]
+    },
+    {
+      "id": "food-pamangan",
+      "word": "Pamangan",
+      "partOfSpeech": "noun",
+      "translations": ["food", "meal"],
+      "relatedTagalog": "pagkain",
+      "examples": [
+        {"kp": "Manyaman ing pamangan.", "en": "The food is delicious."},
+        {"kp": "Atin pamangan keni.", "en": "There is food here."}
+      ],
+      "notes": "Derived from mangan (to eat) with pa- prefix."
+    },
+    {
+      "id": "food-nasi",
+      "word": "Nasi",
+      "partOfSpeech": "noun",
+      "translations": ["cooked rice"],
+      "relatedTagalog": "kanin",
+      "examples": [
+        {"kp": "Ala tang nasi.", "en": "We have no rice."},
+        {"kp": "Bisa kung nasi ampo asan.", "en": "I want rice and fish."}
+      ],
+      "notes": "Refers specifically to cooked rice, the staple of the Kapampangan table."
+    },
+    {
+      "id": "food-danum",
+      "word": "Danum",
+      "partOfSpeech": "noun",
+      "translations": ["water"],
+      "relatedTagalog": "tubig",
+      "examples": [
+        {"kp": "Mainit ya ing danum a ini.", "en": "This water is hot."},
+        {"kp": "Bisa ku minum danum.", "en": "I want to drink water."}
+      ]
+    },
+    {
+      "id": "food-asan",
+      "word": "Asan",
+      "partOfSpeech": "noun",
+      "translations": ["fish", "viand (dish eaten with rice)"],
+      "relatedTagalog": "isda",
+      "examples": [
+        {"kp": "Mangan ku asan.", "en": "I am eating fish."},
+        {"kp": "Nanu ing asan mu?", "en": "What is your viand?"}
+      ],
+      "notes": "Asan can refer broadly to any viand/dish eaten with nasi, or specifically to fish."
+    },
+    {
+      "id": "food-manuk",
+      "word": "Manuk",
+      "partOfSpeech": "noun",
+      "translations": ["chicken"],
+      "relatedTagalog": "manok",
+      "examples": [
+        {"kp": "Manyaman ing manuk.", "en": "The chicken is delicious."},
+        {"kp": "Bisa kung manuk a pamangan.", "en": "I want chicken as food."}
+      ]
+    },
+    {
+      "id": "food-karne",
+      "word": "Karne",
+      "partOfSpeech": "noun",
+      "translations": ["meat"],
+      "relatedTagalog": "karne",
+      "examples": [
+        {"kp": "Ing karne a ini manyaman ya.", "en": "This meat is delicious."},
+        {"kp": "E ku mamangan karne.", "en": "I do not eat meat."}
+      ],
+      "notes": "Spanish loanword (carne). Commonly used for beef or pork."
+    },
+    {
+      "id": "food-ebun",
+      "word": "Ebun",
+      "partOfSpeech": "noun",
+      "translations": ["egg"],
+      "relatedTagalog": "itlog",
+      "examples": [
+        {"kp": "Ilaga mu reng ebun.", "en": "Boil the eggs."},
+        {"kp": "Pritung ebun ku.", "en": "I have a fried egg."}
+      ]
+    },
+    {
+      "id": "food-gatas",
+      "word": "Gatas",
+      "partOfSpeech": "noun",
+      "translations": ["milk"],
+      "relatedTagalog": "gatas",
+      "examples": [
+        {"kp": "Ing gatas a ini mayumu ya.", "en": "This milk is sweet."},
+        {"kp": "Bisa kung gatas.", "en": "I want milk."}
+      ]
+    },
+    {
+      "id": "food-kape",
+      "word": "Kape",
+      "partOfSpeech": "noun",
+      "translations": ["coffee"],
+      "relatedTagalog": "kape",
+      "examples": [
+        {"kp": "Mainit ya ing kape a ini.", "en": "This coffee is hot."},
+        {"kp": "Bisa kung kape.", "en": "I want coffee."}
+      ]
+    },
+    {
+      "id": "food-gulay",
+      "word": "Gulay",
+      "partOfSpeech": "noun",
+      "translations": ["vegetable", "vegetables"],
+      "relatedTagalog": "gulay",
+      "examples": [
+        {"kp": "Ing gulay a ini manyaman ya.", "en": "These vegetables are delicious."},
+        {"kp": "Mangan ku gulay.", "en": "I am eating vegetables."}
+      ],
+      "notes": "Also appears as gule in some Kapampangan sources (e.g. gule magalang)."
+    },
+    {
+      "id": "food-prutas",
+      "word": "Prutas",
+      "partOfSpeech": "noun",
+      "translations": ["fruit", "fruits"],
+      "relatedTagalog": "prutas",
+      "examples": [
+        {"kp": "Mayumu ing prutas.", "en": "The fruit is sweet."},
+        {"kp": "Bisa kung prutas sagiwa.", "en": "I want fresh fruit."}
+      ],
+      "notes": "Spanish loanword (frutas)."
+    },
+    {
+      "id": "food-manyaman",
+      "word": "Manyaman",
+      "partOfSpeech": "adjective",
+      "translations": ["delicious", "tasty"],
+      "relatedTagalog": "masarap",
+      "examples": [
+        {"kp": "Manyaman ing nasi!", "en": "The rice is delicious!"},
+        {"kp": "Manyaman ing lutu mu.", "en": "Your cooking is delicious."}
+      ],
+      "notes": "Derived from ma- + niaman. Alternate spelling: maniaman. Very commonly used exclamation in Pampanga."
+    },
+    {
+      "id": "food-maranup",
+      "word": "Maranup",
+      "partOfSpeech": "adjective",
+      "translations": ["hungry"],
+      "relatedTagalog": "gutom",
+      "examples": [
+        {"kp": "Maranup ku.", "en": "I am hungry."},
+        {"kp": "Maranup ko pa.", "en": "I am still hungry."}
+      ],
+      "notes": "Root: danup (hunger). Attested in the proverb 'Queng maranup alang masias a tinape' (To the hungry, no bread is ever hard)."
+    },
+    {
+      "id": "food-kabsi",
+      "word": "Kabsi",
+      "partOfSpeech": "adjective",
+      "translations": ["full", "satiated", "having eaten one's fill"],
+      "relatedTagalog": "busog",
+      "examples": [
+        {"kp": "Kabsi ko na.", "en": "I am already full."},
+        {"kp": "Kabsi ko kareng nasi.", "en": "I am full from the rice."}
+      ],
+      "notes": "Commonly heard as 'Kabsi ko!' after a satisfying meal."
+    },
+    {
+      "id": "food-lutu",
+      "word": "Lutu",
+      "partOfSpeech": "verb",
+      "translations": ["to cook", "cooking"],
+      "relatedTagalog": "luto",
+      "examples": [
+        {"kp": "Magluto kung asan.", "en": "I will cook fish."},
+        {"kp": "Kanyaman na ning lutu mu.", "en": "Your cooking is so good."}
+      ],
+      "notes": "Also used as noun (cooking). Active verb form: magluto / maglutu. Malutu = cooked/ripe (also red)."
+    },
+    {
+      "id": "food-mayumu",
+      "word": "Mayumu",
+      "partOfSpeech": "adjective",
+      "translations": ["sweet"],
+      "relatedTagalog": "matamis",
+      "examples": [
+        {"kp": "Mayumu ing prutas.", "en": "The fruit is sweet."},
+        {"kp": "Mayumu ya ining kape.", "en": "This coffee is sweet."}
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "food-1",
+      "title": "Eating & Drinking",
+      "theme": "core food verbs",
+      "intro": "Kapampangans are famous throughout the Philippines as passionate cooks and eaters. Learn the two most essential food verbs: mangan (to eat) and minum (to drink).",
+      "wordIds": ["food-mangan", "food-minum", "food-pamangan"],
+      "exercises": [
+        {
+          "id": "food-1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Mangan\" mean?",
+          "wordIds": ["food-mangan"],
+          "answerId": "food-mangan"
+        },
+        {
+          "id": "food-1-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Minum\" mean?",
+          "wordIds": ["food-minum"],
+          "answerId": "food-minum"
+        },
+        {
+          "id": "food-1-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Pamangan\" mean?",
+          "wordIds": ["food-pamangan"],
+          "answerId": "food-pamangan"
+        },
+        {
+          "id": "food-1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mangan na tamu.",
+          "wordIds": ["food-mangan"],
+          "accepted": ["let us eat now", "let's eat now", "let us eat"]
+        },
+        {
+          "id": "food-1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Bisa ku minum.",
+          "wordIds": ["food-minum"],
+          "accepted": ["i want to drink", "i would like to drink"]
+        },
+        {
+          "id": "food-1-fb1",
+          "type": "fill-blank",
+          "prompt": "Manyaman ing ____. (The food is delicious.)",
+          "wordIds": ["food-pamangan"],
+          "answerId": "food-pamangan"
+        },
+        {
+          "id": "food-1-ma1",
+          "type": "matching",
+          "wordIds": ["food-mangan", "food-minum", "food-pamangan"],
+          "pairs": [
+            {"wordId": "food-mangan"},
+            {"wordId": "food-minum"},
+            {"wordId": "food-pamangan"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "food-2",
+      "title": "Rice & Water",
+      "theme": "staple foods",
+      "intro": "No Kapampangan meal is complete without nasi (cooked rice) at the center of the table. Learn the words for the two most essential things at any meal: rice and water.",
+      "wordIds": ["food-nasi", "food-danum"],
+      "exercises": [
+        {
+          "id": "food-2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Nasi\" mean?",
+          "wordIds": ["food-nasi"],
+          "answerId": "food-nasi"
+        },
+        {
+          "id": "food-2-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Danum\" mean?",
+          "wordIds": ["food-danum"],
+          "answerId": "food-danum"
+        },
+        {
+          "id": "food-2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ala tang nasi.",
+          "wordIds": ["food-nasi"],
+          "accepted": ["we have no rice", "there is no rice", "we don't have rice"]
+        },
+        {
+          "id": "food-2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Bisa ku minum danum.",
+          "wordIds": ["food-danum", "food-minum"],
+          "accepted": ["i want to drink water", "i would like to drink water"]
+        },
+        {
+          "id": "food-2-fb1",
+          "type": "fill-blank",
+          "prompt": "Mainit ing ____. (The water is hot.)",
+          "wordIds": ["food-danum"],
+          "answerId": "food-danum"
+        },
+        {
+          "id": "food-2-fb2",
+          "type": "fill-blank",
+          "prompt": "Bisa kung nasi ampo asan. (I want ____ and fish.)",
+          "wordIds": ["food-nasi"],
+          "answerId": "food-nasi"
+        },
+        {
+          "id": "food-2-ma1",
+          "type": "matching",
+          "wordIds": ["food-nasi", "food-danum"],
+          "pairs": [
+            {"wordId": "food-nasi"},
+            {"wordId": "food-danum"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "food-3",
+      "title": "Proteins",
+      "theme": "meat, fish, and eggs",
+      "intro": "Pampanga is known for its rich meat dishes and fresh seafood. Learn the Kapampangan words for common protein foods you'll find at any Kapampangan table.",
+      "wordIds": ["food-asan", "food-manuk", "food-karne", "food-ebun"],
+      "exercises": [
+        {
+          "id": "food-3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Asan\" mean?",
+          "wordIds": ["food-asan"],
+          "answerId": "food-asan"
+        },
+        {
+          "id": "food-3-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Manuk\" mean?",
+          "wordIds": ["food-manuk"],
+          "answerId": "food-manuk"
+        },
+        {
+          "id": "food-3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mangan ku asan.",
+          "wordIds": ["food-asan", "food-mangan"],
+          "accepted": ["i am eating fish", "i eat fish", "i'm eating fish"]
+        },
+        {
+          "id": "food-3-fb1",
+          "type": "fill-blank",
+          "prompt": "E ku mamangan ____. (I do not eat meat.)",
+          "wordIds": ["food-karne"],
+          "answerId": "food-karne"
+        },
+        {
+          "id": "food-3-fb2",
+          "type": "fill-blank",
+          "prompt": "Ilaga mu reng ____. (Boil the eggs.)",
+          "wordIds": ["food-ebun"],
+          "answerId": "food-ebun"
+        },
+        {
+          "id": "food-3-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Manyaman ing manuk.",
+          "wordIds": ["food-manuk", "food-manyaman"],
+          "accepted": ["the chicken is delicious", "the chicken is tasty"]
+        },
+        {
+          "id": "food-3-ma1",
+          "type": "matching",
+          "wordIds": ["food-asan", "food-manuk", "food-karne", "food-ebun"],
+          "pairs": [
+            {"wordId": "food-asan"},
+            {"wordId": "food-manuk"},
+            {"wordId": "food-karne"},
+            {"wordId": "food-ebun"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "food-4",
+      "title": "Drinks & Dairy",
+      "theme": "beverages",
+      "intro": "Kapampangan hospitality always includes offering something to drink. Learn the words for popular beverages you'll encounter in Pampanga.",
+      "wordIds": ["food-kape", "food-gatas"],
+      "exercises": [
+        {
+          "id": "food-4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Kape\" mean?",
+          "wordIds": ["food-kape"],
+          "answerId": "food-kape"
+        },
+        {
+          "id": "food-4-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Gatas\" mean?",
+          "wordIds": ["food-gatas"],
+          "answerId": "food-gatas"
+        },
+        {
+          "id": "food-4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Bisa kung kape.",
+          "wordIds": ["food-kape"],
+          "accepted": ["i want coffee", "i would like coffee", "i want some coffee"]
+        },
+        {
+          "id": "food-4-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Minum ku gatas.",
+          "wordIds": ["food-gatas", "food-minum"],
+          "accepted": ["i am drinking milk", "i drink milk", "i'm drinking milk"]
+        },
+        {
+          "id": "food-4-fb1",
+          "type": "fill-blank",
+          "prompt": "Mainit ing ____. (The coffee is hot.)",
+          "wordIds": ["food-kape"],
+          "answerId": "food-kape"
+        },
+        {
+          "id": "food-4-fb2",
+          "type": "fill-blank",
+          "prompt": "Bisa kung ____. (I want milk.)",
+          "wordIds": ["food-gatas"],
+          "answerId": "food-gatas"
+        },
+        {
+          "id": "food-4-ma1",
+          "type": "matching",
+          "wordIds": ["food-kape", "food-gatas"],
+          "pairs": [
+            {"wordId": "food-kape"},
+            {"wordId": "food-gatas"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "food-5",
+      "title": "Fruits & Vegetables",
+      "theme": "produce",
+      "intro": "Pampanga's fertile plains produce abundant fresh fruits and vegetables. Learn the Kapampangan words for these natural foods, along with the key taste word for sweetness.",
+      "wordIds": ["food-prutas", "food-gulay", "food-mayumu"],
+      "exercises": [
+        {
+          "id": "food-5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Prutas\" mean?",
+          "wordIds": ["food-prutas"],
+          "answerId": "food-prutas"
+        },
+        {
+          "id": "food-5-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Gulay\" mean?",
+          "wordIds": ["food-gulay"],
+          "answerId": "food-gulay"
+        },
+        {
+          "id": "food-5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mayumu ing prutas.",
+          "wordIds": ["food-prutas", "food-mayumu"],
+          "accepted": ["the fruit is sweet", "the fruits are sweet"]
+        },
+        {
+          "id": "food-5-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mangan ku gulay.",
+          "wordIds": ["food-gulay", "food-mangan"],
+          "accepted": ["i am eating vegetables", "i eat vegetables", "i'm eating vegetables"]
+        },
+        {
+          "id": "food-5-fb1",
+          "type": "fill-blank",
+          "prompt": "Bisa kung ____ sagiwa. (I want fresh fruit.)",
+          "wordIds": ["food-prutas"],
+          "answerId": "food-prutas"
+        },
+        {
+          "id": "food-5-fb2",
+          "type": "fill-blank",
+          "prompt": "Mayumu ya ining ____. (This coffee is sweet.)",
+          "wordIds": ["food-mayumu"],
+          "answerId": "food-mayumu"
+        },
+        {
+          "id": "food-5-ma1",
+          "type": "matching",
+          "wordIds": ["food-prutas", "food-gulay", "food-mayumu"],
+          "pairs": [
+            {"wordId": "food-prutas"},
+            {"wordId": "food-gulay"},
+            {"wordId": "food-mayumu"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "food-6",
+      "title": "Taste & Appetite",
+      "theme": "describing food and hunger",
+      "intro": "Kapampangans have a deep passion for good food — knowing how to say something is delicious, or that you are hungry or full, is essential for any meal conversation in Pampanga.",
+      "wordIds": ["food-manyaman", "food-maranup", "food-kabsi", "food-lutu"],
+      "exercises": [
+        {
+          "id": "food-6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Manyaman\" mean?",
+          "wordIds": ["food-manyaman"],
+          "answerId": "food-manyaman"
+        },
+        {
+          "id": "food-6-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Maranup\" mean?",
+          "wordIds": ["food-maranup"],
+          "answerId": "food-maranup"
+        },
+        {
+          "id": "food-6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maranup ku.",
+          "wordIds": ["food-maranup"],
+          "accepted": ["i am hungry", "i'm hungry"]
+        },
+        {
+          "id": "food-6-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Kabsi ko na.",
+          "wordIds": ["food-kabsi"],
+          "accepted": ["i am already full", "i'm already full", "i am full now", "i'm full now", "i am full already"]
+        },
+        {
+          "id": "food-6-fb1",
+          "type": "fill-blank",
+          "prompt": "Magluto kung asan. (I will ____ fish.)",
+          "wordIds": ["food-lutu"],
+          "answerId": "food-lutu"
+        },
+        {
+          "id": "food-6-fb2",
+          "type": "fill-blank",
+          "prompt": "____ ing pamangan! (The food is delicious!)",
+          "wordIds": ["food-manyaman"],
+          "answerId": "food-manyaman"
+        },
+        {
+          "id": "food-6-ma1",
+          "type": "matching",
+          "wordIds": ["food-manyaman", "food-maranup", "food-kabsi", "food-lutu"],
+          "pairs": [
+            {"wordId": "food-manyaman"},
+            {"wordId": "food-maranup"},
+            {"wordId": "food-kabsi"},
+            {"wordId": "food-lutu"}
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikivoyage.org/wiki/Kapampangan_phrasebook",
+    "https://en.wiktionary.org/wiki/mangan#Kapampangan",
+    "https://en.wiktionary.org/wiki/minum#Kapampangan",
+    "https://en.wiktionary.org/wiki/danum",
+    "https://en.wiktionary.org/wiki/asan#Kapampangan",
+    "https://en.wiktionary.org/wiki/pamangan",
+    "https://en.wiktionary.org/wiki/maniaman",
+    "https://idoc.pub/documents/common-kapampangan-words-phrasesdocx-vlr9gpp65jlz",
+    "https://pdfcoffee.com/common-kapampangan-words-amp-phrasesdocx-pdf-free.html",
+    "https://archive.phonetics.ucla.edu/Language/PAM/pam_word-list_1974_01.html",
+    "https://kaikki.org/dictionary/Kapampangan/categories-other/g6/Foods/index.html",
+    "https://www.metroguide.co/tips-guides/kapampangan-common-phrases-you-should-learn/",
+    "https://bryanquiroz22.wordpress.com/2014/04/21/13/"
+  ],
+  "confidenceNotes": "HIGH CONFIDENCE (verified via Wiktionary, Wikivoyage, and multiple concordant sources): mangan (to eat), minum (to drink), danum (water), nasi (cooked rice), asan (fish/viand), manyaman/maniaman (delicious), pamangan (food). GOOD CONFIDENCE (consistent across multiple native-speaker phrase guides and language resources): manuk (chicken), karne (meat, Spanish loanword), ebun (egg), gatas (milk), kape (coffee), maranup (hungry - attested in a historical Kapampangan proverb), kabsi (full/satiated - consistently listed in multiple phrase guides). MODERATE CONFIDENCE: gulay (vegetable - the Kapampangan cognate appears in 'gule magalang'; gulay is the form used in the Wikivoyage phrasebook), prutas (fruit - Wikivoyage Kapampangan phrasebook lists 'prutas sagiwa' for fresh fruit; likely a Spanish loanword shared with Tagalog), mayumu (sweet - attested in Wikivoyage 'Mayumu ya' and consistent with Kapampangan ma- adjectival prefix), lutu (to cook/cooking - attested across multiple sources including the Forman dictionary search results and the phrase 'Kanyaman na ning lutu mu'). NOTES: 'Kabsi' does not appear in Wiktionary but is consistently listed in multiple independent Kapampangan phrase guides and a dedicated learn-Kapampangan resource. 'Maranup' appears in a historical proverb (Queng maranup alang masias a tinape) confirming its authenticity. Exercise fill-blank food-6-fb1 uses 'Magluto kung asan' where 'Magluto' is the active verb form of lutu - the headword 'Lutu' appears as a standalone token in the example 'Kanyaman na ning lutu mu' in the entry itself."
+}

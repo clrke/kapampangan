@@ -25,6 +25,13 @@ describe('tokenizer', () => {
     expect(wordTokens('MAYAP ku').some((t) => t.entry!.id === 'mayap')).toBe(true)
   })
 
+  it('matches multi-word headwords as a single token', () => {
+    const tokens = wordTokens('Labing metung la reng estudyante.')
+    expect(tokens.some((t) => t.entry!.id === 'num-labing-metung')).toBe(true)
+    // the matched token text spans both words
+    expect(tokens.find((t) => t.entry!.id === 'num-labing-metung')!.text).toBe('Labing metung')
+  })
+
   it('normalize strips surrounding punctuation', () => {
     expect(normalize('Kumusta?')).toBe('kumusta')
     expect(normalize('"Mayap,"')).toBe('mayap')
