@@ -1,0 +1,8 @@
+# Saint Expeditus internal
+.saint-expeditus/
+
+# Private conversations — never publish these
+private/
+conversations/
+*.private.md
+*.chat.txt
