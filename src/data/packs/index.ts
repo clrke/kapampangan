@@ -17,6 +17,7 @@ import clothing from './clothing.json'
 import actions from './actions.json'
 import money from './money.json'
 import grammar from './grammar.json'
+import particles from './particles.json'
 
 /**
  * Additional content packs, aggregated into the global dictionary & lessons.
@@ -42,4 +43,5 @@ export const extraPacks: ContentPack[] = [
   actions as ContentPack,
   money as ContentPack,
   grammar as ContentPack,
+  particles as ContentPack,
 ]
