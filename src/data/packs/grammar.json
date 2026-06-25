@@ -1,0 +1,481 @@
+{
+  "id": "grammar",
+  "title": "Pronouns & Articles",
+  "entries": [
+    {
+      "id": "gram-ka",
+      "word": "ka",
+      "partOfSpeech": "pronoun",
+      "translations": ["you (singular)"],
+      "relatedTagalog": "ka / ikaw",
+      "examples": [
+        {
+          "kp": "Masaya ka ngeni?",
+          "en": "Are you happy now?"
+        },
+        {
+          "kp": "Datang ka na bale.",
+          "en": "Come home now."
+        },
+        {
+          "kp": "Mayap ka naman!",
+          "en": "How good you are!"
+        }
+      ],
+      "notes": "Absolutive (ang-set) 2nd-person singular enclitic pronoun. Attaches after the predicate. Equivalent to Tagalog 'ka' (post-verbal position) / 'ikaw' (sentence-initial). Do not confuse with the ligature 'ka-' prefix."
+    },
+    {
+      "id": "gram-kayu",
+      "word": "kayu",
+      "partOfSpeech": "pronoun",
+      "translations": ["you (plural)", "you all", "you (formal/polite singular)"],
+      "relatedTagalog": "kayo",
+      "examples": [
+        {
+          "kp": "Masaya kayu ngeni?",
+          "en": "Are you all happy now?"
+        },
+        {
+          "kp": "Saan kayu munta?",
+          "en": "Where are you all going?"
+        },
+        {
+          "kp": "Munta kayu na king palengke.",
+          "en": "You (all) go to the market now."
+        }
+      ],
+      "notes": "Absolutive (ang-set) 2nd-person plural pronoun. Also used as a polite/respectful singular when addressing elders or people of higher status, parallel to Tagalog 'kayo'. Enclitic; follows the predicate."
+    },
+    {
+      "id": "gram-la",
+      "word": "la",
+      "partOfSpeech": "pronoun",
+      "translations": ["they", "them (as subject)"],
+      "relatedTagalog": "sila",
+      "examples": [
+        {
+          "kp": "Atlu la reng anak.",
+          "en": "There are three children. / The children are three."
+        },
+        {
+          "kp": "Munta la king balen.",
+          "en": "They are going to the town."
+        },
+        {
+          "kp": "Lukluk la reng tau king silya.",
+          "en": "The people sat on the chairs."
+        }
+      ],
+      "notes": "Absolutive (ang-set) 3rd-person plural enclitic pronoun. Corresponds to Tagalog 'sila'. Follows the predicate or number as an enclitic. This is the key pronoun needed to make sentences like 'Atlu la reng anak' fully parseable."
+    },
+    {
+      "id": "gram-kami",
+      "word": "kami",
+      "partOfSpeech": "pronoun",
+      "translations": ["we (exclusive)", "us (not including you)"],
+      "relatedTagalog": "kami",
+      "examples": [
+        {
+          "kp": "Matakut kami king bengi.",
+          "en": "We are afraid at night."
+        },
+        {
+          "kp": "Munta kami king simbahan.",
+          "en": "We (not you) are going to church."
+        },
+        {
+          "kp": "Masaya kami ngeni!",
+          "en": "We are happy now!"
+        }
+      ],
+      "notes": "Absolutive (ang-set) 1st-person plural exclusive pronoun — 'we' not including the listener. Distinct from 'tamu' (we inclusive, already in dictionary). Some Kapampangan sources also use 'ke' as a reduced variant; 'kami' is the full standard form. Cognate with Tagalog 'kami'."
+    },
+    {
+      "id": "gram-ing",
+      "word": "ing",
+      "partOfSpeech": "particle",
+      "translations": ["the (singular)", "a (singular)"],
+      "relatedTagalog": "ang",
+      "examples": [
+        {
+          "kp": "Mayap ya ing Ima ku.",
+          "en": "My mother is well."
+        },
+        {
+          "kp": "Maragul ing bale.",
+          "en": "The house is big."
+        },
+        {
+          "kp": "Ing asu ku maputi.",
+          "en": "My dog is white."
+        }
+      ],
+      "notes": "Singular absolutive (subject/topic) article — the Kapampangan equivalent of Tagalog 'ang' for singular nouns. Marks the topic of the sentence. Contrast with 'ning' (non-subject/genitive) and 'reng'/'ding' (plural subject). One of the most frequent words in Kapampangan."
+    },
+    {
+      "id": "gram-ning",
+      "word": "ning",
+      "partOfSpeech": "particle",
+      "translations": ["of (singular)", "the (singular, non-subject)", "a (non-subject)"],
+      "relatedTagalog": "ng",
+      "examples": [
+        {
+          "kp": "Malagu ing mata ning babai.",
+          "en": "The eyes of the woman are beautiful."
+        },
+        {
+          "kp": "Sali ku ning prutas king palengke.",
+          "en": "I will buy fruit at the market."
+        },
+        {
+          "kp": "Maragul ing bale ning mayaman.",
+          "en": "The house of the wealthy person is big."
+        }
+      ],
+      "notes": "Singular non-subject (genitive/oblique) article — the Kapampangan equivalent of Tagalog 'ng'. Marks possessors, objects of action, and non-topic nouns. Contrast with 'ing' (subject/topic article). Some sources also describe it as the genitive article."
+    },
+    {
+      "id": "gram-reng",
+      "word": "reng",
+      "partOfSpeech": "particle",
+      "translations": ["the (plural)", "the (plural subject/topic)"],
+      "relatedTagalog": "ang mga",
+      "examples": [
+        {
+          "kp": "Atlu la reng anak.",
+          "en": "There are three children."
+        },
+        {
+          "kp": "Lukluk la reng tau king silya.",
+          "en": "The people sat on the chairs."
+        },
+        {
+          "kp": "Munta la reng kapatad ku king palengke.",
+          "en": "My siblings are going to the market."
+        }
+      ],
+      "notes": "Plural absolutive (subject/topic) article. A phonological sandhi variant of 'ding' — 'ding' is used when the preceding word ends in a vowel, while 'reng' (from 'ring'/'reng') is used after consonants, though the two are often used interchangeably in modern speech. Corresponds to Tagalog 'ang mga'. Critical for pluralizing topic nouns."
+    },
+    {
+      "id": "gram-ding",
+      "word": "ding",
+      "partOfSpeech": "particle",
+      "translations": ["the (plural)", "the (plural subject/topic, vowel-final variant)"],
+      "relatedTagalog": "ang mga",
+      "examples": [
+        {
+          "kp": "Mura ding gulay king palengke ngeni.",
+          "en": "Vegetables are cheap at the market today."
+        },
+        {
+          "kp": "Masanting ding bulaklak.",
+          "en": "The flowers are beautiful."
+        },
+        {
+          "kp": "Ding anak la magsalita.",
+          "en": "The children are speaking."
+        }
+      ],
+      "notes": "Plural absolutive (subject/topic) article, the base form alongside 'reng'. Traditionally 'ding' follows vowel-final words and 'reng' follows consonant-final words (sandhi rule), but the two are often used interchangeably in contemporary Kapampangan. Both mean 'the' (plural). See also 'reng'."
+    },
+    {
+      "id": "gram-deng",
+      "word": "deng",
+      "partOfSpeech": "particle",
+      "translations": ["of the (plural)", "the (plural non-subject)"],
+      "relatedTagalog": "ng mga",
+      "examples": [
+        {
+          "kp": "Dakal deng bulaklak king hardin.",
+          "en": "There are many flowers in the garden."
+        },
+        {
+          "kp": "Manyaman deng prutas deti.",
+          "en": "These fruits are delicious."
+        },
+        {
+          "kp": "Ninu deng kaibigan mu?",
+          "en": "Who are your friends?"
+        }
+      ],
+      "notes": "Plural non-subject (oblique/genitive) article, corresponding to Tagalog 'ng mga'. Used when the plural noun is not the topic of the sentence — e.g., as an object or possessor. Contrast with 'reng'/'ding' (plural subject articles). Attested in grammar descriptions of Kapampangan."
+    },
+    {
+      "id": "gram-da",
+      "word": "da",
+      "partOfSpeech": "pronoun",
+      "translations": ["their", "of them", "by them (non-subject)"],
+      "relatedTagalog": "nila",
+      "examples": [
+        {
+          "kp": "Sero ing bilang da.",
+          "en": "Their count is zero."
+        },
+        {
+          "kp": "Manyaman ing luto da.",
+          "en": "Their cooking is delicious."
+        },
+        {
+          "kp": "Maragul ing bale da.",
+          "en": "Their house is big."
+        }
+      ],
+      "notes": "3rd-person plural genitive/non-subject enclitic pronoun — 'their' or 'by them'. Corresponds to Tagalog 'nila'. Not to be confused with the subject pronoun 'la' (they). Attested in existing pack examples: 'Sero ing bilang da' (numbers pack)."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "gram-L1",
+      "title": "Absolutive Pronouns",
+      "theme": "Personal pronouns (ang-set): ka, kayu, la, kami",
+      "intro": "In Kapampangan, personal pronouns come in two major sets. The absolutive set (sometimes called the 'ang-set') marks the topic or subject of the sentence. These pronouns are enclitics — they attach after the predicate, not before it. In this lesson you will learn: ka (you, singular), kayu (you, plural or polite), la (they), and kami (we, not including you). You already know ku (I), ya (he/she), and tamu (we inclusive).",
+      "wordIds": [
+        "gram-ka",
+        "gram-kayu",
+        "gram-la",
+        "gram-kami"
+      ],
+      "exercises": [
+        {
+          "id": "gram-L1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"la\" mean?",
+          "wordIds": ["gram-la"],
+          "answerId": "gram-la"
+        },
+        {
+          "id": "gram-L1-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"ka\" mean?",
+          "wordIds": ["gram-ka"],
+          "answerId": "gram-ka"
+        },
+        {
+          "id": "gram-L1-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which pronoun means \"we (not including you)\"?",
+          "wordIds": ["gram-kami"],
+          "answerId": "gram-kami"
+        },
+        {
+          "id": "gram-L1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atlu la reng anak.",
+          "wordIds": ["gram-la", "gram-reng"],
+          "accepted": [
+            "there are three children.",
+            "there are three children",
+            "the children are three.",
+            "the children are three"
+          ]
+        },
+        {
+          "id": "gram-L1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Masaya ka ngeni?",
+          "wordIds": ["gram-ka"],
+          "accepted": [
+            "are you happy now?",
+            "are you happy now"
+          ]
+        },
+        {
+          "id": "gram-L1-fb1",
+          "type": "fill-blank",
+          "prompt": "Munta ____ king balen. (they)",
+          "wordIds": ["gram-la"],
+          "answerId": "gram-la"
+        },
+        {
+          "id": "gram-L1-fb2",
+          "type": "fill-blank",
+          "prompt": "Matakut ____ king bengi. (we, exclusive)",
+          "wordIds": ["gram-kami"],
+          "answerId": "gram-kami"
+        },
+        {
+          "id": "gram-L1-ma1",
+          "type": "matching",
+          "wordIds": ["gram-ka", "gram-kayu", "gram-la", "gram-kami"],
+          "pairs": [
+            {"wordId": "gram-ka"},
+            {"wordId": "gram-kayu"},
+            {"wordId": "gram-la"},
+            {"wordId": "gram-kami"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gram-L2",
+      "title": "Singular Articles: ing & ning",
+      "theme": "Singular topic and non-topic articles",
+      "intro": "Kapampangan uses articles (like English 'the') that change depending on whether the noun is the topic (subject) of the sentence or not. For singular nouns: 'ing' marks the topic noun — the word the sentence is 'about' — much like Tagalog 'ang'. The word 'ning' marks non-topic singular nouns (possessors, objects), like Tagalog 'ng'. Both can translate to English 'the' or 'a' depending on context.",
+      "wordIds": [
+        "gram-ing",
+        "gram-ning"
+      ],
+      "exercises": [
+        {
+          "id": "gram-L2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does the article \"ing\" mark?",
+          "wordIds": ["gram-ing"],
+          "answerId": "gram-ing"
+        },
+        {
+          "id": "gram-L2-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does the article \"ning\" mark?",
+          "wordIds": ["gram-ning"],
+          "answerId": "gram-ning"
+        },
+        {
+          "id": "gram-L2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ing bale.",
+          "wordIds": ["gram-ing"],
+          "accepted": [
+            "the house is big.",
+            "the house is big",
+            "the house is large.",
+            "the house is large"
+          ]
+        },
+        {
+          "id": "gram-L2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malagu ing mata ning babai.",
+          "wordIds": ["gram-ing", "gram-ning"],
+          "accepted": [
+            "the eyes of the woman are beautiful.",
+            "the eyes of the woman are beautiful",
+            "the woman's eyes are beautiful.",
+            "the woman's eyes are beautiful"
+          ]
+        },
+        {
+          "id": "gram-L2-fb1",
+          "type": "fill-blank",
+          "prompt": "Mayap ya ____ Ima ku. (the — topic)",
+          "wordIds": ["gram-ing"],
+          "answerId": "gram-ing"
+        },
+        {
+          "id": "gram-L2-fb2",
+          "type": "fill-blank",
+          "prompt": "Maragul ing bale ____ mayaman. (of the — non-topic)",
+          "wordIds": ["gram-ning"],
+          "answerId": "gram-ning"
+        },
+        {
+          "id": "gram-L2-ma1",
+          "type": "matching",
+          "wordIds": ["gram-ing", "gram-ning"],
+          "pairs": [
+            {"wordId": "gram-ing"},
+            {"wordId": "gram-ning"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gram-L3",
+      "title": "Plural Articles: reng, ding & deng",
+      "theme": "Plural topic and non-topic articles",
+      "intro": "For plural nouns, Kapampangan uses 'reng' or 'ding' to mark the topic noun (Tagalog: ang mga), and 'deng' to mark a non-topic noun (Tagalog: ng mga). The articles 'reng' and 'ding' are the same word in two phonological forms: 'ding' is the base form used after vowel-final words, 'reng' appears after consonant-final words. In everyday speech, both are used fairly freely. The pronoun 'da' (their / by them) is the plural genitive pronoun that pairs naturally with these articles.",
+      "wordIds": [
+        "gram-reng",
+        "gram-ding",
+        "gram-deng",
+        "gram-da"
+      ],
+      "exercises": [
+        {
+          "id": "gram-L3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"reng\" mean?",
+          "wordIds": ["gram-reng"],
+          "answerId": "gram-reng"
+        },
+        {
+          "id": "gram-L3-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"da\" mean?",
+          "wordIds": ["gram-da"],
+          "answerId": "gram-da"
+        },
+        {
+          "id": "gram-L3-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which article marks a plural non-topic noun (like Tagalog \"ng mga\")?",
+          "wordIds": ["gram-deng"],
+          "answerId": "gram-deng"
+        },
+        {
+          "id": "gram-L3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mura ding gulay king palengke ngeni.",
+          "wordIds": ["gram-ding"],
+          "accepted": [
+            "vegetables are cheap at the market today.",
+            "vegetables are cheap at the market today",
+            "the vegetables are cheap at the market today.",
+            "the vegetables are cheap at the market today"
+          ]
+        },
+        {
+          "id": "gram-L3-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Manyaman ing luto da.",
+          "wordIds": ["gram-da"],
+          "accepted": [
+            "their cooking is delicious.",
+            "their cooking is delicious",
+            "their food is delicious.",
+            "their food is delicious"
+          ]
+        },
+        {
+          "id": "gram-L3-fb1",
+          "type": "fill-blank",
+          "prompt": "Atlu la ____ anak. (the — plural topic)",
+          "wordIds": ["gram-reng"],
+          "answerId": "gram-reng"
+        },
+        {
+          "id": "gram-L3-fb2",
+          "type": "fill-blank",
+          "prompt": "Sero ing bilang ____. (their)",
+          "wordIds": ["gram-da"],
+          "answerId": "gram-da"
+        },
+        {
+          "id": "gram-L3-ma1",
+          "type": "matching",
+          "wordIds": ["gram-reng", "gram-ding", "gram-deng", "gram-da"],
+          "pairs": [
+            {"wordId": "gram-reng"},
+            {"wordId": "gram-ding"},
+            {"wordId": "gram-deng"},
+            {"wordId": "gram-da"}
+          ]
+        }
+      ]
+    }
+  ]
+}
