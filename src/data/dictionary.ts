@@ -74,8 +74,46 @@ export const dictionary: DictionaryEntry[] = [
     translations: ['no', 'not'],
     examples: [
       { kp: 'Ali ku balu.', en: 'I do not know.' },
+      { kp: 'Ali ya sinali.', en: 'He/she did not buy it.' },
     ],
     relatedTagalog: 'hindi',
+    notes: 'General negator — negates an action or quality (like Tagalog "hindi"). Contrast with "ala" (there is none) and "aliwa" (different/other).',
+  },
+  {
+    id: 'e',
+    word: 'E',
+    partOfSpeech: 'particle',
+    translations: ['not', "don't", "didn't"],
+    examples: [
+      { kp: 'E ku balu.', en: 'I do not know.' },
+      { kp: 'E ka marine.', en: 'Do not be shy.' },
+    ],
+    relatedTagalog: 'hindi',
+    notes: 'The short, everyday spoken form of "ali", used right before a verb and fused with a pronoun: e + ku → "eku" (I don\'t/didn\'t).',
+  },
+  {
+    id: 'ala',
+    word: 'Ala',
+    partOfSpeech: 'particle',
+    translations: ['there is none', 'nothing', 'none', 'have none'],
+    examples: [
+      { kp: 'Ala ku kuwarta.', en: 'I have no money.' },
+      { kp: 'Ala na.', en: 'There is none left.' },
+    ],
+    relatedTagalog: 'wala',
+    notes: 'Existential negator — says something does not exist or is absent (like Tagalog "wala"). The opposite of "ati" (there is). Do NOT use "ali" for this.',
+  },
+  {
+    id: 'aliwa',
+    word: 'Aliwa',
+    partOfSpeech: 'adjective',
+    translations: ['other', 'another', 'different', 'else'],
+    examples: [
+      { kp: 'Aliwa ya ini.', en: 'This one is different.' },
+      { kp: 'Aliwa ya i abe ku.', en: 'My companion is a different one (someone else).' },
+    ],
+    relatedTagalog: 'iba',
+    notes: 'Means "other / different / another" (like Tagalog "iba"). It is NOT a general negator — it points to a different thing rather than negating an action.',
   },
   {
     id: 'ku',
