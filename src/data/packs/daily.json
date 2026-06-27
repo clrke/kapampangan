@@ -1,0 +1,360 @@
+{
+  "id": "daily",
+  "title": "Daily Life",
+  "entries": [
+    {
+      "id": "dl-trabahu",
+      "word": "trabahu",
+      "partOfSpeech": "noun",
+      "translations": ["work", "job", "labor"],
+      "relatedTagalog": "trabaho",
+      "examples": [
+        {
+          "kp": "Maragul ing trabahu ku king abak.",
+          "en": "My work is heavy in the morning."
+        },
+        {
+          "kp": "Malambat ya ing trabahu na.",
+          "en": "His work is slow."
+        }
+      ],
+      "notes": "'trabahu' refers to a job or employment. Contrast with 'gawa', which is the result or act of doing something."
+    },
+    {
+      "id": "dl-panahon",
+      "word": "panahon",
+      "partOfSpeech": "noun",
+      "translations": ["weather", "time", "season"],
+      "relatedTagalog": "panahon",
+      "examples": [
+        {
+          "kp": "Mapali ing panahon ngeni.",
+          "en": "The weather is hot today."
+        },
+        {
+          "kp": "Mayap ing panahon ngeni para king byahe.",
+          "en": "The weather is good today for travel."
+        }
+      ],
+      "notes": "'panahon' covers both weather and a span of time or season; context clarifies the meaning."
+    },
+    {
+      "id": "dl-gawa",
+      "word": "gawa",
+      "partOfSpeech": "noun",
+      "translations": ["task", "deed", "work", "act"],
+      "relatedTagalog": "gawa",
+      "examples": [
+        {
+          "kp": "Ing babagwa gumawa ya ning gawa na.",
+          "en": "The spider makes its web."
+        },
+        {
+          "kp": "Mayap ing gawa na.",
+          "en": "His deed is good."
+        }
+      ],
+      "notes": "'gawa' is the result or act of doing; 'trabahu' refers to employment or a job."
+    },
+    {
+      "id": "dl-byahe",
+      "word": "byahe",
+      "partOfSpeech": "noun",
+      "translations": ["trip", "journey", "travel"],
+      "relatedTagalog": "biyahe",
+      "examples": [
+        {
+          "kp": "Atlung aldo na ing byahe.",
+          "en": "The trip is three days."
+        },
+        {
+          "kp": "Malayo ing byahe da.",
+          "en": "Their journey is far."
+        }
+      ]
+    },
+    {
+      "id": "dl-daliri",
+      "word": "daliri",
+      "partOfSpeech": "noun",
+      "translations": ["finger", "toe"],
+      "relatedTagalog": "daliri",
+      "examples": [
+        {
+          "kp": "Lima la reng daliri ning kamut.",
+          "en": "There are five fingers on the hand."
+        },
+        {
+          "kp": "Masakit ya ing daliri ku.",
+          "en": "My finger hurts."
+        }
+      ],
+      "notes": "'daliri' is used for both fingers and toes; context or a qualifier clarifies (daliri ning kamut = finger, daliri ning paa = toe)."
+    },
+    {
+      "id": "dl-gutom",
+      "word": "gutom",
+      "partOfSpeech": "adjective",
+      "translations": ["hungry"],
+      "relatedTagalog": "gutom",
+      "examples": [
+        {
+          "kp": "Gutom ya ing atyan ku.",
+          "en": "My stomach is hungry."
+        },
+        {
+          "kp": "Gutom na ya ing anak.",
+          "en": "The child is already hungry."
+        }
+      ]
+    },
+    {
+      "id": "dl-mapalad",
+      "word": "mapalad",
+      "partOfSpeech": "adjective",
+      "translations": ["lucky", "fortunate", "blessed"],
+      "relatedTagalog": "mapalad",
+      "examples": [
+        {
+          "kp": "Mapalad ya ing ilug keni.",
+          "en": "The river here is fortunate."
+        },
+        {
+          "kp": "Mapalad ku nung atin ku trabahu.",
+          "en": "I am lucky to have work."
+        }
+      ]
+    },
+    {
+      "id": "dl-balita",
+      "word": "balita",
+      "partOfSpeech": "noun",
+      "translations": ["news", "information", "report"],
+      "relatedTagalog": "balita",
+      "examples": [
+        {
+          "kp": "Meniglo ku king balita.",
+          "en": "I was surprised by the news."
+        },
+        {
+          "kp": "Atin balita king balen.",
+          "en": "There is news in the town."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "dl-1",
+      "title": "Work & Weather",
+      "theme": "daily routines, labor, and the elements",
+      "intro": "This lesson introduces four nouns central to daily life: 'trabahu' (work/job), 'panahon' (weather/time/season), 'gawa' (task/deed/act), and 'byahe' (trip/journey). Note the distinction between 'trabahu', which means employment or a job, and 'gawa', which refers to a specific act or deed.",
+      "wordIds": [
+        "dl-trabahu",
+        "dl-panahon",
+        "dl-gawa",
+        "dl-byahe"
+      ],
+      "exercises": [
+        {
+          "id": "dl-1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"trabahu\" mean?",
+          "wordIds": ["dl-trabahu"],
+          "answerId": "dl-trabahu"
+        },
+        {
+          "id": "dl-1-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"weather\" or \"season\"?",
+          "wordIds": ["dl-panahon"],
+          "answerId": "dl-panahon"
+        },
+        {
+          "id": "dl-1-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"gawa\" mean?",
+          "wordIds": ["dl-gawa"],
+          "answerId": "dl-gawa"
+        },
+        {
+          "id": "dl-1-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"trip\" or \"journey\"?",
+          "wordIds": ["dl-byahe"],
+          "answerId": "dl-byahe"
+        },
+        {
+          "id": "dl-1-mc5",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"byahe\" mean?",
+          "wordIds": ["dl-byahe"],
+          "answerId": "dl-byahe"
+        },
+        {
+          "id": "dl-1-mc6",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"work\" or \"job\"?",
+          "wordIds": ["dl-trabahu"],
+          "answerId": "dl-trabahu"
+        },
+        {
+          "id": "dl-1-mc7",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"task\" or \"deed\"?",
+          "wordIds": ["dl-gawa"],
+          "answerId": "dl-gawa"
+        },
+        {
+          "id": "dl-1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ing trabahu ku king abak.",
+          "wordIds": ["dl-trabahu"],
+          "accepted": [
+            "my work is heavy in the morning",
+            "my work is heavy in the morning."
+          ]
+        },
+        {
+          "id": "dl-1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mapali ing panahon ngeni.",
+          "wordIds": ["dl-panahon"],
+          "accepted": [
+            "the weather is hot today",
+            "the weather is hot today."
+          ]
+        },
+        {
+          "id": "dl-1-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atlung aldo na ing byahe.",
+          "wordIds": ["dl-byahe"],
+          "accepted": [
+            "the trip is three days",
+            "the trip is three days.",
+            "the journey is three days",
+            "the journey is three days."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dl-2",
+      "title": "Body, Feelings & News",
+      "theme": "the body, emotions, and information",
+      "intro": "This lesson covers 'daliri' (finger/toe), 'gutom' (hungry), 'mapalad' (lucky/fortunate/blessed), and 'balita' (news/information). 'daliri' can mean either finger or toe — a qualifier like 'ning kamut' (of the hand) or 'ning paa' (of the foot) makes the meaning precise.",
+      "wordIds": [
+        "dl-daliri",
+        "dl-gutom",
+        "dl-mapalad",
+        "dl-balita"
+      ],
+      "exercises": [
+        {
+          "id": "dl-2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"daliri\" mean?",
+          "wordIds": ["dl-daliri"],
+          "answerId": "dl-daliri"
+        },
+        {
+          "id": "dl-2-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"hungry\"?",
+          "wordIds": ["dl-gutom"],
+          "answerId": "dl-gutom"
+        },
+        {
+          "id": "dl-2-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mapalad\" mean?",
+          "wordIds": ["dl-mapalad"],
+          "answerId": "dl-mapalad"
+        },
+        {
+          "id": "dl-2-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"news\" or \"information\"?",
+          "wordIds": ["dl-balita"],
+          "answerId": "dl-balita"
+        },
+        {
+          "id": "dl-2-mc5",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"gutom\" mean?",
+          "wordIds": ["dl-gutom"],
+          "answerId": "dl-gutom"
+        },
+        {
+          "id": "dl-2-mc6",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"lucky\" or \"fortunate\"?",
+          "wordIds": ["dl-mapalad"],
+          "answerId": "dl-mapalad"
+        },
+        {
+          "id": "dl-2-mc7",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"finger\" or \"toe\"?",
+          "wordIds": ["dl-daliri"],
+          "answerId": "dl-daliri"
+        },
+        {
+          "id": "dl-2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Lima la reng daliri ning kamut.",
+          "wordIds": ["dl-daliri"],
+          "accepted": [
+            "there are five fingers on the hand",
+            "there are five fingers on the hand.",
+            "the hand has five fingers",
+            "the hand has five fingers."
+          ]
+        },
+        {
+          "id": "dl-2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Gutom ya ing atyan ku.",
+          "wordIds": ["dl-gutom"],
+          "accepted": [
+            "my stomach is hungry",
+            "my stomach is hungry.",
+            "i am hungry",
+            "i am hungry."
+          ]
+        },
+        {
+          "id": "dl-2-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Meniglo ku king balita.",
+          "wordIds": ["dl-balita"],
+          "accepted": [
+            "i was surprised by the news",
+            "i was surprised by the news."
+          ]
+        }
+      ]
+    }
+  ]
+}
