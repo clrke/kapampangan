@@ -135,7 +135,7 @@
       "translations": ["vegetable", "vegetables"],
       "relatedTagalog": "gulay",
       "examples": [
-        {"kp": "Ing gulay a ini manyaman ya.", "en": "These vegetables are delicious."},
+        {"kp": "Ing gulay a ini manyaman ya.", "en": "This vegetable is delicious."},
         {"kp": "Mangan ku gulay.", "en": "I am eating vegetables."}
       ],
       "notes": "Also appears as gule in some Kapampangan sources (e.g. gule magalang)."
