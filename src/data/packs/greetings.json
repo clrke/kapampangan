@@ -142,7 +142,7 @@
           "en": "Welcome, please eat here!"
         },
         {
-          "kp": "Malaus ko pu sa bale mi.",
+          "kp": "Malaus ka pu king bale mi.",
           "en": "Welcome to our home."
         }
       ],
@@ -745,7 +745,7 @@
           "id": "greet-5-tr1",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Malaus ko pu sa bale mi.",
+          "prompt": "Malaus ka pu king bale mi.",
           "wordIds": [
             "greet-malaus-ko-pu"
           ],

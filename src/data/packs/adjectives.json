@@ -1,0 +1,475 @@
+{
+  "id": "adjectives",
+  "title": "Adjectives",
+  "entries": [
+    {
+      "id": "adj-maliwanag",
+      "word": "maliwanag",
+      "partOfSpeech": "adjective",
+      "translations": ["bright", "clear", "luminous"],
+      "relatedTagalog": "maliwanag",
+      "examples": [
+        {
+          "kp": "Maliwanag ya ing batuin king banua.",
+          "en": "The stars are bright in the sky."
+        },
+        {
+          "kp": "Bukasan me ing bintana para maliwanag ing kwarto.",
+          "en": "Open the window so the room is bright."
+        }
+      ],
+      "notes": "Used for light, clarity, brightness. 'Maliwanag ya ing aldo.' (The day is bright.)"
+    },
+    {
+      "id": "adj-mainit",
+      "word": "mainit",
+      "partOfSpeech": "adjective",
+      "translations": ["hot", "warm"],
+      "relatedTagalog": "mainit",
+      "examples": [
+        {
+          "kp": "Mainit ya ing danum a ini.",
+          "en": "This water is hot."
+        },
+        {
+          "kp": "Mainit ya ing aldo ngeni.",
+          "en": "The sun is hot today."
+        }
+      ],
+      "notes": "'mainit' and 'mapali' are both used in Kapampangan; 'mainit' is especially common in spoken language."
+    },
+    {
+      "id": "adj-malambat",
+      "word": "malambat",
+      "partOfSpeech": "adjective",
+      "translations": ["slow"],
+      "relatedTagalog": "mabagal",
+      "examples": [
+        {
+          "kp": "Takbu na ka, e ka malambat!",
+          "en": "Run now, don't be slow!"
+        },
+        {
+          "kp": "Malambat ya ing trabahu na.",
+          "en": "His work is slow."
+        }
+      ],
+      "notes": "Antonym of 'maliksi'."
+    },
+    {
+      "id": "adj-maliksi",
+      "word": "maliksi",
+      "partOfSpeech": "adjective",
+      "translations": ["fast", "quick", "agile"],
+      "relatedTagalog": "mabilis",
+      "examples": [
+        {
+          "kp": "Ing dagis maliksi ya.",
+          "en": "The wind is fast."
+        },
+        {
+          "kp": "Maliksi yang tumakbu ing anak.",
+          "en": "The child runs fast."
+        }
+      ],
+      "notes": "Antonym of 'malambat'."
+    },
+    {
+      "id": "adj-malapit",
+      "word": "malapit",
+      "partOfSpeech": "adjective",
+      "translations": ["near", "close"],
+      "relatedTagalog": "malapit",
+      "examples": [
+        {
+          "kp": "Malapit ya ing dalan king balen.",
+          "en": "The road is near the town."
+        },
+        {
+          "kp": "Malapit ya ing tindahan keti.",
+          "en": "The store is near here."
+        }
+      ],
+      "notes": "Antonym of 'malayo'."
+    },
+    {
+      "id": "adj-malayo",
+      "word": "malayo",
+      "partOfSpeech": "adjective",
+      "translations": ["far", "distant"],
+      "relatedTagalog": "malayo",
+      "examples": [
+        {
+          "kp": "Malayo ya ing dagat kareni.",
+          "en": "The sea is far from here."
+        },
+        {
+          "kp": "Malayo ya ing bale da.",
+          "en": "Their house is far."
+        }
+      ],
+      "notes": "Antonym of 'malapit'."
+    },
+    {
+      "id": "adj-damu",
+      "word": "damu",
+      "partOfSpeech": "noun",
+      "translations": ["grass", "weeds", "vegetation"],
+      "relatedTagalog": "damo",
+      "examples": [
+        {
+          "kp": "Ing kambing makmak ya ning damu.",
+          "en": "The goat grazes on the grass."
+        },
+        {
+          "kp": "Dakal damu king bakuran.",
+          "en": "There is a lot of grass in the yard."
+        }
+      ]
+    },
+    {
+      "id": "adj-masipag",
+      "word": "masipag",
+      "partOfSpeech": "adjective",
+      "translations": ["hardworking", "diligent", "industrious"],
+      "relatedTagalog": "masipag",
+      "examples": [
+        {
+          "kp": "Ing panas masipag ya.",
+          "en": "The worker is hardworking."
+        },
+        {
+          "kp": "Masipag ya ing anak da.",
+          "en": "Their child is diligent."
+        }
+      ]
+    },
+    {
+      "id": "adj-malupit",
+      "word": "malupit",
+      "partOfSpeech": "adjective",
+      "translations": ["cruel", "harsh", "severe"],
+      "relatedTagalog": "malupit",
+      "examples": [
+        {
+          "kp": "Malupit ya ing angin ngeni.",
+          "en": "The wind is harsh today."
+        },
+        {
+          "kp": "Malupit ya ing aldo ngeni.",
+          "en": "The day is harsh today."
+        }
+      ]
+    },
+    {
+      "id": "adj-masileng",
+      "word": "masileng",
+      "partOfSpeech": "adjective",
+      "translations": ["careful", "cautious", "watchful"],
+      "relatedTagalog": "maingat",
+      "examples": [
+        {
+          "kp": "Masileng tamu nung munta tamu karela.",
+          "en": "Let's be careful when we go there."
+        },
+        {
+          "kp": "Masileng ka king dalan.",
+          "en": "Be careful on the road."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "adj-1",
+      "title": "Physical Qualities",
+      "theme": "brightness, temperature, and speed",
+      "intro": "Kapampangan adjectives often begin with 'ma-', a prefix meaning 'having the quality of'. In this lesson you will learn four adjectives: 'maliwanag' (bright/clear), 'mainit' (hot/warm), 'malambat' (slow), and 'maliksi' (fast/agile). Notice that 'malambat' and 'maliksi' are antonyms.",
+      "wordIds": [
+        "adj-maliwanag",
+        "adj-mainit",
+        "adj-malambat",
+        "adj-maliksi"
+      ],
+      "exercises": [
+        {
+          "id": "adj-1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"maliwanag\" mean?",
+          "wordIds": ["adj-maliwanag"],
+          "answerId": "adj-maliwanag"
+        },
+        {
+          "id": "adj-1-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"hot\" or \"warm\"?",
+          "wordIds": ["adj-mainit"],
+          "answerId": "adj-mainit"
+        },
+        {
+          "id": "adj-1-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"malambat\" mean?",
+          "wordIds": ["adj-malambat"],
+          "answerId": "adj-malambat"
+        },
+        {
+          "id": "adj-1-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"fast\" or \"quick\"?",
+          "wordIds": ["adj-maliksi"],
+          "answerId": "adj-maliksi"
+        },
+        {
+          "id": "adj-1-mc5",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"maliksi\" mean?",
+          "wordIds": ["adj-maliksi"],
+          "answerId": "adj-maliksi"
+        },
+        {
+          "id": "adj-1-mc6",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"slow\"?",
+          "wordIds": ["adj-malambat"],
+          "answerId": "adj-malambat"
+        },
+        {
+          "id": "adj-1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mainit ya ing danum a ini.",
+          "wordIds": ["adj-mainit"],
+          "accepted": [
+            "this water is hot",
+            "this water is hot.",
+            "this water is warm",
+            "this water is warm."
+          ]
+        },
+        {
+          "id": "adj-1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ing dagis maliksi ya.",
+          "wordIds": ["adj-maliksi"],
+          "accepted": [
+            "the wind is fast",
+            "the wind is fast.",
+            "the wind is quick",
+            "the wind is quick."
+          ]
+        },
+        {
+          "id": "adj-1-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Takbu na ka, e ka malambat!",
+          "wordIds": ["adj-malambat"],
+          "accepted": [
+            "run now, don't be slow!",
+            "run now, don't be slow"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj-2",
+      "title": "Distance & Nature",
+      "theme": "proximity and the natural world",
+      "intro": "This lesson covers 'malapit' (near/close) and 'malayo' (far/distant) — another antonym pair — plus 'damu' (grass/vegetation). These words let you talk about the distance to things and describe the natural landscape.",
+      "wordIds": [
+        "adj-malapit",
+        "adj-malayo",
+        "adj-damu"
+      ],
+      "exercises": [
+        {
+          "id": "adj-2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"malapit\" mean?",
+          "wordIds": ["adj-malapit"],
+          "answerId": "adj-malapit"
+        },
+        {
+          "id": "adj-2-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"far\" or \"distant\"?",
+          "wordIds": ["adj-malayo"],
+          "answerId": "adj-malayo"
+        },
+        {
+          "id": "adj-2-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"damu\" mean?",
+          "wordIds": ["adj-damu"],
+          "answerId": "adj-damu"
+        },
+        {
+          "id": "adj-2-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"near\" or \"close\"?",
+          "wordIds": ["adj-malapit"],
+          "answerId": "adj-malapit"
+        },
+        {
+          "id": "adj-2-mc5",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"malayo\" mean?",
+          "wordIds": ["adj-malayo"],
+          "answerId": "adj-malayo"
+        },
+        {
+          "id": "adj-2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malapit ya ing dalan king balen.",
+          "wordIds": ["adj-malapit"],
+          "accepted": [
+            "the road is near the town",
+            "the road is near the town.",
+            "the road is close to the town",
+            "the road is close to the town."
+          ]
+        },
+        {
+          "id": "adj-2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malayo ya ing dagat kareni.",
+          "wordIds": ["adj-malayo"],
+          "accepted": [
+            "the sea is far from here",
+            "the sea is far from here.",
+            "the ocean is far from here",
+            "the ocean is far from here."
+          ]
+        },
+        {
+          "id": "adj-2-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ing kambing makmak ya ning damu.",
+          "wordIds": ["adj-damu"],
+          "accepted": [
+            "the goat grazes on the grass",
+            "the goat grazes on the grass.",
+            "the goat is grazing on the grass",
+            "the goat is grazing on the grass."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj-3",
+      "title": "Character",
+      "theme": "personality and disposition",
+      "intro": "The final lesson introduces adjectives that describe a person's character: 'masipag' (hardworking/diligent), 'malupit' (cruel/harsh), and 'masileng' (careful/watchful). These are some of the most useful adjectives when talking about people.",
+      "wordIds": [
+        "adj-masipag",
+        "adj-malupit",
+        "adj-masileng"
+      ],
+      "exercises": [
+        {
+          "id": "adj-3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"masipag\" mean?",
+          "wordIds": ["adj-masipag"],
+          "answerId": "adj-masipag"
+        },
+        {
+          "id": "adj-3-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"cruel\" or \"harsh\"?",
+          "wordIds": ["adj-malupit"],
+          "answerId": "adj-malupit"
+        },
+        {
+          "id": "adj-3-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"masileng\" mean?",
+          "wordIds": ["adj-masileng"],
+          "answerId": "adj-masileng"
+        },
+        {
+          "id": "adj-3-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"hardworking\" or \"diligent\"?",
+          "wordIds": ["adj-masipag"],
+          "answerId": "adj-masipag"
+        },
+        {
+          "id": "adj-3-mc5",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"malupit\" mean?",
+          "wordIds": ["adj-malupit"],
+          "answerId": "adj-malupit"
+        },
+        {
+          "id": "adj-3-mc6",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"careful\" or \"cautious\"?",
+          "wordIds": ["adj-masileng"],
+          "answerId": "adj-masileng"
+        },
+        {
+          "id": "adj-3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ing panas masipag ya.",
+          "wordIds": ["adj-masipag"],
+          "accepted": [
+            "the worker is hardworking",
+            "the worker is hardworking.",
+            "the worker is diligent",
+            "the worker is diligent."
+          ]
+        },
+        {
+          "id": "adj-3-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malupit ya ing angin ngeni.",
+          "wordIds": ["adj-malupit"],
+          "accepted": [
+            "the wind is harsh today",
+            "the wind is harsh today.",
+            "the wind is cruel today",
+            "the wind is cruel today."
+          ]
+        },
+        {
+          "id": "adj-3-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Masileng tamu nung munta tamu karela.",
+          "wordIds": ["adj-masileng"],
+          "accepted": [
+            "let's be careful when we go there",
+            "let's be careful when we go there.",
+            "we should be careful when we go there",
+            "we should be careful when we go there."
+          ]
+        }
+      ]
+    }
+  ]
+}
