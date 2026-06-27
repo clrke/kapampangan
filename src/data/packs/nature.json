@@ -69,7 +69,7 @@
       "relatedTagalog": "bundok",
       "examples": [
         {"kp": "Matas ya ing bunduk Arayat.", "en": "Mount Arayat is tall."},
-        {"kp": "Bisa kung pumunta king bunduk.", "en": "I want to go to the mountain."}
+        {"kp": "Bisa kung munta king bunduk.", "en": "I want to go to the mountain."}
       ],
       "notes": "Documented as early as 1621 in Fray Francisco Coronel's Arte y Reglas de la Lengua Pampanga."
     },
@@ -116,7 +116,7 @@
       "relatedTagalog": "bulaklak",
       "examples": [
         {"kp": "Masanting ya ing sampaga.", "en": "The flower is beautiful."},
-        {"kp": "Atin dakal sampaga king garden.", "en": "There are many flowers in the garden."}
+        {"kp": "Atin dakal sampaga king hardin.", "en": "There are many flowers in the garden."}
       ],
       "notes": "The general Kapampangan word for flower. Also the name of the sampaguita jasmine, a culturally significant flower used in garlands for ceremonies."
     },
@@ -171,7 +171,7 @@
       "translations": ["town", "municipality"],
       "relatedTagalog": "bayan",
       "examples": [
-        {"kp": "Magandang balen ya ing Angeles.", "en": "Angeles is a fine town."},
+        {"kp": "Masanting a balen ya ing Angeles.", "en": "Angeles is a fine town."},
         {"kp": "Balen da ing Kapampangan.", "en": "It is the town of the Kapampangan people."}
       ]
     },
