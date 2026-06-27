@@ -59,7 +59,7 @@ const KP_BACKLOG = [
   'a', 'aduang', 'adwang', 'akung', 'alang', 'alang-alang', 'aldo-aldo', 'aldong', 'ampo', 'ano', 'arkilan',
   'aso', 'at', 'ati', 'ating', 'atlung', 'atneng', 'atulan', 'bag', 'bakuran', 'balat', 'baldi', 'balik',
   'balita', 'banua', 'basaen', 'bata', 'bayung', 'bengi-bengi', 'bibili', 'binayad', 'binie', 'bintana',
-  'binura', 'bisita', 'biyaya', 'buhuk', 'bukasan', 'bukid', 'bulak', 'bulaklak', 'bulsa', 'burak', 'byahe',
+  'binura', 'bisita', 'biyaya', 'buhuk', 'bukasan', 'bukid', 'bulak', 'bulaklak', 'bulsa', 'byahe',
   'daka', 'dake', 'dakul', 'daká', 'daliri', 'damit', 'damu', 'dapat', 'dating', 'dayat', 'deni', 'dening',
   'dinatang', 'dintang', 'dita', 'drayber', 'elepante', 'eme', 'entabladu', 'eskwela', 'estudyante', 'gagawan',
   'gagewan', 'gamitan', 'gamiton', 'garden', 'gawa', 'gawan', 'ginawa', 'guagua', 'gumawa', 'gutom', 'hardin',

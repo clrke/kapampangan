@@ -93,7 +93,7 @@
       "translations": ["kitchen"],
       "relatedTagalog": "kusina",
       "examples": [
-        {"kp": "Nagluto ya king Kusina.", "en": "He cooked in the kitchen."},
+        {"kp": "Migluto ya king Kusina.", "en": "He cooked in the kitchen."},
         {"kp": "Maragul ya ing Kusina mi.", "en": "Our kitchen is big."}
       ],
       "notes": "Spanish loanword (cocina). Widely confirmed in Kapampangan texts and culinary references. Shared with Tagalog."
@@ -130,7 +130,7 @@
       "relatedTagalog": "pader / dingding",
       "examples": [
         {"kp": "Makaputi ya ing Pader ning bale.", "en": "The wall of the house is white."},
-        {"kp": "Nagtutuk ya king Pader.", "en": "He is leaning on the wall."}
+        {"kp": "Migtutuk ya king Pader.", "en": "He leaned against the wall."}
       ],
       "notes": "Spanish loanword (pared). Confirmed in Kapampangan vocabulary lists and corroborated by usage on Facebook video captions using 'pader' in a Kapampangan context."
     },
@@ -190,7 +190,7 @@
       "relatedTagalog": "kutsara",
       "examples": [
         {"kp": "Gamitan me ing Kutsara.", "en": "Use the spoon."},
-        {"kp": "Nasan ya ing Kutsara?", "en": "Where is the spoon?"}
+        {"kp": "Nukarin ya ing Kutsara?", "en": "Where is the spoon?"}
       ],
       "notes": "Spanish loanword (cuchara). Confirmed across multiple Philippine language resources including Kapampangan vocabulary lists. Shared with Tagalog."
     },
@@ -322,7 +322,7 @@
           "id": "house-2-tr1",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Nagluto ya king Kusina.",
+          "prompt": "Migluto ya king Kusina.",
           "wordIds": ["house-kusina"],
           "accepted": ["he cooked in the kitchen", "she cooked in the kitchen", "they cooked in the kitchen"]
         },
