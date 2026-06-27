@@ -20,6 +20,7 @@ import grammar from './grammar.json'
 import particles from './particles.json'
 import everyday from './everyday.json'
 import school from './school.json'
+import places from './places.json'
 
 /**
  * Additional content packs, aggregated into the global dictionary & lessons.
@@ -48,4 +49,5 @@ export const extraPacks: ContentPack[] = [
   particles as ContentPack,
   everyday as ContentPack,
   school as ContentPack,
+  places as ContentPack,
 ]

@@ -47,7 +47,7 @@ import { tokenize } from '../src/lib/tokenizer'
 /** Proper nouns and loanword fragments that will never be headwords. */
 const NAMES_AND_LOANS = [
   'angeles', 'arayat', 'carmen', 'celsius', 'degrees', 'elena', 'jose',
-  'juan', 'maria', 'maynila', 'pedro', 't-shirt',
+  'juan', 'kapampangan', 'maria', 'maynila', 'pedro', 't-shirt',
 ]
 
 /**
@@ -58,17 +58,17 @@ const NAMES_AND_LOANS = [
 const KP_BACKLOG = [
   'a', 'aduang', 'adwang', 'akung', 'alang', 'alang-alang', 'aldo-aldo', 'aldong', 'ampo', 'ano', 'arkilan',
   'aso', 'at', 'ati', 'ating', 'atlung', 'atneng', 'atulan', 'bag', 'bakuran', 'balat', 'baldi', 'balik',
-  'balita', 'banua', 'basaen', 'bayung', 'bengi-bengi', 'binayad', 'binie',
-  'binura', 'bisita', 'biyaya', 'buhuk', 'bukasan', 'bukid', 'bulak', 'bulaklak', 'bulsa', 'byahe',
+  'balita', 'basaen', 'bayung', 'bengi-bengi', 'binayad', 'binie',
+  'binura', 'bisita', 'biyaya', 'buhuk', 'bukasan', 'bulak', 'bulsa', 'byahe',
   'daka', 'dake', 'dakul', 'daká', 'daliri', 'damu', 'dapat', 'dating', 'dayat', 'deni', 'dening',
   'dinatang', 'dingna', 'dintang', 'dita', 'drayber', 'elepante', 'eme', 'entabladu', 'gagawan',
-  'gagewan', 'gamitan', 'gamiton', 'gawa', 'gawan', 'ginawa', 'guagua', 'gumawa', 'gustu', 'gutom', 'hardin',
+  'gagewan', 'gamitan', 'gamiton', 'gawa', 'gawan', 'ginawa', 'guagua', 'gumawa', 'gustu', 'gutom',
   'hugasan', 'i', 'ibili', 'ibinie', 'ibiye', 'ibuklat', 'ibyan', 'ilaga', 'ina', 'inda', 'ining',
   'ipil', 'itik', 'kailangan', 'kakanán', 'kalagu', 'kaming', 'kamu', 'kamut', 'kanaku',
-  'kanto', 'kanyaman', 'kapampangan', 'kapiganakan', 'karela', 'kareni', 'karimla', 'karing', 'kasal',
+  'kanto', 'kanyaman', 'kapiganakan', 'karela', 'kareni', 'karimla', 'karing', 'kasal',
   'kasuyuan', 'kata', 'kaya', 'kayabe', 'keku', 'keng', 'keraklan', 'keta', 'keti', 'ko',
   'kulambung', 'kung', 'kuwarta', 'kwarto', 'kwentu', 'labas', 'labhan', 'labuad', 'lagyan',
-  'lako', 'lang', 'langit', 'libru', 'linggu', 'linisan',
+  'lako', 'lang', 'libru', 'linggu', 'linisan',
   'lubu-lubu', 'lulusong', 'lumakad', 'lumalukbad', 'lumaluksad', 'lumwal', 'luto', 'lutuan',
   'mabala', 'mabangis', 'mabatu', 'mabeyak', 'mabilisan', 'magbayad', 'magbie', 'maging', 'magkayli',
   'magluto', 'magobra', 'magpakalugud', 'magsalita', 'maguimbal', 'magwanan', 'mainit', 'makapantag',
@@ -83,13 +83,13 @@ const KP_BACKLOG = [
   'napalubus', 'napasar', 'napuputian', 'nasa', 'naulagang', 'ne', 'ngan', 'ngening', 'opisina', 'paa',
   'pagkain', 'pagsarian', 'pakisuyo', 'palayan', 'palisan', 'palitan', 'palwal', 'pamagmula', 'pamagsabyan',
   'pamasahe', 'panahon', 'panalung', 'pananim', 'panaun', 'pane-neng', 'papunta', 'pari', 'parsala',
-  'paru-paro', 'pasalan', 'pelikula', 'pero', 'pila', 'pista', 'plasa', 'pong', 'pritung',
-  'puerta', 'pun', 'pung', 'puno', 'raku', 'ri', 'ring', 'sa', 'sagiwa', 'sake', 'sala',
-  'sana', 'sangdominggo', 'sarad', 'sasara', 'seli', 'sige', 'simbahan', 'sinadsad', 'sinali',
-  'sinalita', 'sinaul', 'sukli', 'sulud', 'suluk', 'susulat', 'susunud', 'ta', 'taku', 'talaga',
-  'talaturu', 'talaturung', 'tana', 'tanaman', 'tang', 'tapos', 'temperatura', 'tiangge', 'tibuk',
+  'paru-paro', 'pasalan', 'pelikula', 'pero', 'pila', 'pong', 'pritung',
+  'puerta', 'pun', 'pung', 'raku', 'ri', 'ring', 'sa', 'sagiwa', 'sake', 'sala',
+  'sana', 'sangdominggo', 'sarad', 'sasara', 'seli', 'sige', 'sinadsad', 'sinali',
+  'sinalita', 'sinaul', 'sukli', 'suluk', 'susulat', 'susunud', 'ta', 'taku', 'talaga',
+  'talaturu', 'talaturung', 'tana', 'tanaman', 'tang', 'tapos', 'temperatura', 'tibuk',
   'tinape', 'trabahu', 'tulog', 'tulungan', 'tumakbu', 'tumawag', 'tutuki', 'tutulung', 'tutulungan',
-  'utang', 'wala', 'wari', 'yan', 'yang', 'yata', 'yu',
+  'utang', 'wari', 'yan', 'yang', 'yata', 'yu',
 ]
 
 const ALLOWED_UNTAUGHT = new Set([...NAMES_AND_LOANS, ...KP_BACKLOG])

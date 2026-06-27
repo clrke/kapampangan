@@ -1,0 +1,593 @@
+{
+  "id": "places",
+  "title": "Nature & Places",
+  "entries": [
+    {
+      "id": "pl-bulaklak",
+      "word": "bulaklak",
+      "partOfSpeech": "noun",
+      "translations": ["flower"],
+      "relatedTagalog": "bulaklak",
+      "examples": [
+        {
+          "kp": "Malutu ya ing bulaklak.",
+          "en": "The flower is red."
+        },
+        {
+          "kp": "Atin dakal bulaklak king hardin.",
+          "en": "There are many flowers in the garden."
+        }
+      ],
+      "notes": "Shared with Tagalog. Refers to any flowering bloom. Confidence: very high."
+    },
+    {
+      "id": "pl-puno",
+      "word": "puno",
+      "partOfSpeech": "noun",
+      "translations": ["tree"],
+      "relatedTagalog": "puno",
+      "examples": [
+        {
+          "kp": "Matas ya ing puno.",
+          "en": "The tree is tall."
+        },
+        {
+          "kp": "Matas ya ing puno king bukid.",
+          "en": "The tree in the field is tall."
+        }
+      ],
+      "notes": "Shared with Tagalog. Refers to any tree. Confidence: very high."
+    },
+    {
+      "id": "pl-bukid",
+      "word": "bukid",
+      "partOfSpeech": "noun",
+      "translations": ["farm", "field"],
+      "relatedTagalog": "bukid",
+      "examples": [
+        {
+          "kp": "Maragul ya ing babi king bukid.",
+          "en": "The pig in the field is big."
+        },
+        {
+          "kp": "Munta la king bukid para magobra.",
+          "en": "They are going to the farm to work."
+        }
+      ],
+      "notes": "Shared with Tagalog. Refers to a farm, field, or rural land. Confidence: very high."
+    },
+    {
+      "id": "pl-banua",
+      "word": "banua",
+      "partOfSpeech": "noun",
+      "translations": ["sky", "atmosphere", "weather"],
+      "relatedTagalog": "langit",
+      "examples": [
+        {
+          "kp": "Maliwanag ya ing batuin king banua.",
+          "en": "The stars are bright in the sky."
+        },
+        {
+          "kp": "Maliwanag ya ing banua ngeni.",
+          "en": "The sky is bright today."
+        }
+      ],
+      "notes": "Kapampangan-native term for the physical sky, atmosphere, and weather. Distinct from 'langit' (heaven/paradise above). Confidence: high."
+    },
+    {
+      "id": "pl-langit",
+      "word": "langit",
+      "partOfSpeech": "noun",
+      "translations": ["heaven", "sky above"],
+      "relatedTagalog": "langit",
+      "examples": [
+        {
+          "kp": "Maliwanag ya ing langit.",
+          "en": "The heavens are bright."
+        },
+        {
+          "kp": "Maliwanag ya ing langit ngeni.",
+          "en": "The sky is bright today."
+        }
+      ],
+      "notes": "'Langit' refers to heaven or the sky as a divine or celestial concept. For the physical weather-sky, Kapampangan uses 'banua'. Confidence: high."
+    },
+    {
+      "id": "pl-simbahan",
+      "word": "simbahan",
+      "partOfSpeech": "noun",
+      "translations": ["church"],
+      "relatedTagalog": "simbahan",
+      "examples": [
+        {
+          "kp": "Munta taku simbahan king duminggu.",
+          "en": "Let's go to church on Sunday."
+        },
+        {
+          "kp": "Maragul ya ing simbahan king plasa.",
+          "en": "The church at the plaza is big."
+        }
+      ],
+      "notes": "Shared with Tagalog; from Spanish 'sembrar' root via Tagalog. Refers to a Christian church building. Confidence: very high."
+    },
+    {
+      "id": "pl-tiangge",
+      "word": "tiangge",
+      "partOfSpeech": "noun",
+      "translations": ["market", "bazaar", "stall"],
+      "relatedTagalog": "palengke",
+      "examples": [
+        {
+          "kp": "Munta ku king tiangge king aldo.",
+          "en": "I am going to the market today."
+        },
+        {
+          "kp": "Maragul ya ing tiangge king plasa.",
+          "en": "The market at the plaza is big."
+        }
+      ],
+      "notes": "Common Kapampangan and Tagalog word for a market stall or bazaar. The Tagalog term 'palengke' is also understood. Confidence: very high."
+    },
+    {
+      "id": "pl-plasa",
+      "word": "plasa",
+      "partOfSpeech": "noun",
+      "translations": ["plaza", "town square"],
+      "relatedTagalog": "plaza",
+      "examples": [
+        {
+          "kp": "Libu la reng tao king plasa.",
+          "en": "Many people are at the plaza."
+        },
+        {
+          "kp": "Atyu la reng tao king plasa.",
+          "en": "The people are at the plaza."
+        }
+      ],
+      "notes": "From Spanish 'plaza'. The central public square of a Philippine town or city. Confidence: very high; attested in everyday pack sentences."
+    },
+    {
+      "id": "pl-hardin",
+      "word": "hardin",
+      "partOfSpeech": "noun",
+      "translations": ["garden"],
+      "relatedTagalog": "hardin",
+      "examples": [
+        {
+          "kp": "Atin dakal sampaga king hardin.",
+          "en": "There are many jasmine flowers in the garden."
+        },
+        {
+          "kp": "Malagu ya ing hardin king bale mi.",
+          "en": "The garden at our house is beautiful."
+        }
+      ],
+      "notes": "From Spanish 'jardín'. Refers to a cultivated garden, whether flowers or vegetables. Confidence: very high."
+    },
+    {
+      "id": "pl-pista",
+      "word": "pista",
+      "partOfSpeech": "noun",
+      "translations": ["festival", "fiesta", "feast day"],
+      "relatedTagalog": "pista",
+      "examples": [
+        {
+          "kp": "Maragul ya ing pista king plasa.",
+          "en": "The festival at the plaza is big."
+        },
+        {
+          "kp": "Masaya la reng tao nung pista.",
+          "en": "People are happy during the festival."
+        }
+      ],
+      "notes": "From Spanish 'fiesta'. Refers to a town fiesta or religious feast day — a central event in Kapampangan community life. Confidence: very high."
+    },
+    {
+      "id": "pl-sulud",
+      "word": "sulud",
+      "partOfSpeech": "verb",
+      "translations": ["to enter", "to go inside", "to put in"],
+      "relatedTagalog": "pumasok",
+      "examples": [
+        {
+          "kp": "Sulud me ing sapatus mu.",
+          "en": "Put on your shoes."
+        },
+        {
+          "kp": "Sulud ya king bale.",
+          "en": "He went inside the house."
+        }
+      ],
+      "notes": "Used both for entering a place ('sulud ya king bale' — he entered the house) and for putting something inside or on ('sulud me ing sapatus mu' — put on your shoes). Confidence: high."
+    },
+    {
+      "id": "pl-wala",
+      "word": "wala",
+      "partOfSpeech": "particle",
+      "translations": ["none", "nothing", "there is none"],
+      "relatedTagalog": "wala",
+      "examples": [
+        {
+          "kp": "Wala ku pera.",
+          "en": "I have no money."
+        },
+        {
+          "kp": "Wala lang tao king bale.",
+          "en": "There is nobody at home."
+        }
+      ],
+      "notes": "'Wala' negates existence — 'Wala ku pera' (I have no money). Contrast with 'ali'/'e' which negate verbs and adjectives. Shared with Tagalog. Confidence: very high."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pl-1",
+      "title": "Outdoors & Nature: bulaklak, puno, bukid, banua, langit",
+      "theme": "The natural world around you",
+      "intro": "This lesson covers five words from the natural world. 'Bulaklak' (flower) and 'puno' (tree) are the most basic outdoor vocabulary. 'Bukid' (farm/field) is central to Kapampangan rural life — Pampanga is an agricultural heartland. 'Banua' and 'langit' both relate to the sky: 'banua' is the physical sky and weather overhead, while 'langit' carries the sense of heaven or the sky as a sacred space above.",
+      "wordIds": [
+        "pl-bulaklak",
+        "pl-puno",
+        "pl-bukid",
+        "pl-banua",
+        "pl-langit"
+      ],
+      "exercises": [
+        {
+          "id": "pl-1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"bulaklak\" mean?",
+          "wordIds": ["pl-bulaklak"],
+          "answerId": "pl-bulaklak"
+        },
+        {
+          "id": "pl-1-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"flower\"?",
+          "wordIds": ["pl-bulaklak"],
+          "answerId": "pl-bulaklak"
+        },
+        {
+          "id": "pl-1-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"puno\" mean?",
+          "wordIds": ["pl-puno"],
+          "answerId": "pl-puno"
+        },
+        {
+          "id": "pl-1-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"tree\"?",
+          "wordIds": ["pl-puno"],
+          "answerId": "pl-puno"
+        },
+        {
+          "id": "pl-1-mc5",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"bukid\" mean?",
+          "wordIds": ["pl-bukid"],
+          "answerId": "pl-bukid"
+        },
+        {
+          "id": "pl-1-mc6",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"farm\" or \"field\"?",
+          "wordIds": ["pl-bukid"],
+          "answerId": "pl-bukid"
+        },
+        {
+          "id": "pl-1-mc7",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"banua\" mean?",
+          "wordIds": ["pl-banua"],
+          "answerId": "pl-banua"
+        },
+        {
+          "id": "pl-1-mc8",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"sky\" (physical / weather)?",
+          "wordIds": ["pl-banua"],
+          "answerId": "pl-banua"
+        },
+        {
+          "id": "pl-1-mc9",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"langit\" mean?",
+          "wordIds": ["pl-langit"],
+          "answerId": "pl-langit"
+        },
+        {
+          "id": "pl-1-mc10",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"heaven\" or the sky above?",
+          "wordIds": ["pl-langit"],
+          "answerId": "pl-langit"
+        },
+        {
+          "id": "pl-1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malutu ya ing bulaklak.",
+          "wordIds": ["pl-bulaklak"],
+          "accepted": [
+            "the flower is red",
+            "the flower is red."
+          ]
+        },
+        {
+          "id": "pl-1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Matas ya ing puno.",
+          "wordIds": ["pl-puno"],
+          "accepted": [
+            "the tree is tall",
+            "the tree is tall."
+          ]
+        },
+        {
+          "id": "pl-1-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing babi king bukid.",
+          "wordIds": ["pl-bukid"],
+          "accepted": [
+            "the pig in the field is big",
+            "the pig in the field is big.",
+            "the pig at the farm is big",
+            "the pig at the farm is big."
+          ]
+        },
+        {
+          "id": "pl-1-tr4",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maliwanag ya ing batuin king banua.",
+          "wordIds": ["pl-banua"],
+          "accepted": [
+            "the stars are bright in the sky",
+            "the stars are bright in the sky."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pl-2",
+      "title": "Community Places: simbahan, tiangge, plasa, hardin, pista",
+      "theme": "Where community life happens",
+      "intro": "These five words describe the places and events at the heart of Kapampangan community life. The 'simbahan' (church) anchors every town. The 'tiangge' (market) is where daily commerce happens. The 'plasa' (plaza) is the central gathering space facing the church. The 'hardin' (garden) brings beauty to home and public spaces. And the 'pista' (fiesta) is the beloved annual celebration — the biggest event in any Kapampangan town.",
+      "wordIds": [
+        "pl-simbahan",
+        "pl-tiangge",
+        "pl-plasa",
+        "pl-hardin",
+        "pl-pista"
+      ],
+      "exercises": [
+        {
+          "id": "pl-2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"simbahan\" mean?",
+          "wordIds": ["pl-simbahan"],
+          "answerId": "pl-simbahan"
+        },
+        {
+          "id": "pl-2-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"church\"?",
+          "wordIds": ["pl-simbahan"],
+          "answerId": "pl-simbahan"
+        },
+        {
+          "id": "pl-2-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"tiangge\" mean?",
+          "wordIds": ["pl-tiangge"],
+          "answerId": "pl-tiangge"
+        },
+        {
+          "id": "pl-2-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"market\" or \"bazaar\"?",
+          "wordIds": ["pl-tiangge"],
+          "answerId": "pl-tiangge"
+        },
+        {
+          "id": "pl-2-mc5",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"plasa\" mean?",
+          "wordIds": ["pl-plasa"],
+          "answerId": "pl-plasa"
+        },
+        {
+          "id": "pl-2-mc6",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"plaza\" or \"town square\"?",
+          "wordIds": ["pl-plasa"],
+          "answerId": "pl-plasa"
+        },
+        {
+          "id": "pl-2-mc7",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"hardin\" mean?",
+          "wordIds": ["pl-hardin"],
+          "answerId": "pl-hardin"
+        },
+        {
+          "id": "pl-2-mc8",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"garden\"?",
+          "wordIds": ["pl-hardin"],
+          "answerId": "pl-hardin"
+        },
+        {
+          "id": "pl-2-mc9",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"pista\" mean?",
+          "wordIds": ["pl-pista"],
+          "answerId": "pl-pista"
+        },
+        {
+          "id": "pl-2-mc10",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"festival\" or \"fiesta\"?",
+          "wordIds": ["pl-pista"],
+          "answerId": "pl-pista"
+        },
+        {
+          "id": "pl-2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta taku simbahan king duminggu.",
+          "wordIds": ["pl-simbahan"],
+          "accepted": [
+            "let's go to church on sunday",
+            "let's go to church on sunday.",
+            "let us go to church on sunday",
+            "let us go to church on sunday."
+          ]
+        },
+        {
+          "id": "pl-2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Libu la reng tao king plasa.",
+          "wordIds": ["pl-plasa"],
+          "accepted": [
+            "many people are at the plaza",
+            "many people are at the plaza.",
+            "many people are in the plaza",
+            "many people are in the plaza."
+          ]
+        },
+        {
+          "id": "pl-2-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin dakal sampaga king hardin.",
+          "wordIds": ["pl-hardin"],
+          "accepted": [
+            "there are many jasmine flowers in the garden",
+            "there are many jasmine flowers in the garden."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pl-3",
+      "title": "Essential Words: sulud, wala",
+      "theme": "Entering and negating existence",
+      "intro": "This final lesson covers two high-utility words. 'Sulud' (to enter / to put in) is a flexible verb used both for going inside a place and for putting something on or in — including putting on shoes. 'Wala' (none / nothing / there is none) is the essential existential negation: use it to say something does not exist or you don't have something. Unlike 'ali' and 'e' which negate verbs and adjectives, 'wala' negates existence itself.",
+      "wordIds": [
+        "pl-sulud",
+        "pl-wala"
+      ],
+      "exercises": [
+        {
+          "id": "pl-3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"sulud\" mean?",
+          "wordIds": ["pl-sulud"],
+          "answerId": "pl-sulud"
+        },
+        {
+          "id": "pl-3-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"to enter\" or \"to put in\"?",
+          "wordIds": ["pl-sulud"],
+          "answerId": "pl-sulud"
+        },
+        {
+          "id": "pl-3-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"wala\" mean?",
+          "wordIds": ["pl-wala"],
+          "answerId": "pl-wala"
+        },
+        {
+          "id": "pl-3-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"none\" or \"there is none\"?",
+          "wordIds": ["pl-wala"],
+          "answerId": "pl-wala"
+        },
+        {
+          "id": "pl-3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sulud me ing sapatus mu.",
+          "wordIds": ["pl-sulud"],
+          "accepted": [
+            "put on your shoes",
+            "put on your shoes."
+          ]
+        },
+        {
+          "id": "pl-3-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sulud ya king bale.",
+          "wordIds": ["pl-sulud"],
+          "accepted": [
+            "he went inside the house",
+            "he went inside the house.",
+            "she went inside the house",
+            "she went inside the house.",
+            "he entered the house",
+            "he entered the house.",
+            "she entered the house",
+            "she entered the house."
+          ]
+        },
+        {
+          "id": "pl-3-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Wala ku pera.",
+          "wordIds": ["pl-wala"],
+          "accepted": [
+            "i have no money",
+            "i have no money."
+          ]
+        },
+        {
+          "id": "pl-3-tr4",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Wala lang tao king bale.",
+          "wordIds": ["pl-wala"],
+          "accepted": [
+            "there is nobody at home",
+            "there is nobody at home.",
+            "there is no one at home",
+            "there is no one at home."
+          ]
+        }
+      ]
+    }
+  ]
+}
