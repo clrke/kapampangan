@@ -49,6 +49,42 @@ describe('checkTranslation', () => {
   it('rejects wrong answers', () => {
     expect(checkTranslation('hello', ['i am fine'])).toBe(false)
   })
+
+  describe('English contractions are equivalent to their full forms', () => {
+    const cases: [string, string][] = [
+      ['do not', "don't"],
+      ['I am fine', "I'm fine"],
+      ['cannot', "can't"],
+      ['can not', "can't"],
+      ['will not', "won't"],
+      ['it is mine', "it's mine"],
+      ['I have eaten', "I've eaten"],
+      ['you are kind', "you're kind"],
+      ['they will go', "they'll go"],
+      ['she is not here', "she isn't here"],
+      ['we would go', "we'd go"],
+      ['that is not it', "that's not it"],
+      ['let us eat', "let's eat"],
+    ]
+    for (const [expanded, contracted] of cases) {
+      it(`"${expanded}" ≡ "${contracted}" (both directions)`, () => {
+        // accepted written expanded, learner types contracted
+        expect(checkTranslation(contracted, [expanded])).toBe(true)
+        // accepted written contracted, learner types expanded
+        expect(checkTranslation(expanded, [contracted])).toBe(true)
+      })
+    }
+
+    it('normalizes smart/curly apostrophes too', () => {
+      expect(checkTranslation('do not', ['don’t'])).toBe(true)
+      expect(checkTranslation('don’t', ['do not'])).toBe(true)
+    })
+
+    it('still rejects genuinely different answers', () => {
+      expect(checkTranslation("I'm fine", ['i am sad'])).toBe(false)
+      expect(checkTranslation("don't go", ['do go'])).toBe(false)
+    })
+  })
 })
 
 describe('checkAnswer', () => {

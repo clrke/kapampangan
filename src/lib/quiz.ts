@@ -57,9 +57,54 @@ export function buildChoices(
   return seededShuffle(choices, answerId + ':choices')
 }
 
-/** Check a free-text answer against the accepted list (case/space-insensitive). */
+/**
+ * Expand English contractions to their full forms so "don't" ≡ "do not",
+ * "I'm" ≡ "I am", "can't" ≡ "cannot", etc. This runs on BOTH the learner's
+ * input and every accepted answer, so the mapping only needs to be
+ * deterministic — not linguistically perfect. (A possessive like "dog's"
+ * expands to "dog is" on both sides, which still matches itself.) Operates on
+ * already-lowercased text with apostrophes normalized to U+0027.
+ */
+function expandContractions(s: string): string {
+  return (
+    s
+      // irregular whole-word forms (must run before the generic n't rule)
+      .replace(/\bwon't\b/g, 'will not')
+      .replace(/\bcan't\b/g, 'cannot')
+      .replace(/\bshan't\b/g, 'shall not')
+      .replace(/\bain't\b/g, 'is not')
+      .replace(/\blet's\b/g, 'let us')
+      .replace(/\by'all\b/g, 'you all')
+      // unify "cannot" / "can not" / (expanded) "can't"
+      .replace(/\bcan not\b/g, 'cannot')
+      // generic "<aux>n't" -> "<aux> not" (don't, isn't, hasn't, wouldn't, ...)
+      .replace(/n't\b/g, ' not')
+      // pronoun/auxiliary enclitics
+      .replace(/'m\b/g, ' am')
+      .replace(/'re\b/g, ' are')
+      .replace(/'ve\b/g, ' have')
+      .replace(/'ll\b/g, ' will')
+      .replace(/'d\b/g, ' would')
+      .replace(/'s\b/g, ' is')
+  )
+}
+
+/**
+ * Check a free-text answer against the accepted list. Case-, whitespace-, and
+ * punctuation-insensitive, and tolerant of English contractions (don't = do
+ * not, I'm = I am, cannot = can't = can not, ...).
+ */
 export function checkTranslation(input: string, accepted: string[]): boolean {
-  const norm = (s: string) => s.trim().toLowerCase().replace(/\s+/g, ' ').replace(/[.!?]+$/, '')
+  const norm = (s: string) =>
+    expandContractions(
+      s
+        .trim()
+        .toLowerCase()
+        .replace(/[‘’ʼ`]/g, "'"), // smart/odd apostrophes -> '
+    )
+      .replace(/[.!?,]+$/, '')
+      .replace(/\s+/g, ' ')
+      .trim()
   const target = norm(input)
   return accepted.some((a) => norm(a) === target)
 }
