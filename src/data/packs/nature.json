@@ -526,7 +526,7 @@
         {
           "id": "nat-5-fb2",
           "type": "fill-blank",
-          "prompt": "Magandang ____ ya ing Angeles. (Angeles is a fine town.)",
+          "prompt": "Masanting a ____ ya ing Angeles. (Angeles is a fine town.)",
           "wordIds": ["nat-balen"],
           "answerId": "nat-balen"
         },

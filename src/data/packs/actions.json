@@ -69,7 +69,7 @@
       "translations": ["to play", "to play games"],
       "relatedTagalog": "maglaro",
       "examples": [
-        {"kp": "Mamyalung la reng anak sa labuad.", "en": "The children are playing outside."},
+        {"kp": "Mamyalung la reng anak king labuad.", "en": "The children are playing outside."},
         {"kp": "Buri ku mamyalung karela.", "en": "I want to play with them."}
       ],
       "notes": "Root: pyalung (game/play). Pyalung is the Kapampangan word for 'game' confirmed in academic research ('The Pyalung Kapampangan') and Sunstar.com.ph. Mamyalung is the actor-focus verbal form. Also seen as mamialung."
@@ -94,7 +94,7 @@
       "relatedTagalog": "hintayin",
       "examples": [
         {"kp": "Antayan me ku deti.", "en": "Wait for me here."},
-        {"kp": "Antayan tamu ya karing aduang oras.", "en": "We waited for two hours."}
+        {"kp": "Antayan tamu ya karing aduang oras.", "en": "We will wait for two hours."}
       ],
       "notes": "Confirmed in Kapampangan phrasebook (Wikivoyage) for wait-related forms. 'Nanung panayan mu?' (for what do you wait?) evidences the antay/panay root in Kapampangan. Antayan = patient-focus form of antay (wait)."
     },
@@ -118,7 +118,7 @@
       "relatedTagalog": "sumayaw",
       "examples": [
         {"kp": "Terak ya ing babai.", "en": "The woman dances."},
-        {"kp": "Buri ku terak kanimo.", "en": "I want to dance with you."}
+        {"kp": "Buri ku terak keka.", "en": "I want to dance with you."}
       ],
       "notes": "Confirmed Kapampangan on Wiktionary (noun and verb: 'a sequence of rhythmic steps... to dance, to sway'). Also confirmed in tagaloglang.com and the blog 'Views from the Pampang: Shall We Dance? Terak Kapampangan'."
     },
@@ -129,7 +129,7 @@
       "translations": ["to laugh", "laughter"],
       "relatedTagalog": "tumawa",
       "examples": [
-        {"kp": "Tawa ya ing anak nung narinig na.", "en": "The child laughs when he hears it."},
+        {"kp": "Tawa ya ing anak nung dingna na.", "en": "The child laughs when he hears it."},
         {"kp": "Tawa lang maragul ding lalaki.", "en": "The men laughed loudly."}
       ],
       "notes": "Confirmed as Kapampangan verb meaning 'laugh' in multiple sources including Wikivoyage phrasebook and search results. Also appears in the Kapampangan compound 'iyak-tawa'. Root: tawa."
@@ -361,7 +361,7 @@
           "id": "act-3-tr2",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Mamyalung la reng anak sa labuad.",
+          "prompt": "Mamyalung la reng anak king labuad.",
           "wordIds": ["act-mamyalung"],
           "accepted": ["the children are playing outside.", "the children are playing outside"]
         },
@@ -563,7 +563,7 @@
         {
           "id": "act-6-fb1",
           "type": "fill-blank",
-          "prompt": "____ ya ing anak nung narinig na. (The child laughs when he hears it.)",
+          "prompt": "____ ya ing anak nung dingna na. (The child laughs when he hears it.)",
           "wordIds": ["act-tawa"],
           "answerId": "act-tawa"
         },

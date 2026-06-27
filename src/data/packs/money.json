@@ -165,7 +165,7 @@
           "en": "I want to go to the store."
         },
         {
-          "kp": "Atin tindahan e malapit keni.",
+          "kp": "Atin tindahan a malapit keni.",
           "en": "There is a store near here."
         }
       ],
@@ -208,7 +208,7 @@
           "en": "That person is rich."
         },
         {
-          "kp": "Buri ku ing maging mayaman.",
+          "kp": "Buri ku maging mayaman.",
           "en": "I want to become wealthy."
         }
       ],
@@ -296,7 +296,7 @@
           "en": "The vendor at the market is kind."
         },
         {
-          "kp": "Nanung tindero ing magbebenta ning manuk?",
+          "kp": "Nanung tindero ing migbebenta ning manuk?",
           "en": "Which vendor sells chicken?"
         }
       ],
@@ -733,7 +733,7 @@
         {
           "id": "mkt-ex-5f",
           "type": "fill-blank",
-          "prompt": "Nanung ____ ing magbebenta ning manuk? (Which vendor sells chicken?)",
+          "prompt": "Nanung ____ ing migbebenta ning manuk? (Which vendor sells chicken?)",
           "wordIds": [
             "mkt-tindero"
           ],

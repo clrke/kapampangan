@@ -328,7 +328,7 @@
         {
           "id": "anim-2-fb1",
           "type": "fill-blank",
-          "prompt": "Ing ____ magbibigay ya ning gatas.  (The cow gives milk.)",
+          "prompt": "Ing ____ magbie ya ning gatas.  (The cow gives milk.)",
           "wordIds": ["anim-baka"],
           "answerId": "anim-baka"
         },
@@ -460,7 +460,7 @@
         {
           "id": "anim-4-fb1",
           "type": "fill-blank",
-          "prompt": "Dakal yang ____ king balat ning kekan.  (There are many ants on the food.)",
+          "prompt": "Dakal yang ____ king balat ning pamangan.  (There are many ants on the food.)",
           "wordIds": ["anim-panas"],
           "answerId": "anim-panas"
         },

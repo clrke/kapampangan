@@ -36,7 +36,7 @@
       "examples": [
         {
           "kp": "Malungkut ing anak uling wala ne ing asawa na.",
-          "en": "The child is sad because his pet is gone."
+          "en": "The child is sad because his spouse is gone."
         },
         {
           "kp": "Malungkut ku nung miras ka.",
@@ -60,7 +60,7 @@
           "en": "I am angry at you!"
         },
         {
-          "kp": "Nung mimwa ka, huminga ka maralas.",
+          "kp": "Nung mimwa ka, manghinga ka malugay.",
           "en": "When you are angry, breathe slowly."
         }
       ],
@@ -122,7 +122,7 @@
       "relatedTagalog": "mahiyain / nahihiya",
       "examples": [
         {
-          "kp": "Marine ku makipagusap king bayung tau.",
+          "kp": "Marine ku migsalita king bayung tau.",
           "en": "I am shy when talking to new people."
         },
         {
@@ -212,7 +212,7 @@
           "en": "His mood is gloomy today."
         },
         {
-          "kp": "Madalumdum ku nung umuran.",
+          "kp": "Madalumdum ku nung miguran.",
           "en": "I feel gloomy when it rains."
         }
       ],
@@ -255,7 +255,7 @@
           "en": "I am already bored with this work."
         },
         {
-          "kp": "Sawa na ku king paulit-ulit a bisita.",
+          "kp": "Sawa na ku king pane-neng a bisita.",
           "en": "I am fed up with the constant visits."
         }
       ],
@@ -567,7 +567,7 @@
           "id": "emo-3-tr1",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Marine ku makipagusap king bayung tau.",
+          "prompt": "Marine ku migsalita king bayung tau.",
           "wordIds": [
             "emo-marine"
           ],
@@ -697,7 +697,7 @@
         {
           "id": "emo-4-fb1",
           "type": "fill-blank",
-          "prompt": "____ ku nung umuran. (gloomy)",
+          "prompt": "____ ku nung miguran. (gloomy)",
           "wordIds": [
             "emo-madalumdum"
           ],
@@ -797,7 +797,7 @@
         {
           "id": "emo-5-fb1",
           "type": "fill-blank",
-          "prompt": "____ na ku king paulit-ulit a bisita. (fed up/bored)",
+          "prompt": "____ na ku king pane-neng a bisita. (fed up/bored)",
           "wordIds": [
             "emo-sawa"
           ],

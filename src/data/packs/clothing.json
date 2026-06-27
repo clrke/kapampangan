@@ -22,7 +22,7 @@
       "relatedTagalog": "salawal",
       "examples": [
         {"kp": "Ing salawal ku malutu ya.", "en": "My pants are red."},
-        {"kp": "Bibili ya ing bayung salawal.", "en": "He is buying new pants."}
+        {"kp": "Mibili ya ing bayung salawal.", "en": "He is buying new pants."}
       ],
       "notes": "Attested in the Vocabulario Pampango-Tagalog-Inglés (archive.org). Wiktionary's salawal entry lists Kapampangan cognate 'salol' (short pants); the full form salawal is used for trousers. Ultimately from Malay/Persian shalwar."
     },
@@ -70,7 +70,7 @@
       "relatedTagalog": "saya / palda",
       "examples": [
         {"kp": "Malagu ya ing saya na.", "en": "Her skirt is beautiful."},
-        {"kp": "Ibili ya ing bayung saya.", "en": "She is buying a new skirt."}
+        {"kp": "Mibili ya ing bayung saya.", "en": "She is buying a new skirt."}
       ],
       "notes": "Attested in the Vocabulario Pampango-Tagalog-Inglés (archive.org). From Spanish saya. Also part of the traditional 'baro't saya' ensemble documented in multiple Philippine cultural sources."
     },
@@ -118,7 +118,7 @@
       "relatedTagalog": "salamin / salamin-mata",
       "examples": [
         {"kp": "Atin ku pung salamin para king mata ku.", "en": "I have glasses for my eyes."},
-        {"kp": "Nanu ya ing salamin mu?", "en": "Where are your glasses?"}
+        {"kp": "Nukarin la ing salamin mu?", "en": "Where are your glasses?"}
       ],
       "notes": "Kapampangan uses 'salamin' (mirror/glass) or 'salamin mata' (eyeglasses). Attested in Vocabulario Pampango-Tagalog-Inglés (archive.org) as 'salamin mata'. The word salamin is shared with Tagalog meaning mirror/glass; in context of eyes it refers to eyeglasses."
     },
@@ -166,7 +166,7 @@
       "relatedTagalog": "payong",
       "examples": [
         {"kp": "Atin ku pung payung para king uran.", "en": "I have an umbrella for the rain."},
-        {"kp": "Sulud me ing payung ta umuran na.", "en": "Use the umbrella, it is already raining."}
+        {"kp": "Sulud me ing payung ta miguran na.", "en": "Use the umbrella, it is already raining."}
       ],
       "notes": "Confirmed in Kapampangan–Tagalog relations appendix (Wiktionary) and viewsfromthepampang.blogspot.com umbrella article. The term literally means 'shade'. Also confirmed in Vocabulario Pampango-Tagalog-Inglés (archive.org). Kapampangan uses final -g; Tagalog uses final -ng."
     },

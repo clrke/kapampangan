@@ -110,7 +110,7 @@
       "relatedTagalog": "kung / kapag",
       "examples": [
         {
-          "kp": "Nung ati kang sakit, punta ka king doktor.",
+          "kp": "Nung ati kang sakit, munta ka king doktor.",
           "en": "If you are sick, go to the doctor."
         },
         {
@@ -158,7 +158,7 @@
           "en": "I want to go to the store."
         },
         {
-          "kp": "Bisa kung pumunta king bunduk.",
+          "kp": "Bisa kung munta king bunduk.",
           "en": "I want to go to the mountain."
         },
         {
@@ -534,7 +534,7 @@
           "id": "part-L1-tr2",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Nung ati kang sakit, punta ka king doktor.",
+          "prompt": "Nung ati kang sakit, munta ka king doktor.",
           "wordIds": ["part-nung", "part-king"],
           "accepted": [
             "if you are sick, go to the doctor",

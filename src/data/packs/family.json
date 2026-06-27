@@ -70,7 +70,7 @@
       "relatedTagalog": "ate",
       "examples": [
         {"kp": "Matulid ya ing Achi ku.", "en": "My older sister is upright."},
-        {"kp": "Achi ku ing nagtuturu.", "en": "My older sister is the one who teaches."}
+        {"kp": "Achi ku ing talaturu.", "en": "My older sister is the one who teaches."}
       ],
       "notes": "Also spelled 'Atsi'. Chinese loanword. Used as kinship term and respectful address."
     },
@@ -106,7 +106,7 @@
       "relatedTagalog": "lola",
       "examples": [
         {"kp": "Maragul ing Apu ku.", "en": "My grandmother is great."},
-        {"kp": "Apu ku ing nagluto.", "en": "My grandmother is the one who cooked."}
+        {"kp": "Apu ku ing migluto.", "en": "My grandmother is the one who cooked."}
       ],
       "notes": "Chinese loanword. Can also mean 'grandchild' in some contexts, and 'Impu' is used for maternal grandmother specifically. Commonly used for grandmother."
     },
@@ -190,7 +190,7 @@
       "relatedTagalog": "babae",
       "examples": [
         {"kp": "Malagu ing Babai.", "en": "The woman is beautiful."},
-        {"kp": "Ing Babai ing nagtuturu king anak.", "en": "The woman is the one teaching the child."}
+        {"kp": "Ing Babai ing talaturu king anak.", "en": "The woman is the one teaching the child."}
       ],
       "notes": "Also spelled 'Babayi'. Confirmed as Kapampangan word for woman. Also used as modifier: 'anak a babai' (daughter)."
     },
@@ -394,7 +394,7 @@
         {
           "id": "fam-3-fb1",
           "type": "fill-blank",
-          "prompt": "Mabait ya ing ____ ku.  (My uncle is kind.)",
+          "prompt": "Mayap ya ing ____ ku.  (My uncle is kind.)",
           "wordIds": ["fam-bapa"],
           "answerId": "fam-bapa"
         },
@@ -420,7 +420,7 @@
           "id": "fam-3-tr2",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Matua ne reng Ingkung ku.",
+          "prompt": "Matua ne ing Ingkung ku.",
           "wordIds": ["fam-ingkung"],
           "accepted": ["my grandfather is already old", "my grandfather is old already"]
         }
@@ -468,7 +468,7 @@
         {
           "id": "fam-4-fb1",
           "type": "fill-blank",
-          "prompt": "Ding ____ ku mapagmahal la.  (My relatives are loving.)",
+          "prompt": "Ding ____ ku mapaglugud la.  (My relatives are loving.)",
           "wordIds": ["fam-kamaganak"],
           "answerId": "fam-kamaganak"
         },

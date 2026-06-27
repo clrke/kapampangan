@@ -138,7 +138,7 @@
       "relatedTagalog": "tuloy kayo / maligayang pagdating",
       "examples": [
         {
-          "kp": "Malaus ko pu, kumain kamu deni!",
+          "kp": "Malaus ko pu, mangan kamu deni!",
           "en": "Welcome, please eat here!"
         },
         {
@@ -185,7 +185,7 @@
           "en": "\"Thank you very much!\" \"You're welcome.\""
         },
         {
-          "kp": "Alang nanu naman, kaibigan.",
+          "kp": "Alang nanu naman, kaluguran.",
           "en": "It's nothing, friend."
         }
       ],
@@ -270,7 +270,7 @@
           "en": "Could you please help me?"
         },
         {
-          "kp": "Malyari ku pong lumabas?",
+          "kp": "Malyari ku pong makilabas?",
           "en": "May I please go out?"
         }
       ],
@@ -593,7 +593,7 @@
         {
           "id": "greet-3-fb2",
           "type": "fill-blank",
-          "prompt": "____ (May I) ku pong lumabas?",
+          "prompt": "____ (May I) ku pong makilabas?",
           "wordIds": [
             "greet-malyari"
           ],
@@ -664,7 +664,7 @@
           "id": "greet-4-tr2",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Alang nanu naman, kaibigan.",
+          "prompt": "Alang nanu naman, kaluguran.",
           "wordIds": [
             "greet-alang-nanu-naman"
           ],
@@ -779,7 +779,7 @@
         {
           "id": "greet-5-fb2",
           "type": "fill-blank",
-          "prompt": "____ (Welcome), kumain kamu deni!",
+          "prompt": "____ (Welcome), mangan kamu deni!",
           "wordIds": [
             "greet-malaus-ko-pu"
           ],
