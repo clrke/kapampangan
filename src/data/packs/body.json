@@ -166,7 +166,7 @@
       "relatedTagalog": "sakit",
       "examples": [
         {"kp": "Maragul a sakit ya iti.", "en": "This is a serious illness."},
-        {"kp": "Nung ati kang sakit, punta ka king doktor.", "en": "If you have an illness, go to the doctor."}
+        {"kp": "Nung ati kang sakit, munta ka king doktor.", "en": "If you have an illness, go to the doctor."}
       ],
       "notes": "Confirmed in Wikivoyage phrasebook, Austronesian Comparative Dictionary (*sakit cognate set), and multiple Kapampangan health articles. Root of 'masakit'. Shared with Tagalog."
     },
@@ -202,7 +202,7 @@
       "relatedTagalog": "pagod",
       "examples": [
         {"kp": "Mapagal na ku.", "en": "I am already tired."},
-        {"kp": "Ing doktor mapagal ya king arap ning dake.", "en": "The doctor is tired after a long day."}
+        {"kp": "Ing doktor mapagal ya nung tapos na ing maluad a dake.", "en": "The doctor is tired when the long day is done."}
       ],
       "notes": "Confirmed in archive.org Vocabulario Pampango-Tagalog-Inglés ('mapagal' = tired), Facebook LinyangKapampangan post ('kapagal ko' variant), and Sunstar health article. Root 'pagal' shared with other Philippine languages."
     },

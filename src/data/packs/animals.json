@@ -10,7 +10,7 @@
       "relatedTagalog": "aso",
       "examples": [
         {"kp": "Maragul ya ing asu namu.", "en": "Our dog is big."},
-        {"kp": "Ing asu matamis ya king pamangan.", "en": "The dog likes food."}
+        {"kp": "Gustu na ing asu ing pamangan.", "en": "The dog likes food."}
       ],
       "notes": "One of the most attested Kapampangan animal words. Wikibooks Kapampangan/Nouns uses 'asu' as a core example noun."
     },
@@ -58,7 +58,7 @@
       "relatedTagalog": "kalabaw",
       "examples": [
         {"kp": "Ing damulag tutulung ya king bukid.", "en": "The carabao helps in the field."},
-        {"kp": "Maragul at mabangis ya ing damulag.", "en": "The carabao is big and strong."}
+        {"kp": "Maragul at mabangis ya ing damulag.", "en": "The carabao is big and fierce."}
       ],
       "notes": "Attested in Wiktionary as Kapampangan for carabao/water buffalo. Also used in Tagalog and Central Bikol with the same meaning."
     },
@@ -69,7 +69,7 @@
       "translations": ["cow"],
       "relatedTagalog": "baka",
       "examples": [
-        {"kp": "Ing baka magbibigay ya ning gatas.", "en": "The cow gives milk."},
+        {"kp": "Ing baka magbie ya ning gatas.", "en": "The cow gives milk."},
         {"kp": "Atyu ya ing baka king dalan.", "en": "The cow is on the road."}
       ],
       "notes": "Shared with Tagalog. Confirmed in Kapampangan vocabulary guides and the Vocabulario Pampango-Tagalog-Ingles."
@@ -82,7 +82,7 @@
       "relatedTagalog": "kabayo",
       "examples": [
         {"kp": "Mabilisan ya ing kabayu.", "en": "The horse is fast."},
-        {"kp": "Ing kabayu mataba ya at mabangis.", "en": "The horse is strong and powerful."}
+        {"kp": "Ing kabayu masikan ya at mabilisan.", "en": "The horse is strong and fast."}
       ],
       "notes": "Attested in Wikibooks Kapampangan/Nouns ('Ing asu, ing pusa, ampon ing kabayu mikakaluguran la'). Spanish loanword from 'caballo'. Kapampangan spelling is 'kabayu' (with final u)."
     },
@@ -117,7 +117,7 @@
       "translations": ["ant"],
       "relatedTagalog": "langgam",
       "examples": [
-        {"kp": "Dakal yang panas king balat ning kekan.", "en": "There are many ants on the food."},
+        {"kp": "Dakal yang panas king balat ning pamangan.", "en": "There are many ants on the food."},
         {"kp": "Ing panas masipag ya.", "en": "The ant is hardworking."}
       ],
       "notes": "Confirmed in multiple Kapampangan insect vocabulary sources. The Google Groups Kapampangan linguistics discussion lists 'panas' as a familiar/well-known term for ant."
@@ -142,7 +142,7 @@
       "relatedTagalog": "palaka",
       "examples": [
         {"kp": "Ing tugak lumaluksad king tubig.", "en": "The frog jumps in the water."},
-        {"kp": "Dakal yang tugak king pulo.", "en": "There are many frogs in the rice field."}
+        {"kp": "Dakal yang tugak king palayan.", "en": "There are many frogs in the rice field."}
       ],
       "notes": "Attested in multiple sources as the Kapampangan word for frog. Distinct from Tagalog 'palaka'. Confirmed in comparative Philippine linguistics references."
     },
@@ -153,7 +153,7 @@
       "translations": ["butterfly"],
       "relatedTagalog": "paruparo",
       "examples": [
-        {"kp": "Malutu ya ing talubang.", "en": "The butterfly is colorful."},
+        {"kp": "Makulay ya ing talubang.", "en": "The butterfly is colorful."},
         {"kp": "Ing talubang lumalukbad king bulak.", "en": "The butterfly lands on the flower."}
       ],
       "notes": "The native Kapampangan term for butterfly, attested in the Kapampangan Listorian insect vocabulary article. Distinct from Tagalog 'paruparo'. The name is derived from a traditional Kapampangan game."
