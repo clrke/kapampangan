@@ -181,6 +181,17 @@
         {"kp": "Gamiton me ing panyo.", "en": "Use the handkerchief."}
       ],
       "notes": "Attested in Vocabulario Pampango-Tagalog-Inglés (archive.org). From Spanish paño (cloth). Shared across Philippine languages. The longer form panyuelo is also used."
+    },
+    {
+      "id": "cloth-damit",
+      "word": "damit",
+      "partOfSpeech": "noun",
+      "translations": ["clothes", "clothing", "garment"],
+      "relatedTagalog": "damit",
+      "examples": [
+        {"kp": "Bayung damit ya ing binie na keku.", "en": "The garment she gave me is new."},
+        {"kp": "Atin ku reng mayap a damit.", "en": "I have good clothes."}
+      ]
     }
   ],
   "lessons": [
@@ -578,6 +589,39 @@
             {"wordId": "wear-payung"},
             {"wordId": "wear-medyas"}
           ]
+        }
+      ]
+    },
+    {
+      "id": "cloth-6",
+      "title": "Clothes (General)",
+      "theme": "general clothing vocabulary",
+      "intro": "Learn the general Kapampangan word for clothes and clothing — damit — a word that covers any garment you wear.",
+      "wordIds": ["cloth-damit"],
+      "exercises": [
+        {
+          "id": "cloth-6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"damit\" mean?",
+          "wordIds": ["cloth-damit", "wear-baro", "wear-salawal", "wear-saya"],
+          "answerId": "cloth-damit"
+        },
+        {
+          "id": "cloth-6-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "clothes",
+          "wordIds": ["cloth-damit", "wear-baro", "wear-sako", "wear-salawal"],
+          "answerId": "cloth-damit"
+        },
+        {
+          "id": "cloth-6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin ku reng mayap a damit.",
+          "wordIds": ["cloth-damit"],
+          "accepted": ["i have good clothes", "i have good clothing", "i have good garments"]
         }
       ]
     }

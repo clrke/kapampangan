@@ -210,6 +210,28 @@
         {"kp": "Mayumu ing prutas.", "en": "The fruit is sweet."},
         {"kp": "Mayumu ya ining kape.", "en": "This coffee is sweet."}
       ]
+    },
+    {
+      "id": "food-mansanas",
+      "word": "mansanas",
+      "partOfSpeech": "noun",
+      "translations": ["apple"],
+      "relatedTagalog": "mansanas",
+      "examples": [
+        {"kp": "Bisa kung metung a mansanas.", "en": "I want one apple."},
+        {"kp": "Mayumu ya ing mansanas.", "en": "The apple is sweet."}
+      ]
+    },
+    {
+      "id": "food-saging",
+      "word": "saging",
+      "partOfSpeech": "noun",
+      "translations": ["banana"],
+      "relatedTagalog": "saging",
+      "examples": [
+        {"kp": "Atin saging king lamesa.", "en": "There is a banana on the table."},
+        {"kp": "Mangan ku saging.", "en": "I am eating a banana."}
+      ]
     }
   ],
   "lessons": [
@@ -601,6 +623,55 @@
             {"wordId": "food-kabsi"},
             {"wordId": "food-lutu"}
           ]
+        }
+      ]
+    },
+    {
+      "id": "food-7",
+      "title": "Fruits",
+      "theme": "common fruits",
+      "intro": "Kapampangan markets are full of tropical and imported fruits. Learn the words for two popular fruits — mansanas (apple) and saging (banana).",
+      "wordIds": ["food-mansanas", "food-saging"],
+      "exercises": [
+        {
+          "id": "food-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mansanas\" mean?",
+          "wordIds": ["food-mansanas", "food-saging", "food-prutas", "food-gulay"],
+          "answerId": "food-mansanas"
+        },
+        {
+          "id": "food-7-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"saging\" mean?",
+          "wordIds": ["food-saging", "food-mansanas", "food-prutas", "food-gulay"],
+          "answerId": "food-saging"
+        },
+        {
+          "id": "food-7-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "apple",
+          "wordIds": ["food-mansanas", "food-saging", "food-karne", "food-ebun"],
+          "answerId": "food-mansanas"
+        },
+        {
+          "id": "food-7-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "banana",
+          "wordIds": ["food-saging", "food-mansanas", "food-danum", "food-nasi"],
+          "answerId": "food-saging"
+        },
+        {
+          "id": "food-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mayumu ya ing mansanas.",
+          "wordIds": ["food-mansanas", "food-mayumu"],
+          "accepted": ["the apple is sweet", "an apple is sweet"]
         }
       ]
     }
