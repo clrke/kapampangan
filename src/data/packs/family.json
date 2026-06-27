@@ -22,7 +22,7 @@
       "relatedTagalog": "tatay / ama",
       "examples": [
         {"kp": "Matua ne ing Tatang ku.", "en": "My father is already old."},
-        {"kp": "Tatang ku ing mangutang.", "en": "My father is the one who provides."}
+        {"kp": "Tatang ku ing mangutang.", "en": "My father is the one who borrows."}
       ],
       "notes": "Common word for father. Alternate form: Ibpa (more formal/archaic)."
     },
@@ -69,7 +69,7 @@
       "translations": ["older sister"],
       "relatedTagalog": "ate",
       "examples": [
-        {"kp": "Matulid ya ing Achi ku.", "en": "My older sister is kind."},
+        {"kp": "Matulid ya ing Achi ku.", "en": "My older sister is upright."},
         {"kp": "Achi ku ing nagtuturu.", "en": "My older sister is the one who teaches."}
       ],
       "notes": "Also spelled 'Atsi'. Chinese loanword. Used as kinship term and respectful address."
@@ -93,7 +93,7 @@
       "translations": ["grandfather"],
       "relatedTagalog": "lolo",
       "examples": [
-        {"kp": "Matua ne reng Ingkung ku.", "en": "My grandfather is already old."},
+        {"kp": "Matua ne ing Ingkung ku.", "en": "My grandfather is already old."},
         {"kp": "Mayap ya ing Ingkung ku kaku.", "en": "My grandfather is good to me."}
       ],
       "notes": "Chinese loanword. Wikipedia notes this refers to maternal grandfather in some usage, though commonly used for grandfather in general."
@@ -117,8 +117,8 @@
       "translations": ["uncle"],
       "relatedTagalog": "tito / tiyo",
       "examples": [
-        {"kp": "Mabait ya ing Bapa ku.", "en": "My uncle is kind."},
-        {"kp": "Bapa ku ing makatandang lalaki.", "en": "My uncle is the older man."}
+        {"kp": "Mayap ya ing Bapa ku.", "en": "My uncle is kind."},
+        {"kp": "Bapa ku ing makatuang lalaki.", "en": "My uncle is the older man."}
       ],
       "notes": "Informal short form: 'Bap'. Confirmed across multiple Kapampangan sources."
     },
@@ -153,7 +153,7 @@
       "translations": ["relatives", "kinfolk"],
       "relatedTagalog": "kamag-anak",
       "examples": [
-        {"kp": "Ding Kamaganak ku mapagmahal la.", "en": "My relatives are loving."},
+        {"kp": "Ding Kamaganak ku mapaglugud la.", "en": "My relatives are loving."},
         {"kp": "Ding Kamaganak tamu pagsarian la.", "en": "Our relatives must be visited personally."}
       ],
       "notes": "The second example is attested in documented Kapampangan text."
