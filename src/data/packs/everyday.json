@@ -1,0 +1,542 @@
+{
+  "id": "everyday",
+  "title": "Everyday Objects",
+  "entries": [
+    {
+      "id": "ev-libro",
+      "word": "libro",
+      "partOfSpeech": "noun",
+      "translations": ["book"],
+      "relatedTagalog": "libro",
+      "examples": [
+        {
+          "kp": "Mamasa ku ning libro king eskwela.",
+          "en": "I read a book at school."
+        },
+        {
+          "kp": "Ibie ke ing libro kaniya.",
+          "en": "I will give the book to him/her."
+        }
+      ],
+      "notes": "Spanish loanword (libro) used in Kapampangan and Tagalog alike. Refers to any bound book. Confidence: very high; widely attested."
+    },
+    {
+      "id": "ev-tubig",
+      "word": "tubig",
+      "partOfSpeech": "noun",
+      "translations": ["water"],
+      "relatedTagalog": "tubig",
+      "examples": [
+        {
+          "kp": "Bisa ku ing tubig.",
+          "en": "I want water."
+        },
+        {
+          "kp": "Atin tubig king baldi.",
+          "en": "There is water in the pail."
+        }
+      ],
+      "notes": "Native Austronesian root shared across many Philippine languages. Refers to water in any context — drinking, rain, rivers. Confidence: very high."
+    },
+    {
+      "id": "ev-susi",
+      "word": "susi",
+      "partOfSpeech": "noun",
+      "translations": ["key"],
+      "relatedTagalog": "susi",
+      "examples": [
+        {
+          "kp": "Ibie ke ing susi kang Carmen.",
+          "en": "I will give the key to Carmen."
+        },
+        {
+          "kp": "Atyu ya ing susi king lamesa.",
+          "en": "The key is on the table."
+        }
+      ],
+      "notes": "Shared with Tagalog. Refers to a physical key (door, lock, ignition). Confidence: very high; attested in existing pack sentences."
+    },
+    {
+      "id": "ev-kotse",
+      "word": "kotse",
+      "partOfSpeech": "noun",
+      "translations": ["car", "vehicle"],
+      "relatedTagalog": "kotse",
+      "examples": [
+        {
+          "kp": "Atyu ya ing kotse king arap ning bale.",
+          "en": "The car is in front of the house."
+        },
+        {
+          "kp": "Maragul ya ing kotse na.",
+          "en": "His car is big."
+        }
+      ],
+      "notes": "From Spanish 'coche' via Tagalog. Refers to an automobile. Confidence: very high; attested in particles pack example sentences."
+    },
+    {
+      "id": "ev-tao",
+      "word": "tao",
+      "partOfSpeech": "noun",
+      "translations": ["person", "people", "human being"],
+      "relatedTagalog": "tao",
+      "examples": [
+        {
+          "kp": "Dakal a tao king plasa.",
+          "en": "There are many people at the plaza."
+        },
+        {
+          "kp": "Atin lang tao king bale.",
+          "en": "There are people at home."
+        }
+      ],
+      "notes": "Shared Austronesian root across Philippine languages. Can be singular ('a person') or collective ('people'). Spelling variant 'tau' is also attested. Confidence: very high."
+    },
+    {
+      "id": "ev-piso",
+      "word": "piso",
+      "partOfSpeech": "noun",
+      "translations": ["peso", "one peso", "Philippine currency unit"],
+      "relatedTagalog": "piso",
+      "examples": [
+        {
+          "kp": "Metung a piso ya ing sukli ku.",
+          "en": "My change is one peso."
+        },
+        {
+          "kp": "Atin ku ning piso king bulsa ku.",
+          "en": "I have a peso in my pocket."
+        }
+      ],
+      "notes": "From Spanish 'peso'. The base unit of Philippine currency. Also used informally to mean any single monetary unit. Confidence: very high."
+    },
+    {
+      "id": "ev-larawan",
+      "word": "larawan",
+      "partOfSpeech": "noun",
+      "translations": ["picture", "photo", "image", "portrait"],
+      "relatedTagalog": "larawan",
+      "examples": [
+        {
+          "kp": "Malagu ya ing larawan mu.",
+          "en": "Your picture is beautiful."
+        },
+        {
+          "kp": "Atin larawan da king sala.",
+          "en": "They have pictures in the living room."
+        }
+      ],
+      "notes": "Shared with Tagalog. Covers photographs, paintings, drawings, and any visual image. Confidence: very high."
+    },
+    {
+      "id": "ev-liham",
+      "word": "liham",
+      "partOfSpeech": "noun",
+      "translations": ["letter", "written letter", "correspondence"],
+      "relatedTagalog": "liham",
+      "examples": [
+        {
+          "kp": "Susulat ku liham kaniya.",
+          "en": "I am writing a letter to him/her."
+        },
+        {
+          "kp": "Atin liham para keka king lamesa.",
+          "en": "There is a letter for you on the table."
+        }
+      ],
+      "notes": "Shared with Tagalog. Refers to a written letter or correspondence (not a letter of the alphabet). Attested in particles pack example sentences. Confidence: very high."
+    },
+    {
+      "id": "ev-musika",
+      "word": "musika",
+      "partOfSpeech": "noun",
+      "translations": ["music"],
+      "relatedTagalog": "musika",
+      "examples": [
+        {
+          "kp": "Manyaman ya ing musika.",
+          "en": "The music is beautiful."
+        },
+        {
+          "kp": "Bisa ku ning musika.",
+          "en": "I like music."
+        }
+      ],
+      "notes": "From Spanish 'música'. Refers to music in any form — live, recorded, or as an art form. Confidence: very high."
+    },
+    {
+      "id": "ev-silya",
+      "word": "silya",
+      "partOfSpeech": "noun",
+      "translations": ["chair"],
+      "relatedTagalog": "silya",
+      "examples": [
+        {
+          "kp": "Milukluk ya king silya.",
+          "en": "He sat down on the chair."
+        },
+        {
+          "kp": "Atin silya king suluk ning kwarto.",
+          "en": "There is a chair in the corner of the room."
+        }
+      ],
+      "notes": "From Spanish 'silla'. Refers to any chair or seat. Confidence: very high."
+    },
+    {
+      "id": "ev-pintuan",
+      "word": "pintuan",
+      "partOfSpeech": "noun",
+      "translations": ["door", "doorway"],
+      "relatedTagalog": "pintuan",
+      "examples": [
+        {
+          "kp": "Sarad ing pintuan.",
+          "en": "The door is closed."
+        },
+        {
+          "kp": "Bukasan me ing pintuan.",
+          "en": "Open the door."
+        }
+      ],
+      "notes": "From Spanish 'puerta' + Tagalog/Kapampangan suffix -an (place of). Refers to a door or doorway. Confidence: very high."
+    },
+    {
+      "id": "ev-bintana",
+      "word": "bintana",
+      "partOfSpeech": "noun",
+      "translations": ["window"],
+      "relatedTagalog": "bintana",
+      "examples": [
+        {
+          "kp": "Bukasan me ing bintana para maliwanag ing kwarto.",
+          "en": "Open the window so the room is bright."
+        },
+        {
+          "kp": "Atyu ya king arap ning bintana.",
+          "en": "He is by the window."
+        }
+      ],
+      "notes": "From Spanish 'ventana'. Refers to a window. Confidence: very high."
+    },
+    {
+      "id": "ev-puso",
+      "word": "puso",
+      "partOfSpeech": "noun",
+      "translations": ["heart"],
+      "relatedTagalog": "puso",
+      "examples": [
+        {
+          "kp": "Dakal a lugud king puso ku para keka.",
+          "en": "There is much love in my heart for you."
+        },
+        {
+          "kp": "Tibuk ya ing puso ku.",
+          "en": "My heart is beating."
+        }
+      ],
+      "notes": "Shared Austronesian root across Philippine languages. Can refer to the physical heart or to love/emotion figuratively. Spelling variant 'pusu' is also attested. Confidence: very high; attested in existing pack sentences."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "ev-1",
+      "title": "Daily Essentials: libro, tubig, susi, kotse, tao",
+      "theme": "Objects and people you interact with every day",
+      "intro": "This lesson covers five words that come up constantly in everyday Kapampangan life. 'Libro' (book) and 'tubig' (water) are basic necessities. 'Susi' (key) unlocks your home and car. 'Kotse' (car) is the common term for any vehicle. And 'tao' (person/people) is one of the most fundamental nouns in any language — you use it whenever you talk about someone.",
+      "wordIds": [
+        "ev-libro",
+        "ev-tubig",
+        "ev-susi",
+        "ev-kotse",
+        "ev-tao"
+      ],
+      "exercises": [
+        {
+          "id": "ev-1-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"libro\" mean?",
+          "wordIds": ["ev-libro"],
+          "answerId": "ev-libro"
+        },
+        {
+          "id": "ev-1-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"water\"?",
+          "wordIds": ["ev-tubig"],
+          "answerId": "ev-tubig"
+        },
+        {
+          "id": "ev-1-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"susi\" mean?",
+          "wordIds": ["ev-susi"],
+          "answerId": "ev-susi"
+        },
+        {
+          "id": "ev-1-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"car\" or \"vehicle\"?",
+          "wordIds": ["ev-kotse"],
+          "answerId": "ev-kotse"
+        },
+        {
+          "id": "ev-1-mc5",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"tao\" mean?",
+          "wordIds": ["ev-tao"],
+          "answerId": "ev-tao"
+        },
+        {
+          "id": "ev-1-mc6",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"person\" or \"people\"?",
+          "wordIds": ["ev-tao"],
+          "answerId": "ev-tao"
+        },
+        {
+          "id": "ev-1-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ibie ke ing libro kaniya.",
+          "wordIds": ["ev-libro"],
+          "accepted": [
+            "i will give the book to him",
+            "i will give the book to him.",
+            "i will give the book to her",
+            "i will give the book to her."
+          ]
+        },
+        {
+          "id": "ev-1-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Bisa ku ing tubig.",
+          "wordIds": ["ev-tubig"],
+          "accepted": [
+            "i want water",
+            "i want water."
+          ]
+        },
+        {
+          "id": "ev-1-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atyu ya ing kotse king arap ning bale.",
+          "wordIds": ["ev-kotse"],
+          "accepted": [
+            "the car is in front of the house",
+            "the car is in front of the house."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "title": "Concepts & Media: piso, larawan, liham, musika",
+      "theme": "Money, images, correspondence, and music",
+      "intro": "This lesson teaches four words that move beyond physical objects into concepts and media. 'Piso' is the Philippine peso — you hear it whenever you buy anything. 'Larawan' covers any image, photo, or portrait. 'Liham' is a written letter or correspondence. And 'musika' is music — whether played live or recorded. All four are loanwords with Spanish roots, which makes them easy to recognize.",
+      "wordIds": [
+        "ev-piso",
+        "ev-larawan",
+        "ev-liham",
+        "ev-musika"
+      ],
+      "exercises": [
+        {
+          "id": "ev-2-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"piso\" mean?",
+          "wordIds": ["ev-piso"],
+          "answerId": "ev-piso"
+        },
+        {
+          "id": "ev-2-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"picture\" or \"photo\"?",
+          "wordIds": ["ev-larawan"],
+          "answerId": "ev-larawan"
+        },
+        {
+          "id": "ev-2-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"liham\" mean?",
+          "wordIds": ["ev-liham"],
+          "answerId": "ev-liham"
+        },
+        {
+          "id": "ev-2-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"music\"?",
+          "wordIds": ["ev-musika"],
+          "answerId": "ev-musika"
+        },
+        {
+          "id": "ev-2-mc5",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"larawan\" mean?",
+          "wordIds": ["ev-larawan"],
+          "answerId": "ev-larawan"
+        },
+        {
+          "id": "ev-2-mc6",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"letter\" (written correspondence)?",
+          "wordIds": ["ev-liham"],
+          "answerId": "ev-liham"
+        },
+        {
+          "id": "ev-2-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Susulat ku liham kaniya.",
+          "wordIds": ["ev-liham"],
+          "accepted": [
+            "i am writing a letter to him",
+            "i am writing a letter to him.",
+            "i am writing a letter to her",
+            "i am writing a letter to her."
+          ]
+        },
+        {
+          "id": "ev-2-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malagu ya ing larawan mu.",
+          "wordIds": ["ev-larawan"],
+          "accepted": [
+            "your picture is beautiful",
+            "your picture is beautiful.",
+            "your photo is beautiful",
+            "your photo is beautiful.",
+            "your image is beautiful",
+            "your image is beautiful."
+          ]
+        },
+        {
+          "id": "ev-2-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Bisa ku ning musika.",
+          "wordIds": ["ev-musika"],
+          "accepted": [
+            "i like music",
+            "i like music.",
+            "i want music",
+            "i want music."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "title": "Home & Heart: silya, pintuan, bintana, puso",
+      "theme": "Furniture, house parts, and the heart",
+      "intro": "The final lesson covers two pieces of furniture and two architectural features of the home, plus the most emotionally loaded word in Kapampangan — 'puso' (heart). 'Silya' (chair) and 'pintuan' (door) are from Spanish 'silla' and 'puerta'. 'Bintana' (window) comes from Spanish 'ventana'. 'Puso' (heart) appears in many expressions of love and pride, such as 'king puso ku' (in my heart). Learning these words lets you describe and navigate both the physical home and the emotional landscape.",
+      "wordIds": [
+        "ev-silya",
+        "ev-pintuan",
+        "ev-bintana",
+        "ev-puso"
+      ],
+      "exercises": [
+        {
+          "id": "ev-3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"silya\" mean?",
+          "wordIds": ["ev-silya"],
+          "answerId": "ev-silya"
+        },
+        {
+          "id": "ev-3-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"door\" or \"doorway\"?",
+          "wordIds": ["ev-pintuan"],
+          "answerId": "ev-pintuan"
+        },
+        {
+          "id": "ev-3-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"bintana\" mean?",
+          "wordIds": ["ev-bintana"],
+          "answerId": "ev-bintana"
+        },
+        {
+          "id": "ev-3-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"heart\"?",
+          "wordIds": ["ev-puso"],
+          "answerId": "ev-puso"
+        },
+        {
+          "id": "ev-3-mc5",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"pintuan\" mean?",
+          "wordIds": ["ev-pintuan"],
+          "answerId": "ev-pintuan"
+        },
+        {
+          "id": "ev-3-mc6",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"window\"?",
+          "wordIds": ["ev-bintana"],
+          "answerId": "ev-bintana"
+        },
+        {
+          "id": "ev-3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sarad ing pintuan.",
+          "wordIds": ["ev-pintuan"],
+          "accepted": [
+            "the door is closed",
+            "the door is closed."
+          ]
+        },
+        {
+          "id": "ev-3-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Bukasan me ing bintana para maliwanag ing kwarto.",
+          "wordIds": ["ev-bintana"],
+          "accepted": [
+            "open the window so the room is bright",
+            "open the window so the room is bright.",
+            "open the window so that the room is bright",
+            "open the window so that the room is bright."
+          ]
+        },
+        {
+          "id": "ev-3-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Dakal a lugud king puso ku para keka.",
+          "wordIds": ["ev-puso"],
+          "accepted": [
+            "there is much love in my heart for you",
+            "there is much love in my heart for you.",
+            "there is great love in my heart for you",
+            "there is great love in my heart for you."
+          ]
+        }
+      ]
+    }
+  ]
+}
