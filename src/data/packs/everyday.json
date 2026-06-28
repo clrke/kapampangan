@@ -272,6 +272,49 @@
         }
       ],
       "notes": "Shared Austronesian root across Philippine languages. Can refer to the physical heart or to love/emotion figuratively. Spelling variant 'pusu' is also attested. Confidence: very high; attested in existing pack sentences."
+    },
+    {
+      "id": "ev-bisita",
+      "word": "Bisita",
+      "partOfSpeech": "noun",
+      "translations": [
+        "guest",
+        "visitor",
+        "visit"
+      ],
+      "relatedTagalog": "bisita",
+      "examples": [
+        {
+          "kp": "Atin bisita kami ngeni.",
+          "en": "We have a visitor today."
+        },
+        {
+          "kp": "Mayap ya ing bisita da king bale mi.",
+          "en": "Their guest at our house is kind."
+        }
+      ],
+      "notes": "From Spanish 'visita'. Widely used in Kapampangan and Tagalog alike. Can function as a noun (guest/visitor) or refer to the act of visiting. The verb form is 'mamisita' (to visit/pay a visit)."
+    },
+    {
+      "id": "ev-kasal",
+      "word": "Kasal",
+      "partOfSpeech": "noun",
+      "translations": [
+        "wedding",
+        "marriage ceremony"
+      ],
+      "relatedTagalog": "kasal",
+      "examples": [
+        {
+          "kp": "Masaya ya ing kasal da.",
+          "en": "Their wedding is joyful."
+        },
+        {
+          "kp": "Munta kami king kasal na ning anak da.",
+          "en": "We are going to their child's wedding."
+        }
+      ],
+      "notes": "From Spanish 'casar' (to marry). Used across Philippine languages including Kapampangan. Refers to the wedding ceremony or the institution of marriage. The verb form is 'magkasal' (to get married)."
     }
   ],
   "lessons": [

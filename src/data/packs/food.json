@@ -422,6 +422,26 @@
         }
       ],
       "notes": "Specifically 'the food being eaten' or 'the meal at hand'. Contrast with pamangan (food in general)."
+    },
+    {
+      "id": "food-tinape",
+      "word": "Tinape",
+      "partOfSpeech": "noun",
+      "translations": [
+        "bread"
+      ],
+      "relatedTagalog": "tinapay",
+      "examples": [
+        {
+          "kp": "Bisa kung mangan ning tinape.",
+          "en": "I want to eat bread."
+        },
+        {
+          "kp": "Manyaman ya ing tinape.",
+          "en": "The bread is delicious."
+        }
+      ],
+      "notes": "The Kapampangan form of the common Philippine word for bread. The root derives from 'tapay' (to knead). The Kapampangan spelling 'tinape' reflects the characteristic vowel shift from Tagalog 'tinapay'. Widely attested in Kapampangan culinary writing and already appears in example sentences in other lessons in this pack."
     }
   ],
   "lessons": [

@@ -281,6 +281,49 @@
       "notes": "From Spanish 'descuento'. Used in shopping contexts when asking for or offering price reductions."
     },
     {
+      "id": "mkt-sukli",
+      "word": "Sukli",
+      "partOfSpeech": "noun",
+      "translations": [
+        "change (money returned)",
+        "change back"
+      ],
+      "relatedTagalog": "sukli",
+      "examples": [
+        {
+          "kp": "Atin ku sukli king tindahan.",
+          "en": "I have change at the store."
+        },
+        {
+          "kp": "Nanu ing sukli ku?",
+          "en": "What is my change?"
+        }
+      ],
+      "notes": "The money returned after a purchase. Shared between Kapampangan and Tagalog. Distinct from sinsilyo (loose coins) — sukli refers specifically to change given back in a transaction."
+    },
+    {
+      "id": "mkt-utang",
+      "word": "Utang",
+      "partOfSpeech": "noun",
+      "translations": [
+        "debt",
+        "loan",
+        "amount owed"
+      ],
+      "relatedTagalog": "utang",
+      "examples": [
+        {
+          "kp": "Atin ku utang king tindahan.",
+          "en": "I have a debt at the store."
+        },
+        {
+          "kp": "Bayaran me ing utang mu.",
+          "en": "Pay your debt."
+        }
+      ],
+      "notes": "Widely shared across Philippine languages including Kapampangan. Used for any financial obligation or amount owed. The concept of 'utang na loob' (debt of gratitude) is culturally significant in the Philippines, though 'utang' alone refers to monetary debt."
+    },
+    {
       "id": "mkt-tindero",
       "word": "Tindero",
       "partOfSpeech": "noun",

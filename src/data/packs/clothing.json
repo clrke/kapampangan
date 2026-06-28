@@ -335,6 +335,26 @@
           "en": "I have good clothes."
         }
       ]
+    },
+    {
+      "id": "wear-bulsa",
+      "word": "Bulsa",
+      "partOfSpeech": "noun",
+      "translations": [
+        "pocket"
+      ],
+      "relatedTagalog": "bulsa",
+      "examples": [
+        {
+          "kp": "Atyu ing pera ku king bulsa.",
+          "en": "My money is in my pocket."
+        },
+        {
+          "kp": "Maragul ya ing bulsa ning salawal ku.",
+          "en": "The pocket of my pants is big."
+        }
+      ],
+      "notes": "From Spanish 'bolsa' (bag/purse), which narrowed in Philippine languages to mean pocket specifically. Shared across Kapampangan, Tagalog, and other Philippine languages. Very high frequency in everyday clothing vocabulary."
     }
   ],
   "lessons": [

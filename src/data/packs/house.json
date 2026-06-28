@@ -371,6 +371,49 @@
       "notes": "Confirmed in tagaloglang.com Kapampangan dictionary and multiple vocabulary lists. Related verb form 'palisan' means to sweep."
     },
     {
+      "id": "house-bakuran",
+      "word": "Bakuran",
+      "partOfSpeech": "noun",
+      "translations": [
+        "yard",
+        "courtyard",
+        "enclosed outdoor space"
+      ],
+      "relatedTagalog": "bakuran",
+      "examples": [
+        {
+          "kp": "Malagid ya ing bakuran ning bale mi.",
+          "en": "The yard of our house is wide."
+        },
+        {
+          "kp": "Naglalaro ing anak king bakuran.",
+          "en": "The child is playing in the yard."
+        }
+      ],
+      "notes": "From 'bakod' (fence) + '-an' (place suffix), literally the fenced/enclosed space. Used in Kapampangan and Tagalog alike to refer to the outdoor area surrounding a house. Can also refer to any enclosed outdoor compound."
+    },
+    {
+      "id": "house-baldi",
+      "word": "Baldi",
+      "partOfSpeech": "noun",
+      "translations": [
+        "bucket",
+        "pail"
+      ],
+      "relatedTagalog": "balde / timba",
+      "examples": [
+        {
+          "kp": "Pun me ing baldi ning danum.",
+          "en": "Fill the bucket with water."
+        },
+        {
+          "kp": "Atyu ing baldi king kusina.",
+          "en": "The bucket is in the kitchen."
+        }
+      ],
+      "notes": "From Spanish 'balde' (bucket). Used in Kapampangan as 'baldi', matching the 'u' vowel shift common in Kapampangan Spanish loanwords (cf. trabahu, kwartu). The more widely known Tagalog equivalent is 'timba'."
+    },
+    {
       "id": "house-sala",
       "word": "sala",
       "partOfSpeech": "noun",

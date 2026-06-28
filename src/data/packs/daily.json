@@ -171,6 +171,27 @@
           "en": "There is news in the town."
         }
       ]
+    },
+    {
+      "id": "dl-tudtud",
+      "word": "Tudtud",
+      "partOfSpeech": "verb",
+      "translations": [
+        "to sleep",
+        "sleep"
+      ],
+      "relatedTagalog": "tulog",
+      "examples": [
+        {
+          "kp": "Matudtud na ku.",
+          "en": "I am going to sleep now."
+        },
+        {
+          "kp": "Matudtud ne ing anak.",
+          "en": "The child is already asleep."
+        }
+      ],
+      "notes": "The authentic Kapampangan word for sleep, distinct from Tagalog 'tulog'. Active form: matudtud (to sleep). The place form 'tudturan' means a sleeping place (bed/room). Note: 'tulog' (Tagalog) is sometimes heard in Kapampangan speech but is considered a Tagalog intrusion; 'tudtud' is the native term."
     }
   ],
   "lessons": [

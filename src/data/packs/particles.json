@@ -863,6 +863,30 @@
         }
       ],
       "notes": "Preposition/particle meaning 'with, together with, accompanied by'. Equivalent to Tagalog 'kasama'. Used before or after the noun phrase it governs: 'Kayabe ku ka' (I am with you — I accompany you) or 'Munta taku kayabe' (Let's go together). A key word for expressing accompaniment and solidarity."
+    },
+    {
+      "id": "part-tapos",
+      "word": "tapos",
+      "partOfSpeech": "conjunction",
+      "translations": [
+        "after",
+        "then",
+        "when done",
+        "finished",
+        "next"
+      ],
+      "relatedTagalog": "tapos",
+      "examples": [
+        {
+          "kp": "Mangan na tamu, tapos munta na tamu.",
+          "en": "Let us eat, then let us go."
+        },
+        {
+          "kp": "Tapos na ing trabahu ku.",
+          "en": "My work is finished."
+        }
+      ],
+      "notes": "Functions both as a conjunction ('then, after that') linking sequential actions and as an adjective/predicate ('finished, done'). Though 'tapos' appears in both Kapampangan and Tagalog, it is in common everyday use in Kapampangan speech. Used to sequence events or signal completion."
     }
   ],
   "lessons": [

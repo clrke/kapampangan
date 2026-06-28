@@ -389,6 +389,27 @@
         {"kp": "Masakit ya ing paa ku.", "en": "My foot hurts."}
       ],
       "notes": "Used especially for animal feet/paws ('apat a paa ning aso' = four paws of the dog). For human feet and legs, the more specifically Kapampangan word is 'bitis'."
+    },
+    {
+      "id": "body-buhuk",
+      "word": "buhuk",
+      "partOfSpeech": "noun",
+      "translations": [
+        "hair (of the head)",
+        "hair"
+      ],
+      "relatedTagalog": "buhok",
+      "examples": [
+        {
+          "kp": "Maitum ya ing buhuk na.",
+          "en": "Her hair is black."
+        },
+        {
+          "kp": "Malaba ya ing buhuk na.",
+          "en": "Her hair is long."
+        }
+      ],
+      "notes": "The standard Kapampangan word for head hair. The Kapampangan form 'buhuk' contrasts with Tagalog 'buhok'. Confirmed in multiple Kapampangan body-parts vocabulary lists and the Dialects101 Kapampangan body parts resource. Refers specifically to hair of the head."
     }
   ],
   "lessons": [

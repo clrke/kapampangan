@@ -545,6 +545,28 @@
         }
       ],
       "notes": "Pre-vocalic allomorph of 'ku' (first-person singular actor/topic enclitic). Used when the following word begins with a vowel, to avoid the awkward sequence 'ku + vowel'. Example: 'Bisa ku' (I want) vs 'Bisa kung mangan' (I want to eat — 'mangan' starts with /m/, but the -ng forms when a vowel-initial complement follows). Also marks possession before vowel-initial nouns. Learners should treat 'ku' and 'kung' as the same word in different phonological contexts."
+    },
+    {
+      "id": "gram-kamu",
+      "word": "kamu",
+      "partOfSpeech": "pronoun",
+      "translations": [
+        "you (plural)",
+        "you all",
+        "you (informal plural)"
+      ],
+      "relatedTagalog": "kayo",
+      "examples": [
+        {
+          "kp": "Masaya kamu ngeni?",
+          "en": "Are you all happy now?"
+        },
+        {
+          "kp": "Munta kamu na king bale.",
+          "en": "You all go home now."
+        }
+      ],
+      "notes": "An alternative 2nd-person plural absolutive pronoun alongside 'kayu'. Derived from Proto-Malayo-Polynesian *kamu(ʔ) (you plural), making it the etymologically older form. In contemporary Kapampangan, 'kayu' is more standard and also carries the polite singular function; 'kamu' appears in informal speech and in older or more traditional registers. Learners should prioritize 'kayu' but recognize 'kamu' when encountered."
     }
   ],
   "lessons": [
