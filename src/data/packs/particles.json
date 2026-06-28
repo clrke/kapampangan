@@ -519,6 +519,28 @@
       "notes": "Proximal demonstrative, closely related to 'iti'. 'Ini' typically functions as a post-nominal modifier ('the bag ini' = 'this bag'), while 'iti' is more often used as a sentence-level predicative or object pronoun. The distinction in modern Kapampangan is not always sharp; both translate to 'this'. Attested in existing pack sentences ('Kaninu ya ing bag ini?'). Confidence: high."
     },
     {
+      "id": "part-lang",
+      "word": "lang",
+      "partOfSpeech": "particle",
+      "translations": [
+        "only",
+        "just",
+        "merely"
+      ],
+      "relatedTagalog": "lang / lamang",
+      "examples": [
+        {
+          "kp": "Metung lang anak da.",
+          "en": "They have only one child."
+        },
+        {
+          "kp": "Munta lang tamu mangan.",
+          "en": "Let's just go eat."
+        }
+      ],
+      "notes": "Limiter particle — restricts scope to 'only' or 'just'. Shared with Tagalog. Common in everyday speech to soften requests or limit quantities: 'Metung lang' (just one), 'Munta lang' (just go)."
+    },
+    {
       "id": "part-me",
       "word": "me",
       "partOfSpeech": "particle",
@@ -1026,6 +1048,188 @@
             "part-me"
           ],
           "answerId": "part-me"
+        }
+      ]
+    },
+    {
+      "id": "part-L5",
+      "title": "Core Pronouns: ya and ku",
+      "theme": "he/she/it and I/me/my",
+      "intro": "Two enclitics you will hear in almost every Kapampangan sentence. 'ya' marks the 3rd person singular topic (he/she/it) and follows the predicate: 'Maragul ya' (It is big). 'ku' marks the 1st person singular topic (I/me) and also expresses possession: 'bale ku' (my house). When either is followed by a linker '-ng', they fuse: ya + ng = 'yang', ku + ng = 'kung'.",
+      "wordIds": [
+        "ya",
+        "ku"
+      ],
+      "exercises": [
+        {
+          "id": "part-L5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'ya' mean?",
+          "wordIds": [
+            "ya"
+          ],
+          "answerId": "ya"
+        },
+        {
+          "id": "part-L5-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'ku' mean?",
+          "wordIds": [
+            "ku"
+          ],
+          "answerId": "ku"
+        },
+        {
+          "id": "part-L5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing bale da.",
+          "wordIds": [
+            "ya"
+          ],
+          "accepted": [
+            "their house is big",
+            "their house is big."
+          ]
+        },
+        {
+          "id": "part-L5-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta ku king eskwela.",
+          "wordIds": [
+            "ku"
+          ],
+          "accepted": [
+            "i am going to school",
+            "i am going to school.",
+            "i go to school",
+            "i go to school.",
+            "i'm going to school",
+            "i'm going to school."
+          ]
+        },
+        {
+          "id": "part-L5-fb1",
+          "type": "fill-blank",
+          "prompt": "Masipag ____ ing anak. (The child is hardworking.)",
+          "wordIds": [
+            "ya"
+          ],
+          "answerId": "ya"
+        },
+        {
+          "id": "part-L5-fb2",
+          "type": "fill-blank",
+          "prompt": "Estudyante ____. (I am a student.)",
+          "wordIds": [
+            "ku"
+          ],
+          "answerId": "ku"
+        },
+        {
+          "id": "part-L5-ma1",
+          "type": "matching",
+          "wordIds": [
+            "ya",
+            "ku",
+            "part-mu",
+            "part-me"
+          ],
+          "pairs": [
+            {"wordId": "ya"},
+            {"wordId": "ku"},
+            {"wordId": "part-mu"},
+            {"wordId": "part-me"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-L6",
+      "title": "Aspect and Limiter: na and lang",
+      "theme": "already, now, only, just",
+      "intro": "Two of the most useful little words in Kapampangan. 'na' signals that something has already happened or is happening now: 'Munta ku na' (I am going now / I am already leaving). 'lang' means 'only' or 'just' and limits or softens a statement: 'Metung lang' (just one). A special fusion: when 'na' immediately precedes 'ya', the pair contracts to 'ne': 'Gutom ne' (He/she is already hungry).",
+      "wordIds": [
+        "na",
+        "part-lang"
+      ],
+      "exercises": [
+        {
+          "id": "part-L6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'na' mean?",
+          "wordIds": [
+            "na"
+          ],
+          "answerId": "na"
+        },
+        {
+          "id": "part-L6-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'lang' mean?",
+          "wordIds": [
+            "part-lang"
+          ],
+          "answerId": "part-lang"
+        },
+        {
+          "id": "part-L6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta ku na.",
+          "wordIds": [
+            "na",
+            "ku"
+          ],
+          "accepted": [
+            "i am going now",
+            "i am going now.",
+            "i am leaving now",
+            "i am leaving now.",
+            "i'm going now",
+            "i'm going now.",
+            "i'm leaving now",
+            "i'm leaving now."
+          ]
+        },
+        {
+          "id": "part-L6-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Gutom na ya ing anak.",
+          "wordIds": [
+            "na",
+            "ya"
+          ],
+          "accepted": [
+            "the child is already hungry",
+            "the child is already hungry.",
+            "the child is now hungry",
+            "the child is now hungry."
+          ]
+        },
+        {
+          "id": "part-L6-fb1",
+          "type": "fill-blank",
+          "prompt": "Munta ku ____. (I am going now.)",
+          "wordIds": [
+            "na"
+          ],
+          "answerId": "na"
+        },
+        {
+          "id": "part-L6-fb2",
+          "type": "fill-blank",
+          "prompt": "Metung ____ anak da. (They have only one child.)",
+          "wordIds": [
+            "part-lang"
+          ],
+          "answerId": "part-lang"
         }
       ]
     }
