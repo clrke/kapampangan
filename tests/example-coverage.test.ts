@@ -56,13 +56,13 @@ const NAMES_AND_LOANS = [
  * content words not yet taught. Each is intentionally untaught FOR NOW.
  */
 const KP_BACKLOG = [
-  'aduang', 'adwang', 'akung', 'alang-alang', 'aldo-aldo', 'aldong', 'ampo', 'ano', 'arkilan',
+  'aduang', 'adwang', 'akung', 'alang-alang', 'aldo-aldo', 'aldong', 'arkilan',
   'aso', 'ating', 'atlung', 'atneng', 'atulan', 'bag', 'bakuran', 'balat', 'baldi', 'balik',
   'basaen', 'bayung', 'bengi-bengi', 'binayad', 'binie',
   'binura', 'bisita', 'biyaya', 'buhuk', 'bukasan', 'bulak', 'bulsa',
-  'daka', 'dake', 'dakul', 'daká', 'dating', 'dayat', 'deni', 'dening',
+  'daka', 'dake', 'dakul', 'daká', 'dating', 'dayat', 'dening',
   'dinatang', 'dingna', 'dintang', 'dita', 'drayber', 'elepante', 'eme', 'entabladu', 'gagawan',
-  'gagewan', 'gamitan', 'gamiton', 'gawan', 'ginawa', 'guagua', 'gumawa',
+  'gagewan', 'gamitan', 'gamiton', 'gawan', 'ginawa', 'gumawa',
   'hugasan', 'ibili', 'ibinie', 'ibiye', 'ibuklat', 'ibyan', 'ilaga', 'ina', 'inda', 'ining',
   'ipil', 'kalagu', 'kaming', 'kamu', 'kamut', 'kanaku',
   'kanto', 'kanyaman', 'kapiganakan', 'karela', 'karimla', 'karing', 'kasal',
@@ -78,18 +78,18 @@ const KP_BACKLOG = [
   'maniarikit', 'mapaglugud', 'mapandaig', 'mapandilu', 'mapula', 'mapunta',
   'marelax', 'masikan', 'mataba', 'mative', 'matudtud', 'matulid',
   'mekita', 'mekublan', 'mengébun', 'meturan', 'meyari', 'mibili', 'miboto', 'migbebenta', 'migluto',
-  'migsalita', 'migtutuk', 'miguran', 'mika', 'milukluk', 'mipapatudtud', 'mo',
+  'migsalita', 'migtutuk', 'miguran', 'mika', 'milukluk', 'mipapatudtud',
   'muran', 'múra', 'nabayad', 'naka', 'naku', 'naman', 'namu', 'nang', 'nanung',
   'napalubus', 'napasar', 'napuputian', 'naulagang', 'ne', 'ngening', 'opisina',
   'pagsarian', 'pakisuyo', 'palayan', 'palisan', 'palitan', 'pamagmula', 'pamagsabyan',
-  'pamasahe', 'panalung', 'pananim', 'panaun', 'pane-neng', 'pari', 'parsala',
+  'pamasahe', 'panalung', 'pananim', 'panaun', 'pane-neng', 'pari',
   'pasalan', 'pelikula', 'pila', 'pong', 'pritung',
-  'malapad', 'malaus', 'puerta', 'pun', 'pung', 'raku', 'ri', 'ring', 'sagiwa', 'sake', 'sala',
+  'malapad', 'malaus', 'puerta', 'pun', 'pung', 'raku', 'ri', 'sagiwa', 'sake',
   'sangdominggo', 'sarad', 'sasara', 'seli', 'sinadsad', 'sinali',
   'sinalita', 'sinaul', 'sukli', 'suluk', 'susulat', 'susunud', 'taku',
   'talaturu', 'talaturung', 'tana', 'tanaman', 'tang', 'tapos', 'temperatura',
   'tinape', 'tulog', 'tulungan', 'tumakbu', 'tumawag', 'tutuki', 'tutulung', 'tutulungan',
-  'utang', 'wari', 'yan', 'yang', 'yata', 'yu',
+  'utang', 'yang',
 ]
 
 const ALLOWED_UNTAUGHT = new Set([...NAMES_AND_LOANS, ...KP_BACKLOG])

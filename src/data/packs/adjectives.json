@@ -212,6 +212,20 @@
           "en": "Be careful on the road."
         }
       ]
+    },
+    {
+      "id": "adj-guagua",
+      "word": "guagua",
+      "partOfSpeech": "adjective",
+      "translations": ["small", "little", "young (of a person)"],
+      "relatedTagalog": "maliit / bata",
+      "examples": [
+        {
+          "kp": "Guagua pa ing Wali ku.",
+          "en": "My younger sibling is still little."
+        }
+      ],
+      "notes": "Adjective/stative predicate meaning 'small, little, young'. Used for people (especially children) and small things. 'Guagua pa' (still little/still young) is a common phrase. The Tagalog equivalent is 'maliit' (small) or 'bata' (young). Not to be confused with the place name Guagua (a town in Pampanga)."
     }
   ],
   "lessons": [
@@ -582,6 +596,38 @@
             "let's be watchful when we go there.",
             "we should be watchful when we go there",
             "we should be watchful when we go there."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj-4",
+      "title": "Small and Little",
+      "theme": "guagua — small, little, young",
+      "intro": "'guagua' is a Kapampangan adjective meaning 'small', 'little', or 'young (of a person)'. It functions as a stative predicate: 'Guagua pa ing anak' (The child is still little). It is equivalent to Tagalog 'maliit'.",
+      "wordIds": ["adj-guagua"],
+      "exercises": [
+        {
+          "id": "adj-4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'guagua' mean?",
+          "wordIds": ["adj-guagua"],
+          "answerId": "adj-guagua"
+        },
+        {
+          "id": "adj-4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Guagua pa ing Wali ku.",
+          "wordIds": ["adj-guagua"],
+          "accepted": [
+            "my younger sibling is still little",
+            "my younger sibling is still little.",
+            "my little sibling is still small",
+            "my little sibling is still small.",
+            "my younger sibling is still small",
+            "my younger sibling is still small."
           ]
         }
       ]

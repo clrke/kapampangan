@@ -417,6 +417,80 @@
         }
       ],
       "notes": "Short/bare form of 'atin' — the existential predicate meaning 'there is' or 'to be at/present'. 'Atin' and 'ati' are used interchangeably by many speakers; 'ati' is more common as the bare predicate before a topic enclitic ('ati ka' = you are present), while 'atin' often precedes the noun phrase ('Atin ku kuwarta' = I have money). Contrast with 'atyu' (to be located, non-existential)."
+    },
+    {
+      "id": "gram-ring",
+      "word": "ring",
+      "partOfSpeech": "particle",
+      "translations": ["the (plural)", "the (they/these)"],
+      "relatedTagalog": "ang mga",
+      "examples": [
+        {
+          "kp": "Adwa ring Kapatad ku.",
+          "en": "I have two siblings."
+        }
+      ],
+      "notes": "Alternant/variant of 'reng' — the absolutive plural article. 'Reng' and 'ring' are allomorphs used interchangeably by many speakers; 'ring' is common before back-vowel or nasal-initial words. Both function identically as the plural topic/absolutive article, equivalent to Tagalog 'ang mga'."
+    },
+    {
+      "id": "gram-yu",
+      "word": "yu",
+      "partOfSpeech": "pronoun",
+      "translations": ["you all", "you (plural actor)"],
+      "relatedTagalog": "kayo",
+      "examples": [
+        {
+          "kp": "Saupan yu ku pu.",
+          "en": "Please help me."
+        }
+      ],
+      "notes": "2nd person plural actor enclitic — marks 'you all' as the topic/agent of the sentence. The short actor form of 'kayu'. Used post-verbally: 'Saupan yu ku' (You all help me). Contrast with 'kayu' (the full independent form, used in predicate position)."
+    },
+    {
+      "id": "gram-mo",
+      "word": "mo",
+      "partOfSpeech": "pronoun",
+      "translations": ["you (singular actor — non-subject focus)", "you do it"],
+      "relatedTagalog": "mo",
+      "examples": [
+        {
+          "kp": "Lawen mo reng tau keti.",
+          "en": "Look at the people here."
+        },
+        {
+          "kp": "Sarad mo ing asbuk mu.",
+          "en": "Close your mouth."
+        }
+      ],
+      "notes": "2sg non-actor/agent enclitic in object-focus or goal-focus constructions — marks 'you' as the actor when the sentence is not actor-focused. Follows the verb directly. Distinct from 'mu' (2sg genitive possessive: 'bale mu' = your house) and 'me' (2sg actor focus: 'Sara me' = you close it). All three — mo/mu/me — are 2sg forms for different grammatical roles."
+    },
+    {
+      "id": "gram-yan",
+      "word": "yan",
+      "partOfSpeech": "pronoun",
+      "translations": ["that", "that one (near you)"],
+      "relatedTagalog": "yan / iyan",
+      "examples": [
+        {
+          "kp": "Ninu ing Anak a yan?",
+          "en": "Who is that child?"
+        }
+      ],
+      "notes": "Distal demonstrative pronoun — 'that (one near the listener)'. Used after the linker 'a' to identify a person or thing: 'ing tau a yan' (that person). Part of the demonstrative series: iti/ini (this), yan (that, near listener), ita (that, away from both). Shared form with Tagalog 'yan/iyan' but is a native Kapampangan demonstrative."
+    },
+    {
+      "id": "gram-ano",
+      "word": "Ano",
+      "partOfSpeech": "pronoun",
+      "translations": ["what", "what is"],
+      "relatedTagalog": "ano",
+      "examples": [
+        {
+          "kp": "Ano ing sali mu?",
+          "en": "What did you buy?"
+        }
+      ],
+      "notes": "Interrogative pronoun meaning 'what'. Functions as the predicate of a question: 'Ano ing X?' (What is the X?). The Kapampangan native equivalent is 'nanu', which is more formal/traditional; 'ano' is used interchangeably in modern speech and is shared with Tagalog. Both 'ano' and 'nanu' are attested in Kapampangan."
     }
   ],
   "lessons": [
@@ -948,6 +1022,78 @@
           "prompt": "Malayo ya ing iskuwela ____. (The school is far from here.)",
           "wordIds": ["gram-kareni"],
           "answerId": "gram-kareni"
+        }
+      ]
+    },
+    {
+      "id": "gram-L7",
+      "title": "More Articles, Pronouns, and Questions",
+      "theme": "ring, yu, mo, yan, ano",
+      "intro": "'ring' is an alternant of 'reng' (plural article). 'yu' is the 2pl actor enclitic (you all do X). 'mo' marks 2sg agency in non-actor-focus constructions (Lawen mo = you look). 'yan' is the distal demonstrative 'that'. 'Ano' means 'what'.",
+      "wordIds": ["gram-ring", "gram-yu", "gram-mo", "gram-yan", "gram-ano"],
+      "exercises": [
+        {
+          "id": "gram-L7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'yu' mean?",
+          "wordIds": ["gram-yu"],
+          "answerId": "gram-yu"
+        },
+        {
+          "id": "gram-L7-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'Ano' mean?",
+          "wordIds": ["gram-ano"],
+          "answerId": "gram-ano"
+        },
+        {
+          "id": "gram-L7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ninu ing Anak a yan?",
+          "wordIds": ["gram-yan"],
+          "accepted": [
+            "who is that child?",
+            "who is that child",
+            "whose child is that?",
+            "whose child is that"
+          ]
+        },
+        {
+          "id": "gram-L7-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ano ing sali mu?",
+          "wordIds": ["gram-ano"],
+          "accepted": [
+            "what did you buy?",
+            "what did you buy",
+            "what have you bought?",
+            "what have you bought"
+          ]
+        },
+        {
+          "id": "gram-L7-fb1",
+          "type": "fill-blank",
+          "prompt": "Adwa ____ Kapatad ku. (I have two siblings.)",
+          "wordIds": ["gram-ring"],
+          "answerId": "gram-ring"
+        },
+        {
+          "id": "gram-L7-fb2",
+          "type": "fill-blank",
+          "prompt": "Lawen ____ reng tau keti. (Look at the people here.)",
+          "wordIds": ["gram-mo"],
+          "answerId": "gram-mo"
+        },
+        {
+          "id": "gram-L7-fb3",
+          "type": "fill-blank",
+          "prompt": "Saupan ____ ku pu. (Please help me, you all.)",
+          "wordIds": ["gram-yu"],
+          "answerId": "gram-yu"
         }
       ]
     }

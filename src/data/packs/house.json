@@ -369,6 +369,24 @@
         }
       ],
       "notes": "Confirmed in tagaloglang.com Kapampangan dictionary and multiple vocabulary lists. Related verb form 'palisan' means to sweep."
+    },
+    {
+      "id": "house-sala",
+      "word": "sala",
+      "partOfSpeech": "noun",
+      "translations": ["living room", "sala", "mistake", "fault"],
+      "relatedTagalog": "sala / sala (sala)",
+      "examples": [
+        {
+          "kp": "Atin larawan da king sala.",
+          "en": "They have pictures in the living room."
+        },
+        {
+          "kp": "Patawad na, e ku iti ginawa karing sala.",
+          "en": "Sorry, I didn't mean to make a mistake."
+        }
+      ],
+      "notes": "Two related meanings from the same Spanish loanword 'sala': (1) the living room or main reception room of a house; (2) a mistake, fault, or offense. In context, 'king sala' (in the living room) vs 'ginawa karing sala' (done in error). Equivalent to Tagalog 'sala' (living room / mistake)."
     }
   ],
   "lessons": [
@@ -986,6 +1004,36 @@
             {
               "wordId": "house-malan"
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "house-7",
+      "title": "The Living Room and Mistakes",
+      "theme": "sala — two meanings",
+      "intro": "'sala' is both a room and a concept: it means the living room (from Spanish) and also a mistake or fault. 'Atin larawan da king sala' (They have pictures in the living room). 'Ginawa karing sala' (done by mistake).",
+      "wordIds": ["house-sala"],
+      "exercises": [
+        {
+          "id": "house-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'sala' mean in 'king sala'?",
+          "wordIds": ["house-sala"],
+          "answerId": "house-sala"
+        },
+        {
+          "id": "house-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin larawan da king sala.",
+          "wordIds": ["house-sala"],
+          "accepted": [
+            "they have pictures in the living room",
+            "they have pictures in the living room.",
+            "there are pictures in the living room",
+            "there are pictures in the living room."
           ]
         }
       ]

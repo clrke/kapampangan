@@ -711,6 +711,76 @@
         }
       ],
       "notes": "Modal predicate expressing necessity or need — 'to need', 'it is necessary'. Shared with Tagalog (from Malay 'kailangan'). Follows predicate-initial word order: 'Kailangan ku [ing/ning object]'. Compare 'bisa' (to want/can) and 'uling' (because/reason). Widely used in modern Kapampangan speech."
+    },
+    {
+      "id": "part-ampo",
+      "word": "ampo",
+      "partOfSpeech": "conjunction",
+      "translations": ["and", "also", "together with"],
+      "relatedTagalog": "at / pati",
+      "examples": [
+        {
+          "kp": "Bisa kung nasi ampo asan.",
+          "en": "I want rice and fish."
+        }
+      ],
+      "notes": "Conjunction meaning 'and / also / together with'. A native Kapampangan word, equivalent to 'at' (which is more common in modern speech). 'ampo' appears frequently in traditional Kapampangan texts and prayers. In everyday speech, 'at' and 'ampo' are interchangeable."
+    },
+    {
+      "id": "part-yata",
+      "word": "yata",
+      "partOfSpeech": "particle",
+      "translations": ["I think", "probably", "it seems", "perhaps"],
+      "relatedTagalog": "yata / siguro",
+      "examples": [
+        {
+          "kp": "Masakit ku yata.",
+          "en": "I think I am sick."
+        }
+      ],
+      "notes": "Epistemic modal particle expressing uncertainty or conjecture — 'I think', 'probably', 'it seems'. Placed after the predicate phrase. Shared with Tagalog (where it carries the same meaning). In Kapampangan it softens a statement to indicate the speaker is not fully certain."
+    },
+    {
+      "id": "part-wari",
+      "word": "wari",
+      "partOfSpeech": "particle",
+      "translations": ["gone", "no longer there", "disappeared"],
+      "relatedTagalog": "wala na / ubos na",
+      "examples": [
+        {
+          "kp": "Wari kwalta na.",
+          "en": "The money is gone."
+        }
+      ],
+      "notes": "Particle indicating that something has vanished, run out, or is no longer present. Predicates the absence/disappearance of the subject: 'Wari kwalta na' (The money is gone/used up). Used for things that have been consumed, lost, or left. Distinct from 'ala' (there is none — simple absence) vs 'wari' (was there but is gone now)."
+    },
+    {
+      "id": "part-deni",
+      "word": "deni",
+      "partOfSpeech": "adverb",
+      "translations": ["here", "right here", "at this place"],
+      "relatedTagalog": "dito / rito",
+      "examples": [
+        {
+          "kp": "Malaus ko pu, mangan kamu deni!",
+          "en": "Welcome, please eat here!"
+        }
+      ],
+      "notes": "Proximal locative adverb meaning 'here' — the locative/oblique counterpart of the demonstratives 'ini/iti'. Used sentence-finally or after a verb to indicate location near the speaker. 'Dening' is the form with the 'ing' article fused: 'palitan dening pera' (exchange this money here). Equivalent to Tagalog 'dito'."
+    },
+    {
+      "id": "part-parsala",
+      "word": "parsala",
+      "partOfSpeech": "noun",
+      "translations": ["fault", "blame", "sin", "wrongdoing"],
+      "relatedTagalog": "sala / pagkakamali",
+      "examples": [
+        {
+          "kp": "Tikdo yang alang parsala.",
+          "en": "He stands without fault."
+        }
+      ],
+      "notes": "Noun meaning 'fault, blame, sin, wrongdoing'. Derived from the root 'sala' (mistake/fault) with the Kapampangan nominalizing prefix 'par-'. Used in moral and religious contexts: 'alang parsala' (without fault/blameless), 'malagung parsala' (a heavy sin). Equivalent to Tagalog 'sala' or 'pagkakasala' in a moral sense."
     }
   ],
   "lessons": [
@@ -1515,6 +1585,73 @@
           "prompt": "What does 'Sige' mean?",
           "wordIds": ["part-sige"],
           "answerId": "part-sige"
+        }
+      ]
+    },
+    {
+      "id": "part-L9",
+      "title": "Conjunctions, Mood, and Locative Here",
+      "theme": "ampo, yata, wari, deni, parsala",
+      "intro": "'ampo' means 'and/also'. 'yata' expresses uncertainty: 'I think, probably'. 'wari' signals something is gone or used up. 'deni' means 'here' (at this place). 'parsala' is a noun meaning fault or sin.",
+      "wordIds": ["part-ampo", "part-yata", "part-wari", "part-deni", "part-parsala"],
+      "exercises": [
+        {
+          "id": "part-L9-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'yata' mean?",
+          "wordIds": ["part-yata"],
+          "answerId": "part-yata"
+        },
+        {
+          "id": "part-L9-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'wari' mean?",
+          "wordIds": ["part-wari"],
+          "answerId": "part-wari"
+        },
+        {
+          "id": "part-L9-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Masakit ku yata.",
+          "wordIds": ["part-yata"],
+          "accepted": [
+            "i think i am sick",
+            "i think i am sick.",
+            "i think i'm sick",
+            "i think i'm sick.",
+            "i'm probably sick",
+            "i'm probably sick."
+          ]
+        },
+        {
+          "id": "part-L9-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Wari kwalta na.",
+          "wordIds": ["part-wari"],
+          "accepted": [
+            "the money is gone",
+            "the money is gone.",
+            "the money is all gone",
+            "the money is all gone."
+          ]
+        },
+        {
+          "id": "part-L9-fb1",
+          "type": "fill-blank",
+          "prompt": "Bisa kung nasi ____ asan. (I want rice and fish.)",
+          "wordIds": ["part-ampo"],
+          "answerId": "part-ampo"
+        },
+        {
+          "id": "part-L9-fb2",
+          "type": "fill-blank",
+          "prompt": "Malaus ko pu, mangan kamu ____! (Welcome, please eat here!)",
+          "wordIds": ["part-deni"],
+          "answerId": "part-deni"
         }
       ]
     }
