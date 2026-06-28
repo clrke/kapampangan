@@ -417,7 +417,7 @@
           "en": "My food is one apple."
         },
         {
-          "kp": "Masarap ya ing kakanán.",
+          "kp": "Manyaman ya ing kakanán.",
           "en": "The food is delicious."
         }
       ],
@@ -863,8 +863,7 @@
           ],
           "accepted": [
             "the fruit is sweet",
-            "the fruits are sweet",
-            "the fruits is sweet"
+            "the fruits are sweet"
           ]
         },
         {
@@ -985,12 +984,7 @@
             "i'm already satiated",
             "i am satiated now",
             "i'm satiated now",
-            "i am satiated already",
-            "i am already having eaten one's fill",
-            "i'm already having eaten one's fill",
-            "i am having eaten one's fill now",
-            "i'm having eaten one's fill now",
-            "i am having eaten one's fill already"
+            "i am satiated already"
           ]
         },
         {
@@ -1148,7 +1142,7 @@
           "id": "food-8-tr1",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Masarap ya ing kakanán.",
+          "prompt": "Manyaman ya ing kakanán.",
           "wordIds": [
             "food-kakaná"
           ],

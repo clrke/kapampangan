@@ -519,6 +519,10 @@
           "accepted": [
             "i am going to sleep.",
             "i am going to sleep",
+            "i am going to sleep already.",
+            "i am going to sleep already",
+            "i'm going to sleep now.",
+            "i'm going to sleep now",
             "i will sleep.",
             "i will sleep"
           ]
@@ -642,7 +646,7 @@
         {
           "id": "verb-3-fb1",
           "type": "fill-blank",
-          "prompt": "Sige, ____ ke. (OK, take it.)",
+          "prompt": "Sige, ____ ke. (OK, I will take it.)",
           "wordIds": [
             "verb-kunan"
           ],

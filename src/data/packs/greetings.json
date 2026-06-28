@@ -467,12 +467,8 @@
           "accepted": [
             "see you next time!",
             "see you next time",
-            "see you later next time!",
-            "see you later next time",
-            "see you next time next time!",
-            "see you next time next time",
-            "see you next time later next time!",
-            "see you next time later next time"
+            "see you later!",
+            "see you later"
           ]
         },
         {
@@ -670,9 +666,7 @@
           "accepted": [
             "i'm sorry, i forgot.",
             "sorry, i forgot.",
-            "i'm please forgive me, i forgot.",
-            "please forgive me, i forgot.",
-            "i'm i'm sorry, i forgot."
+            "please forgive me, i forgot."
           ]
         },
         {

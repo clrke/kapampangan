@@ -374,9 +374,7 @@
           ],
           "accepted": [
             "whose bag is this",
-            "whose bag is this?",
-            "whom bag is this",
-            "whom bag is this?"
+            "whose bag is this?"
           ]
         },
         {
@@ -861,8 +859,7 @@
           ],
           "accepted": [
             "the house is over there",
-            "the house is there",
-            "the house is over over there"
+            "the house is there"
           ]
         },
         {

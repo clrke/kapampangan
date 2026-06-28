@@ -136,7 +136,7 @@
       "relatedTagalog": "ilog",
       "examples": [
         {
-          "kp": "Mapalad ya ing ilug keni.",
+          "kp": "Malapad ya ing ilug keni.",
           "en": "The river here is wide."
         },
         {
@@ -444,7 +444,7 @@
         {
           "id": "nat-1-fb1",
           "type": "fill-blank",
-          "prompt": "____ ya ing banua. (The cloud is thick.)",
+          "prompt": "____ ya ing banua. (The sky is overcast.)",
           "wordIds": [
             "nat-ulap"
           ],
@@ -617,7 +617,7 @@
           "id": "nat-3-tr1",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Mapalad ya ing ilug keni.",
+          "prompt": "Malapad ya ing ilug keni.",
           "wordIds": [
             "nat-ilug"
           ],
@@ -660,7 +660,7 @@
         {
           "id": "nat-3-fb2",
           "type": "fill-blank",
-          "prompt": "Mapalad ya ing ____ keni. (The river here is wide.)",
+          "prompt": "Malapad ya ing ____ keni. (The river here is wide.)",
           "wordIds": [
             "nat-ilug"
           ],

@@ -242,7 +242,7 @@
           "en": "My family is great."
         },
         {
-          "kp": "Ding Pamilia ku atyu la keni.",
+          "kp": "Ing Pamilia ku atyu ya keni.",
           "en": "My family is here."
         }
       ],
@@ -771,7 +771,7 @@
         {
           "id": "fam-4-fb2",
           "type": "fill-blank",
-          "prompt": "Ding ____ ku atyu la keni.  (My family is here.)",
+          "prompt": "Ing ____ ku atyu ya keni.  (My family is here.)",
           "wordIds": [
             "fam-pamilia"
           ],

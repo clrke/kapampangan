@@ -450,7 +450,9 @@
           "wordIds": [],
           "accepted": [
             "How much is one bread?",
-            "How much is a bread?"
+            "How much is a bread?",
+            "How much is a loaf of bread?",
+            "How much is one loaf of bread?"
           ]
         },
         {
@@ -739,7 +741,7 @@
         {
           "id": "mkt-ex-5e",
           "type": "fill-blank",
-          "prompt": "Atin ____ e malapit keni. (There is a store near here.)",
+          "prompt": "Atin ____ a malapit keni. (There is a store near here.)",
           "wordIds": [
             "mkt-tindahan"
           ],

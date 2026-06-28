@@ -47,7 +47,7 @@
     {
       "id": "trav-siping",
       "word": "siping",
-      "partOfSpeech": "adjective",
+      "partOfSpeech": "noun",
       "translations": [
         "near",
         "close",
@@ -669,8 +669,7 @@
             "it is under the table",
             "it is below the table",
             "he is under the table",
-            "it is underneath the table",
-            "it is downstairs the table"
+            "it is underneath the table"
           ],
           "wordIds": [
             "trav-lalam"
@@ -1017,8 +1016,8 @@
           "accepted": [
             "i want to rent a car",
             "i would like to rent a car",
-            "i want to rent a automobile",
-            "i would like to rent a automobile"
+            "i want to rent an automobile",
+            "i would like to rent an automobile"
           ],
           "wordIds": [
             "trav-kotsi"

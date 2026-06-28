@@ -557,15 +557,7 @@
             "their cooking is delicious.",
             "their cooking is delicious",
             "their food is delicious.",
-            "their food is delicious",
-            "of them cooking is delicious.",
-            "of them cooking is delicious",
-            "of them food is delicious.",
-            "of them food is delicious",
-            "by them (non-subject) cooking is delicious.",
-            "by them (non-subject) cooking is delicious",
-            "by them (non-subject) food is delicious.",
-            "by them (non-subject) food is delicious"
+            "their food is delicious"
           ]
         },
         {
@@ -652,7 +644,6 @@
           "accepted": [
             "he is a good person",
             "she is a good person",
-            "they are a good person",
             "he is good",
             "she is good"
           ]
