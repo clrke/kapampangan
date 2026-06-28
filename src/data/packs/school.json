@@ -6,66 +6,115 @@
       "id": "sch-eskwela",
       "word": "eskwela",
       "partOfSpeech": "noun",
-      "translations": ["school"],
+      "translations": [
+        "school"
+      ],
       "relatedTagalog": "paaralan",
       "examples": [
-        {"kp": "Munta ku king eskwela.", "en": "I am going to school."},
-        {"kp": "Malagu ya ing eskwela mi.", "en": "Our school is beautiful."}
+        {
+          "kp": "Munta ku king eskwela.",
+          "en": "I am going to school."
+        },
+        {
+          "kp": "Malagu ya ing eskwela mi.",
+          "en": "Our school is beautiful."
+        }
       ]
     },
     {
       "id": "sch-klase",
       "word": "klase",
       "partOfSpeech": "noun",
-      "translations": ["class", "classroom"],
+      "translations": [
+        "class",
+        "classroom"
+      ],
       "relatedTagalog": "klase",
       "examples": [
-        {"kp": "Munta ku king klase.", "en": "I am going to class."},
-        {"kp": "Maragul ya ing klase mi.", "en": "Our classroom is big."}
+        {
+          "kp": "Munta ku king klase.",
+          "en": "I am going to class."
+        },
+        {
+          "kp": "Maragul ya ing klase mi.",
+          "en": "Our classroom is big."
+        }
       ]
     },
     {
       "id": "sch-estudyante",
       "word": "estudyante",
       "partOfSpeech": "noun",
-      "translations": ["student"],
+      "translations": [
+        "student"
+      ],
       "relatedTagalog": "estudyante",
       "examples": [
-        {"kp": "Estudyante ku.", "en": "I am a student."},
-        {"kp": "Masipag ya ing estudyante.", "en": "The student is hardworking."}
+        {
+          "kp": "Estudyante ku.",
+          "en": "I am a student."
+        },
+        {
+          "kp": "Masipag ya ing estudyante.",
+          "en": "The student is hardworking."
+        }
       ]
     },
     {
       "id": "sch-leksyon",
       "word": "leksyon",
       "partOfSpeech": "noun",
-      "translations": ["lesson"],
+      "translations": [
+        "lesson"
+      ],
       "relatedTagalog": "aralin",
       "examples": [
-        {"kp": "Bayung leksyon ya ini.", "en": "This is a new lesson."},
-        {"kp": "Mabala ya ing leksyon.", "en": "The lesson is difficult."}
+        {
+          "kp": "Bayung leksyon ya ini.",
+          "en": "This is a new lesson."
+        },
+        {
+          "kp": "Mabala ya ing leksyon.",
+          "en": "The lesson is difficult."
+        }
       ]
     },
     {
       "id": "sch-lapis",
       "word": "lapis",
       "partOfSpeech": "noun",
-      "translations": ["pencil"],
+      "translations": [
+        "pencil"
+      ],
       "relatedTagalog": "lapis",
       "examples": [
-        {"kp": "Nukarin ya ing lapis ku?", "en": "Where is my pencil?"},
-        {"kp": "Atin ku pung lapis.", "en": "I have a pencil."}
+        {
+          "kp": "Nukarin ya ing lapis ku?",
+          "en": "Where is my pencil?"
+        },
+        {
+          "kp": "Atin ku pung lapis.",
+          "en": "I have a pencil."
+        }
       ]
     },
     {
       "id": "sch-kaklase",
       "word": "kaklase",
       "partOfSpeech": "noun",
-      "translations": ["classmate"],
+      "translations": [
+        "classmate"
+      ],
       "relatedTagalog": "kaklase",
       "examples": [
-        {"kp": "Kaklase ku ya.", "en": "He is my classmate."},
-        {"kp": "Masipag la reng kaklase ku.", "en": "My classmates are hardworking."}
+        {
+          "kp": "Kaklase ku ya.",
+          "en": "He is my classmate."
+        },
+        {
+          "kp": "Masipag la reng kaklase ku.",
+          "en": "My classmates are hardworking."
+        }
       ]
     }
   ],
@@ -75,14 +124,23 @@
       "title": "At School",
       "theme": "school, class, and students",
       "intro": "Learn the core Kapampangan words for talking about school life — the building, the classroom, and the people who study there.",
-      "wordIds": ["sch-eskwela", "sch-klase", "sch-estudyante"],
+      "wordIds": [
+        "sch-eskwela",
+        "sch-klase",
+        "sch-estudyante"
+      ],
       "exercises": [
         {
           "id": "sch-1-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"eskwela\" mean?",
-          "wordIds": ["sch-eskwela", "sch-klase", "sch-estudyante", "sch-leksyon"],
+          "wordIds": [
+            "sch-eskwela",
+            "sch-klase",
+            "sch-estudyante",
+            "sch-leksyon"
+          ],
           "answerId": "sch-eskwela"
         },
         {
@@ -90,7 +148,12 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"klase\" mean?",
-          "wordIds": ["sch-klase", "sch-eskwela", "sch-estudyante", "sch-lapis"],
+          "wordIds": [
+            "sch-klase",
+            "sch-eskwela",
+            "sch-estudyante",
+            "sch-lapis"
+          ],
           "answerId": "sch-klase"
         },
         {
@@ -98,7 +161,12 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"estudyante\" mean?",
-          "wordIds": ["sch-estudyante", "sch-eskwela", "sch-klase", "sch-kaklase"],
+          "wordIds": [
+            "sch-estudyante",
+            "sch-eskwela",
+            "sch-klase",
+            "sch-kaklase"
+          ],
           "answerId": "sch-estudyante"
         },
         {
@@ -106,7 +174,12 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "school",
-          "wordIds": ["sch-eskwela", "sch-klase", "sch-leksyon", "sch-kaklase"],
+          "wordIds": [
+            "sch-eskwela",
+            "sch-klase",
+            "sch-leksyon",
+            "sch-kaklase"
+          ],
           "answerId": "sch-eskwela"
         },
         {
@@ -114,7 +187,12 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "student",
-          "wordIds": ["sch-estudyante", "sch-eskwela", "sch-kaklase", "sch-klase"],
+          "wordIds": [
+            "sch-estudyante",
+            "sch-eskwela",
+            "sch-kaklase",
+            "sch-klase"
+          ],
           "answerId": "sch-estudyante"
         },
         {
@@ -122,16 +200,27 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Munta ku king eskwela.",
-          "wordIds": ["sch-eskwela"],
-          "accepted": ["i am going to school", "i go to school", "i'm going to school"]
+          "wordIds": [
+            "sch-eskwela"
+          ],
+          "accepted": [
+            "i am going to school",
+            "i go to school",
+            "i'm going to school"
+          ]
         },
         {
           "id": "sch-1-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Estudyante ku.",
-          "wordIds": ["sch-estudyante"],
-          "accepted": ["i am a student", "i'm a student"]
+          "wordIds": [
+            "sch-estudyante"
+          ],
+          "accepted": [
+            "i am a student",
+            "i'm a student"
+          ]
         }
       ]
     },
@@ -140,14 +229,23 @@
       "title": "School Items & People",
       "theme": "lessons, pencils, and classmates",
       "intro": "Expand your school vocabulary with the words for a lesson, a pencil, and a classmate — things you encounter every day in the classroom.",
-      "wordIds": ["sch-leksyon", "sch-lapis", "sch-kaklase"],
+      "wordIds": [
+        "sch-leksyon",
+        "sch-lapis",
+        "sch-kaklase"
+      ],
       "exercises": [
         {
           "id": "sch-2-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"leksyon\" mean?",
-          "wordIds": ["sch-leksyon", "sch-lapis", "sch-kaklase", "sch-klase"],
+          "wordIds": [
+            "sch-leksyon",
+            "sch-lapis",
+            "sch-kaklase",
+            "sch-klase"
+          ],
           "answerId": "sch-leksyon"
         },
         {
@@ -155,7 +253,12 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"lapis\" mean?",
-          "wordIds": ["sch-lapis", "sch-leksyon", "sch-kaklase", "sch-eskwela"],
+          "wordIds": [
+            "sch-lapis",
+            "sch-leksyon",
+            "sch-kaklase",
+            "sch-eskwela"
+          ],
           "answerId": "sch-lapis"
         },
         {
@@ -163,7 +266,12 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"kaklase\" mean?",
-          "wordIds": ["sch-kaklase", "sch-estudyante", "sch-leksyon", "sch-lapis"],
+          "wordIds": [
+            "sch-kaklase",
+            "sch-estudyante",
+            "sch-leksyon",
+            "sch-lapis"
+          ],
           "answerId": "sch-kaklase"
         },
         {
@@ -171,7 +279,12 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "pencil",
-          "wordIds": ["sch-lapis", "sch-leksyon", "sch-kaklase", "sch-eskwela"],
+          "wordIds": [
+            "sch-lapis",
+            "sch-leksyon",
+            "sch-kaklase",
+            "sch-eskwela"
+          ],
           "answerId": "sch-lapis"
         },
         {
@@ -179,7 +292,12 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "classmate",
-          "wordIds": ["sch-kaklase", "sch-estudyante", "sch-leksyon", "sch-lapis"],
+          "wordIds": [
+            "sch-kaklase",
+            "sch-estudyante",
+            "sch-leksyon",
+            "sch-lapis"
+          ],
           "answerId": "sch-kaklase"
         },
         {
@@ -187,16 +305,27 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atin ku pung lapis.",
-          "wordIds": ["sch-lapis"],
-          "accepted": ["i have a pencil", "i have pencil"]
+          "wordIds": [
+            "sch-lapis"
+          ],
+          "accepted": [
+            "i have a pencil",
+            "i have pencil"
+          ]
         },
         {
           "id": "sch-2-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Kaklase ku ya.",
-          "wordIds": ["sch-kaklase"],
-          "accepted": ["he is my classmate", "she is my classmate", "they are my classmate"]
+          "wordIds": [
+            "sch-kaklase"
+          ],
+          "accepted": [
+            "he is my classmate",
+            "she is my classmate",
+            "they are my classmate"
+          ]
         }
       ]
     }

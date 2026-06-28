@@ -6,11 +6,19 @@
       "id": "ask-ninu",
       "word": "ninu",
       "partOfSpeech": "pronoun",
-      "translations": ["who"],
+      "translations": [
+        "who"
+      ],
       "relatedTagalog": "sino",
       "examples": [
-        {"kp": "Ninu ya ing tau ita?", "en": "Who is that person?"},
-        {"kp": "Ninu la reng lalaki karin?", "en": "Who are those men there?"}
+        {
+          "kp": "Ninu ya ing tau ita?",
+          "en": "Who is that person?"
+        },
+        {
+          "kp": "Ninu la reng lalaki karin?",
+          "en": "Who are those men there?"
+        }
       ],
       "notes": "Confirmed in Wikipedia Kapampangan language article and HandWiki. Standard interrogative pronoun for persons. Example 'Ninu la reng lalaki?' is attested in Wikipedia."
     },
@@ -18,11 +26,19 @@
       "id": "ask-nanu",
       "word": "nanu",
       "partOfSpeech": "pronoun",
-      "translations": ["what"],
+      "translations": [
+        "what"
+      ],
       "relatedTagalog": "ano",
       "examples": [
-        {"kp": "Nanu ya ing gagawan mu?", "en": "What are you doing?"},
-        {"kp": "Nanu ya ing lagyu mu?", "en": "What is your name?"}
+        {
+          "kp": "Nanu ya ing gagawan mu?",
+          "en": "What are you doing?"
+        },
+        {
+          "kp": "Nanu ya ing lagyu mu?",
+          "en": "What is your name?"
+        }
       ],
       "notes": "Core question word. Attested on Wikipedia, HandWiki, tagaloglang.com, and the bryanquiroz22 grammar guide. Example 'Nanu ya ing gagawan mu?' is widely attested."
     },
@@ -30,11 +46,19 @@
       "id": "ask-nukarin",
       "word": "nukarin",
       "partOfSpeech": "adverb",
-      "translations": ["where"],
+      "translations": [
+        "where"
+      ],
       "relatedTagalog": "nasaan",
       "examples": [
-        {"kp": "Nukarin ya ing drayber?", "en": "Where is the driver?"},
-        {"kp": "Nukarin ka munta?", "en": "Where are you going?"}
+        {
+          "kp": "Nukarin ya ing drayber?",
+          "en": "Where is the driver?"
+        },
+        {
+          "kp": "Nukarin ka munta?",
+          "en": "Where are you going?"
+        }
       ],
       "notes": "Standard locative question word. Attested in Wikipedia and HandWiki. Also spelled 'nokarin' in some sources; 'nukarin' is the dominant modern spelling. Do not confuse with 'karin' (there), which is its demonstrative counterpart."
     },
@@ -42,11 +66,19 @@
       "id": "ask-kapilan",
       "word": "kapilan",
       "partOfSpeech": "adverb",
-      "translations": ["when"],
+      "translations": [
+        "when"
+      ],
       "relatedTagalog": "kailan",
       "examples": [
-        {"kp": "Kapilan ya ing pista?", "en": "When is the fiesta?"},
-        {"kp": "Kapilan ka datang?", "en": "When will you arrive?"}
+        {
+          "kp": "Kapilan ya ing pista?",
+          "en": "When is the fiesta?"
+        },
+        {
+          "kp": "Kapilan ka datang?",
+          "en": "When will you arrive?"
+        }
       ],
       "notes": "Attested in Wikipedia, HandWiki, and multiple Kapampangan vocabulary guides. Cognate with Tagalog kailan."
     },
@@ -54,11 +86,19 @@
       "id": "ask-obakit",
       "word": "obakit",
       "partOfSpeech": "adverb",
-      "translations": ["why"],
+      "translations": [
+        "why"
+      ],
       "relatedTagalog": "bakit",
       "examples": [
-        {"kp": "Obakit ati ka keni?", "en": "Why are you here?"},
-        {"kp": "Obakit ka masakit?", "en": "Why are you sick?"}
+        {
+          "kp": "Obakit ati ka keni?",
+          "en": "Why are you here?"
+        },
+        {
+          "kp": "Obakit ka masakit?",
+          "en": "Why are you sick?"
+        }
       ],
       "notes": "Attested in Wikipedia and HandWiki as the Kapampangan word for 'why'. The example 'Obakit ati ka keni?' is directly attested in Wikipedia. Also found as 'obat' in some registers. Cognate with Tagalog bakit."
     },
@@ -66,11 +106,19 @@
       "id": "ask-makananu",
       "word": "makananu",
       "partOfSpeech": "adverb",
-      "translations": ["how"],
+      "translations": [
+        "how"
+      ],
       "relatedTagalog": "paano",
       "examples": [
-        {"kp": "Makananu iti gawan?", "en": "How do you do this?"},
-        {"kp": "Makananu ka datang keni?", "en": "How did you get here?"}
+        {
+          "kp": "Makananu iti gawan?",
+          "en": "How do you do this?"
+        },
+        {
+          "kp": "Makananu ka datang keni?",
+          "en": "How did you get here?"
+        }
       ],
       "notes": "Attested in Wikipedia, HandWiki, tagaloglang.com, and bryanquiroz22 grammar guide. The example 'Makananu iti gawan?' is directly attested in Wikipedia. Distinct from kumusta (how are you) which is a greeting."
     },
@@ -78,11 +126,19 @@
       "id": "ask-magkanu",
       "word": "magkanu",
       "partOfSpeech": "pronoun",
-      "translations": ["how much"],
+      "translations": [
+        "how much"
+      ],
       "relatedTagalog": "magkano",
       "examples": [
-        {"kp": "Magkanu ya ing metung a tinape?", "en": "How much is one bread?"},
-        {"kp": "Magkanu ya iyan?", "en": "How much is that?"}
+        {
+          "kp": "Magkanu ya ing metung a tinape?",
+          "en": "How much is one bread?"
+        },
+        {
+          "kp": "Magkanu ya iyan?",
+          "en": "How much is that?"
+        }
       ],
       "notes": "Attested in Wikipedia, HandWiki, and Wiktionary Category:Kapampangan pronouns. The example 'Magkanu ya ing metung a tinape?' is directly attested in Wikipedia. Covers 'how much' (price). Tagalog cognate is magkano."
     },
@@ -90,11 +146,20 @@
       "id": "ask-kaninu",
       "word": "kaninu",
       "partOfSpeech": "pronoun",
-      "translations": ["whose", "whom"],
+      "translations": [
+        "whose",
+        "whom"
+      ],
       "relatedTagalog": "kanino",
       "examples": [
-        {"kp": "Kaninu ya ing bag ini?", "en": "Whose bag is this?"},
-        {"kp": "Kaninu me ibiye iyan?", "en": "To whom will you give that?"}
+        {
+          "kp": "Kaninu ya ing bag ini?",
+          "en": "Whose bag is this?"
+        },
+        {
+          "kp": "Kaninu me ibiye iyan?",
+          "en": "To whom will you give that?"
+        }
       ],
       "notes": "Attested in Wikipedia, HandWiki, and multiple grammar sources. Functions both as a possessive interrogative ('whose') and dative interrogative ('to whom'). The example 'Kaninu me ibiye iyan?' is directly attested in Wikipedia."
     },
@@ -102,11 +167,19 @@
       "id": "ask-isanu",
       "word": "isanu",
       "partOfSpeech": "pronoun",
-      "translations": ["which"],
+      "translations": [
+        "which"
+      ],
       "relatedTagalog": "alin",
       "examples": [
-        {"kp": "Isanu deti ya ing bisa ka?", "en": "Which of these do you want?"},
-        {"kp": "Isanu ya ing mayap?", "en": "Which one is good?"}
+        {
+          "kp": "Isanu deti ya ing bisa ka?",
+          "en": "Which of these do you want?"
+        },
+        {
+          "kp": "Isanu ya ing mayap?",
+          "en": "Which one is good?"
+        }
       ],
       "notes": "Attested in Wikipedia and HandWiki. Also spelled 'isnanu' in some sources. The example 'Isanu deti ya ing bisa ka?' is directly attested in Wikipedia. Used to ask someone to choose from a set."
     },
@@ -114,11 +187,19 @@
       "id": "ask-iyan",
       "word": "iyan",
       "partOfSpeech": "pronoun",
-      "translations": ["that"],
+      "translations": [
+        "that"
+      ],
       "relatedTagalog": "iyan",
       "examples": [
-        {"kp": "Nanu ya iyan?", "en": "What is that?"},
-        {"kp": "Malagu ya iyan.", "en": "That is beautiful."}
+        {
+          "kp": "Nanu ya iyan?",
+          "en": "What is that?"
+        },
+        {
+          "kp": "Malagu ya iyan.",
+          "en": "That is beautiful."
+        }
       ],
       "notes": "Demonstrative pronoun meaning 'that' (nearest to the addressee). Attested in Wikipedia, HandWiki, and the bryanquiroz22 grammar guide. Its locative form is 'oyan' (there, near addressee). Plural is 'den/ren'."
     },
@@ -126,11 +207,21 @@
       "id": "ask-ita",
       "word": "ita",
       "partOfSpeech": "pronoun",
-      "translations": ["that", "yonder", "that over there"],
+      "translations": [
+        "that",
+        "yonder",
+        "that over there"
+      ],
       "relatedTagalog": "iyon",
       "examples": [
-        {"kp": "Ninu ya ing tau ita?", "en": "Who is that person over there?"},
-        {"kp": "Maragul ya ing bale ita.", "en": "That house over there is big."}
+        {
+          "kp": "Ninu ya ing tau ita?",
+          "en": "Who is that person over there?"
+        },
+        {
+          "kp": "Maragul ya ing bale ita.",
+          "en": "That house over there is big."
+        }
       ],
       "notes": "Remote demonstrative pronoun; refers to something far from both speaker and addressee. Attested in Wikipedia, HandWiki, and the bryanquiroz22 grammar guide. Plural is 'deta/reta'. Locative form is 'keta' or 'oyta'."
     },
@@ -138,11 +229,19 @@
       "id": "ask-keni",
       "word": "keni",
       "partOfSpeech": "adverb",
-      "translations": ["here"],
+      "translations": [
+        "here"
+      ],
       "relatedTagalog": "dito",
       "examples": [
-        {"kp": "Obakit ati ka keni?", "en": "Why are you here?"},
-        {"kp": "Ati ya keni ing asu.", "en": "The dog is here."}
+        {
+          "kp": "Obakit ati ka keni?",
+          "en": "Why are you here?"
+        },
+        {
+          "kp": "Ati ya keni ing asu.",
+          "en": "The dog is here."
+        }
       ],
       "notes": "Locative demonstrative meaning 'here'. Attested in Wikipedia, HandWiki, and the bryanquiroz22 grammar guide. Specifically used when the addressee is not near the subject being spoken of. The example 'Obakit ati ka keni?' is directly attested in Wikipedia."
     },
@@ -150,11 +249,19 @@
       "id": "ask-karin",
       "word": "karin",
       "partOfSpeech": "adverb",
-      "translations": ["there"],
+      "translations": [
+        "there"
+      ],
       "relatedTagalog": "doon",
       "examples": [
-        {"kp": "Ninu la reng lalaki karin?", "en": "Who are those men there?"},
-        {"kp": "Ati ya karin ing bale ku.", "en": "My house is there."}
+        {
+          "kp": "Ninu la reng lalaki karin?",
+          "en": "Who are those men there?"
+        },
+        {
+          "kp": "Ati ya karin ing bale ku.",
+          "en": "My house is there."
+        }
       ],
       "notes": "Locative demonstrative meaning 'there' (near addressee). Attested in Wikipedia as a locative form ('karin/karen'). Also noted as a suffix/element of 'nukarin' (where). Distinct from 'nukarin' which is a question word."
     },
@@ -162,11 +269,20 @@
       "id": "ask-oyan",
       "word": "oyan",
       "partOfSpeech": "adverb",
-      "translations": ["there", "over there"],
+      "translations": [
+        "there",
+        "over there"
+      ],
       "relatedTagalog": "nandoon",
       "examples": [
-        {"kp": "Oyan ya ing bale.", "en": "The house is over there."},
-        {"kp": "Munta ka oyan.", "en": "Go over there."}
+        {
+          "kp": "Oyan ya ing bale.",
+          "en": "The house is over there."
+        },
+        {
+          "kp": "Munta ka oyan.",
+          "en": "Go over there."
+        }
       ],
       "notes": "Existential/locative demonstrative meaning 'there' (near addressee). Attested in the bryanquiroz22 grammar guide and HandWiki as the existential counterpart of 'iyan'. Related to 'karin'. Plural is 'oren'."
     },
@@ -174,11 +290,21 @@
       "id": "ask-nuanti",
       "word": "nuanti",
       "partOfSpeech": "adverb",
-      "translations": ["how", "to what degree", "how much so"],
+      "translations": [
+        "how",
+        "to what degree",
+        "how much so"
+      ],
       "relatedTagalog": "gaano",
       "examples": [
-        {"kp": "Nuanti ka kalagu?", "en": "How beautiful are you?"},
-        {"kp": "Nuanti ya karimla?", "en": "How cold is it?"}
+        {
+          "kp": "Nuanti ka kalagu?",
+          "en": "How beautiful are you?"
+        },
+        {
+          "kp": "Nuanti ya karimla?",
+          "en": "How cold is it?"
+        }
       ],
       "notes": "Attested in Wikipedia Kapampangan language article and HandWiki as a question word meaning 'to what degree'. The example 'Nuanti ka kalagu?' is directly attested in Wikipedia. Used to ask about the degree or extent of a quality, distinct from makananu (how — procedural) and magkanu (how much — price). Tagalog equivalent is gaano."
     }
@@ -189,14 +315,20 @@
       "title": "Who & What",
       "theme": "Asking about people and things",
       "intro": "The two most basic question words in Kapampangan are ninu (who) and nanu (what). Ninu asks about a person; nanu asks about an object, action, or idea. Both come at the start of the question, just like in English.",
-      "wordIds": ["ask-ninu", "ask-nanu", "ask-kaninu"],
+      "wordIds": [
+        "ask-ninu",
+        "ask-nanu",
+        "ask-kaninu"
+      ],
       "exercises": [
         {
           "id": "ask-1-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"ninu\" mean?",
-          "wordIds": ["ask-ninu"],
+          "wordIds": [
+            "ask-ninu"
+          ],
           "answerId": "ask-ninu"
         },
         {
@@ -204,7 +336,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"nanu\" mean?",
-          "wordIds": ["ask-nanu"],
+          "wordIds": [
+            "ask-nanu"
+          ],
           "answerId": "ask-nanu"
         },
         {
@@ -212,7 +346,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "How do you say \"whose\" or \"whom\" in Kapampangan?",
-          "wordIds": ["ask-kaninu"],
+          "wordIds": [
+            "ask-kaninu"
+          ],
           "answerId": "ask-kaninu"
         },
         {
@@ -220,29 +356,57 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Nanu ya ing lagyu mu?",
-          "wordIds": ["ask-nanu"],
-          "accepted": ["what is your name", "what is your name?"]
+          "wordIds": [
+            "ask-nanu"
+          ],
+          "accepted": [
+            "what is your name",
+            "what is your name?"
+          ]
         },
         {
           "id": "ask-1-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Kaninu ya ing bag ini?",
-          "wordIds": ["ask-kaninu"],
-          "accepted": ["whose bag is this", "whose bag is this?"]
+          "wordIds": [
+            "ask-kaninu"
+          ],
+          "accepted": [
+            "whose bag is this",
+            "whose bag is this?",
+            "whom bag is this",
+            "whom bag is this?"
+          ]
         },
         {
           "id": "ask-1-fb1",
           "type": "fill-blank",
           "prompt": "____ ya ing tau ita? (Who is that person?)",
-          "wordIds": ["ask-ninu"],
+          "wordIds": [
+            "ask-ninu"
+          ],
           "answerId": "ask-ninu"
         },
         {
           "id": "ask-1-ma1",
           "type": "matching",
-          "wordIds": ["ask-ninu", "ask-nanu", "ask-kaninu"],
-          "pairs": [{"wordId": "ask-ninu"}, {"wordId": "ask-nanu"}, {"wordId": "ask-kaninu"}]
+          "wordIds": [
+            "ask-ninu",
+            "ask-nanu",
+            "ask-kaninu"
+          ],
+          "pairs": [
+            {
+              "wordId": "ask-ninu"
+            },
+            {
+              "wordId": "ask-nanu"
+            },
+            {
+              "wordId": "ask-kaninu"
+            }
+          ]
         }
       ]
     },
@@ -251,14 +415,19 @@
       "title": "Where & When",
       "theme": "Asking about place and time",
       "intro": "Nukarin asks where something is. Kapilan asks when something happens. Both are common in daily Kapampangan conversation — you will hear them whenever someone needs directions or wants to know the schedule.",
-      "wordIds": ["ask-nukarin", "ask-kapilan"],
+      "wordIds": [
+        "ask-nukarin",
+        "ask-kapilan"
+      ],
       "exercises": [
         {
           "id": "ask-2-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"nukarin\" mean?",
-          "wordIds": ["ask-nukarin"],
+          "wordIds": [
+            "ask-nukarin"
+          ],
           "answerId": "ask-nukarin"
         },
         {
@@ -266,7 +435,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"kapilan\" mean?",
-          "wordIds": ["ask-kapilan"],
+          "wordIds": [
+            "ask-kapilan"
+          ],
           "answerId": "ask-kapilan"
         },
         {
@@ -274,7 +445,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "How do you say \"where\" in Kapampangan?",
-          "wordIds": ["ask-nukarin"],
+          "wordIds": [
+            "ask-nukarin"
+          ],
           "answerId": "ask-nukarin"
         },
         {
@@ -282,29 +455,51 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Nukarin ya ing drayber?",
-          "wordIds": ["ask-nukarin"],
-          "accepted": ["where is the driver", "where is the driver?"]
+          "wordIds": [
+            "ask-nukarin"
+          ],
+          "accepted": [
+            "where is the driver",
+            "where is the driver?"
+          ]
         },
         {
           "id": "ask-2-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Kapilan ya ing pista?",
-          "wordIds": ["ask-kapilan"],
-          "accepted": ["when is the fiesta", "when is the fiesta?"]
+          "wordIds": [
+            "ask-kapilan"
+          ],
+          "accepted": [
+            "when is the fiesta",
+            "when is the fiesta?"
+          ]
         },
         {
           "id": "ask-2-fb1",
           "type": "fill-blank",
           "prompt": "____ ka munta? (Where are you going?)",
-          "wordIds": ["ask-nukarin"],
+          "wordIds": [
+            "ask-nukarin"
+          ],
           "answerId": "ask-nukarin"
         },
         {
           "id": "ask-2-ma1",
           "type": "matching",
-          "wordIds": ["ask-nukarin", "ask-kapilan"],
-          "pairs": [{"wordId": "ask-nukarin"}, {"wordId": "ask-kapilan"}]
+          "wordIds": [
+            "ask-nukarin",
+            "ask-kapilan"
+          ],
+          "pairs": [
+            {
+              "wordId": "ask-nukarin"
+            },
+            {
+              "wordId": "ask-kapilan"
+            }
+          ]
         }
       ]
     },
@@ -313,14 +508,20 @@
       "title": "Why & How",
       "theme": "Asking about reasons and methods",
       "intro": "Obakit asks for a reason (why), while makananu asks about method or manner (how). Magkanu is a special 'how' used only for price or quantity — you will hear it every time you shop at the palengke.",
-      "wordIds": ["ask-obakit", "ask-makananu", "ask-magkanu"],
+      "wordIds": [
+        "ask-obakit",
+        "ask-makananu",
+        "ask-magkanu"
+      ],
       "exercises": [
         {
           "id": "ask-3-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"obakit\" mean?",
-          "wordIds": ["ask-obakit"],
+          "wordIds": [
+            "ask-obakit"
+          ],
           "answerId": "ask-obakit"
         },
         {
@@ -328,7 +529,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"makananu\" mean?",
-          "wordIds": ["ask-makananu"],
+          "wordIds": [
+            "ask-makananu"
+          ],
           "answerId": "ask-makananu"
         },
         {
@@ -336,7 +539,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"magkanu\" mean?",
-          "wordIds": ["ask-magkanu"],
+          "wordIds": [
+            "ask-magkanu"
+          ],
           "answerId": "ask-magkanu"
         },
         {
@@ -344,29 +549,55 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Obakit ati ka keni?",
-          "wordIds": ["ask-obakit"],
-          "accepted": ["why are you here", "why are you here?"]
+          "wordIds": [
+            "ask-obakit"
+          ],
+          "accepted": [
+            "why are you here",
+            "why are you here?"
+          ]
         },
         {
           "id": "ask-3-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Magkanu ya iyan?",
-          "wordIds": ["ask-magkanu"],
-          "accepted": ["how much is that", "how much is that?"]
+          "wordIds": [
+            "ask-magkanu"
+          ],
+          "accepted": [
+            "how much is that",
+            "how much is that?"
+          ]
         },
         {
           "id": "ask-3-fb1",
           "type": "fill-blank",
           "prompt": "____ iti gawan? (How do you do this?)",
-          "wordIds": ["ask-makananu"],
+          "wordIds": [
+            "ask-makananu"
+          ],
           "answerId": "ask-makananu"
         },
         {
           "id": "ask-3-ma1",
           "type": "matching",
-          "wordIds": ["ask-obakit", "ask-makananu", "ask-magkanu"],
-          "pairs": [{"wordId": "ask-obakit"}, {"wordId": "ask-makananu"}, {"wordId": "ask-magkanu"}]
+          "wordIds": [
+            "ask-obakit",
+            "ask-makananu",
+            "ask-magkanu"
+          ],
+          "pairs": [
+            {
+              "wordId": "ask-obakit"
+            },
+            {
+              "wordId": "ask-makananu"
+            },
+            {
+              "wordId": "ask-magkanu"
+            }
+          ]
         }
       ]
     },
@@ -375,14 +606,19 @@
       "title": "Which & How Much So",
       "theme": "Choosing and measuring degree",
       "intro": "Isanu means 'which' — use it when selecting from a group. Nuanti means 'how' or 'to what degree' — it asks about extent or intensity, like 'how beautiful' or 'how cold'. These complete your toolkit of question words alongside makananu (how to do) and magkanu (how much price).",
-      "wordIds": ["ask-isanu", "ask-nuanti"],
+      "wordIds": [
+        "ask-isanu",
+        "ask-nuanti"
+      ],
       "exercises": [
         {
           "id": "ask-4-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"isanu\" mean?",
-          "wordIds": ["ask-isanu"],
+          "wordIds": [
+            "ask-isanu"
+          ],
           "answerId": "ask-isanu"
         },
         {
@@ -390,7 +626,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"nuanti\" mean?",
-          "wordIds": ["ask-nuanti"],
+          "wordIds": [
+            "ask-nuanti"
+          ],
           "answerId": "ask-nuanti"
         },
         {
@@ -398,7 +636,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "How do you say \"which\" in Kapampangan?",
-          "wordIds": ["ask-isanu"],
+          "wordIds": [
+            "ask-isanu"
+          ],
           "answerId": "ask-isanu"
         },
         {
@@ -406,29 +646,55 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Isanu deti ya ing bisa ka?",
-          "wordIds": ["ask-isanu"],
-          "accepted": ["which of these do you want", "which of these do you want?"]
+          "wordIds": [
+            "ask-isanu"
+          ],
+          "accepted": [
+            "which of these do you want",
+            "which of these do you want?"
+          ]
         },
         {
           "id": "ask-4-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Nuanti ka kalagu?",
-          "wordIds": ["ask-nuanti"],
-          "accepted": ["how beautiful are you", "how beautiful are you?"]
+          "wordIds": [
+            "ask-nuanti"
+          ],
+          "accepted": [
+            "how beautiful are you",
+            "how beautiful are you?",
+            "to what degree beautiful are you",
+            "to what degree beautiful are you?",
+            "how much so beautiful are you",
+            "how much so beautiful are you?"
+          ]
         },
         {
           "id": "ask-4-fb1",
           "type": "fill-blank",
           "prompt": "____ ya ing mayap? (Which one is good?)",
-          "wordIds": ["ask-isanu"],
+          "wordIds": [
+            "ask-isanu"
+          ],
           "answerId": "ask-isanu"
         },
         {
           "id": "ask-4-ma1",
           "type": "matching",
-          "wordIds": ["ask-isanu", "ask-nuanti"],
-          "pairs": [{"wordId": "ask-isanu"}, {"wordId": "ask-nuanti"}]
+          "wordIds": [
+            "ask-isanu",
+            "ask-nuanti"
+          ],
+          "pairs": [
+            {
+              "wordId": "ask-isanu"
+            },
+            {
+              "wordId": "ask-nuanti"
+            }
+          ]
         }
       ]
     },
@@ -437,14 +703,19 @@
       "title": "This & That",
       "theme": "Demonstrative pronouns for objects",
       "intro": "Kapampangan has a rich demonstrative system. Iyan means 'that' (near you, the person being spoken to). Ita means 'that over there' (remote — far from both speaker and listener). Both are used constantly when pointing things out.",
-      "wordIds": ["ask-iyan", "ask-ita"],
+      "wordIds": [
+        "ask-iyan",
+        "ask-ita"
+      ],
       "exercises": [
         {
           "id": "ask-5-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"iyan\" mean?",
-          "wordIds": ["ask-iyan"],
+          "wordIds": [
+            "ask-iyan"
+          ],
           "answerId": "ask-iyan"
         },
         {
@@ -452,7 +723,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"ita\" mean?",
-          "wordIds": ["ask-ita"],
+          "wordIds": [
+            "ask-ita"
+          ],
           "answerId": "ask-ita"
         },
         {
@@ -460,7 +733,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means 'that over there' (remote, far from both speaker and listener)?",
-          "wordIds": ["ask-ita"],
+          "wordIds": [
+            "ask-ita"
+          ],
           "answerId": "ask-ita"
         },
         {
@@ -468,29 +743,57 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Nanu ya iyan?",
-          "wordIds": ["ask-iyan", "ask-nanu"],
-          "accepted": ["what is that", "what is that?"]
+          "wordIds": [
+            "ask-iyan",
+            "ask-nanu"
+          ],
+          "accepted": [
+            "what is that",
+            "what is that?"
+          ]
         },
         {
           "id": "ask-5-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ya ing bale ita.",
-          "wordIds": ["ask-ita"],
-          "accepted": ["that house over there is big", "that house is big", "the house over there is big"]
+          "wordIds": [
+            "ask-ita"
+          ],
+          "accepted": [
+            "that house over there is big",
+            "that house is big",
+            "the house over there is big",
+            "yonder house over there is big",
+            "yonder house is big",
+            "that over there house over there is big",
+            "that over there house is big"
+          ]
         },
         {
           "id": "ask-5-fb1",
           "type": "fill-blank",
           "prompt": "Nanu ya ____? (What is that? — near you)",
-          "wordIds": ["ask-iyan"],
+          "wordIds": [
+            "ask-iyan"
+          ],
           "answerId": "ask-iyan"
         },
         {
           "id": "ask-5-ma1",
           "type": "matching",
-          "wordIds": ["ask-iyan", "ask-ita"],
-          "pairs": [{"wordId": "ask-iyan"}, {"wordId": "ask-ita"}]
+          "wordIds": [
+            "ask-iyan",
+            "ask-ita"
+          ],
+          "pairs": [
+            {
+              "wordId": "ask-iyan"
+            },
+            {
+              "wordId": "ask-ita"
+            }
+          ]
         }
       ]
     },
@@ -499,14 +802,20 @@
       "title": "Here & There",
       "theme": "Pointing to places",
       "intro": "Keni means 'here' (where I am). Karin means 'there' (near you or in a known location). Oyan also means 'there' but is an existential/locative form used with ati (to exist/be present). Together these words let you direct attention to any spot.",
-      "wordIds": ["ask-keni", "ask-karin", "ask-oyan"],
+      "wordIds": [
+        "ask-keni",
+        "ask-karin",
+        "ask-oyan"
+      ],
       "exercises": [
         {
           "id": "ask-6-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"keni\" mean?",
-          "wordIds": ["ask-keni"],
+          "wordIds": [
+            "ask-keni"
+          ],
           "answerId": "ask-keni"
         },
         {
@@ -514,7 +823,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"karin\" mean?",
-          "wordIds": ["ask-karin"],
+          "wordIds": [
+            "ask-karin"
+          ],
           "answerId": "ask-karin"
         },
         {
@@ -522,7 +833,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"oyan\" mean?",
-          "wordIds": ["ask-oyan"],
+          "wordIds": [
+            "ask-oyan"
+          ],
           "answerId": "ask-oyan"
         },
         {
@@ -530,29 +843,56 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ati ya keni ing asu.",
-          "wordIds": ["ask-keni"],
-          "accepted": ["the dog is here", "the dog is here."]
+          "wordIds": [
+            "ask-keni"
+          ],
+          "accepted": [
+            "the dog is here",
+            "the dog is here."
+          ]
         },
         {
           "id": "ask-6-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Oyan ya ing bale.",
-          "wordIds": ["ask-oyan"],
-          "accepted": ["the house is over there", "the house is there"]
+          "wordIds": [
+            "ask-oyan"
+          ],
+          "accepted": [
+            "the house is over there",
+            "the house is there",
+            "the house is over over there"
+          ]
         },
         {
           "id": "ask-6-fb1",
           "type": "fill-blank",
           "prompt": "Ati ya ____ ing bale ku. (My house is there.)",
-          "wordIds": ["ask-karin"],
+          "wordIds": [
+            "ask-karin"
+          ],
           "answerId": "ask-karin"
         },
         {
           "id": "ask-6-ma1",
           "type": "matching",
-          "wordIds": ["ask-keni", "ask-karin", "ask-oyan"],
-          "pairs": [{"wordId": "ask-keni"}, {"wordId": "ask-karin"}, {"wordId": "ask-oyan"}]
+          "wordIds": [
+            "ask-keni",
+            "ask-karin",
+            "ask-oyan"
+          ],
+          "pairs": [
+            {
+              "wordId": "ask-keni"
+            },
+            {
+              "wordId": "ask-karin"
+            },
+            {
+              "wordId": "ask-oyan"
+            }
+          ]
         }
       ]
     }

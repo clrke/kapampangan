@@ -6,11 +6,19 @@
       "id": "body-buntuk",
       "word": "buntuk",
       "partOfSpeech": "noun",
-      "translations": ["head"],
+      "translations": [
+        "head"
+      ],
       "relatedTagalog": "ulo",
       "examples": [
-        {"kp": "Masakit ya ing buntuk ku.", "en": "My head hurts."},
-        {"kp": "Maragul ya ing buntuk na.", "en": "His head is big."}
+        {
+          "kp": "Masakit ya ing buntuk ku.",
+          "en": "My head hurts."
+        },
+        {
+          "kp": "Maragul ya ing buntuk na.",
+          "en": "His head is big."
+        }
       ],
       "notes": "Confirmed in ABVD Kapampangan wordlist, oocities body-parts list, and multiple vocabulary guides. Distinct from Tagalog 'ulo'."
     },
@@ -18,11 +26,19 @@
       "id": "body-mata",
       "word": "mata",
       "partOfSpeech": "noun",
-      "translations": ["eye"],
+      "translations": [
+        "eye"
+      ],
       "relatedTagalog": "mata",
       "examples": [
-        {"kp": "Maragul ya ing mata na.", "en": "Her eyes are big."},
-        {"kp": "Masakit ya ing mata ku ngeni.", "en": "My eye hurts today."}
+        {
+          "kp": "Maragul ya ing mata na.",
+          "en": "Her eyes are big."
+        },
+        {
+          "kp": "Masakit ya ing mata ku ngeni.",
+          "en": "My eye hurts today."
+        }
       ],
       "notes": "Shared with Tagalog. Confirmed in ABVD, oocities list, Wikibooks Kapampangan/Nouns, and the Kapampangan Listorian body-parts blog post."
     },
@@ -30,11 +46,19 @@
       "id": "body-balugbug",
       "word": "balugbug",
       "partOfSpeech": "noun",
-      "translations": ["ear"],
+      "translations": [
+        "ear"
+      ],
       "relatedTagalog": "tainga",
       "examples": [
-        {"kp": "Ing balugbug ku masakit ya.", "en": "My ear is painful."},
-        {"kp": "Dakal yang balugbug ing elepante.", "en": "The elephant has big ears."}
+        {
+          "kp": "Ing balugbug ku masakit ya.",
+          "en": "My ear is painful."
+        },
+        {
+          "kp": "Dakal yang balugbug ing elepante.",
+          "en": "The elephant has big ears."
+        }
       ],
       "notes": "Confirmed in ABVD Kapampangan wordlist and oocities Kapampangan body-parts list. Distinct from Tagalog 'tainga'."
     },
@@ -42,11 +66,19 @@
       "id": "body-arung",
       "word": "arung",
       "partOfSpeech": "noun",
-      "translations": ["nose"],
+      "translations": [
+        "nose"
+      ],
       "relatedTagalog": "ilong",
       "examples": [
-        {"kp": "Malati ya ing arung na.", "en": "Her nose is small."},
-        {"kp": "Ing arung ku napuputian ya king sakit.", "en": "My nose runs when I am sick."}
+        {
+          "kp": "Malati ya ing arung na.",
+          "en": "Her nose is small."
+        },
+        {
+          "kp": "Ing arung ku napuputian ya king sakit.",
+          "en": "My nose runs when I am sick."
+        }
       ],
       "notes": "Confirmed in ABVD, oocities body-parts list, and multiple Kapampangan vocabulary guides. Distinct from Tagalog 'ilong'."
     },
@@ -54,11 +86,19 @@
       "id": "body-asbuk",
       "word": "asbuk",
       "partOfSpeech": "noun",
-      "translations": ["mouth"],
+      "translations": [
+        "mouth"
+      ],
       "relatedTagalog": "bibig",
       "examples": [
-        {"kp": "Sarad mo ing asbuk mu.", "en": "Close your mouth."},
-        {"kp": "Ing asbuk na maragul ya.", "en": "His mouth is big."}
+        {
+          "kp": "Sarad mo ing asbuk mu.",
+          "en": "Close your mouth."
+        },
+        {
+          "kp": "Ing asbuk na maragul ya.",
+          "en": "His mouth is big."
+        }
       ],
       "notes": "Confirmed in ABVD (listed as 'asbuk'), oocities list ('asbuk/balungus'), Kapampangan idioms article ('bubula asbuk'). Distinct from Tagalog 'bibig'."
     },
@@ -66,11 +106,20 @@
       "id": "body-ipan",
       "word": "ipan",
       "partOfSpeech": "noun",
-      "translations": ["tooth", "teeth"],
+      "translations": [
+        "tooth",
+        "teeth"
+      ],
       "relatedTagalog": "ngipin",
       "examples": [
-        {"kp": "Maputi ya ing ipan na.", "en": "Her teeth are white."},
-        {"kp": "Masakit ya ing ipan ku.", "en": "My tooth hurts."}
+        {
+          "kp": "Maputi ya ing ipan na.",
+          "en": "Her teeth are white."
+        },
+        {
+          "kp": "Masakit ya ing ipan ku.",
+          "en": "My tooth hurts."
+        }
       ],
       "notes": "Confirmed in ABVD ('ipan'), oocities list ('ipan'), and Kapampangan body parts Quizlet sets. Distinct from Tagalog 'ngipin'."
     },
@@ -78,11 +127,19 @@
       "id": "body-buak",
       "word": "buak",
       "partOfSpeech": "noun",
-      "translations": ["hair"],
+      "translations": [
+        "hair"
+      ],
       "relatedTagalog": "buhok",
       "examples": [
-        {"kp": "Malutu ya ing buak na.", "en": "Her hair is red."},
-        {"kp": "Makaba ya ing buak na.", "en": "Her hair is long."}
+        {
+          "kp": "Malutu ya ing buak na.",
+          "en": "Her hair is red."
+        },
+        {
+          "kp": "Makaba ya ing buak na.",
+          "en": "Her hair is long."
+        }
       ],
       "notes": "Confirmed in ABVD ('buak'), oocities list ('buak'), tagaloglang.com ('bwak' variant), and Sunstar Kapampangan articles. Distinct from Tagalog 'buhok'."
     },
@@ -90,11 +147,19 @@
       "id": "body-gamat",
       "word": "gamat",
       "partOfSpeech": "noun",
-      "translations": ["hand"],
+      "translations": [
+        "hand"
+      ],
       "relatedTagalog": "kamay",
       "examples": [
-        {"kp": "Hugasan me ing gamat mu.", "en": "Wash your hand."},
-        {"kp": "Masakit ya ing gamat ku.", "en": "My hand hurts."}
+        {
+          "kp": "Hugasan me ing gamat mu.",
+          "en": "Wash your hand."
+        },
+        {
+          "kp": "Masakit ya ing gamat ku.",
+          "en": "My hand hurts."
+        }
       ],
       "notes": "Confirmed in ABVD ('gámat'), oocities list ('gamat'), Kapampangan idioms article ('magatal gamat' = itchy hands), and Sunstar Kapampangan articles. Distinct from Tagalog 'kamay'."
     },
@@ -102,11 +167,20 @@
       "id": "body-bitis",
       "word": "bitis",
       "partOfSpeech": "noun",
-      "translations": ["foot", "leg"],
+      "translations": [
+        "foot",
+        "leg"
+      ],
       "relatedTagalog": "paa",
       "examples": [
-        {"kp": "Masakit ya ing bitis ku.", "en": "My foot hurts."},
-        {"kp": "Mapali ya ing bitis na nung maniarikit ya.", "en": "Her legs are fast when she runs."}
+        {
+          "kp": "Masakit ya ing bitis ku.",
+          "en": "My foot hurts."
+        },
+        {
+          "kp": "Mapali ya ing bitis na nung maniarikit ya.",
+          "en": "Her legs are fast when she runs."
+        }
       ],
       "notes": "Confirmed in oocities list ('bitis' = feet), Sunstar Kapampangan article, and Kapampangan idioms ('maburak a bitis' = muddy feet, meaning poor). Distinct from Tagalog 'paa'."
     },
@@ -114,11 +188,19 @@
       "id": "body-pusu",
       "word": "pusu",
       "partOfSpeech": "noun",
-      "translations": ["heart"],
+      "translations": [
+        "heart"
+      ],
       "relatedTagalog": "puso",
       "examples": [
-        {"kp": "Tibuk ya ing pusu ku.", "en": "My heart beats."},
-        {"kp": "Malusug ya ing pusu ku.", "en": "My heart is healthy."}
+        {
+          "kp": "Tibuk ya ing pusu ku.",
+          "en": "My heart beats."
+        },
+        {
+          "kp": "Malusug ya ing pusu ku.",
+          "en": "My heart is healthy."
+        }
       ],
       "notes": "Confirmed in oocities list ('pusu'), Sunstar Kapampangan article, and Vocabulario Pampango-Tagalog-Inglés ('pusuo'). Related to Tagalog 'puso'."
     },
@@ -126,11 +208,20 @@
       "id": "body-atyan",
       "word": "atyan",
       "partOfSpeech": "noun",
-      "translations": ["stomach", "belly"],
+      "translations": [
+        "stomach",
+        "belly"
+      ],
       "relatedTagalog": "tiyan",
       "examples": [
-        {"kp": "Masakit ya ing atyan ku.", "en": "My stomach hurts."},
-        {"kp": "Gutom ya ing atyan ku.", "en": "My stomach is hungry."}
+        {
+          "kp": "Masakit ya ing atyan ku.",
+          "en": "My stomach hurts."
+        },
+        {
+          "kp": "Gutom ya ing atyan ku.",
+          "en": "My stomach is hungry."
+        }
       ],
       "notes": "Confirmed in ABVD ('atian/atsan'), oocities list ('atyan'), Kapampangan idioms article ('pangaduang atyan'), Wikivoyage phrasebook ('masakit ku atyan'). Related to Tagalog 'tiyan'."
     },
@@ -138,11 +229,19 @@
       "id": "body-daya",
       "word": "daya",
       "partOfSpeech": "noun",
-      "translations": ["blood"],
+      "translations": [
+        "blood"
+      ],
       "relatedTagalog": "dugo",
       "examples": [
-        {"kp": "Atyu ya ing daya king gamat ku.", "en": "There is blood on my hand."},
-        {"kp": "Malutu ya ing daya.", "en": "Blood is red."}
+        {
+          "kp": "Atyu ya ing daya king gamat ku.",
+          "en": "There is blood on my hand."
+        },
+        {
+          "kp": "Malutu ya ing daya.",
+          "en": "Blood is red."
+        }
       ],
       "notes": "Confirmed in ABVD ('dáyâ'), archive.org Vocabulario Pampango-Tagalog-Inglés ('daya'), and Sunstar Kapampangan article (Garcia, katawan/kaladwa piece). Distinct from Tagalog 'dugo'."
     },
@@ -150,11 +249,22 @@
       "id": "body-masakit",
       "word": "masakit",
       "partOfSpeech": "adjective",
-      "translations": ["sick", "ill", "painful", "hurt"],
+      "translations": [
+        "sick",
+        "ill",
+        "painful",
+        "hurt"
+      ],
       "relatedTagalog": "masakit",
       "examples": [
-        {"kp": "Masakit ku yata.", "en": "I think I am sick."},
-        {"kp": "Ing atyan ku masakit ya.", "en": "My stomach is painful."}
+        {
+          "kp": "Masakit ku yata.",
+          "en": "I think I am sick."
+        },
+        {
+          "kp": "Ing atyan ku masakit ya.",
+          "en": "My stomach is painful."
+        }
       ],
       "notes": "Confirmed in Wiktionary Kapampangan entry, kaikki.org dictionary, and Wikivoyage phrasebook ('Másakit ku' = I'm sick). Formed from ma- + sakit. Shared with Tagalog."
     },
@@ -162,11 +272,22 @@
       "id": "body-sakit",
       "word": "sakit",
       "partOfSpeech": "noun",
-      "translations": ["illness", "sickness", "pain", "disease"],
+      "translations": [
+        "illness",
+        "sickness",
+        "pain",
+        "disease"
+      ],
       "relatedTagalog": "sakit",
       "examples": [
-        {"kp": "Maragul a sakit ya iti.", "en": "This is a serious illness."},
-        {"kp": "Nung ati kang sakit, munta ka king doktor.", "en": "If you have an illness, go to the doctor."}
+        {
+          "kp": "Maragul a sakit ya iti.",
+          "en": "This is a serious illness."
+        },
+        {
+          "kp": "Nung ati kang sakit, munta ka king doktor.",
+          "en": "If you have an illness, go to the doctor."
+        }
       ],
       "notes": "Confirmed in Wikivoyage phrasebook, Austronesian Comparative Dictionary (*sakit cognate set), and multiple Kapampangan health articles. Root of 'masakit'. Shared with Tagalog."
     },
@@ -174,11 +295,20 @@
       "id": "body-doktor",
       "word": "doktor",
       "partOfSpeech": "noun",
-      "translations": ["doctor", "physician"],
+      "translations": [
+        "doctor",
+        "physician"
+      ],
       "relatedTagalog": "doktor",
       "examples": [
-        {"kp": "Mangailangan kung doktor.", "en": "I need a doctor."},
-        {"kp": "Ing doktor tutulungan ya keka.", "en": "The doctor will help you."}
+        {
+          "kp": "Mangailangan kung doktor.",
+          "en": "I need a doctor."
+        },
+        {
+          "kp": "Ing doktor tutulungan ya keka.",
+          "en": "The doctor will help you."
+        }
       ],
       "notes": "Confirmed in Wikivoyage Kapampangan phrasebook ('Mangailangan kung doktor'). Spanish/English loanword universally used across Philippine languages including Kapampangan."
     },
@@ -186,11 +316,21 @@
       "id": "body-gamut",
       "word": "gamut",
       "partOfSpeech": "noun",
-      "translations": ["medicine", "remedy", "treatment"],
+      "translations": [
+        "medicine",
+        "remedy",
+        "treatment"
+      ],
       "relatedTagalog": "gamot",
       "examples": [
-        {"kp": "Kailangan ko ning gamut para king sakit ku.", "en": "I need medicine for my illness."},
-        {"kp": "Ibyan na king doktor ing gamut.", "en": "The doctor gave the medicine."}
+        {
+          "kp": "Kailangan ko ning gamut para king sakit ku.",
+          "en": "I need medicine for my illness."
+        },
+        {
+          "kp": "Ibyan na king doktor ing gamut.",
+          "en": "The doctor gave the medicine."
+        }
       ],
       "notes": "Attested in the Vocabulario Pampango-Tagalog-Inglés and Wikivoyage compound 'panulung' forms (panulung lagnat = cold medicine). 'Gamut' is the Kapampangan form cognate with Tagalog 'gamot'. Also seen in 'pakalako sakit' (pain reliever) usage in Wikivoyage."
     },
@@ -198,11 +338,21 @@
       "id": "body-mapagal",
       "word": "mapagal",
       "partOfSpeech": "adjective",
-      "translations": ["tired", "weary", "exhausted"],
+      "translations": [
+        "tired",
+        "weary",
+        "exhausted"
+      ],
       "relatedTagalog": "pagod",
       "examples": [
-        {"kp": "Mapagal na ku.", "en": "I am already tired."},
-        {"kp": "Ing doktor mapagal ya nung tapos na ing maluad a dake.", "en": "The doctor is tired when the long day is done."}
+        {
+          "kp": "Mapagal na ku.",
+          "en": "I am already tired."
+        },
+        {
+          "kp": "Ing doktor mapagal ya nung tapos na ing maluad a dake.",
+          "en": "The doctor is tired when the long day is done."
+        }
       ],
       "notes": "Confirmed in archive.org Vocabulario Pampango-Tagalog-Inglés ('mapagal' = tired), Facebook LinyangKapampangan post ('kapagal ko' variant), and Sunstar health article. Root 'pagal' shared with other Philippine languages."
     },
@@ -210,13 +360,35 @@
       "id": "body-malusug",
       "word": "malusug",
       "partOfSpeech": "adjective",
-      "translations": ["healthy", "well", "in good health"],
+      "translations": [
+        "healthy",
+        "well",
+        "in good health"
+      ],
       "relatedTagalog": "malusog",
       "examples": [
-        {"kp": "Malusug ku ngeni.", "en": "I am healthy now."},
-        {"kp": "Ing katawan na malusug ya.", "en": "His body is healthy."}
+        {
+          "kp": "Malusug ku ngeni.",
+          "en": "I am healthy now."
+        },
+        {
+          "kp": "Ing katawan na malusug ya.",
+          "en": "His body is healthy."
+        }
       ],
       "notes": "Confirmed in Sunstar Pampanga article headline 'Pamagdatilang Masikan at Malusug king Kabilyan Ngeni' (Staying Strong and Healthy). Related to Tagalog 'malusog'. Formed from ma- + lusug (healthy/nourished)."
+    },
+    {
+      "id": "body-paa",
+      "word": "paa",
+      "partOfSpeech": "noun",
+      "translations": ["foot", "paw", "feet"],
+      "relatedTagalog": "paa",
+      "examples": [
+        {"kp": "Apat a paa ning aso.", "en": "A dog has four paws."},
+        {"kp": "Masakit ya ing paa ku.", "en": "My foot hurts."}
+      ],
+      "notes": "Used especially for animal feet/paws ('apat a paa ning aso' = four paws of the dog). For human feet and legs, the more specifically Kapampangan word is 'bitis'."
     }
   ],
   "lessons": [
@@ -225,14 +397,21 @@
       "title": "The Face",
       "theme": "facial features",
       "intro": "Learn the Kapampangan words for parts of the face. Many of these are quite different from Tagalog!",
-      "wordIds": ["body-buntuk", "body-mata", "body-balugbug", "body-arung"],
+      "wordIds": [
+        "body-buntuk",
+        "body-mata",
+        "body-balugbug",
+        "body-arung"
+      ],
       "exercises": [
         {
           "id": "body-1-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"buntuk\" mean?",
-          "wordIds": ["body-buntuk"],
+          "wordIds": [
+            "body-buntuk"
+          ],
           "answerId": "body-buntuk"
         },
         {
@@ -240,7 +419,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"balugbug\" mean?",
-          "wordIds": ["body-balugbug"],
+          "wordIds": [
+            "body-balugbug"
+          ],
           "answerId": "body-balugbug"
         },
         {
@@ -248,7 +429,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"arung\" mean?",
-          "wordIds": ["body-arung"],
+          "wordIds": [
+            "body-arung"
+          ],
           "answerId": "body-arung"
         },
         {
@@ -256,33 +439,63 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ya ing mata na.",
-          "wordIds": ["body-mata"],
-          "accepted": ["her eyes are big", "his eyes are big", "their eyes are big", "her eye is big", "his eye is big"]
+          "wordIds": [
+            "body-mata"
+          ],
+          "accepted": [
+            "her eyes are big",
+            "his eyes are big",
+            "their eyes are big",
+            "her eye is big",
+            "his eye is big"
+          ]
         },
         {
           "id": "body-1-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Masakit ya ing buntuk ku.",
-          "wordIds": ["body-buntuk", "body-masakit"],
-          "accepted": ["my head hurts", "my head is painful", "my head aches"]
+          "wordIds": [
+            "body-buntuk",
+            "body-masakit"
+          ],
+          "accepted": [
+            "my head hurts",
+            "my head is painful",
+            "my head aches"
+          ]
         },
         {
           "id": "body-1-fb1",
           "type": "fill-blank",
           "prompt": "____ ko malati. (My nose is small.)",
-          "wordIds": ["body-arung"],
+          "wordIds": [
+            "body-arung"
+          ],
           "answerId": "body-arung"
         },
         {
           "id": "body-1-ma1",
           "type": "matching",
-          "wordIds": ["body-buntuk", "body-mata", "body-balugbug", "body-arung"],
+          "wordIds": [
+            "body-buntuk",
+            "body-mata",
+            "body-balugbug",
+            "body-arung"
+          ],
           "pairs": [
-            {"wordId": "body-buntuk"},
-            {"wordId": "body-mata"},
-            {"wordId": "body-balugbug"},
-            {"wordId": "body-arung"}
+            {
+              "wordId": "body-buntuk"
+            },
+            {
+              "wordId": "body-mata"
+            },
+            {
+              "wordId": "body-balugbug"
+            },
+            {
+              "wordId": "body-arung"
+            }
           ]
         }
       ]
@@ -292,14 +505,20 @@
       "title": "Mouth, Teeth & Hair",
       "theme": "head features",
       "intro": "Continue learning about the head — mouth, teeth, and hair in Kapampangan.",
-      "wordIds": ["body-asbuk", "body-ipan", "body-buak"],
+      "wordIds": [
+        "body-asbuk",
+        "body-ipan",
+        "body-buak"
+      ],
       "exercises": [
         {
           "id": "body-2-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"asbuk\" mean?",
-          "wordIds": ["body-asbuk"],
+          "wordIds": [
+            "body-asbuk"
+          ],
           "answerId": "body-asbuk"
         },
         {
@@ -307,7 +526,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"ipan\" mean?",
-          "wordIds": ["body-ipan"],
+          "wordIds": [
+            "body-ipan"
+          ],
           "answerId": "body-ipan"
         },
         {
@@ -315,7 +536,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "How do you say \"hair\" in Kapampangan?",
-          "wordIds": ["body-buak"],
+          "wordIds": [
+            "body-buak"
+          ],
           "answerId": "body-buak"
         },
         {
@@ -323,32 +546,59 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Masakit ya ing ipan ku.",
-          "wordIds": ["body-ipan"],
-          "accepted": ["my tooth hurts", "my teeth hurt", "my tooth is painful", "my teeth are painful"]
+          "wordIds": [
+            "body-ipan"
+          ],
+          "accepted": [
+            "my tooth hurts",
+            "my teeth hurt",
+            "my tooth is painful",
+            "my teeth are painful",
+            "my teeth hurts",
+            "my teeth is painful"
+          ]
         },
         {
           "id": "body-2-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Makaba ya ing buak na.",
-          "wordIds": ["body-buak"],
-          "accepted": ["her hair is long", "his hair is long", "their hair is long"]
+          "wordIds": [
+            "body-buak"
+          ],
+          "accepted": [
+            "her hair is long",
+            "his hair is long",
+            "their hair is long"
+          ]
         },
         {
           "id": "body-2-fb1",
           "type": "fill-blank",
           "prompt": "Sarad mo ing ____ mu. (Close your mouth.)",
-          "wordIds": ["body-asbuk"],
+          "wordIds": [
+            "body-asbuk"
+          ],
           "answerId": "body-asbuk"
         },
         {
           "id": "body-2-ma1",
           "type": "matching",
-          "wordIds": ["body-asbuk", "body-ipan", "body-buak"],
+          "wordIds": [
+            "body-asbuk",
+            "body-ipan",
+            "body-buak"
+          ],
           "pairs": [
-            {"wordId": "body-asbuk"},
-            {"wordId": "body-ipan"},
-            {"wordId": "body-buak"}
+            {
+              "wordId": "body-asbuk"
+            },
+            {
+              "wordId": "body-ipan"
+            },
+            {
+              "wordId": "body-buak"
+            }
           ]
         }
       ]
@@ -358,14 +608,20 @@
       "title": "Hands, Feet & Blood",
       "theme": "limbs and vital fluid",
       "intro": "Learn the words for hands, feet, and blood — essential for talking about injuries and movement.",
-      "wordIds": ["body-gamat", "body-bitis", "body-daya"],
+      "wordIds": [
+        "body-gamat",
+        "body-bitis",
+        "body-daya"
+      ],
       "exercises": [
         {
           "id": "body-3-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"gamat\" mean?",
-          "wordIds": ["body-gamat"],
+          "wordIds": [
+            "body-gamat"
+          ],
           "answerId": "body-gamat"
         },
         {
@@ -373,7 +629,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"bitis\" mean?",
-          "wordIds": ["body-bitis"],
+          "wordIds": [
+            "body-bitis"
+          ],
           "answerId": "body-bitis"
         },
         {
@@ -381,7 +639,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"daya\" mean?",
-          "wordIds": ["body-daya"],
+          "wordIds": [
+            "body-daya"
+          ],
           "answerId": "body-daya"
         },
         {
@@ -389,32 +649,54 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Hugasan me ing gamat mu.",
-          "wordIds": ["body-gamat"],
-          "accepted": ["wash your hand", "wash your hands"]
+          "wordIds": [
+            "body-gamat"
+          ],
+          "accepted": [
+            "wash your hand",
+            "wash your hands"
+          ]
         },
         {
           "id": "body-3-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malutu ya ing daya.",
-          "wordIds": ["body-daya"],
-          "accepted": ["blood is red", "the blood is red"]
+          "wordIds": [
+            "body-daya"
+          ],
+          "accepted": [
+            "blood is red",
+            "the blood is red"
+          ]
         },
         {
           "id": "body-3-fb1",
           "type": "fill-blank",
           "prompt": "Masakit ya ing ____ ku. (My foot hurts.)",
-          "wordIds": ["body-bitis"],
+          "wordIds": [
+            "body-bitis"
+          ],
           "answerId": "body-bitis"
         },
         {
           "id": "body-3-ma1",
           "type": "matching",
-          "wordIds": ["body-gamat", "body-bitis", "body-daya"],
+          "wordIds": [
+            "body-gamat",
+            "body-bitis",
+            "body-daya"
+          ],
           "pairs": [
-            {"wordId": "body-gamat"},
-            {"wordId": "body-bitis"},
-            {"wordId": "body-daya"}
+            {
+              "wordId": "body-gamat"
+            },
+            {
+              "wordId": "body-bitis"
+            },
+            {
+              "wordId": "body-daya"
+            }
           ]
         }
       ]
@@ -424,14 +706,19 @@
       "title": "Heart & Stomach",
       "theme": "internal organs",
       "intro": "The heart and stomach are central to Kapampangan expressions about emotions and health.",
-      "wordIds": ["body-pusu", "body-atyan"],
+      "wordIds": [
+        "body-pusu",
+        "body-atyan"
+      ],
       "exercises": [
         {
           "id": "body-4-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"pusu\" mean?",
-          "wordIds": ["body-pusu"],
+          "wordIds": [
+            "body-pusu"
+          ],
           "answerId": "body-pusu"
         },
         {
@@ -439,7 +726,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"atyan\" mean?",
-          "wordIds": ["body-atyan"],
+          "wordIds": [
+            "body-atyan"
+          ],
           "answerId": "body-atyan"
         },
         {
@@ -447,7 +736,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "How do you say \"heart\" in Kapampangan?",
-          "wordIds": ["body-pusu"],
+          "wordIds": [
+            "body-pusu"
+          ],
           "answerId": "body-pusu"
         },
         {
@@ -455,31 +746,52 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Masakit ya ing atyan ku.",
-          "wordIds": ["body-atyan"],
-          "accepted": ["my stomach hurts", "my stomach is painful", "my belly hurts", "my belly is painful"]
+          "wordIds": [
+            "body-atyan"
+          ],
+          "accepted": [
+            "my stomach hurts",
+            "my stomach is painful",
+            "my belly hurts",
+            "my belly is painful"
+          ]
         },
         {
           "id": "body-4-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Tibuk ya ing pusu ku.",
-          "wordIds": ["body-pusu"],
-          "accepted": ["my heart beats", "my heart is beating"]
+          "wordIds": [
+            "body-pusu"
+          ],
+          "accepted": [
+            "my heart beats",
+            "my heart is beating"
+          ]
         },
         {
           "id": "body-4-fb1",
           "type": "fill-blank",
           "prompt": "Malusug ya ing ____ ku. (My heart is healthy.)",
-          "wordIds": ["body-pusu"],
+          "wordIds": [
+            "body-pusu"
+          ],
           "answerId": "body-pusu"
         },
         {
           "id": "body-4-ma1",
           "type": "matching",
-          "wordIds": ["body-pusu", "body-atyan"],
+          "wordIds": [
+            "body-pusu",
+            "body-atyan"
+          ],
           "pairs": [
-            {"wordId": "body-pusu"},
-            {"wordId": "body-atyan"}
+            {
+              "wordId": "body-pusu"
+            },
+            {
+              "wordId": "body-atyan"
+            }
           ]
         }
       ]
@@ -489,14 +801,20 @@
       "title": "Feeling Sick",
       "theme": "illness and pain",
       "intro": "Learn how to talk about being sick, being in pain, and illness in Kapampangan.",
-      "wordIds": ["body-masakit", "body-sakit", "body-mapagal"],
+      "wordIds": [
+        "body-masakit",
+        "body-sakit",
+        "body-mapagal"
+      ],
       "exercises": [
         {
           "id": "body-5-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"masakit\" mean?",
-          "wordIds": ["body-masakit"],
+          "wordIds": [
+            "body-masakit"
+          ],
           "answerId": "body-masakit"
         },
         {
@@ -504,7 +822,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"sakit\" mean?",
-          "wordIds": ["body-sakit"],
+          "wordIds": [
+            "body-sakit"
+          ],
           "answerId": "body-sakit"
         },
         {
@@ -512,7 +832,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"mapagal\" mean?",
-          "wordIds": ["body-mapagal"],
+          "wordIds": [
+            "body-mapagal"
+          ],
           "answerId": "body-mapagal"
         },
         {
@@ -520,32 +842,68 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Masakit ku yata.",
-          "wordIds": ["body-masakit"],
-          "accepted": ["i think i am sick", "i think i'm sick", "i am probably sick", "i think i am ill"]
+          "wordIds": [
+            "body-masakit"
+          ],
+          "accepted": [
+            "i think i am sick",
+            "i think i'm sick",
+            "i am probably sick",
+            "i think i am ill",
+            "i think i'm ill",
+            "i am probably ill",
+            "i think i am painful",
+            "i think i'm painful",
+            "i am probably painful",
+            "i think i am hurt",
+            "i think i'm hurt",
+            "i am probably hurt"
+          ]
         },
         {
           "id": "body-5-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mapagal na ku.",
-          "wordIds": ["body-mapagal"],
-          "accepted": ["i am already tired", "i am tired now", "i am already weary", "i am weary now"]
+          "wordIds": [
+            "body-mapagal"
+          ],
+          "accepted": [
+            "i am already tired",
+            "i am tired now",
+            "i am already weary",
+            "i am weary now",
+            "i am already exhausted",
+            "i am exhausted now"
+          ]
         },
         {
           "id": "body-5-fb1",
           "type": "fill-blank",
           "prompt": "Maragul a ____ ya iti. (This is a serious illness.)",
-          "wordIds": ["body-sakit"],
+          "wordIds": [
+            "body-sakit"
+          ],
           "answerId": "body-sakit"
         },
         {
           "id": "body-5-ma1",
           "type": "matching",
-          "wordIds": ["body-masakit", "body-sakit", "body-mapagal"],
+          "wordIds": [
+            "body-masakit",
+            "body-sakit",
+            "body-mapagal"
+          ],
           "pairs": [
-            {"wordId": "body-masakit"},
-            {"wordId": "body-sakit"},
-            {"wordId": "body-mapagal"}
+            {
+              "wordId": "body-masakit"
+            },
+            {
+              "wordId": "body-sakit"
+            },
+            {
+              "wordId": "body-mapagal"
+            }
           ]
         }
       ]
@@ -555,14 +913,20 @@
       "title": "Doctor & Medicine",
       "theme": "healthcare",
       "intro": "Learn the words for doctor, medicine, and being healthy — essential for any health conversation.",
-      "wordIds": ["body-doktor", "body-gamut", "body-malusug"],
+      "wordIds": [
+        "body-doktor",
+        "body-gamut",
+        "body-malusug"
+      ],
       "exercises": [
         {
           "id": "body-6-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"doktor\" mean?",
-          "wordIds": ["body-doktor"],
+          "wordIds": [
+            "body-doktor"
+          ],
           "answerId": "body-doktor"
         },
         {
@@ -570,7 +934,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"gamut\" mean?",
-          "wordIds": ["body-gamut"],
+          "wordIds": [
+            "body-gamut"
+          ],
           "answerId": "body-gamut"
         },
         {
@@ -578,7 +944,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"malusug\" mean?",
-          "wordIds": ["body-malusug"],
+          "wordIds": [
+            "body-malusug"
+          ],
           "answerId": "body-malusug"
         },
         {
@@ -586,32 +954,104 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mangailangan kung doktor.",
-          "wordIds": ["body-doktor"],
-          "accepted": ["i need a doctor", "i need to see a doctor"]
+          "wordIds": [
+            "body-doktor"
+          ],
+          "accepted": [
+            "i need a doctor",
+            "i need to see a doctor",
+            "i need a physician",
+            "i need to see a physician"
+          ]
         },
         {
           "id": "body-6-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malusug ku ngeni.",
-          "wordIds": ["body-malusug"],
-          "accepted": ["i am healthy now", "i am well now", "i am in good health now"]
+          "wordIds": [
+            "body-malusug"
+          ],
+          "accepted": [
+            "i am healthy now",
+            "i am well now",
+            "i am in good health now"
+          ]
         },
         {
           "id": "body-6-fb1",
           "type": "fill-blank",
           "prompt": "Kailangan ko ning ____ para king sakit ku. (I need medicine for my illness.)",
-          "wordIds": ["body-gamut"],
+          "wordIds": [
+            "body-gamut"
+          ],
           "answerId": "body-gamut"
         },
         {
           "id": "body-6-ma1",
           "type": "matching",
-          "wordIds": ["body-doktor", "body-gamut", "body-malusug"],
+          "wordIds": [
+            "body-doktor",
+            "body-gamut",
+            "body-malusug"
+          ],
           "pairs": [
-            {"wordId": "body-doktor"},
-            {"wordId": "body-gamut"},
-            {"wordId": "body-malusug"}
+            {
+              "wordId": "body-doktor"
+            },
+            {
+              "wordId": "body-gamut"
+            },
+            {
+              "wordId": "body-malusug"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "body-7",
+      "title": "Paws & Feet: paa",
+      "theme": "animal and human feet",
+      "intro": "Learn 'paa', the word for foot or paw — especially used when talking about animal feet. For human feet and legs, the more specific Kapampangan word is 'bitis'.",
+      "wordIds": [
+        "body-paa"
+      ],
+      "exercises": [
+        {
+          "id": "body-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"paa\" mean?",
+          "wordIds": [
+            "body-paa"
+          ],
+          "answerId": "body-paa"
+        },
+        {
+          "id": "body-7-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "How do you say \"paw\" in Kapampangan?",
+          "wordIds": [
+            "body-paa"
+          ],
+          "answerId": "body-paa"
+        },
+        {
+          "id": "body-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Apat a paa ning aso.",
+          "wordIds": [
+            "body-paa"
+          ],
+          "accepted": [
+            "a dog has four paws",
+            "a dog has four feet",
+            "a dog has four legs",
+            "four paws of the dog",
+            "four feet of the dog"
           ]
         }
       ]

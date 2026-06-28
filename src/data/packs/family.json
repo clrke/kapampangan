@@ -6,11 +6,19 @@
       "id": "fam-ima",
       "word": "Ima",
       "partOfSpeech": "noun",
-      "translations": ["mother"],
+      "translations": [
+        "mother"
+      ],
       "relatedTagalog": "ina / nanay",
       "examples": [
-        {"kp": "Mayap ya ing Ima ku.", "en": "My mother is well."},
-        {"kp": "Maragul ya ing Ima ku.", "en": "My mother is great."}
+        {
+          "kp": "Mayap ya ing Ima ku.",
+          "en": "My mother is well."
+        },
+        {
+          "kp": "Maragul ya ing Ima ku.",
+          "en": "My mother is great."
+        }
       ],
       "notes": "The common Kapampangan word for mother. Also sometimes 'Indu' in older or more formal usage."
     },
@@ -18,11 +26,19 @@
       "id": "fam-tatang",
       "word": "Tatang",
       "partOfSpeech": "noun",
-      "translations": ["father"],
+      "translations": [
+        "father"
+      ],
       "relatedTagalog": "tatay / ama",
       "examples": [
-        {"kp": "Matua ne ing Tatang ku.", "en": "My father is already old."},
-        {"kp": "Tatang ku ing mangutang.", "en": "My father is the one who borrows."}
+        {
+          "kp": "Matua ne ing Tatang ku.",
+          "en": "My father is already old."
+        },
+        {
+          "kp": "Tatang ku ing mangutang.",
+          "en": "My father is the one who borrows."
+        }
       ],
       "notes": "Common word for father. Alternate form: Ibpa (more formal/archaic)."
     },
@@ -30,11 +46,22 @@
       "id": "fam-anak",
       "word": "Anak",
       "partOfSpeech": "noun",
-      "translations": ["child", "kid", "son", "daughter"],
+      "translations": [
+        "child",
+        "kid",
+        "son",
+        "daughter"
+      ],
       "relatedTagalog": "anak",
       "examples": [
-        {"kp": "Ninu ing Anak a yan?", "en": "Who is that child?"},
-        {"kp": "Metung yang Anak ing meyari ku.", "en": "I have one child."}
+        {
+          "kp": "Ninu ing Anak a yan?",
+          "en": "Who is that child?"
+        },
+        {
+          "kp": "Metung yang Anak ing meyari ku.",
+          "en": "I have one child."
+        }
       ],
       "notes": "Shared with Tagalog. Gender-neutral; specify 'anak a lalaki' (son) or 'anak a babai' (daughter) for specificity."
     },
@@ -42,11 +69,21 @@
       "id": "fam-kapatad",
       "word": "Kapatad",
       "partOfSpeech": "noun",
-      "translations": ["sibling", "brother", "sister"],
+      "translations": [
+        "sibling",
+        "brother",
+        "sister"
+      ],
       "relatedTagalog": "kapatid",
       "examples": [
-        {"kp": "Malagu ing Kapatad ku.", "en": "My sibling is beautiful."},
-        {"kp": "Adwa ring Kapatad ku.", "en": "I have two siblings."}
+        {
+          "kp": "Malagu ing Kapatad ku.",
+          "en": "My sibling is beautiful."
+        },
+        {
+          "kp": "Adwa ring Kapatad ku.",
+          "en": "I have two siblings."
+        }
       ],
       "notes": "Gender-neutral term for sibling. Related: Koya (older brother), Achi (older sister), Wali (younger sibling)."
     },
@@ -54,11 +91,19 @@
       "id": "fam-koya",
       "word": "Koya",
       "partOfSpeech": "noun",
-      "translations": ["older brother"],
+      "translations": [
+        "older brother"
+      ],
       "relatedTagalog": "kuya",
       "examples": [
-        {"kp": "Mayap ya ing Koya ku.", "en": "My older brother is good."},
-        {"kp": "Koya ku ing makatua.", "en": "My older brother is the eldest."}
+        {
+          "kp": "Mayap ya ing Koya ku.",
+          "en": "My older brother is good."
+        },
+        {
+          "kp": "Koya ku ing makatua.",
+          "en": "My older brother is the eldest."
+        }
       ],
       "notes": "Chinese loanword. Used both as a kinship term and as a respectful address to older males."
     },
@@ -66,11 +111,19 @@
       "id": "fam-achi",
       "word": "Achi",
       "partOfSpeech": "noun",
-      "translations": ["older sister"],
+      "translations": [
+        "older sister"
+      ],
       "relatedTagalog": "ate",
       "examples": [
-        {"kp": "Matulid ya ing Achi ku.", "en": "My older sister is upright."},
-        {"kp": "Achi ku ing talaturu.", "en": "My older sister is the one who teaches."}
+        {
+          "kp": "Matulid ya ing Achi ku.",
+          "en": "My older sister is upright."
+        },
+        {
+          "kp": "Achi ku ing talaturu.",
+          "en": "My older sister is the one who teaches."
+        }
       ],
       "notes": "Also spelled 'Atsi'. Chinese loanword. Used as kinship term and respectful address."
     },
@@ -78,11 +131,19 @@
       "id": "fam-wali",
       "word": "Wali",
       "partOfSpeech": "noun",
-      "translations": ["younger sibling"],
+      "translations": [
+        "younger sibling"
+      ],
       "relatedTagalog": "bunso / kapatid na bunso",
       "examples": [
-        {"kp": "Guagua pa ing Wali ku.", "en": "My younger sibling is still little."},
-        {"kp": "Tutulungan ku ing Wali ku.", "en": "I will help my younger sibling."}
+        {
+          "kp": "Guagua pa ing Wali ku.",
+          "en": "My younger sibling is still little."
+        },
+        {
+          "kp": "Tutulungan ku ing Wali ku.",
+          "en": "I will help my younger sibling."
+        }
       ],
       "notes": "Refers specifically to a younger sibling, regardless of gender."
     },
@@ -90,11 +151,19 @@
       "id": "fam-ingkung",
       "word": "Ingkung",
       "partOfSpeech": "noun",
-      "translations": ["grandfather"],
+      "translations": [
+        "grandfather"
+      ],
       "relatedTagalog": "lolo",
       "examples": [
-        {"kp": "Matua ne ing Ingkung ku.", "en": "My grandfather is already old."},
-        {"kp": "Mayap ya ing Ingkung ku kaku.", "en": "My grandfather is good to me."}
+        {
+          "kp": "Matua ne ing Ingkung ku.",
+          "en": "My grandfather is already old."
+        },
+        {
+          "kp": "Mayap ya ing Ingkung ku kaku.",
+          "en": "My grandfather is good to me."
+        }
       ],
       "notes": "Chinese loanword. Wikipedia notes this refers to maternal grandfather in some usage, though commonly used for grandfather in general."
     },
@@ -102,11 +171,20 @@
       "id": "fam-apu",
       "word": "Apu",
       "partOfSpeech": "noun",
-      "translations": ["grandmother", "grandparent"],
+      "translations": [
+        "grandmother",
+        "grandparent"
+      ],
       "relatedTagalog": "lola",
       "examples": [
-        {"kp": "Maragul ing Apu ku.", "en": "My grandmother is great."},
-        {"kp": "Apu ku ing migluto.", "en": "My grandmother is the one who cooked."}
+        {
+          "kp": "Maragul ing Apu ku.",
+          "en": "My grandmother is great."
+        },
+        {
+          "kp": "Apu ku ing migluto.",
+          "en": "My grandmother is the one who cooked."
+        }
       ],
       "notes": "Chinese loanword. Can also mean 'grandchild' in some contexts, and 'Impu' is used for maternal grandmother specifically. Commonly used for grandmother."
     },
@@ -114,11 +192,19 @@
       "id": "fam-bapa",
       "word": "Bapa",
       "partOfSpeech": "noun",
-      "translations": ["uncle"],
+      "translations": [
+        "uncle"
+      ],
       "relatedTagalog": "tito / tiyo",
       "examples": [
-        {"kp": "Mayap ya ing Bapa ku.", "en": "My uncle is kind."},
-        {"kp": "Bapa ku ing makatuang lalaki.", "en": "My uncle is the older man."}
+        {
+          "kp": "Mayap ya ing Bapa ku.",
+          "en": "My uncle is kind."
+        },
+        {
+          "kp": "Bapa ku ing makatuang lalaki.",
+          "en": "My uncle is the older man."
+        }
       ],
       "notes": "Informal short form: 'Bap'. Confirmed across multiple Kapampangan sources."
     },
@@ -126,11 +212,19 @@
       "id": "fam-dara",
       "word": "Dara",
       "partOfSpeech": "noun",
-      "translations": ["aunt"],
+      "translations": [
+        "aunt"
+      ],
       "relatedTagalog": "tita / tiya",
       "examples": [
-        {"kp": "Masanting ya ing Dara ku.", "en": "My aunt is beautiful."},
-        {"kp": "Dara ku ing tumawag kaku.", "en": "My aunt is the one who called me."}
+        {
+          "kp": "Masanting ya ing Dara ku.",
+          "en": "My aunt is beautiful."
+        },
+        {
+          "kp": "Dara ku ing tumawag kaku.",
+          "en": "My aunt is the one who called me."
+        }
       ],
       "notes": "Informal short form: 'Dar'. Confirmed in Kapampangan vocabulary sources."
     },
@@ -138,11 +232,19 @@
       "id": "fam-pamilia",
       "word": "Pamilia",
       "partOfSpeech": "noun",
-      "translations": ["family"],
+      "translations": [
+        "family"
+      ],
       "relatedTagalog": "pamilya",
       "examples": [
-        {"kp": "Maragul ing Pamilia ku.", "en": "My family is great."},
-        {"kp": "Ding Pamilia ku atyu la keni.", "en": "My family is here."}
+        {
+          "kp": "Maragul ing Pamilia ku.",
+          "en": "My family is great."
+        },
+        {
+          "kp": "Ding Pamilia ku atyu la keni.",
+          "en": "My family is here."
+        }
       ],
       "notes": "Confirmed in multiple Kapampangan vocabulary sources as the standard word for family."
     },
@@ -150,11 +252,20 @@
       "id": "fam-kamaganak",
       "word": "Kamaganak",
       "partOfSpeech": "noun",
-      "translations": ["relatives", "kinfolk"],
+      "translations": [
+        "relatives",
+        "kinfolk"
+      ],
       "relatedTagalog": "kamag-anak",
       "examples": [
-        {"kp": "Ding Kamaganak ku mapaglugud la.", "en": "My relatives are loving."},
-        {"kp": "Ding Kamaganak tamu pagsarian la.", "en": "Our relatives must be visited personally."}
+        {
+          "kp": "Ding Kamaganak ku mapaglugud la.",
+          "en": "My relatives are loving."
+        },
+        {
+          "kp": "Ding Kamaganak tamu pagsarian la.",
+          "en": "Our relatives must be visited personally."
+        }
       ],
       "notes": "The second example is attested in documented Kapampangan text."
     },
@@ -162,11 +273,21 @@
       "id": "fam-asawa",
       "word": "Asawa",
       "partOfSpeech": "noun",
-      "translations": ["spouse", "husband", "wife"],
+      "translations": [
+        "spouse",
+        "husband",
+        "wife"
+      ],
       "relatedTagalog": "asawa",
       "examples": [
-        {"kp": "Ini ing malagung Asawa ku.", "en": "This is my beautiful spouse."},
-        {"kp": "Mayap ya ing Asawa ku.", "en": "My spouse is well."}
+        {
+          "kp": "Ini ing malagung Asawa ku.",
+          "en": "This is my beautiful spouse."
+        },
+        {
+          "kp": "Mayap ya ing Asawa ku.",
+          "en": "My spouse is well."
+        }
       ],
       "notes": "Gender-neutral; refers to husband or wife. Attested by native speakers on Quora and WordReference forums."
     },
@@ -174,11 +295,20 @@
       "id": "fam-lalaki",
       "word": "Lalaki",
       "partOfSpeech": "noun",
-      "translations": ["man", "male"],
+      "translations": [
+        "man",
+        "male"
+      ],
       "relatedTagalog": "lalaki",
       "examples": [
-        {"kp": "Dinatang ya ing Lalaki.", "en": "The man arrived."},
-        {"kp": "Ninu la reng Lalaki?", "en": "Who are those men?"}
+        {
+          "kp": "Dinatang ya ing Lalaki.",
+          "en": "The man arrived."
+        },
+        {
+          "kp": "Ninu la reng Lalaki?",
+          "en": "Who are those men?"
+        }
       ],
       "notes": "Attested in grammar examples on multiple sites. Also used as an adjective modifier: 'anak a lalaki' (son)."
     },
@@ -186,11 +316,20 @@
       "id": "fam-babai",
       "word": "Babai",
       "partOfSpeech": "noun",
-      "translations": ["woman", "female"],
+      "translations": [
+        "woman",
+        "female"
+      ],
       "relatedTagalog": "babae",
       "examples": [
-        {"kp": "Malagu ing Babai.", "en": "The woman is beautiful."},
-        {"kp": "Ing Babai ing talaturu king anak.", "en": "The woman is the one teaching the child."}
+        {
+          "kp": "Malagu ing Babai.",
+          "en": "The woman is beautiful."
+        },
+        {
+          "kp": "Ing Babai ing talaturu king anak.",
+          "en": "The woman is the one teaching the child."
+        }
       ],
       "notes": "Also spelled 'Babayi'. Confirmed as Kapampangan word for woman. Also used as modifier: 'anak a babai' (daughter)."
     },
@@ -198,11 +337,21 @@
       "id": "fam-kaluguran",
       "word": "Kaluguran",
       "partOfSpeech": "noun",
-      "translations": ["friend", "beloved", "dear one"],
+      "translations": [
+        "friend",
+        "beloved",
+        "dear one"
+      ],
       "relatedTagalog": "kaibigan / minamahal",
       "examples": [
-        {"kp": "Mayap yang Kaluguran ing talaturung i Juan.", "en": "The teacher John is a good friend."},
-        {"kp": "Kaluguran daka.", "en": "I love you / You are my beloved."}
+        {
+          "kp": "Mayap yang Kaluguran ing talaturung i Juan.",
+          "en": "The teacher John is a good friend."
+        },
+        {
+          "kp": "Kaluguran daka.",
+          "en": "I love you / You are my beloved."
+        }
       ],
       "notes": "Stress-dependent: 'Kaluguran' (stressed first syllable) = friend/pal; 'Kaluguran' (stressed last syllable) = beloved/lover. Wiktionary-verified. From root 'lugud' (love, affection)."
     },
@@ -210,11 +359,19 @@
       "id": "fam-lagyu",
       "word": "Lagyu",
       "partOfSpeech": "noun",
-      "translations": ["name"],
+      "translations": [
+        "name"
+      ],
       "relatedTagalog": "pangalan",
       "examples": [
-        {"kp": "Nanu ing Lagyu mu?", "en": "What is your name?"},
-        {"kp": "Juan ya ing Lagyu ku.", "en": "My name is Juan."}
+        {
+          "kp": "Nanu ing Lagyu mu?",
+          "en": "What is your name?"
+        },
+        {
+          "kp": "Juan ya ing Lagyu ku.",
+          "en": "My name is Juan."
+        }
       ],
       "notes": "Wiktionary-attested. Also spelled 'laggiu' in older orthographies. The phrase 'Nanu ing lagyu mu?' is one of the most-cited Kapampangan sentences."
     },
@@ -222,11 +379,20 @@
       "id": "fam-tau",
       "word": "Tau",
       "partOfSpeech": "noun",
-      "translations": ["person", "people"],
+      "translations": [
+        "person",
+        "people"
+      ],
       "relatedTagalog": "tao",
       "examples": [
-        {"kp": "Mayap yang Tau ing Tatang ku.", "en": "My father is a good person."},
-        {"kp": "Ninu ing Tau a yan?", "en": "Who is that person?"}
+        {
+          "kp": "Mayap yang Tau ing Tatang ku.",
+          "en": "My father is a good person."
+        },
+        {
+          "kp": "Ninu ing Tau a yan?",
+          "en": "Who is that person?"
+        }
       ],
       "notes": "Also spelled 'taw'. The phrase 'Tau Kapampangan' is used to describe Kapampangan people as an ethnic group."
     }
@@ -237,14 +403,19 @@
       "title": "Parents",
       "theme": "mother and father",
       "intro": "In Kapampangan, 'Ima' means mother and 'Tatang' means father. These are the most essential family words you will learn.",
-      "wordIds": ["fam-ima", "fam-tatang"],
+      "wordIds": [
+        "fam-ima",
+        "fam-tatang"
+      ],
       "exercises": [
         {
           "id": "fam-1-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Ima\" mean?",
-          "wordIds": ["fam-ima"],
+          "wordIds": [
+            "fam-ima"
+          ],
           "answerId": "fam-ima"
         },
         {
@@ -252,7 +423,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Tatang\" mean?",
-          "wordIds": ["fam-tatang"],
+          "wordIds": [
+            "fam-tatang"
+          ],
           "answerId": "fam-tatang"
         },
         {
@@ -260,36 +433,59 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mayap ya ing Ima ku.",
-          "wordIds": ["fam-ima"],
-          "accepted": ["my mother is well", "my mother is good"]
+          "wordIds": [
+            "fam-ima"
+          ],
+          "accepted": [
+            "my mother is well",
+            "my mother is good"
+          ]
         },
         {
           "id": "fam-1-tr2",
           "type": "translate",
           "direction": "en-to-kp",
           "prompt": "My father is already old.",
-          "wordIds": ["fam-tatang"],
-          "accepted": ["matua ne ing tatang ku"]
+          "wordIds": [
+            "fam-tatang"
+          ],
+          "accepted": [
+            "matua ne ing tatang ku"
+          ]
         },
         {
           "id": "fam-1-fb1",
           "type": "fill-blank",
           "prompt": "Mayap ya ing ____ ku.  (My mother is well.)",
-          "wordIds": ["fam-ima"],
+          "wordIds": [
+            "fam-ima"
+          ],
           "answerId": "fam-ima"
         },
         {
           "id": "fam-1-fb2",
           "type": "fill-blank",
           "prompt": "Matua ne ing ____ ku.  (My father is already old.)",
-          "wordIds": ["fam-tatang"],
+          "wordIds": [
+            "fam-tatang"
+          ],
           "answerId": "fam-tatang"
         },
         {
           "id": "fam-1-ma1",
           "type": "matching",
-          "wordIds": ["fam-ima", "fam-tatang"],
-          "pairs": [{"wordId": "fam-ima"}, {"wordId": "fam-tatang"}]
+          "wordIds": [
+            "fam-ima",
+            "fam-tatang"
+          ],
+          "pairs": [
+            {
+              "wordId": "fam-ima"
+            },
+            {
+              "wordId": "fam-tatang"
+            }
+          ]
         }
       ]
     },
@@ -298,14 +494,22 @@
       "title": "Children & Siblings",
       "theme": "children and brothers and sisters",
       "intro": "In Kapampangan, 'Anak' means child, 'Kapatad' means sibling, 'Koya' is an older brother, 'Achi' an older sister, and 'Wali' a younger sibling.",
-      "wordIds": ["fam-anak", "fam-kapatad", "fam-koya", "fam-achi", "fam-wali"],
+      "wordIds": [
+        "fam-anak",
+        "fam-kapatad",
+        "fam-koya",
+        "fam-achi",
+        "fam-wali"
+      ],
       "exercises": [
         {
           "id": "fam-2-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Anak\" mean?",
-          "wordIds": ["fam-anak"],
+          "wordIds": [
+            "fam-anak"
+          ],
           "answerId": "fam-anak"
         },
         {
@@ -313,7 +517,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Koya\" mean?",
-          "wordIds": ["fam-koya"],
+          "wordIds": [
+            "fam-koya"
+          ],
           "answerId": "fam-koya"
         },
         {
@@ -321,7 +527,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Wali\" mean?",
-          "wordIds": ["fam-wali"],
+          "wordIds": [
+            "fam-wali"
+          ],
           "answerId": "fam-wali"
         },
         {
@@ -329,33 +537,64 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ninu ing Anak a yan?",
-          "wordIds": ["fam-anak"],
-          "accepted": ["who is that child?", "who is that child"]
+          "wordIds": [
+            "fam-anak"
+          ],
+          "accepted": [
+            "who is that child?",
+            "who is that child",
+            "who is that kid?",
+            "who is that kid",
+            "who is that son?",
+            "who is that son",
+            "who is that daughter?",
+            "who is that daughter"
+          ]
         },
         {
           "id": "fam-2-fb1",
           "type": "fill-blank",
           "prompt": "Malagu ing ____ ku.  (My sibling is beautiful.)",
-          "wordIds": ["fam-kapatad"],
+          "wordIds": [
+            "fam-kapatad"
+          ],
           "answerId": "fam-kapatad"
         },
         {
           "id": "fam-2-fb2",
           "type": "fill-blank",
           "prompt": "Mayap ya ing ____ ku.  (My older sister is good.)",
-          "wordIds": ["fam-achi"],
+          "wordIds": [
+            "fam-achi"
+          ],
           "answerId": "fam-achi"
         },
         {
           "id": "fam-2-ma1",
           "type": "matching",
-          "wordIds": ["fam-anak", "fam-kapatad", "fam-koya", "fam-achi", "fam-wali"],
+          "wordIds": [
+            "fam-anak",
+            "fam-kapatad",
+            "fam-koya",
+            "fam-achi",
+            "fam-wali"
+          ],
           "pairs": [
-            {"wordId": "fam-anak"},
-            {"wordId": "fam-kapatad"},
-            {"wordId": "fam-koya"},
-            {"wordId": "fam-achi"},
-            {"wordId": "fam-wali"}
+            {
+              "wordId": "fam-anak"
+            },
+            {
+              "wordId": "fam-kapatad"
+            },
+            {
+              "wordId": "fam-koya"
+            },
+            {
+              "wordId": "fam-achi"
+            },
+            {
+              "wordId": "fam-wali"
+            }
           ]
         }
       ]
@@ -365,14 +604,21 @@
       "title": "Grandparents & Extended Family",
       "theme": "grandparents, aunts, and uncles",
       "intro": "Kapampangan has distinct words for grandparents borrowed from Chinese: 'Ingkung' (grandfather) and 'Apu' (grandmother). 'Bapa' is uncle and 'Dara' is aunt.",
-      "wordIds": ["fam-ingkung", "fam-apu", "fam-bapa", "fam-dara"],
+      "wordIds": [
+        "fam-ingkung",
+        "fam-apu",
+        "fam-bapa",
+        "fam-dara"
+      ],
       "exercises": [
         {
           "id": "fam-3-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Ingkung\" mean?",
-          "wordIds": ["fam-ingkung"],
+          "wordIds": [
+            "fam-ingkung"
+          ],
           "answerId": "fam-ingkung"
         },
         {
@@ -380,7 +626,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Apu\" mean?",
-          "wordIds": ["fam-apu"],
+          "wordIds": [
+            "fam-apu"
+          ],
           "answerId": "fam-apu"
         },
         {
@@ -388,32 +636,54 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ing Apu ku.",
-          "wordIds": ["fam-apu"],
-          "accepted": ["my grandmother is great", "my grandparent is great"]
+          "wordIds": [
+            "fam-apu"
+          ],
+          "accepted": [
+            "my grandmother is great",
+            "my grandparent is great"
+          ]
         },
         {
           "id": "fam-3-fb1",
           "type": "fill-blank",
           "prompt": "Mayap ya ing ____ ku.  (My uncle is kind.)",
-          "wordIds": ["fam-bapa"],
+          "wordIds": [
+            "fam-bapa"
+          ],
           "answerId": "fam-bapa"
         },
         {
           "id": "fam-3-fb2",
           "type": "fill-blank",
           "prompt": "Masanting ya ing ____ ku.  (My aunt is beautiful.)",
-          "wordIds": ["fam-dara"],
+          "wordIds": [
+            "fam-dara"
+          ],
           "answerId": "fam-dara"
         },
         {
           "id": "fam-3-ma1",
           "type": "matching",
-          "wordIds": ["fam-ingkung", "fam-apu", "fam-bapa", "fam-dara"],
+          "wordIds": [
+            "fam-ingkung",
+            "fam-apu",
+            "fam-bapa",
+            "fam-dara"
+          ],
           "pairs": [
-            {"wordId": "fam-ingkung"},
-            {"wordId": "fam-apu"},
-            {"wordId": "fam-bapa"},
-            {"wordId": "fam-dara"}
+            {
+              "wordId": "fam-ingkung"
+            },
+            {
+              "wordId": "fam-apu"
+            },
+            {
+              "wordId": "fam-bapa"
+            },
+            {
+              "wordId": "fam-dara"
+            }
           ]
         },
         {
@@ -421,8 +691,13 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Matua ne ing Ingkung ku.",
-          "wordIds": ["fam-ingkung"],
-          "accepted": ["my grandfather is already old", "my grandfather is old already"]
+          "wordIds": [
+            "fam-ingkung"
+          ],
+          "accepted": [
+            "my grandfather is already old",
+            "my grandfather is old already"
+          ]
         }
       ]
     },
@@ -431,14 +706,20 @@
       "title": "Family & Relatives",
       "theme": "family groups and kinship",
       "intro": "In Kapampangan, 'Pamilia' means family and 'Kamaganak' means relatives or kinfolk. 'Asawa' is the gender-neutral word for spouse.",
-      "wordIds": ["fam-pamilia", "fam-kamaganak", "fam-asawa"],
+      "wordIds": [
+        "fam-pamilia",
+        "fam-kamaganak",
+        "fam-asawa"
+      ],
       "exercises": [
         {
           "id": "fam-4-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Pamilia\" mean?",
-          "wordIds": ["fam-pamilia"],
+          "wordIds": [
+            "fam-pamilia"
+          ],
           "answerId": "fam-pamilia"
         },
         {
@@ -446,7 +727,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Asawa\" mean?",
-          "wordIds": ["fam-asawa"],
+          "wordIds": [
+            "fam-asawa"
+          ],
           "answerId": "fam-asawa"
         },
         {
@@ -454,39 +737,64 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ing Pamilia ku.",
-          "wordIds": ["fam-pamilia"],
-          "accepted": ["my family is great", "my family is big"]
+          "wordIds": [
+            "fam-pamilia"
+          ],
+          "accepted": [
+            "my family is great",
+            "my family is big"
+          ]
         },
         {
           "id": "fam-4-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ini ing malagung Asawa ku.",
-          "wordIds": ["fam-asawa"],
-          "accepted": ["this is my beautiful spouse", "this is my beautiful wife", "this is my beautiful husband"]
+          "wordIds": [
+            "fam-asawa"
+          ],
+          "accepted": [
+            "this is my beautiful spouse",
+            "this is my beautiful wife",
+            "this is my beautiful husband"
+          ]
         },
         {
           "id": "fam-4-fb1",
           "type": "fill-blank",
           "prompt": "Ding ____ ku mapaglugud la.  (My relatives are loving.)",
-          "wordIds": ["fam-kamaganak"],
+          "wordIds": [
+            "fam-kamaganak"
+          ],
           "answerId": "fam-kamaganak"
         },
         {
           "id": "fam-4-fb2",
           "type": "fill-blank",
           "prompt": "Ding ____ ku atyu la keni.  (My family is here.)",
-          "wordIds": ["fam-pamilia"],
+          "wordIds": [
+            "fam-pamilia"
+          ],
           "answerId": "fam-pamilia"
         },
         {
           "id": "fam-4-ma1",
           "type": "matching",
-          "wordIds": ["fam-pamilia", "fam-kamaganak", "fam-asawa"],
+          "wordIds": [
+            "fam-pamilia",
+            "fam-kamaganak",
+            "fam-asawa"
+          ],
           "pairs": [
-            {"wordId": "fam-pamilia"},
-            {"wordId": "fam-kamaganak"},
-            {"wordId": "fam-asawa"}
+            {
+              "wordId": "fam-pamilia"
+            },
+            {
+              "wordId": "fam-kamaganak"
+            },
+            {
+              "wordId": "fam-asawa"
+            }
           ]
         }
       ]
@@ -496,14 +804,19 @@
       "title": "Men & Women",
       "theme": "describing people by gender",
       "intro": "In Kapampangan, 'Lalaki' means man and 'Babai' means woman. These words are also used as modifiers: 'anak a lalaki' (son) and 'anak a babai' (daughter).",
-      "wordIds": ["fam-lalaki", "fam-babai"],
+      "wordIds": [
+        "fam-lalaki",
+        "fam-babai"
+      ],
       "exercises": [
         {
           "id": "fam-5-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Lalaki\" mean?",
-          "wordIds": ["fam-lalaki"],
+          "wordIds": [
+            "fam-lalaki"
+          ],
           "answerId": "fam-lalaki"
         },
         {
@@ -511,7 +824,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Babai\" mean?",
-          "wordIds": ["fam-babai"],
+          "wordIds": [
+            "fam-babai"
+          ],
           "answerId": "fam-babai"
         },
         {
@@ -519,36 +834,64 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Dinatang ya ing Lalaki.",
-          "wordIds": ["fam-lalaki"],
-          "accepted": ["the man arrived", "a man arrived"]
+          "wordIds": [
+            "fam-lalaki"
+          ],
+          "accepted": [
+            "the man arrived",
+            "a man arrived",
+            "the male arrived",
+            "a male arrived"
+          ]
         },
         {
           "id": "fam-5-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malagu ing Babai.",
-          "wordIds": ["fam-babai"],
-          "accepted": ["the woman is beautiful", "the woman is pretty"]
+          "wordIds": [
+            "fam-babai"
+          ],
+          "accepted": [
+            "the woman is beautiful",
+            "the woman is pretty",
+            "the female is beautiful",
+            "the female is pretty"
+          ]
         },
         {
           "id": "fam-5-fb1",
           "type": "fill-blank",
           "prompt": "Dinatang ya ing ____.  (The man arrived.)",
-          "wordIds": ["fam-lalaki"],
+          "wordIds": [
+            "fam-lalaki"
+          ],
           "answerId": "fam-lalaki"
         },
         {
           "id": "fam-5-fb2",
           "type": "fill-blank",
           "prompt": "Malagu ing ____.  (The woman is beautiful.)",
-          "wordIds": ["fam-babai"],
+          "wordIds": [
+            "fam-babai"
+          ],
           "answerId": "fam-babai"
         },
         {
           "id": "fam-5-ma1",
           "type": "matching",
-          "wordIds": ["fam-lalaki", "fam-babai"],
-          "pairs": [{"wordId": "fam-lalaki"}, {"wordId": "fam-babai"}]
+          "wordIds": [
+            "fam-lalaki",
+            "fam-babai"
+          ],
+          "pairs": [
+            {
+              "wordId": "fam-lalaki"
+            },
+            {
+              "wordId": "fam-babai"
+            }
+          ]
         }
       ]
     },
@@ -557,14 +900,20 @@
       "title": "Friends, Names & People",
       "theme": "social connections and identity",
       "intro": "In Kapampangan, 'Kaluguran' can mean friend or beloved, 'Lagyu' means name, and 'Tau' means person or people. These words are essential for introducing yourself and making connections.",
-      "wordIds": ["fam-kaluguran", "fam-lagyu", "fam-tau"],
+      "wordIds": [
+        "fam-kaluguran",
+        "fam-lagyu",
+        "fam-tau"
+      ],
       "exercises": [
         {
           "id": "fam-6-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Lagyu\" mean?",
-          "wordIds": ["fam-lagyu"],
+          "wordIds": [
+            "fam-lagyu"
+          ],
           "answerId": "fam-lagyu"
         },
         {
@@ -572,7 +921,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Tau\" mean?",
-          "wordIds": ["fam-tau"],
+          "wordIds": [
+            "fam-tau"
+          ],
           "answerId": "fam-tau"
         },
         {
@@ -580,39 +931,63 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Nanu ing Lagyu mu?",
-          "wordIds": ["fam-lagyu"],
-          "accepted": ["what is your name?", "what is your name"]
+          "wordIds": [
+            "fam-lagyu"
+          ],
+          "accepted": [
+            "what is your name?",
+            "what is your name"
+          ]
         },
         {
           "id": "fam-6-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Juan ya ing Lagyu ku.",
-          "wordIds": ["fam-lagyu"],
-          "accepted": ["my name is juan", "my name is john"]
+          "wordIds": [
+            "fam-lagyu"
+          ],
+          "accepted": [
+            "my name is juan",
+            "my name is john"
+          ]
         },
         {
           "id": "fam-6-fb1",
           "type": "fill-blank",
           "prompt": "Nanu ing ____ mu?  (What is your name?)",
-          "wordIds": ["fam-lagyu"],
+          "wordIds": [
+            "fam-lagyu"
+          ],
           "answerId": "fam-lagyu"
         },
         {
           "id": "fam-6-fb2",
           "type": "fill-blank",
           "prompt": "Mayap yang ____ ing Tatang ku.  (My father is a good person.)",
-          "wordIds": ["fam-tau"],
+          "wordIds": [
+            "fam-tau"
+          ],
           "answerId": "fam-tau"
         },
         {
           "id": "fam-6-ma1",
           "type": "matching",
-          "wordIds": ["fam-kaluguran", "fam-lagyu", "fam-tau"],
+          "wordIds": [
+            "fam-kaluguran",
+            "fam-lagyu",
+            "fam-tau"
+          ],
           "pairs": [
-            {"wordId": "fam-kaluguran"},
-            {"wordId": "fam-lagyu"},
-            {"wordId": "fam-tau"}
+            {
+              "wordId": "fam-kaluguran"
+            },
+            {
+              "wordId": "fam-lagyu"
+            },
+            {
+              "wordId": "fam-tau"
+            }
           ]
         }
       ]

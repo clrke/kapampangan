@@ -373,7 +373,11 @@
             "i am happy today!",
             "i am happy today",
             "i'm happy today!",
-            "i'm happy today"
+            "i'm happy today",
+            "i am joyful today!",
+            "i am joyful today",
+            "i'm joyful today!",
+            "i'm joyful today"
           ]
         },
         {
@@ -388,7 +392,15 @@
             "the child cries when he is sad.",
             "the child cries when he is sad",
             "the child weeps when he is sad.",
-            "the child weeps when he is sad"
+            "the child weeps when he is sad",
+            "the child cries when he is lonely.",
+            "the child cries when he is lonely",
+            "the child weeps when he is lonely.",
+            "the child weeps when he is lonely",
+            "the child cries when he is sorrowful.",
+            "the child cries when he is sorrowful",
+            "the child weeps when he is sorrowful.",
+            "the child weeps when he is sorrowful"
           ]
         },
         {
@@ -474,7 +486,11 @@
             "i am angry at you!",
             "i am angry at you",
             "i'm angry at you!",
-            "i'm angry at you"
+            "i'm angry at you",
+            "i am mad at you!",
+            "i am mad at you",
+            "i'm mad at you!",
+            "i'm mad at you"
           ]
         },
         {
@@ -489,7 +505,15 @@
             "i am surprised by the news.",
             "i am surprised by the news",
             "i was surprised by the news.",
-            "i was surprised by the news"
+            "i was surprised by the news",
+            "i am astonished by the news.",
+            "i am astonished by the news",
+            "i was astonished by the news.",
+            "i was astonished by the news",
+            "i am amazed by the news.",
+            "i am amazed by the news",
+            "i was amazed by the news.",
+            "i was amazed by the news"
           ]
         },
         {
@@ -575,7 +599,15 @@
             "i am shy when talking to new people.",
             "i am shy when talking to new people",
             "i'm shy when talking to new people.",
-            "i'm shy when talking to new people"
+            "i'm shy when talking to new people",
+            "i am ashamed when talking to new people.",
+            "i am ashamed when talking to new people",
+            "i'm ashamed when talking to new people.",
+            "i'm ashamed when talking to new people",
+            "i am embarrassed when talking to new people.",
+            "i am embarrassed when talking to new people",
+            "i'm embarrassed when talking to new people.",
+            "i'm embarrassed when talking to new people"
           ]
         },
         {
@@ -590,7 +622,9 @@
             "i have pride in my hometown.",
             "i have pride in my hometown",
             "i am proud of my hometown.",
-            "i am proud of my hometown"
+            "i am proud of my hometown",
+            "i have feeling of being proud in my hometown.",
+            "i have feeling of being proud in my hometown"
           ]
         },
         {
@@ -676,7 +710,9 @@
             "i am glad for your love for me.",
             "i am glad for your love for me",
             "i am joyful for your love for me.",
-            "i am joyful for your love for me"
+            "i am joyful for your love for me",
+            "i am content for your love for me.",
+            "i am content for your love for me"
           ]
         },
         {
@@ -691,7 +727,11 @@
             "my heart is aching.",
             "my heart is aching",
             "my heart aches.",
-            "my heart aches"
+            "my heart aches",
+            "my heart is hurting.",
+            "my heart is hurting",
+            "my heart is pained.",
+            "my heart is pained"
           ]
         },
         {
@@ -776,7 +816,11 @@
             "i am already bored with this work.",
             "i am already bored with this work",
             "i am fed up with this work.",
-            "i am fed up with this work"
+            "i am fed up with this work",
+            "i am already fed up with this work.",
+            "i am already fed up with this work",
+            "i am already weary of with this work.",
+            "i am already weary of with this work"
           ]
         },
         {
@@ -875,7 +919,9 @@
             "we are afraid at night.",
             "we are afraid at night",
             "we are scared at night.",
-            "we are scared at night"
+            "we are scared at night",
+            "we are frightened at night.",
+            "we are frightened at night"
           ]
         },
         {
@@ -984,7 +1030,11 @@
             "i am already bored with this work.",
             "i am already bored with this work",
             "i am fed up with this work.",
-            "i am fed up with this work"
+            "i am fed up with this work",
+            "i am already fed up with this work.",
+            "i am already fed up with this work",
+            "i am already weary of with this work.",
+            "i am already weary of with this work"
           ]
         }
       ]

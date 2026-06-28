@@ -6,7 +6,11 @@
       "id": "dl-trabahu",
       "word": "trabahu",
       "partOfSpeech": "noun",
-      "translations": ["work", "job", "labor"],
+      "translations": [
+        "work",
+        "job",
+        "labor"
+      ],
       "relatedTagalog": "trabaho",
       "examples": [
         {
@@ -24,7 +28,11 @@
       "id": "dl-panahon",
       "word": "panahon",
       "partOfSpeech": "noun",
-      "translations": ["weather", "time", "season"],
+      "translations": [
+        "weather",
+        "time",
+        "season"
+      ],
       "relatedTagalog": "panahon",
       "examples": [
         {
@@ -42,7 +50,12 @@
       "id": "dl-gawa",
       "word": "gawa",
       "partOfSpeech": "noun",
-      "translations": ["task", "deed", "work", "act"],
+      "translations": [
+        "task",
+        "deed",
+        "work",
+        "act"
+      ],
       "relatedTagalog": "gawa",
       "examples": [
         {
@@ -60,7 +73,11 @@
       "id": "dl-byahe",
       "word": "byahe",
       "partOfSpeech": "noun",
-      "translations": ["trip", "journey", "travel"],
+      "translations": [
+        "trip",
+        "journey",
+        "travel"
+      ],
       "relatedTagalog": "biyahe",
       "examples": [
         {
@@ -77,7 +94,10 @@
       "id": "dl-daliri",
       "word": "daliri",
       "partOfSpeech": "noun",
-      "translations": ["finger", "toe"],
+      "translations": [
+        "finger",
+        "toe"
+      ],
       "relatedTagalog": "daliri",
       "examples": [
         {
@@ -95,7 +115,9 @@
       "id": "dl-gutom",
       "word": "gutom",
       "partOfSpeech": "adjective",
-      "translations": ["hungry"],
+      "translations": [
+        "hungry"
+      ],
       "relatedTagalog": "gutom",
       "examples": [
         {
@@ -112,7 +134,11 @@
       "id": "dl-mapalad",
       "word": "mapalad",
       "partOfSpeech": "adjective",
-      "translations": ["lucky", "fortunate", "blessed"],
+      "translations": [
+        "lucky",
+        "fortunate",
+        "blessed"
+      ],
       "relatedTagalog": "mapalad",
       "examples": [
         {
@@ -129,7 +155,11 @@
       "id": "dl-balita",
       "word": "balita",
       "partOfSpeech": "noun",
-      "translations": ["news", "information", "report"],
+      "translations": [
+        "news",
+        "information",
+        "report"
+      ],
       "relatedTagalog": "balita",
       "examples": [
         {
@@ -161,7 +191,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"trabahu\" mean?",
-          "wordIds": ["dl-trabahu"],
+          "wordIds": [
+            "dl-trabahu"
+          ],
           "answerId": "dl-trabahu"
         },
         {
@@ -169,7 +201,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"weather\" or \"season\"?",
-          "wordIds": ["dl-panahon"],
+          "wordIds": [
+            "dl-panahon"
+          ],
           "answerId": "dl-panahon"
         },
         {
@@ -177,7 +211,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"gawa\" mean?",
-          "wordIds": ["dl-gawa"],
+          "wordIds": [
+            "dl-gawa"
+          ],
           "answerId": "dl-gawa"
         },
         {
@@ -185,7 +221,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"trip\" or \"journey\"?",
-          "wordIds": ["dl-byahe"],
+          "wordIds": [
+            "dl-byahe"
+          ],
           "answerId": "dl-byahe"
         },
         {
@@ -193,7 +231,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"byahe\" mean?",
-          "wordIds": ["dl-byahe"],
+          "wordIds": [
+            "dl-byahe"
+          ],
           "answerId": "dl-byahe"
         },
         {
@@ -201,7 +241,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"work\" or \"job\"?",
-          "wordIds": ["dl-trabahu"],
+          "wordIds": [
+            "dl-trabahu"
+          ],
           "answerId": "dl-trabahu"
         },
         {
@@ -209,7 +251,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"task\" or \"deed\"?",
-          "wordIds": ["dl-gawa"],
+          "wordIds": [
+            "dl-gawa"
+          ],
           "answerId": "dl-gawa"
         },
         {
@@ -217,10 +261,16 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ing trabahu ku king abak.",
-          "wordIds": ["dl-trabahu"],
+          "wordIds": [
+            "dl-trabahu"
+          ],
           "accepted": [
             "my work is heavy in the morning",
-            "my work is heavy in the morning."
+            "my work is heavy in the morning.",
+            "my job is heavy in the morning",
+            "my job is heavy in the morning.",
+            "my labor is heavy in the morning",
+            "my labor is heavy in the morning."
           ]
         },
         {
@@ -228,10 +278,16 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mapali ing panahon ngeni.",
-          "wordIds": ["dl-panahon"],
+          "wordIds": [
+            "dl-panahon"
+          ],
           "accepted": [
             "the weather is hot today",
-            "the weather is hot today."
+            "the weather is hot today.",
+            "the time is hot today",
+            "the time is hot today.",
+            "the season is hot today",
+            "the season is hot today."
           ]
         },
         {
@@ -239,12 +295,16 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atlung aldo na ing byahe.",
-          "wordIds": ["dl-byahe"],
+          "wordIds": [
+            "dl-byahe"
+          ],
           "accepted": [
             "the trip is three days",
             "the trip is three days.",
             "the journey is three days",
-            "the journey is three days."
+            "the journey is three days.",
+            "the travel is three days",
+            "the travel is three days."
           ]
         }
       ]
@@ -266,7 +326,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"daliri\" mean?",
-          "wordIds": ["dl-daliri"],
+          "wordIds": [
+            "dl-daliri"
+          ],
           "answerId": "dl-daliri"
         },
         {
@@ -274,7 +336,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"hungry\"?",
-          "wordIds": ["dl-gutom"],
+          "wordIds": [
+            "dl-gutom"
+          ],
           "answerId": "dl-gutom"
         },
         {
@@ -282,7 +346,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"mapalad\" mean?",
-          "wordIds": ["dl-mapalad"],
+          "wordIds": [
+            "dl-mapalad"
+          ],
           "answerId": "dl-mapalad"
         },
         {
@@ -290,7 +356,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"news\" or \"information\"?",
-          "wordIds": ["dl-balita"],
+          "wordIds": [
+            "dl-balita"
+          ],
           "answerId": "dl-balita"
         },
         {
@@ -298,7 +366,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"gutom\" mean?",
-          "wordIds": ["dl-gutom"],
+          "wordIds": [
+            "dl-gutom"
+          ],
           "answerId": "dl-gutom"
         },
         {
@@ -306,7 +376,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"lucky\" or \"fortunate\"?",
-          "wordIds": ["dl-mapalad"],
+          "wordIds": [
+            "dl-mapalad"
+          ],
           "answerId": "dl-mapalad"
         },
         {
@@ -314,7 +386,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"finger\" or \"toe\"?",
-          "wordIds": ["dl-daliri"],
+          "wordIds": [
+            "dl-daliri"
+          ],
           "answerId": "dl-daliri"
         },
         {
@@ -322,7 +396,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Lima la reng daliri ning kamut.",
-          "wordIds": ["dl-daliri"],
+          "wordIds": [
+            "dl-daliri"
+          ],
           "accepted": [
             "there are five fingers on the hand",
             "there are five fingers on the hand.",
@@ -335,7 +411,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Gutom ya ing atyan ku.",
-          "wordIds": ["dl-gutom"],
+          "wordIds": [
+            "dl-gutom"
+          ],
           "accepted": [
             "my stomach is hungry",
             "my stomach is hungry.",
@@ -348,10 +426,16 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Meniglo ku king balita.",
-          "wordIds": ["dl-balita"],
+          "wordIds": [
+            "dl-balita"
+          ],
           "accepted": [
             "i was surprised by the news",
-            "i was surprised by the news."
+            "i was surprised by the news.",
+            "i was surprised by the information",
+            "i was surprised by the information.",
+            "i was surprised by the report",
+            "i was surprised by the report."
           ]
         }
       ]

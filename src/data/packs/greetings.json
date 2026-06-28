@@ -384,7 +384,9 @@
           ],
           "accepted": [
             "good evening, classmate!",
-            "good evening, classmate"
+            "good evening, classmate",
+            "good night, classmate!",
+            "good night, classmate"
           ]
         },
         {
@@ -464,7 +466,13 @@
           ],
           "accepted": [
             "see you next time!",
-            "see you next time"
+            "see you next time",
+            "see you later next time!",
+            "see you later next time",
+            "see you next time next time!",
+            "see you next time next time",
+            "see you next time later next time!",
+            "see you next time later next time"
           ]
         },
         {
@@ -477,7 +485,9 @@
           ],
           "accepted": [
             "let's go, let's go eat!",
-            "let's go, let's go eat"
+            "let's go, let's go eat",
+            "come on, let's go, come on, let's go eat!",
+            "come on, let's go, come on, let's go eat"
           ]
         },
         {
@@ -578,7 +588,9 @@
           ],
           "accepted": [
             "excuse me, i'm going already.",
-            "excuse me, i am going already."
+            "excuse me, i am going already.",
+            "pardon me, i'm going already.",
+            "pardon me, i am going already."
           ]
         },
         {
@@ -657,7 +669,10 @@
           ],
           "accepted": [
             "i'm sorry, i forgot.",
-            "sorry, i forgot."
+            "sorry, i forgot.",
+            "i'm please forgive me, i forgot.",
+            "please forgive me, i forgot.",
+            "i'm i'm sorry, i forgot."
           ]
         },
         {
@@ -751,7 +766,9 @@
           ],
           "accepted": [
             "welcome to our home.",
-            "welcome to our house."
+            "welcome to our house.",
+            "please come in to our home.",
+            "please come in to our house."
           ]
         },
         {

@@ -6,11 +6,19 @@
       "id": "nat-batuin",
       "word": "Batuin",
       "partOfSpeech": "noun",
-      "translations": ["star"],
+      "translations": [
+        "star"
+      ],
       "relatedTagalog": "bituin",
       "examples": [
-        {"kp": "Maliwanag ya ing batuin king banua.", "en": "The star is bright in the sky."},
-        {"kp": "Dakal lang batuin nung bengi.", "en": "There are many stars at night."}
+        {
+          "kp": "Maliwanag ya ing batuin king banua.",
+          "en": "The star is bright in the sky."
+        },
+        {
+          "kp": "Dakal lang batuin nung bengi.",
+          "en": "There are many stars at night."
+        }
       ],
       "notes": "From Proto-Philippine *bituqen. Compare Tagalog bituin."
     },
@@ -18,11 +26,19 @@
       "id": "nat-uran",
       "word": "Uran",
       "partOfSpeech": "noun",
-      "translations": ["rain"],
+      "translations": [
+        "rain"
+      ],
       "relatedTagalog": "ulan",
       "examples": [
-        {"kp": "Malake ing uran ngeni.", "en": "The rain is heavy today."},
-        {"kp": "Pota muran kayabe.", "en": "It might rain later."}
+        {
+          "kp": "Malake ing uran ngeni.",
+          "en": "The rain is heavy today."
+        },
+        {
+          "kp": "Pota muran kayabe.",
+          "en": "It might rain later."
+        }
       ],
       "notes": "Common weather term; kauran refers to the rainy season."
     },
@@ -30,22 +46,41 @@
       "id": "nat-angin",
       "word": "Angin",
       "partOfSpeech": "noun",
-      "translations": ["wind", "air"],
+      "translations": [
+        "wind",
+        "air"
+      ],
       "relatedTagalog": "hangin",
       "examples": [
-        {"kp": "Malupit ya ing angin ngeni.", "en": "The wind is strong today."},
-        {"kp": "Marimla ya ing angin.", "en": "The wind is cool."}
+        {
+          "kp": "Malupit ya ing angin ngeni.",
+          "en": "The wind is strong today."
+        },
+        {
+          "kp": "Marimla ya ing angin.",
+          "en": "The wind is cool."
+        }
       ]
     },
     {
       "id": "nat-ulap",
       "word": "Ulap",
       "partOfSpeech": "noun",
-      "translations": ["cloud", "mist", "fog"],
+      "translations": [
+        "cloud",
+        "mist",
+        "fog"
+      ],
       "relatedTagalog": "ulap",
       "examples": [
-        {"kp": "Mabala lang ulap king bunduk.", "en": "The clouds on the mountain are thick."},
-        {"kp": "Mekublan ne ing aldo ning ulap.", "en": "The sun was covered by cloud."}
+        {
+          "kp": "Mabala lang ulap king bunduk.",
+          "en": "The clouds on the mountain are thick."
+        },
+        {
+          "kp": "Mekublan ne ing aldo ning ulap.",
+          "en": "The sun was covered by cloud."
+        }
       ],
       "notes": "In Kapampangan, ulap can refer to clouds, mist, or fog. Cognate with Tagalog ulap (cloud) and Ilocano ulep (cloud)."
     },
@@ -53,11 +88,20 @@
       "id": "nat-api",
       "word": "Api",
       "partOfSpeech": "noun",
-      "translations": ["fire", "flame"],
+      "translations": [
+        "fire",
+        "flame"
+      ],
       "relatedTagalog": "apoy",
       "examples": [
-        {"kp": "Maragul ya ing api.", "en": "The fire is big."},
-        {"kp": "Atin api keni, masileng tamu.", "en": "There is fire here, let us be careful."}
+        {
+          "kp": "Maragul ya ing api.",
+          "en": "The fire is big."
+        },
+        {
+          "kp": "Atin api keni, masileng tamu.",
+          "en": "There is fire here, let us be careful."
+        }
       ],
       "notes": "Often refers to hearth fire in domestic contexts."
     },
@@ -65,11 +109,20 @@
       "id": "nat-bunduk",
       "word": "Bunduk",
       "partOfSpeech": "noun",
-      "translations": ["mountain", "hill"],
+      "translations": [
+        "mountain",
+        "hill"
+      ],
       "relatedTagalog": "bundok",
       "examples": [
-        {"kp": "Matas ya ing bunduk Arayat.", "en": "Mount Arayat is tall."},
-        {"kp": "Bisa kung munta king bunduk.", "en": "I want to go to the mountain."}
+        {
+          "kp": "Matas ya ing bunduk Arayat.",
+          "en": "Mount Arayat is tall."
+        },
+        {
+          "kp": "Bisa kung munta king bunduk.",
+          "en": "I want to go to the mountain."
+        }
       ],
       "notes": "Documented as early as 1621 in Fray Francisco Coronel's Arte y Reglas de la Lengua Pampanga."
     },
@@ -77,11 +130,19 @@
       "id": "nat-ilug",
       "word": "Ilug",
       "partOfSpeech": "noun",
-      "translations": ["river"],
+      "translations": [
+        "river"
+      ],
       "relatedTagalog": "ilog",
       "examples": [
-        {"kp": "Mapalad ya ing ilug keni.", "en": "The river here is wide."},
-        {"kp": "Ding ilug palwal la king dayat malat.", "en": "The rivers flow out to the sea."}
+        {
+          "kp": "Mapalad ya ing ilug keni.",
+          "en": "The river here is wide."
+        },
+        {
+          "kp": "Ding ilug palwal la king dayat malat.",
+          "en": "The rivers flow out to the sea."
+        }
       ],
       "notes": "Also documented in Coronel's 1621 grammar."
     },
@@ -89,11 +150,20 @@
       "id": "nat-dayat",
       "word": "Dagat",
       "partOfSpeech": "noun",
-      "translations": ["sea", "ocean"],
+      "translations": [
+        "sea",
+        "ocean"
+      ],
       "relatedTagalog": "dagat",
       "examples": [
-        {"kp": "Malayo ya ing dagat kareni.", "en": "The sea is far from here."},
-        {"kp": "Ding ilug palwal la king dagat.", "en": "The rivers flow out to the sea."}
+        {
+          "kp": "Malayo ya ing dagat kareni.",
+          "en": "The sea is far from here."
+        },
+        {
+          "kp": "Ding ilug palwal la king dagat.",
+          "en": "The rivers flow out to the sea."
+        }
       ],
       "notes": "Used in the Kapampangan Bible (PmPV, Genesis 1). The older/traditional term is dayat malat (literally 'salty field'); the Tagalog word dagat is a borrowing and corruption of Kapampangan dayat. Both forms are current in Kapampangan."
     },
@@ -101,22 +171,40 @@
       "id": "nat-dutung",
       "word": "Dutung",
       "partOfSpeech": "noun",
-      "translations": ["tree", "wood", "timber"],
+      "translations": [
+        "tree",
+        "wood",
+        "timber"
+      ],
       "relatedTagalog": "kahoy",
       "examples": [
-        {"kp": "Maragul ya ing dutung keta.", "en": "The tree there is big."},
-        {"kp": "Ding ipil mative lang dutung.", "en": "Ipil-ipil trees are durable wood."}
+        {
+          "kp": "Maragul ya ing dutung keta.",
+          "en": "The tree there is big."
+        },
+        {
+          "kp": "Ding ipil mative lang dutung.",
+          "en": "Ipil-ipil trees are durable wood."
+        }
       ]
     },
     {
       "id": "nat-sampaga",
       "word": "Sampaga",
       "partOfSpeech": "noun",
-      "translations": ["flower"],
+      "translations": [
+        "flower"
+      ],
       "relatedTagalog": "bulaklak",
       "examples": [
-        {"kp": "Masanting ya ing sampaga.", "en": "The flower is beautiful."},
-        {"kp": "Atin dakal sampaga king hardin.", "en": "There are many flowers in the garden."}
+        {
+          "kp": "Masanting ya ing sampaga.",
+          "en": "The flower is beautiful."
+        },
+        {
+          "kp": "Atin dakal sampaga king hardin.",
+          "en": "There are many flowers in the garden."
+        }
       ],
       "notes": "The general Kapampangan word for flower. Also the name of the sampaguita jasmine, a culturally significant flower used in garlands for ceremonies."
     },
@@ -124,66 +212,122 @@
       "id": "nat-bulung",
       "word": "Bulung",
       "partOfSpeech": "noun",
-      "translations": ["leaf"],
+      "translations": [
+        "leaf"
+      ],
       "relatedTagalog": "dahon",
       "examples": [
-        {"kp": "Malutu ya ing bulung ning panaun.", "en": "The leaf turned red in the season."},
-        {"kp": "Dakal lang bulung king dutung.", "en": "There are many leaves on the tree."}
+        {
+          "kp": "Malutu ya ing bulung ning panaun.",
+          "en": "The leaf turned red in the season."
+        },
+        {
+          "kp": "Dakal lang bulung king dutung.",
+          "en": "There are many leaves on the tree."
+        }
       ]
     },
     {
       "id": "nat-batu",
       "word": "Batu",
       "partOfSpeech": "noun",
-      "translations": ["stone", "rock"],
+      "translations": [
+        "stone",
+        "rock"
+      ],
       "relatedTagalog": "bato",
       "examples": [
-        {"kp": "Mabatu ya ing dalan keta.", "en": "The road there is rocky."},
-        {"kp": "Atin dakal batu king ilug.", "en": "There are many stones in the river."}
+        {
+          "kp": "Mabatu ya ing dalan keta.",
+          "en": "The road there is rocky."
+        },
+        {
+          "kp": "Atin dakal batu king ilug.",
+          "en": "There are many stones in the river."
+        }
       ]
     },
     {
       "id": "nat-gabun",
       "word": "Gabun",
       "partOfSpeech": "noun",
-      "translations": ["soil", "earth", "ground"],
+      "translations": [
+        "soil",
+        "earth",
+        "ground"
+      ],
       "relatedTagalog": "lupa",
       "examples": [
-        {"kp": "Manyaman ya ing gabun keni para king tanaman.", "en": "The soil here is good for planting."},
-        {"kp": "Sinadsad ne keng gabun.", "en": "It was dropped to the ground."}
+        {
+          "kp": "Manyaman ya ing gabun keni para king tanaman.",
+          "en": "The soil here is good for planting."
+        },
+        {
+          "kp": "Sinadsad ne keng gabun.",
+          "en": "It was dropped to the ground."
+        }
       ]
     },
     {
       "id": "nat-dalan",
       "word": "Dalan",
       "partOfSpeech": "noun",
-      "translations": ["road", "path", "street", "way"],
+      "translations": [
+        "road",
+        "path",
+        "street",
+        "way"
+      ],
       "relatedTagalog": "daan",
       "examples": [
-        {"kp": "Malapit ya ing dalan king balen.", "en": "The road to the town is near."},
-        {"kp": "Malupit ya ing dalan papunta king bunduk.", "en": "The path to the mountain is rough."}
+        {
+          "kp": "Malapit ya ing dalan king balen.",
+          "en": "The road to the town is near."
+        },
+        {
+          "kp": "Malupit ya ing dalan papunta king bunduk.",
+          "en": "The path to the mountain is rough."
+        }
       ]
     },
     {
       "id": "nat-balen",
       "word": "Balen",
       "partOfSpeech": "noun",
-      "translations": ["town", "municipality"],
+      "translations": [
+        "town",
+        "municipality"
+      ],
       "relatedTagalog": "bayan",
       "examples": [
-        {"kp": "Masanting a balen ya ing Angeles.", "en": "Angeles is a fine town."},
-        {"kp": "Balen da ing Kapampangan.", "en": "It is the town of the Kapampangan people."}
+        {
+          "kp": "Masanting a balen ya ing Angeles.",
+          "en": "Angeles is a fine town."
+        },
+        {
+          "kp": "Balen da ing Kapampangan.",
+          "en": "It is the town of the Kapampangan people."
+        }
       ]
     },
     {
       "id": "nat-palengke",
       "word": "Palengke",
       "partOfSpeech": "noun",
-      "translations": ["market", "public market"],
+      "translations": [
+        "market",
+        "public market"
+      ],
       "relatedTagalog": "palengke",
       "examples": [
-        {"kp": "Mapunta ku king palengke ngeni.", "en": "I am going to the market today."},
-        {"kp": "Malapit ya ing palengke king balen.", "en": "The market is near the town."}
+        {
+          "kp": "Mapunta ku king palengke ngeni.",
+          "en": "I am going to the market today."
+        },
+        {
+          "kp": "Malapit ya ing palengke king balen.",
+          "en": "The market is near the town."
+        }
       ],
       "notes": "Shared with Tagalog; from Spanish palenque."
     },
@@ -191,11 +335,19 @@
       "id": "nat-pisamban",
       "word": "Pisamban",
       "partOfSpeech": "noun",
-      "translations": ["church"],
+      "translations": [
+        "church"
+      ],
       "relatedTagalog": "simbahan",
       "examples": [
-        {"kp": "Maragul ya ing pisamban king balen.", "en": "The church in town is large."},
-        {"kp": "Mapunta ku king pisamban Linggu.", "en": "I go to church on Sunday."}
+        {
+          "kp": "Maragul ya ing pisamban king balen.",
+          "en": "The church in town is large."
+        },
+        {
+          "kp": "Mapunta ku king pisamban Linggu.",
+          "en": "I go to church on Sunday."
+        }
       ],
       "notes": "The traditional Kapampangan word for church, distinct from the Tagalog simbahan."
     },
@@ -203,11 +355,19 @@
       "id": "nat-iskuwela",
       "word": "Iskuwela",
       "partOfSpeech": "noun",
-      "translations": ["school"],
+      "translations": [
+        "school"
+      ],
       "relatedTagalog": "paaralan",
       "examples": [
-        {"kp": "Mapunta ku king iskuwela.", "en": "I am going to school."},
-        {"kp": "Malayo ya ing iskuwela kareni.", "en": "The school is far from here."}
+        {
+          "kp": "Mapunta ku king iskuwela.",
+          "en": "I am going to school."
+        },
+        {
+          "kp": "Malayo ya ing iskuwela kareni.",
+          "en": "The school is far from here."
+        }
       ],
       "notes": "From Spanish escuela."
     }
@@ -218,14 +378,21 @@
       "title": "Sky & Weather",
       "theme": "sky-weather",
       "intro": "Learn words for what you see and feel in the sky: stars, rain, wind, and clouds.",
-      "wordIds": ["nat-batuin", "nat-uran", "nat-angin", "nat-ulap"],
+      "wordIds": [
+        "nat-batuin",
+        "nat-uran",
+        "nat-angin",
+        "nat-ulap"
+      ],
       "exercises": [
         {
           "id": "nat-1-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Batuin\" mean?",
-          "wordIds": ["nat-batuin"],
+          "wordIds": [
+            "nat-batuin"
+          ],
           "answerId": "nat-batuin"
         },
         {
@@ -233,7 +400,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Uran\" mean?",
-          "wordIds": ["nat-uran"],
+          "wordIds": [
+            "nat-uran"
+          ],
           "answerId": "nat-uran"
         },
         {
@@ -241,7 +410,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Angin\" mean?",
-          "wordIds": ["nat-angin"],
+          "wordIds": [
+            "nat-angin"
+          ],
           "answerId": "nat-angin"
         },
         {
@@ -249,33 +420,58 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maliwanag ya ing batuin king banua.",
-          "wordIds": ["nat-batuin"],
-          "accepted": ["the star is bright in the sky", "the star is bright in the sky."]
+          "wordIds": [
+            "nat-batuin"
+          ],
+          "accepted": [
+            "the star is bright in the sky",
+            "the star is bright in the sky."
+          ]
         },
         {
           "id": "nat-1-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malake ing uran ngeni.",
-          "wordIds": ["nat-uran"],
-          "accepted": ["the rain is heavy today", "the rain is heavy today."]
+          "wordIds": [
+            "nat-uran"
+          ],
+          "accepted": [
+            "the rain is heavy today",
+            "the rain is heavy today."
+          ]
         },
         {
           "id": "nat-1-fb1",
           "type": "fill-blank",
           "prompt": "____ ya ing banua. (The cloud is thick.)",
-          "wordIds": ["nat-ulap"],
+          "wordIds": [
+            "nat-ulap"
+          ],
           "answerId": "nat-ulap"
         },
         {
           "id": "nat-1-ma1",
           "type": "matching",
-          "wordIds": ["nat-batuin", "nat-uran", "nat-angin", "nat-ulap"],
+          "wordIds": [
+            "nat-batuin",
+            "nat-uran",
+            "nat-angin",
+            "nat-ulap"
+          ],
           "pairs": [
-            {"wordId": "nat-batuin"},
-            {"wordId": "nat-uran"},
-            {"wordId": "nat-angin"},
-            {"wordId": "nat-ulap"}
+            {
+              "wordId": "nat-batuin"
+            },
+            {
+              "wordId": "nat-uran"
+            },
+            {
+              "wordId": "nat-angin"
+            },
+            {
+              "wordId": "nat-ulap"
+            }
           ]
         }
       ]
@@ -285,14 +481,21 @@
       "title": "Fire & Earth",
       "theme": "fire-earth",
       "intro": "Learn words for fire, soil, stone, and the mountain — the solid elements of the Kapampangan landscape.",
-      "wordIds": ["nat-api", "nat-gabun", "nat-batu", "nat-bunduk"],
+      "wordIds": [
+        "nat-api",
+        "nat-gabun",
+        "nat-batu",
+        "nat-bunduk"
+      ],
       "exercises": [
         {
           "id": "nat-2-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Api\" mean?",
-          "wordIds": ["nat-api"],
+          "wordIds": [
+            "nat-api"
+          ],
           "answerId": "nat-api"
         },
         {
@@ -300,7 +503,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Bunduk\" mean?",
-          "wordIds": ["nat-bunduk"],
+          "wordIds": [
+            "nat-bunduk"
+          ],
           "answerId": "nat-bunduk"
         },
         {
@@ -308,40 +513,72 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ya ing api.",
-          "wordIds": ["nat-api"],
-          "accepted": ["the fire is big", "the fire is big."]
+          "wordIds": [
+            "nat-api"
+          ],
+          "accepted": [
+            "the fire is big",
+            "the fire is big.",
+            "the flame is big",
+            "the flame is big."
+          ]
         },
         {
           "id": "nat-2-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Matas ya ing bunduk Arayat.",
-          "wordIds": ["nat-bunduk"],
-          "accepted": ["mount arayat is tall", "mount arayat is tall.", "mount arayat is tall.", "mount arayat is high", "mount arayat is high."]
+          "wordIds": [
+            "nat-bunduk"
+          ],
+          "accepted": [
+            "mount arayat is tall",
+            "mount arayat is tall.",
+            "mount arayat is tall.",
+            "mount arayat is high",
+            "mount arayat is high."
+          ]
         },
         {
           "id": "nat-2-fb1",
           "type": "fill-blank",
           "prompt": "Manyaman ya ing ____ keni para king tanaman. (The soil here is good for planting.)",
-          "wordIds": ["nat-gabun"],
+          "wordIds": [
+            "nat-gabun"
+          ],
           "answerId": "nat-gabun"
         },
         {
           "id": "nat-2-fb2",
           "type": "fill-blank",
           "prompt": "Atin dakal ____ king ilug. (There are many stones in the river.)",
-          "wordIds": ["nat-batu"],
+          "wordIds": [
+            "nat-batu"
+          ],
           "answerId": "nat-batu"
         },
         {
           "id": "nat-2-ma1",
           "type": "matching",
-          "wordIds": ["nat-api", "nat-gabun", "nat-batu", "nat-bunduk"],
+          "wordIds": [
+            "nat-api",
+            "nat-gabun",
+            "nat-batu",
+            "nat-bunduk"
+          ],
           "pairs": [
-            {"wordId": "nat-api"},
-            {"wordId": "nat-gabun"},
-            {"wordId": "nat-batu"},
-            {"wordId": "nat-bunduk"}
+            {
+              "wordId": "nat-api"
+            },
+            {
+              "wordId": "nat-gabun"
+            },
+            {
+              "wordId": "nat-batu"
+            },
+            {
+              "wordId": "nat-bunduk"
+            }
           ]
         }
       ]
@@ -351,14 +588,19 @@
       "title": "Water & Sea",
       "theme": "water-sea",
       "intro": "The Kapampangan homeland is shaped by rivers flowing to the sea. Learn these essential water words.",
-      "wordIds": ["nat-ilug", "nat-dayat"],
+      "wordIds": [
+        "nat-ilug",
+        "nat-dayat"
+      ],
       "exercises": [
         {
           "id": "nat-3-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Ilug\" mean?",
-          "wordIds": ["nat-ilug"],
+          "wordIds": [
+            "nat-ilug"
+          ],
           "answerId": "nat-ilug"
         },
         {
@@ -366,7 +608,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Dagat\" mean?",
-          "wordIds": ["nat-dayat"],
+          "wordIds": [
+            "nat-dayat"
+          ],
           "answerId": "nat-dayat"
         },
         {
@@ -374,39 +618,68 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mapalad ya ing ilug keni.",
-          "wordIds": ["nat-ilug"],
-          "accepted": ["the river here is wide", "the river here is wide.", "the river is wide here", "the river is wide here."]
+          "wordIds": [
+            "nat-ilug"
+          ],
+          "accepted": [
+            "the river here is wide",
+            "the river here is wide.",
+            "the river is wide here",
+            "the river is wide here."
+          ]
         },
         {
           "id": "nat-3-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ding ilug palwal la king dagat.",
-          "wordIds": ["nat-ilug", "nat-dayat"],
-          "accepted": ["the rivers flow out to the sea", "the rivers flow out to the sea.", "rivers flow out to the sea", "rivers flow out to the sea."]
+          "wordIds": [
+            "nat-ilug",
+            "nat-dayat"
+          ],
+          "accepted": [
+            "the rivers flow out to the sea",
+            "the rivers flow out to the sea.",
+            "rivers flow out to the sea",
+            "rivers flow out to the sea.",
+            "the rivers flow out to the ocean",
+            "the rivers flow out to the ocean.",
+            "rivers flow out to the ocean",
+            "rivers flow out to the ocean."
+          ]
         },
         {
           "id": "nat-3-fb1",
           "type": "fill-blank",
           "prompt": "Malayo ya ing ____ kareni. (The sea is far from here.)",
-          "wordIds": ["nat-dayat"],
+          "wordIds": [
+            "nat-dayat"
+          ],
           "answerId": "nat-dayat"
         },
-
         {
           "id": "nat-3-fb2",
           "type": "fill-blank",
           "prompt": "Mapalad ya ing ____ keni. (The river here is wide.)",
-          "wordIds": ["nat-ilug"],
+          "wordIds": [
+            "nat-ilug"
+          ],
           "answerId": "nat-ilug"
         },
         {
           "id": "nat-3-ma1",
           "type": "matching",
-          "wordIds": ["nat-ilug", "nat-dayat"],
+          "wordIds": [
+            "nat-ilug",
+            "nat-dayat"
+          ],
           "pairs": [
-            {"wordId": "nat-ilug"},
-            {"wordId": "nat-dayat"}
+            {
+              "wordId": "nat-ilug"
+            },
+            {
+              "wordId": "nat-dayat"
+            }
           ]
         }
       ]
@@ -416,14 +689,20 @@
       "title": "Trees & Plants",
       "theme": "trees-plants",
       "intro": "The Kapampangan countryside is lush with trees and flowers. Learn the words for plants and their parts.",
-      "wordIds": ["nat-dutung", "nat-sampaga", "nat-bulung"],
+      "wordIds": [
+        "nat-dutung",
+        "nat-sampaga",
+        "nat-bulung"
+      ],
       "exercises": [
         {
           "id": "nat-4-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Dutung\" mean?",
-          "wordIds": ["nat-dutung"],
+          "wordIds": [
+            "nat-dutung"
+          ],
           "answerId": "nat-dutung"
         },
         {
@@ -431,7 +710,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Sampaga\" mean?",
-          "wordIds": ["nat-sampaga"],
+          "wordIds": [
+            "nat-sampaga"
+          ],
           "answerId": "nat-sampaga"
         },
         {
@@ -439,7 +720,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Bulung\" mean?",
-          "wordIds": ["nat-bulung"],
+          "wordIds": [
+            "nat-bulung"
+          ],
           "answerId": "nat-bulung"
         },
         {
@@ -447,32 +730,58 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ya ing dutung keta.",
-          "wordIds": ["nat-dutung"],
-          "accepted": ["the tree there is big", "the tree there is big."]
+          "wordIds": [
+            "nat-dutung"
+          ],
+          "accepted": [
+            "the tree there is big",
+            "the tree there is big.",
+            "the wood there is big",
+            "the wood there is big.",
+            "the timber there is big",
+            "the timber there is big."
+          ]
         },
         {
           "id": "nat-4-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Masanting ya ing sampaga.",
-          "wordIds": ["nat-sampaga"],
-          "accepted": ["the flower is beautiful", "the flower is beautiful."]
+          "wordIds": [
+            "nat-sampaga"
+          ],
+          "accepted": [
+            "the flower is beautiful",
+            "the flower is beautiful."
+          ]
         },
         {
           "id": "nat-4-fb1",
           "type": "fill-blank",
           "prompt": "Dakal lang ____ king dutung. (There are many leaves on the tree.)",
-          "wordIds": ["nat-bulung"],
+          "wordIds": [
+            "nat-bulung"
+          ],
           "answerId": "nat-bulung"
         },
         {
           "id": "nat-4-ma1",
           "type": "matching",
-          "wordIds": ["nat-dutung", "nat-sampaga", "nat-bulung"],
+          "wordIds": [
+            "nat-dutung",
+            "nat-sampaga",
+            "nat-bulung"
+          ],
           "pairs": [
-            {"wordId": "nat-dutung"},
-            {"wordId": "nat-sampaga"},
-            {"wordId": "nat-bulung"}
+            {
+              "wordId": "nat-dutung"
+            },
+            {
+              "wordId": "nat-sampaga"
+            },
+            {
+              "wordId": "nat-bulung"
+            }
           ]
         }
       ]
@@ -482,14 +791,19 @@
       "title": "Getting Around",
       "theme": "travel-places",
       "intro": "Learn the words for navigating the Kapampangan landscape — roads, towns, and the places you will visit.",
-      "wordIds": ["nat-dalan", "nat-balen"],
+      "wordIds": [
+        "nat-dalan",
+        "nat-balen"
+      ],
       "exercises": [
         {
           "id": "nat-5-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Dalan\" mean?",
-          "wordIds": ["nat-dalan"],
+          "wordIds": [
+            "nat-dalan"
+          ],
           "answerId": "nat-dalan"
         },
         {
@@ -497,7 +811,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Balen\" mean?",
-          "wordIds": ["nat-balen"],
+          "wordIds": [
+            "nat-balen"
+          ],
           "answerId": "nat-balen"
         },
         {
@@ -505,38 +821,104 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malapit ya ing dalan king balen.",
-          "wordIds": ["nat-dalan", "nat-balen"],
-          "accepted": ["the road to the town is near", "the road to the town is near.", "the road near the town", "the road is near the town", "the road is near the town."]
+          "wordIds": [
+            "nat-dalan",
+            "nat-balen"
+          ],
+          "accepted": [
+            "the road to the town is near",
+            "the road to the town is near.",
+            "the road near the town",
+            "the road is near the town",
+            "the road is near the town.",
+            "the path to the town is near",
+            "the path to the town is near.",
+            "the path near the town",
+            "the path is near the town",
+            "the path is near the town.",
+            "the street to the town is near",
+            "the street to the town is near.",
+            "the street near the town",
+            "the street is near the town",
+            "the street is near the town.",
+            "the way to the town is near",
+            "the way to the town is near.",
+            "the way near the town",
+            "the way is near the town",
+            "the way is near the town.",
+            "the road to the municipality is near",
+            "the road to the municipality is near.",
+            "the road near the municipality",
+            "the road is near the municipality",
+            "the road is near the municipality.",
+            "the path to the municipality is near",
+            "the path to the municipality is near.",
+            "the path near the municipality",
+            "the path is near the municipality",
+            "the path is near the municipality.",
+            "the street to the municipality is near",
+            "the street to the municipality is near.",
+            "the street near the municipality",
+            "the street is near the municipality",
+            "the street is near the municipality.",
+            "the way to the municipality is near",
+            "the way to the municipality is near.",
+            "the way near the municipality",
+            "the way is near the municipality",
+            "the way is near the municipality."
+          ]
         },
         {
           "id": "nat-5-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Balen da ing Kapampangan.",
-          "wordIds": ["nat-balen"],
-          "accepted": ["it is the town of the kapampangan people", "it is the town of the kapampangan people.", "it is the kapampangan people's town", "it is the kapampangan people's town."]
+          "wordIds": [
+            "nat-balen"
+          ],
+          "accepted": [
+            "it is the town of the kapampangan people",
+            "it is the town of the kapampangan people.",
+            "it is the kapampangan people's town",
+            "it is the kapampangan people's town.",
+            "it is the municipality of the kapampangan people",
+            "it is the municipality of the kapampangan people.",
+            "it is the kapampangan people's municipality",
+            "it is the kapampangan people's municipality."
+          ]
         },
         {
           "id": "nat-5-fb1",
           "type": "fill-blank",
           "prompt": "Malupit ya ing ____ papunta king bunduk. (The path to the mountain is rough.)",
-          "wordIds": ["nat-dalan"],
+          "wordIds": [
+            "nat-dalan"
+          ],
           "answerId": "nat-dalan"
         },
         {
           "id": "nat-5-fb2",
           "type": "fill-blank",
           "prompt": "Masanting a ____ ya ing Angeles. (Angeles is a fine town.)",
-          "wordIds": ["nat-balen"],
+          "wordIds": [
+            "nat-balen"
+          ],
           "answerId": "nat-balen"
         },
         {
           "id": "nat-5-ma1",
           "type": "matching",
-          "wordIds": ["nat-dalan", "nat-balen"],
+          "wordIds": [
+            "nat-dalan",
+            "nat-balen"
+          ],
           "pairs": [
-            {"wordId": "nat-dalan"},
-            {"wordId": "nat-balen"}
+            {
+              "wordId": "nat-dalan"
+            },
+            {
+              "wordId": "nat-balen"
+            }
           ]
         }
       ]
@@ -546,14 +928,20 @@
       "title": "Community Places",
       "theme": "community-buildings",
       "intro": "Every Kapampangan town has a market, church, and school. Learn the words for these important community places.",
-      "wordIds": ["nat-palengke", "nat-pisamban", "nat-iskuwela"],
+      "wordIds": [
+        "nat-palengke",
+        "nat-pisamban",
+        "nat-iskuwela"
+      ],
       "exercises": [
         {
           "id": "nat-6-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Palengke\" mean?",
-          "wordIds": ["nat-palengke"],
+          "wordIds": [
+            "nat-palengke"
+          ],
           "answerId": "nat-palengke"
         },
         {
@@ -561,7 +949,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Pisamban\" mean?",
-          "wordIds": ["nat-pisamban"],
+          "wordIds": [
+            "nat-pisamban"
+          ],
           "answerId": "nat-pisamban"
         },
         {
@@ -569,7 +959,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Iskuwela\" mean?",
-          "wordIds": ["nat-iskuwela"],
+          "wordIds": [
+            "nat-iskuwela"
+          ],
           "answerId": "nat-iskuwela"
         },
         {
@@ -577,32 +969,62 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mapunta ku king palengke ngeni.",
-          "wordIds": ["nat-palengke"],
-          "accepted": ["i am going to the market today", "i am going to the market today.", "i'm going to the market today", "i'm going to the market today."]
+          "wordIds": [
+            "nat-palengke"
+          ],
+          "accepted": [
+            "i am going to the market today",
+            "i am going to the market today.",
+            "i'm going to the market today",
+            "i'm going to the market today.",
+            "i am going to the public market today",
+            "i am going to the public market today.",
+            "i'm going to the public market today",
+            "i'm going to the public market today."
+          ]
         },
         {
           "id": "nat-6-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ya ing pisamban king balen.",
-          "wordIds": ["nat-pisamban"],
-          "accepted": ["the church in town is large", "the church in town is large.", "the church in the town is large", "the church in the town is large."]
+          "wordIds": [
+            "nat-pisamban"
+          ],
+          "accepted": [
+            "the church in town is large",
+            "the church in town is large.",
+            "the church in the town is large",
+            "the church in the town is large."
+          ]
         },
         {
           "id": "nat-6-fb1",
           "type": "fill-blank",
           "prompt": "Mapunta ku king ____. (I am going to school.)",
-          "wordIds": ["nat-iskuwela"],
+          "wordIds": [
+            "nat-iskuwela"
+          ],
           "answerId": "nat-iskuwela"
         },
         {
           "id": "nat-6-ma1",
           "type": "matching",
-          "wordIds": ["nat-palengke", "nat-pisamban", "nat-iskuwela"],
+          "wordIds": [
+            "nat-palengke",
+            "nat-pisamban",
+            "nat-iskuwela"
+          ],
           "pairs": [
-            {"wordId": "nat-palengke"},
-            {"wordId": "nat-pisamban"},
-            {"wordId": "nat-iskuwela"}
+            {
+              "wordId": "nat-palengke"
+            },
+            {
+              "wordId": "nat-pisamban"
+            },
+            {
+              "wordId": "nat-iskuwela"
+            }
           ]
         }
       ]

@@ -6,11 +6,20 @@
       "id": "house-bale",
       "word": "Bale",
       "partOfSpeech": "noun",
-      "translations": ["house", "home"],
+      "translations": [
+        "house",
+        "home"
+      ],
       "relatedTagalog": "bahay",
       "examples": [
-        {"kp": "Maragul ya ing Bale mi.", "en": "Our house is big."},
-        {"kp": "Atyu ku king Bale.", "en": "I am at home."}
+        {
+          "kp": "Maragul ya ing Bale mi.",
+          "en": "Our house is big."
+        },
+        {
+          "kp": "Atyu ku king Bale.",
+          "en": "I am at home."
+        }
       ],
       "notes": "The core Kapampangan word for house/home. Confirmed in Forman's Kapampangan Dictionary, tagaloglang.com, Wikivoyage phrasebook, and Kapampangan Traveller."
     },
@@ -18,11 +27,20 @@
       "id": "house-pasbul",
       "word": "Pasbul",
       "partOfSpeech": "noun",
-      "translations": ["door", "entrance"],
+      "translations": [
+        "door",
+        "entrance"
+      ],
       "relatedTagalog": "pinto",
       "examples": [
-        {"kp": "Sara me ing Pasbul.", "en": "Close the door."},
-        {"kp": "Bukas ya ing Pasbul ning bale.", "en": "The door of the house is open."}
+        {
+          "kp": "Sara me ing Pasbul.",
+          "en": "Close the door."
+        },
+        {
+          "kp": "Bukas ya ing Pasbul ning bale.",
+          "en": "The door of the house is open."
+        }
       ],
       "notes": "Consistently documented across multiple Kapampangan learning resources and vocabulary lists. Related verb: 'saraen' (to close)."
     },
@@ -30,11 +48,19 @@
       "id": "house-awang",
       "word": "Awang",
       "partOfSpeech": "noun",
-      "translations": ["window"],
+      "translations": [
+        "window"
+      ],
       "relatedTagalog": "bintana",
       "examples": [
-        {"kp": "Bukasan me ing Awang.", "en": "Open the window."},
-        {"kp": "Malagus ya ing Awang.", "en": "The window is clear."}
+        {
+          "kp": "Bukasan me ing Awang.",
+          "en": "Open the window."
+        },
+        {
+          "kp": "Malagus ya ing Awang.",
+          "en": "The window is clear."
+        }
       ],
       "notes": "Confirmed in Forman's dictionary, Wikivoyage phrasebook, and multiple vocabulary sources. The UCLA phonetics Kapampangan word list also attests this form."
     },
@@ -42,11 +68,19 @@
       "id": "house-lamesa",
       "word": "Lamesa",
       "partOfSpeech": "noun",
-      "translations": ["table"],
+      "translations": [
+        "table"
+      ],
       "relatedTagalog": "mesa",
       "examples": [
-        {"kp": "Atyu ing pamangan king Lamesa.", "en": "The food is on the table."},
-        {"kp": "Lako ku king Lamesa.", "en": "I am going to the table."}
+        {
+          "kp": "Atyu ing pamangan king Lamesa.",
+          "en": "The food is on the table."
+        },
+        {
+          "kp": "Lako ku king Lamesa.",
+          "en": "I am going to the table."
+        }
       ],
       "notes": "Spanish loanword (la mesa). Confirmed in speaking-kapampangan materials and multiple vocabulary lists. Also appears as 'mesa' in some sources; 'lamesa' is the standard full form."
     },
@@ -54,11 +88,20 @@
       "id": "house-luklukan",
       "word": "Luklukan",
       "partOfSpeech": "noun",
-      "translations": ["chair", "seat"],
+      "translations": [
+        "chair",
+        "seat"
+      ],
       "relatedTagalog": "upuan",
       "examples": [
-        {"kp": "Mika Luklukan ya ing anak.", "en": "The child has a chair."},
-        {"kp": "Atyu ya king Luklukan ya.", "en": "He is on his chair."}
+        {
+          "kp": "Mika Luklukan ya ing anak.",
+          "en": "The child has a chair."
+        },
+        {
+          "kp": "Atyu ya king Luklukan ya.",
+          "en": "He is on his chair."
+        }
       ],
       "notes": "Confirmed in Wikibooks Kapampangan/Nouns, Kapampangan Traveller, and multiple vocabulary lists. From root 'luklu' (to sit)."
     },
@@ -66,11 +109,19 @@
       "id": "house-pitudturan",
       "word": "Pitudturan",
       "partOfSpeech": "noun",
-      "translations": ["bed"],
+      "translations": [
+        "bed"
+      ],
       "relatedTagalog": "higaan / kama",
       "examples": [
-        {"kp": "Meturan ku king Pitudturan.", "en": "I lay down on the bed."},
-        {"kp": "Maragul ya ing Pitudturan ku.", "en": "My bed is big."}
+        {
+          "kp": "Meturan ku king Pitudturan.",
+          "en": "I lay down on the bed."
+        },
+        {
+          "kp": "Maragul ya ing Pitudturan ku.",
+          "en": "My bed is big."
+        }
       ],
       "notes": "Confirmed in multiple Kapampangan vocabulary lists as the standard word for bed. Appears alongside pillow (ulnan) and blanket (ulas) in learning materials."
     },
@@ -78,11 +129,20 @@
       "id": "house-kwartu",
       "word": "Kwartu",
       "partOfSpeech": "noun",
-      "translations": ["room", "bedroom"],
+      "translations": [
+        "room",
+        "bedroom"
+      ],
       "relatedTagalog": "kwarto / silid",
       "examples": [
-        {"kp": "Linisan me ing Kwartu.", "en": "Clean the room."},
-        {"kp": "Atyu ya king Kwartu na.", "en": "He is in his room."}
+        {
+          "kp": "Linisan me ing Kwartu.",
+          "en": "Clean the room."
+        },
+        {
+          "kp": "Atyu ya king Kwartu na.",
+          "en": "He is in his room."
+        }
       ],
       "notes": "Spanish loanword (cuarto). Confirmed in Wikivoyage Kapampangan phrasebook, Polytranslator, and multiple vocabulary sources."
     },
@@ -90,11 +150,19 @@
       "id": "house-kusina",
       "word": "Kusina",
       "partOfSpeech": "noun",
-      "translations": ["kitchen"],
+      "translations": [
+        "kitchen"
+      ],
       "relatedTagalog": "kusina",
       "examples": [
-        {"kp": "Migluto ya king Kusina.", "en": "He cooked in the kitchen."},
-        {"kp": "Maragul ya ing Kusina mi.", "en": "Our kitchen is big."}
+        {
+          "kp": "Migluto ya king Kusina.",
+          "en": "He cooked in the kitchen."
+        },
+        {
+          "kp": "Maragul ya ing Kusina mi.",
+          "en": "Our kitchen is big."
+        }
       ],
       "notes": "Spanish loanword (cocina). Widely confirmed in Kapampangan texts and culinary references. Shared with Tagalog."
     },
@@ -102,11 +170,20 @@
       "id": "house-sulu",
       "word": "Sulu",
       "partOfSpeech": "noun",
-      "translations": ["light", "lamp"],
+      "translations": [
+        "light",
+        "lamp"
+      ],
       "relatedTagalog": "ilaw",
       "examples": [
-        {"kp": "Pasalan me ing Sulu.", "en": "Turn on the light."},
-        {"kp": "Mabeyak ya ing Sulu king kwartu.", "en": "The light in the room is bright."}
+        {
+          "kp": "Pasalan me ing Sulu.",
+          "en": "Turn on the light."
+        },
+        {
+          "kp": "Mabeyak ya ing Sulu king kwartu.",
+          "en": "The light in the room is bright."
+        }
       ],
       "notes": "Confirmed in multiple Kapampangan vocabulary sources including Kapampangan Traveller and a Facebook post from a Pampanga-based organization explicitly glossing 'sulu' as light/ilaw/liwanag."
     },
@@ -114,11 +191,20 @@
       "id": "house-malan",
       "word": "Malan",
       "partOfSpeech": "noun",
-      "translations": ["clothes", "clothing"],
+      "translations": [
+        "clothes",
+        "clothing"
+      ],
       "relatedTagalog": "damit",
       "examples": [
-        {"kp": "Labhan me ing Malan.", "en": "Wash the clothes."},
-        {"kp": "Ating bayu kung Malan.", "en": "I have new clothes."}
+        {
+          "kp": "Labhan me ing Malan.",
+          "en": "Wash the clothes."
+        },
+        {
+          "kp": "Ating bayu kung Malan.",
+          "en": "I have new clothes."
+        }
       ],
       "notes": "Confirmed across multiple Kapampangan learning resources. The equivalent of Tagalog 'damit'."
     },
@@ -126,11 +212,19 @@
       "id": "house-pader",
       "word": "Pader",
       "partOfSpeech": "noun",
-      "translations": ["wall"],
+      "translations": [
+        "wall"
+      ],
       "relatedTagalog": "pader / dingding",
       "examples": [
-        {"kp": "Makaputi ya ing Pader ning bale.", "en": "The wall of the house is white."},
-        {"kp": "Migtutuk ya king Pader.", "en": "He leaned against the wall."}
+        {
+          "kp": "Makaputi ya ing Pader ning bale.",
+          "en": "The wall of the house is white."
+        },
+        {
+          "kp": "Migtutuk ya king Pader.",
+          "en": "He leaned against the wall."
+        }
       ],
       "notes": "Spanish loanword (pared). Confirmed in Kapampangan vocabulary lists and corroborated by usage on Facebook video captions using 'pader' in a Kapampangan context."
     },
@@ -138,11 +232,19 @@
       "id": "house-atup",
       "word": "Atup",
       "partOfSpeech": "noun",
-      "translations": ["roof"],
+      "translations": [
+        "roof"
+      ],
       "relatedTagalog": "bubong",
       "examples": [
-        {"kp": "Mapula ya ing Atup ning bale mi.", "en": "The roof of our house is red."},
-        {"kp": "Sinaul ya ing Atup.", "en": "The roof was repaired."}
+        {
+          "kp": "Mapula ya ing Atup ning bale mi.",
+          "en": "The roof of our house is red."
+        },
+        {
+          "kp": "Sinaul ya ing Atup.",
+          "en": "The roof was repaired."
+        }
       ],
       "notes": "Confirmed in the UCLA phonetics Kapampangan word list (1974) and multiple other sources. Also spelled 'atap' in some resources; 'atup' is the form in the UCLA phonetic transcription."
     },
@@ -150,11 +252,19 @@
       "id": "house-lapag",
       "word": "Lapag",
       "partOfSpeech": "noun",
-      "translations": ["floor"],
+      "translations": [
+        "floor"
+      ],
       "relatedTagalog": "sahig / lapag",
       "examples": [
-        {"kp": "Linisan me ing Lapag.", "en": "Clean the floor."},
-        {"kp": "Napalubus ya king Lapag.", "en": "He fell on the floor."}
+        {
+          "kp": "Linisan me ing Lapag.",
+          "en": "Clean the floor."
+        },
+        {
+          "kp": "Napalubus ya king Lapag.",
+          "en": "He fell on the floor."
+        }
       ],
       "notes": "Confirmed in multiple Kapampangan dictionary and vocabulary sources as the standard word for floor."
     },
@@ -162,11 +272,20 @@
       "id": "house-platu",
       "word": "Platu",
       "partOfSpeech": "noun",
-      "translations": ["plate", "dish"],
+      "translations": [
+        "plate",
+        "dish"
+      ],
       "relatedTagalog": "plato / pinggan",
       "examples": [
-        {"kp": "Hugasan me ing Platu.", "en": "Wash the plate."},
-        {"kp": "Lagyan me nasi ing Platu.", "en": "Put rice on the plate."}
+        {
+          "kp": "Hugasan me ing Platu.",
+          "en": "Wash the plate."
+        },
+        {
+          "kp": "Lagyan me nasi ing Platu.",
+          "en": "Put rice on the plate."
+        }
       ],
       "notes": "Spanish loanword (plato). Confirmed in Kapampangan-English vocabulary resources. Shared across Philippine languages."
     },
@@ -174,11 +293,20 @@
       "id": "house-tasa",
       "word": "Tasa",
       "partOfSpeech": "noun",
-      "translations": ["cup", "glass"],
+      "translations": [
+        "cup",
+        "glass"
+      ],
       "relatedTagalog": "tasa / baso",
       "examples": [
-        {"kp": "Pun me ing Tasa.", "en": "Fill the cup."},
-        {"kp": "Bisa kung Tasa ning kape.", "en": "I want a cup of coffee."}
+        {
+          "kp": "Pun me ing Tasa.",
+          "en": "Fill the cup."
+        },
+        {
+          "kp": "Bisa kung Tasa ning kape.",
+          "en": "I want a cup of coffee."
+        }
       ],
       "notes": "Spanish loanword (taza). Confirmed in Wikivoyage Kapampangan phrasebook and vocabulary lists. Refers to cup or drinking vessel."
     },
@@ -186,11 +314,19 @@
       "id": "house-kutsara",
       "word": "Kutsara",
       "partOfSpeech": "noun",
-      "translations": ["spoon"],
+      "translations": [
+        "spoon"
+      ],
       "relatedTagalog": "kutsara",
       "examples": [
-        {"kp": "Gamitan me ing Kutsara.", "en": "Use the spoon."},
-        {"kp": "Nukarin ya ing Kutsara?", "en": "Where is the spoon?"}
+        {
+          "kp": "Gamitan me ing Kutsara.",
+          "en": "Use the spoon."
+        },
+        {
+          "kp": "Nukarin ya ing Kutsara?",
+          "en": "Where is the spoon?"
+        }
       ],
       "notes": "Spanish loanword (cuchara). Confirmed across multiple Philippine language resources including Kapampangan vocabulary lists. Shared with Tagalog."
     },
@@ -198,11 +334,19 @@
       "id": "house-kampit",
       "word": "Kampit",
       "partOfSpeech": "noun",
-      "translations": ["knife"],
+      "translations": [
+        "knife"
+      ],
       "relatedTagalog": "kutsilyo",
       "examples": [
-        {"kp": "Gamitan me ing Kampit.", "en": "Use the knife."},
-        {"kp": "Atin Kampit king Kusina.", "en": "There is a knife in the kitchen."}
+        {
+          "kp": "Gamitan me ing Kampit.",
+          "en": "Use the knife."
+        },
+        {
+          "kp": "Atin Kampit king Kusina.",
+          "en": "There is a knife in the kitchen."
+        }
       ],
       "notes": "Confirmed in the Polytranslator Kapampangan dictionary. A distinctly Kapampangan word for knife, as opposed to the Spanish loanword 'kutsilyu' used in Tagalog."
     },
@@ -210,11 +354,19 @@
       "id": "house-palis",
       "word": "Palis",
       "partOfSpeech": "noun",
-      "translations": ["broom"],
+      "translations": [
+        "broom"
+      ],
       "relatedTagalog": "walis",
       "examples": [
-        {"kp": "Gamitan me ing Palis.", "en": "Use the broom."},
-        {"kp": "Palisan me ing lapag.", "en": "Sweep the floor with the broom."}
+        {
+          "kp": "Gamitan me ing Palis.",
+          "en": "Use the broom."
+        },
+        {
+          "kp": "Palisan me ing lapag.",
+          "en": "Sweep the floor with the broom."
+        }
       ],
       "notes": "Confirmed in tagaloglang.com Kapampangan dictionary and multiple vocabulary lists. Related verb form 'palisan' means to sweep."
     }
@@ -225,14 +377,22 @@
       "title": "The House",
       "theme": "house and its parts",
       "intro": "Learn the Kapampangan words for the house itself and its structural parts: 'Bale' (house), 'Pasbul' (door), 'Awang' (window), 'Pader' (wall), and 'Atup' (roof).",
-      "wordIds": ["house-bale", "house-pasbul", "house-awang", "house-pader", "house-atup"],
+      "wordIds": [
+        "house-bale",
+        "house-pasbul",
+        "house-awang",
+        "house-pader",
+        "house-atup"
+      ],
       "exercises": [
         {
           "id": "house-1-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Bale\" mean?",
-          "wordIds": ["house-bale"],
+          "wordIds": [
+            "house-bale"
+          ],
           "answerId": "house-bale"
         },
         {
@@ -240,7 +400,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Pasbul\" mean?",
-          "wordIds": ["house-pasbul"],
+          "wordIds": [
+            "house-pasbul"
+          ],
           "answerId": "house-pasbul"
         },
         {
@@ -248,7 +410,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Awang\" mean?",
-          "wordIds": ["house-awang"],
+          "wordIds": [
+            "house-awang"
+          ],
           "answerId": "house-awang"
         },
         {
@@ -256,33 +420,60 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Sara me ing Pasbul.",
-          "wordIds": ["house-pasbul"],
-          "accepted": ["close the door", "shut the door"]
+          "wordIds": [
+            "house-pasbul"
+          ],
+          "accepted": [
+            "close the door",
+            "shut the door",
+            "close the entrance",
+            "shut the entrance"
+          ]
         },
         {
           "id": "house-1-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ya ing Bale mi.",
-          "wordIds": ["house-bale"],
-          "accepted": ["our house is big", "our home is big"]
+          "wordIds": [
+            "house-bale"
+          ],
+          "accepted": [
+            "our house is big",
+            "our home is big"
+          ]
         },
         {
           "id": "house-1-fb1",
           "type": "fill-blank",
           "prompt": "Makaputi ya ing ____ ning bale. (The ____ of the house is white.)",
-          "wordIds": ["house-pader"],
+          "wordIds": [
+            "house-pader"
+          ],
           "answerId": "house-pader"
         },
         {
           "id": "house-1-ma1",
           "type": "matching",
-          "wordIds": ["house-bale", "house-pasbul", "house-awang", "house-atup"],
+          "wordIds": [
+            "house-bale",
+            "house-pasbul",
+            "house-awang",
+            "house-atup"
+          ],
           "pairs": [
-            {"wordId": "house-bale"},
-            {"wordId": "house-pasbul"},
-            {"wordId": "house-awang"},
-            {"wordId": "house-atup"}
+            {
+              "wordId": "house-bale"
+            },
+            {
+              "wordId": "house-pasbul"
+            },
+            {
+              "wordId": "house-awang"
+            },
+            {
+              "wordId": "house-atup"
+            }
           ]
         }
       ]
@@ -292,14 +483,22 @@
       "title": "Rooms & Furniture",
       "theme": "rooms and furniture",
       "intro": "Inside the Kapampangan home: 'Kwartu' (room), 'Kusina' (kitchen), 'Lamesa' (table), 'Luklukan' (chair), and 'Lapag' (floor).",
-      "wordIds": ["house-kwartu", "house-kusina", "house-lamesa", "house-luklukan", "house-lapag"],
+      "wordIds": [
+        "house-kwartu",
+        "house-kusina",
+        "house-lamesa",
+        "house-luklukan",
+        "house-lapag"
+      ],
       "exercises": [
         {
           "id": "house-2-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Kwartu\" mean?",
-          "wordIds": ["house-kwartu"],
+          "wordIds": [
+            "house-kwartu"
+          ],
           "answerId": "house-kwartu"
         },
         {
@@ -307,7 +506,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Kusina\" mean?",
-          "wordIds": ["house-kusina"],
+          "wordIds": [
+            "house-kusina"
+          ],
           "answerId": "house-kusina"
         },
         {
@@ -315,7 +516,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Lamesa\" mean?",
-          "wordIds": ["house-lamesa"],
+          "wordIds": [
+            "house-lamesa"
+          ],
           "answerId": "house-lamesa"
         },
         {
@@ -323,33 +526,58 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Migluto ya king Kusina.",
-          "wordIds": ["house-kusina"],
-          "accepted": ["he cooked in the kitchen", "she cooked in the kitchen", "they cooked in the kitchen"]
+          "wordIds": [
+            "house-kusina"
+          ],
+          "accepted": [
+            "he cooked in the kitchen",
+            "she cooked in the kitchen",
+            "they cooked in the kitchen"
+          ]
         },
         {
           "id": "house-2-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atyu ing pamangan king Lamesa.",
-          "wordIds": ["house-lamesa"],
-          "accepted": ["the food is on the table"]
+          "wordIds": [
+            "house-lamesa"
+          ],
+          "accepted": [
+            "the food is on the table"
+          ]
         },
         {
           "id": "house-2-fb1",
           "type": "fill-blank",
           "prompt": "Linisan me ing ____. (Clean the floor.)",
-          "wordIds": ["house-lapag"],
+          "wordIds": [
+            "house-lapag"
+          ],
           "answerId": "house-lapag"
         },
         {
           "id": "house-2-ma1",
           "type": "matching",
-          "wordIds": ["house-kwartu", "house-kusina", "house-lamesa", "house-luklukan"],
+          "wordIds": [
+            "house-kwartu",
+            "house-kusina",
+            "house-lamesa",
+            "house-luklukan"
+          ],
           "pairs": [
-            {"wordId": "house-kwartu"},
-            {"wordId": "house-kusina"},
-            {"wordId": "house-lamesa"},
-            {"wordId": "house-luklukan"}
+            {
+              "wordId": "house-kwartu"
+            },
+            {
+              "wordId": "house-kusina"
+            },
+            {
+              "wordId": "house-lamesa"
+            },
+            {
+              "wordId": "house-luklukan"
+            }
           ]
         }
       ]
@@ -359,14 +587,19 @@
       "title": "Sleeping & Light",
       "theme": "bed and light",
       "intro": "Where you rest: 'Pitudturan' means bed, and 'Sulu' means light. These words will help you talk about nighttime at home.",
-      "wordIds": ["house-pitudturan", "house-sulu"],
+      "wordIds": [
+        "house-pitudturan",
+        "house-sulu"
+      ],
       "exercises": [
         {
           "id": "house-3-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Pitudturan\" mean?",
-          "wordIds": ["house-pitudturan"],
+          "wordIds": [
+            "house-pitudturan"
+          ],
           "answerId": "house-pitudturan"
         },
         {
@@ -374,7 +607,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Sulu\" mean?",
-          "wordIds": ["house-sulu"],
+          "wordIds": [
+            "house-sulu"
+          ],
           "answerId": "house-sulu"
         },
         {
@@ -382,38 +617,58 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ya ing Pitudturan ku.",
-          "wordIds": ["house-pitudturan"],
-          "accepted": ["my bed is big"]
+          "wordIds": [
+            "house-pitudturan"
+          ],
+          "accepted": [
+            "my bed is big"
+          ]
         },
         {
           "id": "house-3-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Pasalan me ing Sulu.",
-          "wordIds": ["house-sulu"],
-          "accepted": ["turn on the light", "turn on the lamp"]
+          "wordIds": [
+            "house-sulu"
+          ],
+          "accepted": [
+            "turn on the light",
+            "turn on the lamp"
+          ]
         },
         {
           "id": "house-3-fb1",
           "type": "fill-blank",
           "prompt": "Meturan ku king ____. (I lay down on the ____. [sleeping furniture])",
-          "wordIds": ["house-pitudturan"],
+          "wordIds": [
+            "house-pitudturan"
+          ],
           "answerId": "house-pitudturan"
         },
         {
           "id": "house-3-fb2",
           "type": "fill-blank",
           "prompt": "Mabeyak ya ing ____ king kwartu. (The ____ in the room is bright. [lamp/light])",
-          "wordIds": ["house-sulu"],
+          "wordIds": [
+            "house-sulu"
+          ],
           "answerId": "house-sulu"
         },
         {
           "id": "house-3-ma1",
           "type": "matching",
-          "wordIds": ["house-pitudturan", "house-sulu"],
+          "wordIds": [
+            "house-pitudturan",
+            "house-sulu"
+          ],
           "pairs": [
-            {"wordId": "house-pitudturan"},
-            {"wordId": "house-sulu"}
+            {
+              "wordId": "house-pitudturan"
+            },
+            {
+              "wordId": "house-sulu"
+            }
           ]
         }
       ]
@@ -423,14 +678,21 @@
       "title": "Kitchen Utensils",
       "theme": "kitchen and eating tools",
       "intro": "In the Kapampangan kitchen: 'Platu' (plate), 'Tasa' (cup), 'Kutsara' (spoon), and 'Kampit' (knife). Many of these are Spanish loanwords shared across Philippine languages.",
-      "wordIds": ["house-platu", "house-tasa", "house-kutsara", "house-kampit"],
+      "wordIds": [
+        "house-platu",
+        "house-tasa",
+        "house-kutsara",
+        "house-kampit"
+      ],
       "exercises": [
         {
           "id": "house-4-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Platu\" mean?",
-          "wordIds": ["house-platu"],
+          "wordIds": [
+            "house-platu"
+          ],
           "answerId": "house-platu"
         },
         {
@@ -438,7 +700,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Tasa\" mean?",
-          "wordIds": ["house-tasa"],
+          "wordIds": [
+            "house-tasa"
+          ],
           "answerId": "house-tasa"
         },
         {
@@ -446,7 +710,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Kampit\" mean?",
-          "wordIds": ["house-kampit"],
+          "wordIds": [
+            "house-kampit"
+          ],
           "answerId": "house-kampit"
         },
         {
@@ -454,33 +720,58 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Hugasan me ing Platu.",
-          "wordIds": ["house-platu"],
-          "accepted": ["wash the plate", "wash the dish"]
+          "wordIds": [
+            "house-platu"
+          ],
+          "accepted": [
+            "wash the plate",
+            "wash the dish"
+          ]
         },
         {
           "id": "house-4-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Bisa kung Tasa ning kape.",
-          "wordIds": ["house-tasa"],
-          "accepted": ["i want a cup of coffee"]
+          "wordIds": [
+            "house-tasa"
+          ],
+          "accepted": [
+            "i want a cup of coffee",
+            "i want a glass of coffee"
+          ]
         },
         {
           "id": "house-4-fb1",
           "type": "fill-blank",
           "prompt": "Gamitan me ing ____. (Use the spoon.)",
-          "wordIds": ["house-kutsara"],
+          "wordIds": [
+            "house-kutsara"
+          ],
           "answerId": "house-kutsara"
         },
         {
           "id": "house-4-ma1",
           "type": "matching",
-          "wordIds": ["house-platu", "house-tasa", "house-kutsara", "house-kampit"],
+          "wordIds": [
+            "house-platu",
+            "house-tasa",
+            "house-kutsara",
+            "house-kampit"
+          ],
           "pairs": [
-            {"wordId": "house-platu"},
-            {"wordId": "house-tasa"},
-            {"wordId": "house-kutsara"},
-            {"wordId": "house-kampit"}
+            {
+              "wordId": "house-platu"
+            },
+            {
+              "wordId": "house-tasa"
+            },
+            {
+              "wordId": "house-kutsara"
+            },
+            {
+              "wordId": "house-kampit"
+            }
           ]
         }
       ]
@@ -490,14 +781,19 @@
       "title": "Clothes & Broom",
       "theme": "clothing and cleaning",
       "intro": "Keeping the home clean and dressing well: 'Malan' means clothes in Kapampangan, and 'Palis' means broom — an essential tool for sweeping the floor.",
-      "wordIds": ["house-malan", "house-palis"],
+      "wordIds": [
+        "house-malan",
+        "house-palis"
+      ],
       "exercises": [
         {
           "id": "house-5-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Malan\" mean?",
-          "wordIds": ["house-malan"],
+          "wordIds": [
+            "house-malan"
+          ],
           "answerId": "house-malan"
         },
         {
@@ -505,7 +801,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Palis\" mean?",
-          "wordIds": ["house-palis"],
+          "wordIds": [
+            "house-palis"
+          ],
           "answerId": "house-palis"
         },
         {
@@ -513,38 +811,59 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Labhan me ing Malan.",
-          "wordIds": ["house-malan"],
-          "accepted": ["wash the clothes", "do the laundry"]
+          "wordIds": [
+            "house-malan"
+          ],
+          "accepted": [
+            "wash the clothes",
+            "do the laundry",
+            "wash the clothing"
+          ]
         },
         {
           "id": "house-5-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Gamitan me ing Palis.",
-          "wordIds": ["house-palis"],
-          "accepted": ["use the broom"]
+          "wordIds": [
+            "house-palis"
+          ],
+          "accepted": [
+            "use the broom"
+          ]
         },
         {
           "id": "house-5-fb1",
           "type": "fill-blank",
           "prompt": "Ating bayu kung ____. (I have new ____.  [clothing])",
-          "wordIds": ["house-malan"],
+          "wordIds": [
+            "house-malan"
+          ],
           "answerId": "house-malan"
         },
         {
           "id": "house-5-fb2",
           "type": "fill-blank",
           "prompt": "Palisan me ing lapag. (Sweep the floor with the ____.) [cleaning tool]",
-          "wordIds": ["house-palis"],
+          "wordIds": [
+            "house-palis"
+          ],
           "answerId": "house-palis"
         },
         {
           "id": "house-5-ma1",
           "type": "matching",
-          "wordIds": ["house-malan", "house-palis"],
+          "wordIds": [
+            "house-malan",
+            "house-palis"
+          ],
           "pairs": [
-            {"wordId": "house-malan"},
-            {"wordId": "house-palis"}
+            {
+              "wordId": "house-malan"
+            },
+            {
+              "wordId": "house-palis"
+            }
           ]
         }
       ]
@@ -554,14 +873,35 @@
       "title": "Around the House",
       "theme": "review of all house vocabulary",
       "intro": "Let us practice all the house vocabulary together. From 'Bale' (house) to 'Palis' (broom), you now know the essential words for talking about home in Kapampangan.",
-      "wordIds": ["house-bale", "house-pasbul", "house-awang", "house-pader", "house-atup", "house-kwartu", "house-kusina", "house-lamesa", "house-luklukan", "house-lapag", "house-pitudturan", "house-sulu", "house-platu", "house-tasa", "house-kutsara", "house-kampit", "house-malan", "house-palis"],
+      "wordIds": [
+        "house-bale",
+        "house-pasbul",
+        "house-awang",
+        "house-pader",
+        "house-atup",
+        "house-kwartu",
+        "house-kusina",
+        "house-lamesa",
+        "house-luklukan",
+        "house-lapag",
+        "house-pitudturan",
+        "house-sulu",
+        "house-platu",
+        "house-tasa",
+        "house-kutsara",
+        "house-kampit",
+        "house-malan",
+        "house-palis"
+      ],
       "exercises": [
         {
           "id": "house-6-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Luklukan\" mean?",
-          "wordIds": ["house-luklukan"],
+          "wordIds": [
+            "house-luklukan"
+          ],
           "answerId": "house-luklukan"
         },
         {
@@ -569,7 +909,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Atup\" mean?",
-          "wordIds": ["house-atup"],
+          "wordIds": [
+            "house-atup"
+          ],
           "answerId": "house-atup"
         },
         {
@@ -577,7 +919,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Kutsara\" mean?",
-          "wordIds": ["house-kutsara"],
+          "wordIds": [
+            "house-kutsara"
+          ],
           "answerId": "house-kutsara"
         },
         {
@@ -585,34 +929,63 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mapula ya ing Atup ning bale mi.",
-          "wordIds": ["house-atup", "house-bale"],
-          "accepted": ["the roof of our house is red"]
+          "wordIds": [
+            "house-atup",
+            "house-bale"
+          ],
+          "accepted": [
+            "the roof of our house is red",
+            "the roof of our home is red"
+          ]
         },
         {
           "id": "house-6-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atin Kampit king Kusina.",
-          "wordIds": ["house-kampit", "house-kusina"],
-          "accepted": ["there is a knife in the kitchen"]
+          "wordIds": [
+            "house-kampit",
+            "house-kusina"
+          ],
+          "accepted": [
+            "there is a knife in the kitchen"
+          ]
         },
         {
           "id": "house-6-fb1",
           "type": "fill-blank",
           "prompt": "Bukasan me ing ____. (Open the ____.  [for letting air in])",
-          "wordIds": ["house-awang"],
+          "wordIds": [
+            "house-awang"
+          ],
           "answerId": "house-awang"
         },
         {
           "id": "house-6-ma1",
           "type": "matching",
-          "wordIds": ["house-bale", "house-kwartu", "house-pitudturan", "house-sulu", "house-malan"],
+          "wordIds": [
+            "house-bale",
+            "house-kwartu",
+            "house-pitudturan",
+            "house-sulu",
+            "house-malan"
+          ],
           "pairs": [
-            {"wordId": "house-bale"},
-            {"wordId": "house-kwartu"},
-            {"wordId": "house-pitudturan"},
-            {"wordId": "house-sulu"},
-            {"wordId": "house-malan"}
+            {
+              "wordId": "house-bale"
+            },
+            {
+              "wordId": "house-kwartu"
+            },
+            {
+              "wordId": "house-pitudturan"
+            },
+            {
+              "wordId": "house-sulu"
+            },
+            {
+              "wordId": "house-malan"
+            }
           ]
         }
       ]

@@ -6,7 +6,14 @@
       "id": "part-king",
       "word": "king",
       "partOfSpeech": "particle",
-      "translations": ["in", "at", "to", "into", "for", "of"],
+      "translations": [
+        "in",
+        "at",
+        "to",
+        "into",
+        "for",
+        "of"
+      ],
       "relatedTagalog": "sa",
       "examples": [
         {
@@ -32,7 +39,11 @@
       "id": "part-para",
       "word": "para",
       "partOfSpeech": "preposition",
-      "translations": ["for", "in order to", "so that"],
+      "translations": [
+        "for",
+        "in order to",
+        "so that"
+      ],
       "relatedTagalog": "para",
       "examples": [
         {
@@ -54,7 +65,10 @@
       "id": "part-pu",
       "word": "pu",
       "partOfSpeech": "particle",
-      "translations": ["(politeness/respect marker)", "please (softener)"],
+      "translations": [
+        "(politeness/respect marker)",
+        "please (softener)"
+      ],
       "relatedTagalog": "po",
       "examples": [
         {
@@ -80,7 +94,13 @@
       "id": "part-pa",
       "word": "pa",
       "partOfSpeech": "particle",
-      "translations": ["still", "yet", "more", "also", "even"],
+      "translations": [
+        "still",
+        "yet",
+        "more",
+        "also",
+        "even"
+      ],
       "relatedTagalog": "pa",
       "examples": [
         {
@@ -106,7 +126,11 @@
       "id": "part-nung",
       "word": "nung",
       "partOfSpeech": "conjunction",
-      "translations": ["if", "when", "whenever"],
+      "translations": [
+        "if",
+        "when",
+        "whenever"
+      ],
       "relatedTagalog": "kung / kapag",
       "examples": [
         {
@@ -128,7 +152,11 @@
       "id": "part-uling",
       "word": "uling",
       "partOfSpeech": "conjunction",
-      "translations": ["because", "since", "for (reason)"],
+      "translations": [
+        "because",
+        "since",
+        "for (reason)"
+      ],
       "relatedTagalog": "kasi / dahil",
       "examples": [
         {
@@ -150,7 +178,11 @@
       "id": "part-bisa",
       "word": "bisa",
       "partOfSpeech": "verb",
-      "translations": ["to want", "to like", "to desire"],
+      "translations": [
+        "to want",
+        "to like",
+        "to desire"
+      ],
       "relatedTagalog": "gusto / ibig",
       "examples": [
         {
@@ -176,7 +208,11 @@
       "id": "part-mu",
       "word": "mu",
       "partOfSpeech": "pronoun",
-      "translations": ["your (singular)", "by you", "you (genitive/non-subject)"],
+      "translations": [
+        "your (singular)",
+        "by you",
+        "you (genitive/non-subject)"
+      ],
       "relatedTagalog": "mo",
       "examples": [
         {
@@ -202,7 +238,10 @@
       "id": "part-ke",
       "word": "ke",
       "partOfSpeech": "pronoun",
-      "translations": ["I (do it to) him/her/it", "I … it/him/her"],
+      "translations": [
+        "I (do it to) him/her/it",
+        "I … it/him/her"
+      ],
       "relatedTagalog": "ko siya / ko ito",
       "examples": [
         {
@@ -228,7 +267,11 @@
       "id": "part-keka",
       "word": "keka",
       "partOfSpeech": "pronoun",
-      "translations": ["to you", "for you", "you (oblique singular)"],
+      "translations": [
+        "to you",
+        "for you",
+        "you (oblique singular)"
+      ],
       "relatedTagalog": "sa iyo",
       "examples": [
         {
@@ -254,7 +297,11 @@
       "id": "part-kaku",
       "word": "kaku",
       "partOfSpeech": "pronoun",
-      "translations": ["to me", "for me", "me (oblique)"],
+      "translations": [
+        "to me",
+        "for me",
+        "me (oblique)"
+      ],
       "relatedTagalog": "sa akin",
       "examples": [
         {
@@ -280,7 +327,13 @@
       "id": "part-kaniya",
       "word": "kaniya",
       "partOfSpeech": "pronoun",
-      "translations": ["to him", "to her", "for him", "for her", "him/her (oblique)"],
+      "translations": [
+        "to him",
+        "to her",
+        "for him",
+        "for her",
+        "him/her (oblique)"
+      ],
       "relatedTagalog": "sa kanya",
       "examples": [
         {
@@ -302,7 +355,11 @@
       "id": "part-kang",
       "word": "kang",
       "partOfSpeech": "particle",
-      "translations": ["to (personal name)", "for (a person)", "(oblique personal article)"],
+      "translations": [
+        "to (personal name)",
+        "for (a person)",
+        "(oblique personal article)"
+      ],
       "relatedTagalog": "kay",
       "examples": [
         {
@@ -324,7 +381,11 @@
       "id": "part-kareng",
       "word": "kareng",
       "partOfSpeech": "particle",
-      "translations": ["to the (plural)", "for the (plural)", "among the (plural)"],
+      "translations": [
+        "to the (plural)",
+        "for the (plural)",
+        "among the (plural)"
+      ],
       "relatedTagalog": "sa mga",
       "examples": [
         {
@@ -346,7 +407,12 @@
       "id": "part-atin",
       "word": "atin",
       "partOfSpeech": "verb",
-      "translations": ["there is", "there are", "to have", "to exist"],
+      "translations": [
+        "there is",
+        "there are",
+        "to have",
+        "to exist"
+      ],
       "relatedTagalog": "mayroon / meron",
       "examples": [
         {
@@ -372,7 +438,11 @@
       "id": "part-atyu",
       "word": "atyu",
       "partOfSpeech": "verb",
-      "translations": ["is located at", "is present", "to be (at a place)"],
+      "translations": [
+        "is located at",
+        "is present",
+        "to be (at a place)"
+      ],
       "relatedTagalog": "nandoon / narito / nasa",
       "examples": [
         {
@@ -398,7 +468,10 @@
       "id": "part-iti",
       "word": "iti",
       "partOfSpeech": "pronoun",
-      "translations": ["this", "this one (near speaker)"],
+      "translations": [
+        "this",
+        "this one (near speaker)"
+      ],
       "relatedTagalog": "ito",
       "examples": [
         {
@@ -424,7 +497,10 @@
       "id": "part-ini",
       "word": "ini",
       "partOfSpeech": "pronoun",
-      "translations": ["this", "this one (proximal)"],
+      "translations": [
+        "this",
+        "this one (proximal)"
+      ],
       "relatedTagalog": "ito / itong",
       "examples": [
         {
@@ -446,7 +522,10 @@
       "id": "part-deti",
       "word": "deti",
       "partOfSpeech": "pronoun",
-      "translations": ["these", "these ones (proximal plural)"],
+      "translations": [
+        "these",
+        "these ones (proximal plural)"
+      ],
       "relatedTagalog": "ang mga ito / mga ito",
       "examples": [
         {
@@ -490,7 +569,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does the particle \"king\" mean?",
-          "wordIds": ["part-king"],
+          "wordIds": [
+            "part-king"
+          ],
           "answerId": "part-king"
         },
         {
@@ -498,7 +579,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"uling\" mean?",
-          "wordIds": ["part-uling"],
+          "wordIds": [
+            "part-uling"
+          ],
           "answerId": "part-uling"
         },
         {
@@ -506,7 +589,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"to want\" or \"to like\"?",
-          "wordIds": ["part-bisa"],
+          "wordIds": [
+            "part-bisa"
+          ],
           "answerId": "part-bisa"
         },
         {
@@ -514,7 +599,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"pu\" signal in a sentence?",
-          "wordIds": ["part-pu"],
+          "wordIds": [
+            "part-pu"
+          ],
           "answerId": "part-pu"
         },
         {
@@ -522,7 +609,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Munta ku king palengke.",
-          "wordIds": ["part-king"],
+          "wordIds": [
+            "part-king"
+          ],
           "accepted": [
             "i am going to the market",
             "i am going to the market.",
@@ -535,39 +624,67 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Nung ati kang sakit, munta ka king doktor.",
-          "wordIds": ["part-nung", "part-king"],
+          "wordIds": [
+            "part-nung",
+            "part-king"
+          ],
           "accepted": [
             "if you are sick, go to the doctor",
             "if you are sick, go to the doctor.",
             "when you are sick, go to the doctor",
-            "when you are sick, go to the doctor."
+            "when you are sick, go to the doctor.",
+            "whenever you are sick, go to the doctor",
+            "whenever you are sick, go to the doctor."
           ]
         },
         {
           "id": "part-L1-fb1",
           "type": "fill-blank",
           "prompt": "Bisa kung munta ____ tindahan. (in/to)",
-          "wordIds": ["part-king"],
+          "wordIds": [
+            "part-king"
+          ],
           "answerId": "part-king"
         },
         {
           "id": "part-L1-fb2",
           "type": "fill-blank",
           "prompt": "Maranup ko ____. (still)",
-          "wordIds": ["part-pa"],
+          "wordIds": [
+            "part-pa"
+          ],
           "answerId": "part-pa"
         },
         {
           "id": "part-L1-ma1",
           "type": "matching",
-          "wordIds": ["part-king", "part-para", "part-pu", "part-nung", "part-uling", "part-bisa"],
+          "wordIds": [
+            "part-king",
+            "part-para",
+            "part-pu",
+            "part-nung",
+            "part-uling",
+            "part-bisa"
+          ],
           "pairs": [
-            {"wordId": "part-king"},
-            {"wordId": "part-para"},
-            {"wordId": "part-pu"},
-            {"wordId": "part-nung"},
-            {"wordId": "part-uling"},
-            {"wordId": "part-bisa"}
+            {
+              "wordId": "part-king"
+            },
+            {
+              "wordId": "part-para"
+            },
+            {
+              "wordId": "part-pu"
+            },
+            {
+              "wordId": "part-nung"
+            },
+            {
+              "wordId": "part-uling"
+            },
+            {
+              "wordId": "part-bisa"
+            }
           ]
         }
       ]
@@ -592,7 +709,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"mu\" mean?",
-          "wordIds": ["part-mu"],
+          "wordIds": [
+            "part-mu"
+          ],
           "answerId": "part-mu"
         },
         {
@@ -600,7 +719,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"kaku\" mean?",
-          "wordIds": ["part-kaku"],
+          "wordIds": [
+            "part-kaku"
+          ],
           "answerId": "part-kaku"
         },
         {
@@ -608,7 +729,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "How do you say \"to you / for you\" (singular) in Kapampangan?",
-          "wordIds": ["part-keka"],
+          "wordIds": [
+            "part-keka"
+          ],
           "answerId": "part-keka"
         },
         {
@@ -616,7 +739,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"kaniya\" mean?",
-          "wordIds": ["part-kaniya"],
+          "wordIds": [
+            "part-kaniya"
+          ],
           "answerId": "part-kaniya"
         },
         {
@@ -624,7 +749,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Nanu ya ing lagyu mu?",
-          "wordIds": ["part-mu"],
+          "wordIds": [
+            "part-mu"
+          ],
           "accepted": [
             "what is your name",
             "what is your name?",
@@ -636,38 +763,67 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ibie ke ing libro kaniya.",
-          "wordIds": ["part-ke", "part-kaniya"],
+          "wordIds": [
+            "part-ke",
+            "part-kaniya"
+          ],
           "accepted": [
             "i will give the book to him",
             "i will give the book to him.",
             "i will give the book to her",
-            "i will give the book to her."
+            "i will give the book to her.",
+            "i will give the book for him",
+            "i will give the book for him.",
+            "i will give the book for her",
+            "i will give the book for her.",
+            "i will give the book him/her (oblique)",
+            "i will give the book him/her (oblique)."
           ]
         },
         {
           "id": "part-L2-fb1",
           "type": "fill-blank",
           "prompt": "Sabian me ____. (to me)",
-          "wordIds": ["part-kaku"],
+          "wordIds": [
+            "part-kaku"
+          ],
           "answerId": "part-kaku"
         },
         {
           "id": "part-L2-fb2",
           "type": "fill-blank",
           "prompt": "Ibie ke ing susi ____ Carmen. (to — before a name)",
-          "wordIds": ["part-kang"],
+          "wordIds": [
+            "part-kang"
+          ],
           "answerId": "part-kang"
         },
         {
           "id": "part-L2-ma1",
           "type": "matching",
-          "wordIds": ["part-mu", "part-keka", "part-kaku", "part-kaniya", "part-kareng"],
+          "wordIds": [
+            "part-mu",
+            "part-keka",
+            "part-kaku",
+            "part-kaniya",
+            "part-kareng"
+          ],
           "pairs": [
-            {"wordId": "part-mu"},
-            {"wordId": "part-keka"},
-            {"wordId": "part-kaku"},
-            {"wordId": "part-kaniya"},
-            {"wordId": "part-kareng"}
+            {
+              "wordId": "part-mu"
+            },
+            {
+              "wordId": "part-keka"
+            },
+            {
+              "wordId": "part-kaku"
+            },
+            {
+              "wordId": "part-kaniya"
+            },
+            {
+              "wordId": "part-kareng"
+            }
           ]
         }
       ]
@@ -690,7 +846,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"atin\" mean?",
-          "wordIds": ["part-atin"],
+          "wordIds": [
+            "part-atin"
+          ],
           "answerId": "part-atin"
         },
         {
@@ -698,7 +856,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"atyu\" mean?",
-          "wordIds": ["part-atyu"],
+          "wordIds": [
+            "part-atyu"
+          ],
           "answerId": "part-atyu"
         },
         {
@@ -706,7 +866,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"these\" (plural proximal)?",
-          "wordIds": ["part-deti"],
+          "wordIds": [
+            "part-deti"
+          ],
           "answerId": "part-deti"
         },
         {
@@ -714,12 +876,26 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atin api keni, masileng tamu.",
-          "wordIds": ["part-atin"],
+          "wordIds": [
+            "part-atin"
+          ],
           "accepted": [
             "there is fire here, let us be careful",
             "there is fire here, let us be careful.",
             "there is fire here, we must be careful",
-            "there is fire here, we must be careful."
+            "there is fire here, we must be careful.",
+            "there are fire here, let us be careful",
+            "there are fire here, let us be careful.",
+            "there are fire here, we must be careful",
+            "there are fire here, we must be careful.",
+            "to have fire here, let us be careful",
+            "to have fire here, let us be careful.",
+            "to have fire here, we must be careful",
+            "to have fire here, we must be careful.",
+            "to exist fire here, let us be careful",
+            "to exist fire here, let us be careful.",
+            "to exist fire here, we must be careful",
+            "to exist fire here, we must be careful."
           ]
         },
         {
@@ -727,7 +903,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atyu ya king lalam ning lamesa.",
-          "wordIds": ["part-atyu"],
+          "wordIds": [
+            "part-atyu"
+          ],
           "accepted": [
             "it is under the table",
             "it is under the table.",
@@ -739,26 +917,46 @@
           "id": "part-L3-fb1",
           "type": "fill-blank",
           "prompt": "Nanu ya ____? (this — pronoun form)",
-          "wordIds": ["part-iti"],
+          "wordIds": [
+            "part-iti"
+          ],
           "answerId": "part-iti"
         },
         {
           "id": "part-L3-fb2",
           "type": "fill-blank",
           "prompt": "Kaninu ya ing bag ____? (this — modifier form)",
-          "wordIds": ["part-ini"],
+          "wordIds": [
+            "part-ini"
+          ],
           "answerId": "part-ini"
         },
         {
           "id": "part-L3-ma1",
           "type": "matching",
-          "wordIds": ["part-atin", "part-atyu", "part-iti", "part-ini", "part-deti"],
+          "wordIds": [
+            "part-atin",
+            "part-atyu",
+            "part-iti",
+            "part-ini",
+            "part-deti"
+          ],
           "pairs": [
-            {"wordId": "part-atin"},
-            {"wordId": "part-atyu"},
-            {"wordId": "part-iti"},
-            {"wordId": "part-ini"},
-            {"wordId": "part-deti"}
+            {
+              "wordId": "part-atin"
+            },
+            {
+              "wordId": "part-atyu"
+            },
+            {
+              "wordId": "part-iti"
+            },
+            {
+              "wordId": "part-ini"
+            },
+            {
+              "wordId": "part-deti"
+            }
           ]
         }
       ]

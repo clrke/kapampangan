@@ -80,7 +80,7 @@ const KP_BACKLOG = [
   'mekita', 'mekublan', 'mengébun', 'meturan', 'meyari', 'mi', 'mibili', 'miboto', 'migbebenta', 'migluto',
   'migsalita', 'migtutuk', 'miguran', 'mika', 'milukluk', 'mipapatudtud', 'miras', 'mo',
   'muran', 'múra', 'nabayad', 'naintindihan', 'naka', 'naku', 'naman', 'namu', 'nang', 'nanung',
-  'napalubus', 'napasar', 'napuputian', 'nasa', 'naulagang', 'ne', 'ngan', 'ngening', 'opisina', 'paa',
+  'napalubus', 'napasar', 'napuputian', 'nasa', 'naulagang', 'ne', 'ngan', 'ngening', 'opisina',
   'pagkain', 'pagsarian', 'pakisuyo', 'palayan', 'palisan', 'palitan', 'palwal', 'pamagmula', 'pamagsabyan',
   'pamasahe', 'panalung', 'pananim', 'panaun', 'pane-neng', 'papunta', 'pari', 'parsala',
   'paru-paro', 'pasalan', 'pelikula', 'pero', 'pila', 'pong', 'pritung',

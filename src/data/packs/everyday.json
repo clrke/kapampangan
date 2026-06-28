@@ -6,7 +6,9 @@
       "id": "ev-libro",
       "word": "libro",
       "partOfSpeech": "noun",
-      "translations": ["book"],
+      "translations": [
+        "book"
+      ],
       "relatedTagalog": "libro",
       "examples": [
         {
@@ -24,7 +26,9 @@
       "id": "ev-tubig",
       "word": "tubig",
       "partOfSpeech": "noun",
-      "translations": ["water"],
+      "translations": [
+        "water"
+      ],
       "relatedTagalog": "tubig",
       "examples": [
         {
@@ -42,7 +46,9 @@
       "id": "ev-susi",
       "word": "susi",
       "partOfSpeech": "noun",
-      "translations": ["key"],
+      "translations": [
+        "key"
+      ],
       "relatedTagalog": "susi",
       "examples": [
         {
@@ -60,7 +66,10 @@
       "id": "ev-kotse",
       "word": "kotse",
       "partOfSpeech": "noun",
-      "translations": ["car", "vehicle"],
+      "translations": [
+        "car",
+        "vehicle"
+      ],
       "relatedTagalog": "kotse",
       "examples": [
         {
@@ -78,7 +87,11 @@
       "id": "ev-tao",
       "word": "tao",
       "partOfSpeech": "noun",
-      "translations": ["person", "people", "human being"],
+      "translations": [
+        "person",
+        "people",
+        "human being"
+      ],
       "relatedTagalog": "tao",
       "examples": [
         {
@@ -96,7 +109,11 @@
       "id": "ev-piso",
       "word": "piso",
       "partOfSpeech": "noun",
-      "translations": ["peso", "one peso", "Philippine currency unit"],
+      "translations": [
+        "peso",
+        "one peso",
+        "Philippine currency unit"
+      ],
       "relatedTagalog": "piso",
       "examples": [
         {
@@ -114,7 +131,12 @@
       "id": "ev-larawan",
       "word": "larawan",
       "partOfSpeech": "noun",
-      "translations": ["picture", "photo", "image", "portrait"],
+      "translations": [
+        "picture",
+        "photo",
+        "image",
+        "portrait"
+      ],
       "relatedTagalog": "larawan",
       "examples": [
         {
@@ -132,7 +154,11 @@
       "id": "ev-liham",
       "word": "liham",
       "partOfSpeech": "noun",
-      "translations": ["letter", "written letter", "correspondence"],
+      "translations": [
+        "letter",
+        "written letter",
+        "correspondence"
+      ],
       "relatedTagalog": "liham",
       "examples": [
         {
@@ -150,7 +176,9 @@
       "id": "ev-musika",
       "word": "musika",
       "partOfSpeech": "noun",
-      "translations": ["music"],
+      "translations": [
+        "music"
+      ],
       "relatedTagalog": "musika",
       "examples": [
         {
@@ -168,7 +196,9 @@
       "id": "ev-silya",
       "word": "silya",
       "partOfSpeech": "noun",
-      "translations": ["chair"],
+      "translations": [
+        "chair"
+      ],
       "relatedTagalog": "silya",
       "examples": [
         {
@@ -186,7 +216,10 @@
       "id": "ev-pintuan",
       "word": "pintuan",
       "partOfSpeech": "noun",
-      "translations": ["door", "doorway"],
+      "translations": [
+        "door",
+        "doorway"
+      ],
       "relatedTagalog": "pintuan",
       "examples": [
         {
@@ -204,7 +237,9 @@
       "id": "ev-bintana",
       "word": "bintana",
       "partOfSpeech": "noun",
-      "translations": ["window"],
+      "translations": [
+        "window"
+      ],
       "relatedTagalog": "bintana",
       "examples": [
         {
@@ -222,7 +257,9 @@
       "id": "ev-puso",
       "word": "puso",
       "partOfSpeech": "noun",
-      "translations": ["heart"],
+      "translations": [
+        "heart"
+      ],
       "relatedTagalog": "puso",
       "examples": [
         {
@@ -256,7 +293,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"libro\" mean?",
-          "wordIds": ["ev-libro"],
+          "wordIds": [
+            "ev-libro"
+          ],
           "answerId": "ev-libro"
         },
         {
@@ -264,7 +303,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"water\"?",
-          "wordIds": ["ev-tubig"],
+          "wordIds": [
+            "ev-tubig"
+          ],
           "answerId": "ev-tubig"
         },
         {
@@ -272,7 +313,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"susi\" mean?",
-          "wordIds": ["ev-susi"],
+          "wordIds": [
+            "ev-susi"
+          ],
           "answerId": "ev-susi"
         },
         {
@@ -280,7 +323,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"car\" or \"vehicle\"?",
-          "wordIds": ["ev-kotse"],
+          "wordIds": [
+            "ev-kotse"
+          ],
           "answerId": "ev-kotse"
         },
         {
@@ -288,7 +333,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"tao\" mean?",
-          "wordIds": ["ev-tao"],
+          "wordIds": [
+            "ev-tao"
+          ],
           "answerId": "ev-tao"
         },
         {
@@ -296,7 +343,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"person\" or \"people\"?",
-          "wordIds": ["ev-tao"],
+          "wordIds": [
+            "ev-tao"
+          ],
           "answerId": "ev-tao"
         },
         {
@@ -304,7 +353,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ibie ke ing libro kaniya.",
-          "wordIds": ["ev-libro"],
+          "wordIds": [
+            "ev-libro"
+          ],
           "accepted": [
             "i will give the book to him",
             "i will give the book to him.",
@@ -317,7 +368,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Bisa ku ing tubig.",
-          "wordIds": ["ev-tubig"],
+          "wordIds": [
+            "ev-tubig"
+          ],
           "accepted": [
             "i want water",
             "i want water."
@@ -328,10 +381,14 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atyu ya ing kotse king arap ning bale.",
-          "wordIds": ["ev-kotse"],
+          "wordIds": [
+            "ev-kotse"
+          ],
           "accepted": [
             "the car is in front of the house",
-            "the car is in front of the house."
+            "the car is in front of the house.",
+            "the vehicle is in front of the house",
+            "the vehicle is in front of the house."
           ]
         }
       ]
@@ -353,7 +410,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"piso\" mean?",
-          "wordIds": ["ev-piso"],
+          "wordIds": [
+            "ev-piso"
+          ],
           "answerId": "ev-piso"
         },
         {
@@ -361,7 +420,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"picture\" or \"photo\"?",
-          "wordIds": ["ev-larawan"],
+          "wordIds": [
+            "ev-larawan"
+          ],
           "answerId": "ev-larawan"
         },
         {
@@ -369,7 +430,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"liham\" mean?",
-          "wordIds": ["ev-liham"],
+          "wordIds": [
+            "ev-liham"
+          ],
           "answerId": "ev-liham"
         },
         {
@@ -377,7 +440,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"music\"?",
-          "wordIds": ["ev-musika"],
+          "wordIds": [
+            "ev-musika"
+          ],
           "answerId": "ev-musika"
         },
         {
@@ -385,7 +450,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"larawan\" mean?",
-          "wordIds": ["ev-larawan"],
+          "wordIds": [
+            "ev-larawan"
+          ],
           "answerId": "ev-larawan"
         },
         {
@@ -393,7 +460,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"letter\" (written correspondence)?",
-          "wordIds": ["ev-liham"],
+          "wordIds": [
+            "ev-liham"
+          ],
           "answerId": "ev-liham"
         },
         {
@@ -401,12 +470,26 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Susulat ku liham kaniya.",
-          "wordIds": ["ev-liham"],
+          "wordIds": [
+            "ev-liham"
+          ],
           "accepted": [
             "i am writing a letter to him",
             "i am writing a letter to him.",
             "i am writing a letter to her",
-            "i am writing a letter to her."
+            "i am writing a letter to her.",
+            "i am writing a written letter to him",
+            "i am writing a written letter to him.",
+            "i am writing a written letter to her",
+            "i am writing a written letter to her.",
+            "i am writing a correspondence to him",
+            "i am writing a correspondence to him.",
+            "i am writing a correspondence to her",
+            "i am writing a correspondence to her.",
+            "i am writing a written correspondence to him",
+            "i am writing a written correspondence to him.",
+            "i am writing a written correspondence to her",
+            "i am writing a written correspondence to her."
           ]
         },
         {
@@ -414,14 +497,18 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malagu ya ing larawan mu.",
-          "wordIds": ["ev-larawan"],
+          "wordIds": [
+            "ev-larawan"
+          ],
           "accepted": [
             "your picture is beautiful",
             "your picture is beautiful.",
             "your photo is beautiful",
             "your photo is beautiful.",
             "your image is beautiful",
-            "your image is beautiful."
+            "your image is beautiful.",
+            "your portrait is beautiful",
+            "your portrait is beautiful."
           ]
         },
         {
@@ -429,7 +516,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Bisa ku ning musika.",
-          "wordIds": ["ev-musika"],
+          "wordIds": [
+            "ev-musika"
+          ],
           "accepted": [
             "i like music",
             "i like music.",
@@ -456,7 +545,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"silya\" mean?",
-          "wordIds": ["ev-silya"],
+          "wordIds": [
+            "ev-silya"
+          ],
           "answerId": "ev-silya"
         },
         {
@@ -464,7 +555,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"door\" or \"doorway\"?",
-          "wordIds": ["ev-pintuan"],
+          "wordIds": [
+            "ev-pintuan"
+          ],
           "answerId": "ev-pintuan"
         },
         {
@@ -472,7 +565,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"bintana\" mean?",
-          "wordIds": ["ev-bintana"],
+          "wordIds": [
+            "ev-bintana"
+          ],
           "answerId": "ev-bintana"
         },
         {
@@ -480,7 +575,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"heart\"?",
-          "wordIds": ["ev-puso"],
+          "wordIds": [
+            "ev-puso"
+          ],
           "answerId": "ev-puso"
         },
         {
@@ -488,7 +585,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"pintuan\" mean?",
-          "wordIds": ["ev-pintuan"],
+          "wordIds": [
+            "ev-pintuan"
+          ],
           "answerId": "ev-pintuan"
         },
         {
@@ -496,7 +595,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"window\"?",
-          "wordIds": ["ev-bintana"],
+          "wordIds": [
+            "ev-bintana"
+          ],
           "answerId": "ev-bintana"
         },
         {
@@ -504,10 +605,14 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Sarad ing pintuan.",
-          "wordIds": ["ev-pintuan"],
+          "wordIds": [
+            "ev-pintuan"
+          ],
           "accepted": [
             "the door is closed",
-            "the door is closed."
+            "the door is closed.",
+            "the doorway is closed",
+            "the doorway is closed."
           ]
         },
         {
@@ -515,7 +620,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Bukasan me ing bintana para maliwanag ing kwarto.",
-          "wordIds": ["ev-bintana"],
+          "wordIds": [
+            "ev-bintana"
+          ],
           "accepted": [
             "open the window so the room is bright",
             "open the window so the room is bright.",
@@ -528,7 +635,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Dakal a lugud king puso ku para keka.",
-          "wordIds": ["ev-puso"],
+          "wordIds": [
+            "ev-puso"
+          ],
           "accepted": [
             "there is much love in my heart for you",
             "there is much love in my heart for you.",

@@ -376,7 +376,9 @@
           ],
           "accepted": [
             "I have money to buy things.",
-            "I have money to buy."
+            "I have money to buy.",
+            "I have funds to buy things.",
+            "I have funds to buy."
           ]
         },
         {
@@ -461,7 +463,9 @@
           ],
           "accepted": [
             "The price of vegetables is high today.",
-            "The vegetable price is high today."
+            "The vegetable price is high today.",
+            "The cost of vegetables is high today.",
+            "The vegetable cost is high today."
           ]
         }
       ]
@@ -540,7 +544,9 @@
           ],
           "accepted": [
             "Do you have a discount for this?",
-            "Do you have discounts for this?"
+            "Do you have discounts for this?",
+            "Do you have a price reduction for this?",
+            "Do you have a markdown for this?"
           ]
         },
         {
@@ -639,7 +645,13 @@
           "accepted": [
             "This is free, you do not need to pay.",
             "This is free, you don't need to pay.",
-            "This is free, no need to pay."
+            "This is free, no need to pay.",
+            "This is no charge, you do not need to pay.",
+            "This is no charge, you don't need to pay.",
+            "This is no charge, no need to pay.",
+            "This is complimentary, you do not need to pay.",
+            "This is complimentary, you don't need to pay.",
+            "This is complimentary, no need to pay."
           ]
         },
         {
@@ -718,7 +730,10 @@
           "accepted": [
             "The vendor at the market is kind.",
             "The seller at the market is kind.",
-            "The vendor at the market is good."
+            "The vendor at the market is good.",
+            "The seller at the market is good.",
+            "The shopkeeper at the market is kind.",
+            "The shopkeeper at the market is good."
           ]
         },
         {
@@ -813,7 +828,13 @@
           "accepted": [
             "He is poor but happy.",
             "She is poor but happy.",
-            "He/she is poor but happy."
+            "He/she is poor but happy.",
+            "He is impoverished but happy.",
+            "She is impoverished but happy.",
+            "He/she is impoverished but happy.",
+            "He is destitute but happy.",
+            "She is destitute but happy.",
+            "He/she is destitute but happy."
           ]
         },
         {

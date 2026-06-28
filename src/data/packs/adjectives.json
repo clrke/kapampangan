@@ -6,7 +6,11 @@
       "id": "adj-maliwanag",
       "word": "maliwanag",
       "partOfSpeech": "adjective",
-      "translations": ["bright", "clear", "luminous"],
+      "translations": [
+        "bright",
+        "clear",
+        "luminous"
+      ],
       "relatedTagalog": "maliwanag",
       "examples": [
         {
@@ -24,7 +28,10 @@
       "id": "adj-mainit",
       "word": "mainit",
       "partOfSpeech": "adjective",
-      "translations": ["hot", "warm"],
+      "translations": [
+        "hot",
+        "warm"
+      ],
       "relatedTagalog": "mainit",
       "examples": [
         {
@@ -42,7 +49,9 @@
       "id": "adj-malambat",
       "word": "malambat",
       "partOfSpeech": "adjective",
-      "translations": ["slow"],
+      "translations": [
+        "slow"
+      ],
       "relatedTagalog": "mabagal",
       "examples": [
         {
@@ -60,7 +69,11 @@
       "id": "adj-maliksi",
       "word": "maliksi",
       "partOfSpeech": "adjective",
-      "translations": ["fast", "quick", "agile"],
+      "translations": [
+        "fast",
+        "quick",
+        "agile"
+      ],
       "relatedTagalog": "mabilis",
       "examples": [
         {
@@ -78,7 +91,10 @@
       "id": "adj-malapit",
       "word": "malapit",
       "partOfSpeech": "adjective",
-      "translations": ["near", "close"],
+      "translations": [
+        "near",
+        "close"
+      ],
       "relatedTagalog": "malapit",
       "examples": [
         {
@@ -96,7 +112,10 @@
       "id": "adj-malayo",
       "word": "malayo",
       "partOfSpeech": "adjective",
-      "translations": ["far", "distant"],
+      "translations": [
+        "far",
+        "distant"
+      ],
       "relatedTagalog": "malayo",
       "examples": [
         {
@@ -114,7 +133,11 @@
       "id": "adj-damu",
       "word": "damu",
       "partOfSpeech": "noun",
-      "translations": ["grass", "weeds", "vegetation"],
+      "translations": [
+        "grass",
+        "weeds",
+        "vegetation"
+      ],
       "relatedTagalog": "damo",
       "examples": [
         {
@@ -131,7 +154,11 @@
       "id": "adj-masipag",
       "word": "masipag",
       "partOfSpeech": "adjective",
-      "translations": ["hardworking", "diligent", "industrious"],
+      "translations": [
+        "hardworking",
+        "diligent",
+        "industrious"
+      ],
       "relatedTagalog": "masipag",
       "examples": [
         {
@@ -148,7 +175,11 @@
       "id": "adj-malupit",
       "word": "malupit",
       "partOfSpeech": "adjective",
-      "translations": ["cruel", "harsh", "severe"],
+      "translations": [
+        "cruel",
+        "harsh",
+        "severe"
+      ],
       "relatedTagalog": "malupit",
       "examples": [
         {
@@ -165,7 +196,11 @@
       "id": "adj-masileng",
       "word": "masileng",
       "partOfSpeech": "adjective",
-      "translations": ["careful", "cautious", "watchful"],
+      "translations": [
+        "careful",
+        "cautious",
+        "watchful"
+      ],
       "relatedTagalog": "maingat",
       "examples": [
         {
@@ -197,7 +232,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"maliwanag\" mean?",
-          "wordIds": ["adj-maliwanag"],
+          "wordIds": [
+            "adj-maliwanag"
+          ],
           "answerId": "adj-maliwanag"
         },
         {
@@ -205,7 +242,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"hot\" or \"warm\"?",
-          "wordIds": ["adj-mainit"],
+          "wordIds": [
+            "adj-mainit"
+          ],
           "answerId": "adj-mainit"
         },
         {
@@ -213,7 +252,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"malambat\" mean?",
-          "wordIds": ["adj-malambat"],
+          "wordIds": [
+            "adj-malambat"
+          ],
           "answerId": "adj-malambat"
         },
         {
@@ -221,7 +262,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"fast\" or \"quick\"?",
-          "wordIds": ["adj-maliksi"],
+          "wordIds": [
+            "adj-maliksi"
+          ],
           "answerId": "adj-maliksi"
         },
         {
@@ -229,7 +272,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"maliksi\" mean?",
-          "wordIds": ["adj-maliksi"],
+          "wordIds": [
+            "adj-maliksi"
+          ],
           "answerId": "adj-maliksi"
         },
         {
@@ -237,7 +282,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"slow\"?",
-          "wordIds": ["adj-malambat"],
+          "wordIds": [
+            "adj-malambat"
+          ],
           "answerId": "adj-malambat"
         },
         {
@@ -245,7 +292,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mainit ya ing danum a ini.",
-          "wordIds": ["adj-mainit"],
+          "wordIds": [
+            "adj-mainit"
+          ],
           "accepted": [
             "this water is hot",
             "this water is hot.",
@@ -258,12 +307,16 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ing dagis maliksi ya.",
-          "wordIds": ["adj-maliksi"],
+          "wordIds": [
+            "adj-maliksi"
+          ],
           "accepted": [
             "the wind is fast",
             "the wind is fast.",
             "the wind is quick",
-            "the wind is quick."
+            "the wind is quick.",
+            "the wind is agile",
+            "the wind is agile."
           ]
         },
         {
@@ -271,7 +324,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Takbu na ka, e ka malambat!",
-          "wordIds": ["adj-malambat"],
+          "wordIds": [
+            "adj-malambat"
+          ],
           "accepted": [
             "run now, don't be slow!",
             "run now, don't be slow"
@@ -295,7 +350,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"malapit\" mean?",
-          "wordIds": ["adj-malapit"],
+          "wordIds": [
+            "adj-malapit"
+          ],
           "answerId": "adj-malapit"
         },
         {
@@ -303,7 +360,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"far\" or \"distant\"?",
-          "wordIds": ["adj-malayo"],
+          "wordIds": [
+            "adj-malayo"
+          ],
           "answerId": "adj-malayo"
         },
         {
@@ -311,7 +370,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"damu\" mean?",
-          "wordIds": ["adj-damu"],
+          "wordIds": [
+            "adj-damu"
+          ],
           "answerId": "adj-damu"
         },
         {
@@ -319,7 +380,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"near\" or \"close\"?",
-          "wordIds": ["adj-malapit"],
+          "wordIds": [
+            "adj-malapit"
+          ],
           "answerId": "adj-malapit"
         },
         {
@@ -327,7 +390,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"malayo\" mean?",
-          "wordIds": ["adj-malayo"],
+          "wordIds": [
+            "adj-malayo"
+          ],
           "answerId": "adj-malayo"
         },
         {
@@ -335,12 +400,16 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malapit ya ing dalan king balen.",
-          "wordIds": ["adj-malapit"],
+          "wordIds": [
+            "adj-malapit"
+          ],
           "accepted": [
             "the road is near the town",
             "the road is near the town.",
             "the road is close to the town",
-            "the road is close to the town."
+            "the road is close to the town.",
+            "the road is close the town",
+            "the road is close the town."
           ]
         },
         {
@@ -348,12 +417,18 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malayo ya ing dagat kareni.",
-          "wordIds": ["adj-malayo"],
+          "wordIds": [
+            "adj-malayo"
+          ],
           "accepted": [
             "the sea is far from here",
             "the sea is far from here.",
             "the ocean is far from here",
-            "the ocean is far from here."
+            "the ocean is far from here.",
+            "the sea is distant from here",
+            "the sea is distant from here.",
+            "the ocean is distant from here",
+            "the ocean is distant from here."
           ]
         },
         {
@@ -361,12 +436,22 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ing kambing makmak ya ning damu.",
-          "wordIds": ["adj-damu"],
+          "wordIds": [
+            "adj-damu"
+          ],
           "accepted": [
             "the goat grazes on the grass",
             "the goat grazes on the grass.",
             "the goat is grazing on the grass",
-            "the goat is grazing on the grass."
+            "the goat is grazing on the grass.",
+            "the goat grazes on the weeds",
+            "the goat grazes on the weeds.",
+            "the goat is grazing on the weeds",
+            "the goat is grazing on the weeds.",
+            "the goat grazes on the vegetation",
+            "the goat grazes on the vegetation.",
+            "the goat is grazing on the vegetation",
+            "the goat is grazing on the vegetation."
           ]
         }
       ]
@@ -387,7 +472,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"masipag\" mean?",
-          "wordIds": ["adj-masipag"],
+          "wordIds": [
+            "adj-masipag"
+          ],
           "answerId": "adj-masipag"
         },
         {
@@ -395,7 +482,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"cruel\" or \"harsh\"?",
-          "wordIds": ["adj-malupit"],
+          "wordIds": [
+            "adj-malupit"
+          ],
           "answerId": "adj-malupit"
         },
         {
@@ -403,7 +492,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"masileng\" mean?",
-          "wordIds": ["adj-masileng"],
+          "wordIds": [
+            "adj-masileng"
+          ],
           "answerId": "adj-masileng"
         },
         {
@@ -411,7 +502,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"hardworking\" or \"diligent\"?",
-          "wordIds": ["adj-masipag"],
+          "wordIds": [
+            "adj-masipag"
+          ],
           "answerId": "adj-masipag"
         },
         {
@@ -419,7 +512,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"malupit\" mean?",
-          "wordIds": ["adj-malupit"],
+          "wordIds": [
+            "adj-malupit"
+          ],
           "answerId": "adj-malupit"
         },
         {
@@ -427,7 +522,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"careful\" or \"cautious\"?",
-          "wordIds": ["adj-masileng"],
+          "wordIds": [
+            "adj-masileng"
+          ],
           "answerId": "adj-masileng"
         },
         {
@@ -435,12 +532,16 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ing panas masipag ya.",
-          "wordIds": ["adj-masipag"],
+          "wordIds": [
+            "adj-masipag"
+          ],
           "accepted": [
             "the worker is hardworking",
             "the worker is hardworking.",
             "the worker is diligent",
-            "the worker is diligent."
+            "the worker is diligent.",
+            "the worker is industrious",
+            "the worker is industrious."
           ]
         },
         {
@@ -448,12 +549,16 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malupit ya ing angin ngeni.",
-          "wordIds": ["adj-malupit"],
+          "wordIds": [
+            "adj-malupit"
+          ],
           "accepted": [
             "the wind is harsh today",
             "the wind is harsh today.",
             "the wind is cruel today",
-            "the wind is cruel today."
+            "the wind is cruel today.",
+            "the wind is severe today",
+            "the wind is severe today."
           ]
         },
         {
@@ -461,12 +566,22 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Masileng tamu nung munta tamu karela.",
-          "wordIds": ["adj-masileng"],
+          "wordIds": [
+            "adj-masileng"
+          ],
           "accepted": [
             "let's be careful when we go there",
             "let's be careful when we go there.",
             "we should be careful when we go there",
-            "we should be careful when we go there."
+            "we should be careful when we go there.",
+            "let's be cautious when we go there",
+            "let's be cautious when we go there.",
+            "we should be cautious when we go there",
+            "we should be cautious when we go there.",
+            "let's be watchful when we go there",
+            "let's be watchful when we go there.",
+            "we should be watchful when we go there",
+            "we should be watchful when we go there."
           ]
         }
       ]

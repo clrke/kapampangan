@@ -521,8 +521,11 @@
             "num-apat"
           ],
           "accepted": [
+            "a dog has four paws",
+            "a dog has four feet",
             "a dog has four legs",
-            "four legs of the dog",
+            "four paws",
+            "four feet",
             "four legs"
           ]
         },
@@ -635,7 +638,9 @@
           ],
           "accepted": [
             "there are ten fingers",
-            "ten fingers"
+            "ten fingers",
+            "there are 10 fingers",
+            "10 fingers"
           ]
         },
         {
@@ -738,7 +743,9 @@
           ],
           "accepted": [
             "there are eleven students",
-            "eleven students"
+            "eleven students",
+            "there are 11 students",
+            "11 students"
           ]
         },
         {
@@ -823,7 +830,8 @@
           "accepted": [
             "the price is one hundred pesos",
             "one hundred pesos",
-            "100 pesos"
+            "100 pesos",
+            "the price is 100 pesos"
           ]
         },
         {
@@ -837,7 +845,8 @@
           "accepted": [
             "my debt is one thousand pesos",
             "one thousand pesos",
-            "1000 pesos"
+            "1000 pesos",
+            "my debt is 1000 pesos"
           ]
         },
         {
@@ -933,7 +942,11 @@
           ],
           "accepted": [
             "what is their count?",
-            "what is the count?"
+            "what is the count?",
+            "what is their number?",
+            "what is the number?",
+            "what is their numeral?",
+            "what is the numeral?"
           ]
         },
         {

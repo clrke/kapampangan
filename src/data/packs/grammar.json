@@ -6,7 +6,9 @@
       "id": "gram-ka",
       "word": "ka",
       "partOfSpeech": "pronoun",
-      "translations": ["you (singular)"],
+      "translations": [
+        "you (singular)"
+      ],
       "relatedTagalog": "ka / ikaw",
       "examples": [
         {
@@ -28,7 +30,11 @@
       "id": "gram-kayu",
       "word": "kayu",
       "partOfSpeech": "pronoun",
-      "translations": ["you (plural)", "you all", "you (formal/polite singular)"],
+      "translations": [
+        "you (plural)",
+        "you all",
+        "you (formal/polite singular)"
+      ],
       "relatedTagalog": "kayo",
       "examples": [
         {
@@ -50,7 +56,10 @@
       "id": "gram-la",
       "word": "la",
       "partOfSpeech": "pronoun",
-      "translations": ["they", "them (as subject)"],
+      "translations": [
+        "they",
+        "them (as subject)"
+      ],
       "relatedTagalog": "sila",
       "examples": [
         {
@@ -72,7 +81,10 @@
       "id": "gram-kami",
       "word": "kami",
       "partOfSpeech": "pronoun",
-      "translations": ["we (exclusive)", "us (not including you)"],
+      "translations": [
+        "we (exclusive)",
+        "us (not including you)"
+      ],
       "relatedTagalog": "kami",
       "examples": [
         {
@@ -94,7 +106,10 @@
       "id": "gram-ing",
       "word": "ing",
       "partOfSpeech": "particle",
-      "translations": ["the (singular)", "a (singular)"],
+      "translations": [
+        "the (singular)",
+        "a (singular)"
+      ],
       "relatedTagalog": "ang",
       "examples": [
         {
@@ -116,7 +131,11 @@
       "id": "gram-ning",
       "word": "ning",
       "partOfSpeech": "particle",
-      "translations": ["of (singular)", "the (singular, non-subject)", "a (non-subject)"],
+      "translations": [
+        "of (singular)",
+        "the (singular, non-subject)",
+        "a (non-subject)"
+      ],
       "relatedTagalog": "ng",
       "examples": [
         {
@@ -138,7 +157,10 @@
       "id": "gram-reng",
       "word": "reng",
       "partOfSpeech": "particle",
-      "translations": ["the (plural)", "the (plural subject/topic)"],
+      "translations": [
+        "the (plural)",
+        "the (plural subject/topic)"
+      ],
       "relatedTagalog": "ang mga",
       "examples": [
         {
@@ -160,7 +182,10 @@
       "id": "gram-ding",
       "word": "ding",
       "partOfSpeech": "particle",
-      "translations": ["the (plural)", "the (plural subject/topic, vowel-final variant)"],
+      "translations": [
+        "the (plural)",
+        "the (plural subject/topic, vowel-final variant)"
+      ],
       "relatedTagalog": "ang mga",
       "examples": [
         {
@@ -182,7 +207,10 @@
       "id": "gram-deng",
       "word": "deng",
       "partOfSpeech": "particle",
-      "translations": ["of the (plural)", "the (plural non-subject)"],
+      "translations": [
+        "of the (plural)",
+        "the (plural non-subject)"
+      ],
       "relatedTagalog": "ng mga",
       "examples": [
         {
@@ -204,7 +232,11 @@
       "id": "gram-da",
       "word": "da",
       "partOfSpeech": "pronoun",
-      "translations": ["their", "of them", "by them (non-subject)"],
+      "translations": [
+        "their",
+        "of them",
+        "by them (non-subject)"
+      ],
       "relatedTagalog": "nila",
       "examples": [
         {
@@ -226,11 +258,19 @@
       "id": "gram-a",
       "word": "a",
       "partOfSpeech": "particle",
-      "translations": ["(linker) — connects adjective/number to noun"],
+      "translations": [
+        "(linker) — connects adjective/number to noun"
+      ],
       "relatedTagalog": "na / -ng",
       "examples": [
-        {"kp": "Mayap a tau ya.", "en": "He is a good person."},
-        {"kp": "Metung a anak ing meyari ku.", "en": "I have one child."}
+        {
+          "kp": "Mayap a tau ya.",
+          "en": "He is a good person."
+        },
+        {
+          "kp": "Metung a anak ing meyari ku.",
+          "en": "I have one child."
+        }
       ],
       "notes": "The linker 'a' follows a word ending in a consonant. After a vowel, use '-ng' (suffix): 'bayu' → 'bayung tau' (new person). Equivalent to Tagalog 'na' or the '-ng' linker."
     }
@@ -253,7 +293,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"la\" mean?",
-          "wordIds": ["gram-la"],
+          "wordIds": [
+            "gram-la"
+          ],
           "answerId": "gram-la"
         },
         {
@@ -261,7 +303,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"ka\" mean?",
-          "wordIds": ["gram-ka"],
+          "wordIds": [
+            "gram-ka"
+          ],
           "answerId": "gram-ka"
         },
         {
@@ -269,7 +313,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which pronoun means \"we (not including you)\"?",
-          "wordIds": ["gram-kami"],
+          "wordIds": [
+            "gram-kami"
+          ],
           "answerId": "gram-kami"
         },
         {
@@ -277,7 +323,10 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atlu la reng anak.",
-          "wordIds": ["gram-la", "gram-reng"],
+          "wordIds": [
+            "gram-la",
+            "gram-reng"
+          ],
           "accepted": [
             "there are three children.",
             "there are three children",
@@ -290,7 +339,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Masaya ka ngeni?",
-          "wordIds": ["gram-ka"],
+          "wordIds": [
+            "gram-ka"
+          ],
           "accepted": [
             "are you happy now?",
             "are you happy now"
@@ -300,25 +351,42 @@
           "id": "gram-L1-fb1",
           "type": "fill-blank",
           "prompt": "Munta ____ king balen. (they)",
-          "wordIds": ["gram-la"],
+          "wordIds": [
+            "gram-la"
+          ],
           "answerId": "gram-la"
         },
         {
           "id": "gram-L1-fb2",
           "type": "fill-blank",
           "prompt": "Matakut ____ king bengi. (we, exclusive)",
-          "wordIds": ["gram-kami"],
+          "wordIds": [
+            "gram-kami"
+          ],
           "answerId": "gram-kami"
         },
         {
           "id": "gram-L1-ma1",
           "type": "matching",
-          "wordIds": ["gram-ka", "gram-kayu", "gram-la", "gram-kami"],
+          "wordIds": [
+            "gram-ka",
+            "gram-kayu",
+            "gram-la",
+            "gram-kami"
+          ],
           "pairs": [
-            {"wordId": "gram-ka"},
-            {"wordId": "gram-kayu"},
-            {"wordId": "gram-la"},
-            {"wordId": "gram-kami"}
+            {
+              "wordId": "gram-ka"
+            },
+            {
+              "wordId": "gram-kayu"
+            },
+            {
+              "wordId": "gram-la"
+            },
+            {
+              "wordId": "gram-kami"
+            }
           ]
         }
       ]
@@ -338,7 +406,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does the article \"ing\" mark?",
-          "wordIds": ["gram-ing"],
+          "wordIds": [
+            "gram-ing"
+          ],
           "answerId": "gram-ing"
         },
         {
@@ -346,7 +416,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does the article \"ning\" mark?",
-          "wordIds": ["gram-ning"],
+          "wordIds": [
+            "gram-ning"
+          ],
           "answerId": "gram-ning"
         },
         {
@@ -354,7 +426,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ing bale.",
-          "wordIds": ["gram-ing"],
+          "wordIds": [
+            "gram-ing"
+          ],
           "accepted": [
             "the house is big.",
             "the house is big",
@@ -367,7 +441,10 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malagu ing mata ning babai.",
-          "wordIds": ["gram-ing", "gram-ning"],
+          "wordIds": [
+            "gram-ing",
+            "gram-ning"
+          ],
           "accepted": [
             "the eyes of the woman are beautiful.",
             "the eyes of the woman are beautiful",
@@ -379,23 +456,34 @@
           "id": "gram-L2-fb1",
           "type": "fill-blank",
           "prompt": "Mayap ya ____ Ima ku. (the — topic)",
-          "wordIds": ["gram-ing"],
+          "wordIds": [
+            "gram-ing"
+          ],
           "answerId": "gram-ing"
         },
         {
           "id": "gram-L2-fb2",
           "type": "fill-blank",
           "prompt": "Maragul ing bale ____ mayaman. (of the — non-topic)",
-          "wordIds": ["gram-ning"],
+          "wordIds": [
+            "gram-ning"
+          ],
           "answerId": "gram-ning"
         },
         {
           "id": "gram-L2-ma1",
           "type": "matching",
-          "wordIds": ["gram-ing", "gram-ning"],
+          "wordIds": [
+            "gram-ing",
+            "gram-ning"
+          ],
           "pairs": [
-            {"wordId": "gram-ing"},
-            {"wordId": "gram-ning"}
+            {
+              "wordId": "gram-ing"
+            },
+            {
+              "wordId": "gram-ning"
+            }
           ]
         }
       ]
@@ -417,7 +505,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"reng\" mean?",
-          "wordIds": ["gram-reng"],
+          "wordIds": [
+            "gram-reng"
+          ],
           "answerId": "gram-reng"
         },
         {
@@ -425,7 +515,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"da\" mean?",
-          "wordIds": ["gram-da"],
+          "wordIds": [
+            "gram-da"
+          ],
           "answerId": "gram-da"
         },
         {
@@ -433,7 +525,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which article marks a plural non-topic noun (like Tagalog \"ng mga\")?",
-          "wordIds": ["gram-deng"],
+          "wordIds": [
+            "gram-deng"
+          ],
           "answerId": "gram-deng"
         },
         {
@@ -441,7 +535,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mura ding gulay king palengke ngeni.",
-          "wordIds": ["gram-ding"],
+          "wordIds": [
+            "gram-ding"
+          ],
           "accepted": [
             "vegetables are cheap at the market today.",
             "vegetables are cheap at the market today",
@@ -454,37 +550,64 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Manyaman ing luto da.",
-          "wordIds": ["gram-da"],
+          "wordIds": [
+            "gram-da"
+          ],
           "accepted": [
             "their cooking is delicious.",
             "their cooking is delicious",
             "their food is delicious.",
-            "their food is delicious"
+            "their food is delicious",
+            "of them cooking is delicious.",
+            "of them cooking is delicious",
+            "of them food is delicious.",
+            "of them food is delicious",
+            "by them (non-subject) cooking is delicious.",
+            "by them (non-subject) cooking is delicious",
+            "by them (non-subject) food is delicious.",
+            "by them (non-subject) food is delicious"
           ]
         },
         {
           "id": "gram-L3-fb1",
           "type": "fill-blank",
           "prompt": "Atlu la ____ anak. (the — plural topic)",
-          "wordIds": ["gram-reng"],
+          "wordIds": [
+            "gram-reng"
+          ],
           "answerId": "gram-reng"
         },
         {
           "id": "gram-L3-fb2",
           "type": "fill-blank",
           "prompt": "Sero ing bilang ____. (their)",
-          "wordIds": ["gram-da"],
+          "wordIds": [
+            "gram-da"
+          ],
           "answerId": "gram-da"
         },
         {
           "id": "gram-L3-ma1",
           "type": "matching",
-          "wordIds": ["gram-reng", "gram-ding", "gram-deng", "gram-da"],
+          "wordIds": [
+            "gram-reng",
+            "gram-ding",
+            "gram-deng",
+            "gram-da"
+          ],
           "pairs": [
-            {"wordId": "gram-reng"},
-            {"wordId": "gram-ding"},
-            {"wordId": "gram-deng"},
-            {"wordId": "gram-da"}
+            {
+              "wordId": "gram-reng"
+            },
+            {
+              "wordId": "gram-ding"
+            },
+            {
+              "wordId": "gram-deng"
+            },
+            {
+              "wordId": "gram-da"
+            }
           ]
         }
       ]
@@ -494,14 +617,18 @@
       "title": "The Linker: a / -ng",
       "theme": "modifier-to-noun linker",
       "intro": "Kapampangan uses the linker 'a' to connect an adjective or number to the noun it describes: 'mayap a tau' (good person), 'atlung aldo' (three days). After a vowel-final word, the linker is '-ng' (a suffix), not a separate word.",
-      "wordIds": ["gram-a"],
+      "wordIds": [
+        "gram-a"
+      ],
       "exercises": [
         {
           "id": "gram-L4-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What is the function of \"a\" in \"mayap a tau\"?",
-          "wordIds": ["gram-a"],
+          "wordIds": [
+            "gram-a"
+          ],
           "answerId": "gram-a"
         },
         {
@@ -509,7 +636,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which particle links an adjective to a noun after a consonant?",
-          "wordIds": ["gram-a"],
+          "wordIds": [
+            "gram-a"
+          ],
           "answerId": "gram-a"
         },
         {
@@ -517,8 +646,16 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mayap a tau ya.",
-          "wordIds": ["gram-a"],
-          "accepted": ["he is a good person", "she is a good person", "they are a good person", "he is good", "she is good"]
+          "wordIds": [
+            "gram-a"
+          ],
+          "accepted": [
+            "he is a good person",
+            "she is a good person",
+            "they are a good person",
+            "he is good",
+            "she is good"
+          ]
         }
       ]
     }

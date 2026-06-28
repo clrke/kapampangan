@@ -6,11 +6,20 @@
       "id": "time-aldo",
       "word": "aldo",
       "partOfSpeech": "noun",
-      "translations": ["day", "sun"],
+      "translations": [
+        "day",
+        "sun"
+      ],
       "relatedTagalog": "araw",
       "examples": [
-        {"kp": "Mayap a aldo!", "en": "Good day!"},
-        {"kp": "Maragul ya ing aldo ngeni.", "en": "The sun is big today."}
+        {
+          "kp": "Mayap a aldo!",
+          "en": "Good day!"
+        },
+        {
+          "kp": "Maragul ya ing aldo ngeni.",
+          "en": "The sun is big today."
+        }
       ],
       "notes": "Means both 'day' and 'sun', parallel to Tagalog araw. Confirmed in Wikivoyage Kapampangan phrasebook and multiple vocabulary sources."
     },
@@ -18,11 +27,20 @@
       "id": "time-bengi",
       "word": "bengi",
       "partOfSpeech": "noun",
-      "translations": ["night", "evening"],
+      "translations": [
+        "night",
+        "evening"
+      ],
       "relatedTagalog": "gabi",
       "examples": [
-        {"kp": "Mayap a bengi!", "en": "Good evening!"},
-        {"kp": "Marimla ing bengi ngeni.", "en": "The night is cold tonight."}
+        {
+          "kp": "Mayap a bengi!",
+          "en": "Good evening!"
+        },
+        {
+          "kp": "Marimla ing bengi ngeni.",
+          "en": "The night is cold tonight."
+        }
       ],
       "notes": "Confirmed in Wikivoyage phrasebook, tagaloglang.com, and the Kapampangan Traveller. Capitangang bengi means midnight."
     },
@@ -30,11 +48,19 @@
       "id": "time-abak",
       "word": "abak",
       "partOfSpeech": "noun",
-      "translations": ["morning"],
+      "translations": [
+        "morning"
+      ],
       "relatedTagalog": "umaga",
       "examples": [
-        {"kp": "Mayap a abak!", "en": "Good morning!"},
-        {"kp": "Maragul ing trabahu ku king abak.", "en": "I have a lot of work in the morning."}
+        {
+          "kp": "Mayap a abak!",
+          "en": "Good morning!"
+        },
+        {
+          "kp": "Maragul ing trabahu ku king abak.",
+          "en": "I have a lot of work in the morning."
+        }
       ],
       "notes": "Refers to the period from dawn to midday. Confirmed in Wikivoyage phrasebook, Wikimedia Incubator Wiktionary entry, and tagaloglang.com. Also attested as 'abac' in older orthography."
     },
@@ -42,11 +68,20 @@
       "id": "time-ugtu",
       "word": "ugtu",
       "partOfSpeech": "noun",
-      "translations": ["noon", "midday"],
+      "translations": [
+        "noon",
+        "midday"
+      ],
       "relatedTagalog": "tanghali",
       "examples": [
-        {"kp": "Mayap a ugtu!", "en": "Good noon!"},
-        {"kp": "Mangan tamu king ugtu.", "en": "Let's eat at noon."}
+        {
+          "kp": "Mayap a ugtu!",
+          "en": "Good noon!"
+        },
+        {
+          "kp": "Mangan tamu king ugtu.",
+          "en": "Let's eat at noon."
+        }
       ],
       "notes": "Confirmed in Wikivoyage phrasebook, drakieness.blogspot.com, and Wikimedia Incubator entry for abak (which names ugtu as the midday boundary). Also cited as 'ogto' in older texts."
     },
@@ -54,11 +89,19 @@
       "id": "time-gatpanapun",
       "word": "gatpanapun",
       "partOfSpeech": "noun",
-      "translations": ["afternoon"],
+      "translations": [
+        "afternoon"
+      ],
       "relatedTagalog": "hapon",
       "examples": [
-        {"kp": "Mayap a gatpanapun!", "en": "Good afternoon!"},
-        {"kp": "Mitalwi ya king gatpanapun.", "en": "He arrived late in the afternoon."}
+        {
+          "kp": "Mayap a gatpanapun!",
+          "en": "Good afternoon!"
+        },
+        {
+          "kp": "Mitalwi ya king gatpanapun.",
+          "en": "He arrived late in the afternoon."
+        }
       ],
       "notes": "Confirmed in Wikivoyage phrasebook and tagaloglang.com Kapampangan phrases. Used in the standard greeting 'Mayap a gatpanapun'."
     },
@@ -66,11 +109,20 @@
       "id": "time-bulan",
       "word": "bulan",
       "partOfSpeech": "noun",
-      "translations": ["month", "moon"],
+      "translations": [
+        "month",
+        "moon"
+      ],
       "relatedTagalog": "buwan",
       "examples": [
-        {"kp": "Malagu ya ing bulan ngeni.", "en": "The moon is beautiful tonight."},
-        {"kp": "Pilan a bulan na?", "en": "How many months is it already?"}
+        {
+          "kp": "Malagu ya ing bulan ngeni.",
+          "en": "The moon is beautiful tonight."
+        },
+        {
+          "kp": "Pilan a bulan na?",
+          "en": "How many months is it already?"
+        }
       ],
       "notes": "Means both 'month' and 'moon', cognate with Tagalog buwan. Confirmed in Wikivoyage phrasebook and the Kapampangan Traveller vocabulary list."
     },
@@ -78,11 +130,19 @@
       "id": "time-banwa",
       "word": "banwa",
       "partOfSpeech": "noun",
-      "translations": ["year"],
+      "translations": [
+        "year"
+      ],
       "relatedTagalog": "taon",
       "examples": [
-        {"kp": "Pilan na kang banwa?", "en": "How old are you? (lit. How many years are you?)"},
-        {"kp": "Maragul ya ing banwa.", "en": "It has been a big year."}
+        {
+          "kp": "Pilan na kang banwa?",
+          "en": "How old are you? (lit. How many years are you?)"
+        },
+        {
+          "kp": "Maragul ya ing banwa.",
+          "en": "It has been a big year."
+        }
       ],
       "notes": "Confirmed in Wikivoyage phrasebook and Wiktionary (as 'banua', with 'banwa' as the Sulat Wawa spelling). Wiktionary lists meanings: sky, heaven, glory, year, age. Derives from Proto-Malayo-Polynesian *banua."
     },
@@ -90,11 +150,19 @@
       "id": "time-napun",
       "word": "napun",
       "partOfSpeech": "adverb",
-      "translations": ["yesterday"],
+      "translations": [
+        "yesterday"
+      ],
       "relatedTagalog": "kahapon",
       "examples": [
-        {"kp": "Napasar ya napun.", "en": "He passed by yesterday."},
-        {"kp": "Mapali ya ing panahon napun.", "en": "The weather was hot yesterday."}
+        {
+          "kp": "Napasar ya napun.",
+          "en": "He passed by yesterday."
+        },
+        {
+          "kp": "Mapali ya ing panahon napun.",
+          "en": "The weather was hot yesterday."
+        }
       ],
       "notes": "Confirmed in Wikivoyage Kapampangan phrasebook as the standard word for 'yesterday'."
     },
@@ -102,11 +170,19 @@
       "id": "time-bukas",
       "word": "bukas",
       "partOfSpeech": "adverb",
-      "translations": ["tomorrow"],
+      "translations": [
+        "tomorrow"
+      ],
       "relatedTagalog": "bukas",
       "examples": [
-        {"kp": "Munta tamu bukas.", "en": "Let's go tomorrow."},
-        {"kp": "Maranun tamu bukas.", "en": "Let's be early tomorrow."}
+        {
+          "kp": "Munta tamu bukas.",
+          "en": "Let's go tomorrow."
+        },
+        {
+          "kp": "Maranun tamu bukas.",
+          "en": "Let's be early tomorrow."
+        }
       ],
       "notes": "Confirmed in Wikivoyage Kapampangan phrasebook. Shares the same form as Tagalog bukas (tomorrow). Not to be confused with uses meaning 'open' in other contexts."
     },
@@ -114,11 +190,21 @@
       "id": "time-oras",
       "word": "oras",
       "partOfSpeech": "noun",
-      "translations": ["hour", "time", "o'clock"],
+      "translations": [
+        "hour",
+        "time",
+        "o'clock"
+      ],
       "relatedTagalog": "oras",
       "examples": [
-        {"kp": "Nanu na ing oras?", "en": "What time is it?"},
-        {"kp": "Metung a oras na ing labas ku.", "en": "I have been outside for one hour."}
+        {
+          "kp": "Nanu na ing oras?",
+          "en": "What time is it?"
+        },
+        {
+          "kp": "Metung a oras na ing labas ku.",
+          "en": "I have been outside for one hour."
+        }
       ],
       "notes": "Loanword from Spanish hora. Confirmed in Wikivoyage phrasebook and the Kapampangan Traveller. Used for telling clock time and measuring hours."
     },
@@ -126,11 +212,20 @@
       "id": "time-duminggu",
       "word": "duminggu",
       "partOfSpeech": "noun",
-      "translations": ["week", "Sunday"],
+      "translations": [
+        "week",
+        "Sunday"
+      ],
       "relatedTagalog": "linggo",
       "examples": [
-        {"kp": "Ngening duminggu, marelax tamu.", "en": "This week, let's relax."},
-        {"kp": "Munta taku simbahan king duminggu.", "en": "We go to church on Sunday."}
+        {
+          "kp": "Ngening duminggu, marelax tamu.",
+          "en": "This week, let's relax."
+        },
+        {
+          "kp": "Munta taku simbahan king duminggu.",
+          "en": "We go to church on Sunday."
+        }
       ],
       "notes": "The word duminggu serves double duty as both 'week' and 'Sunday' in Kapampangan, just as Tagalog Linggo means both. Confirmed in Wikivoyage phrasebook ('ngening duminggu' = this week; 'Duminggu' = Sunday)."
     },
@@ -138,11 +233,19 @@
       "id": "time-maranun",
       "word": "maranun",
       "partOfSpeech": "adjective",
-      "translations": ["early"],
+      "translations": [
+        "early"
+      ],
       "relatedTagalog": "maaga",
       "examples": [
-        {"kp": "Maranun ya ing dating na.", "en": "His arrival was early."},
-        {"kp": "Maranun tamu bukas.", "en": "Let's be early tomorrow."}
+        {
+          "kp": "Maranun ya ing dating na.",
+          "en": "His arrival was early."
+        },
+        {
+          "kp": "Maranun tamu bukas.",
+          "en": "Let's be early tomorrow."
+        }
       ],
       "notes": "Confirmed in the Kapampangan Traveller vocabulary list as the translation of 'early'. Used to describe arriving or doing something before expected time."
     },
@@ -150,11 +253,21 @@
       "id": "time-pota",
       "word": "pota",
       "partOfSpeech": "adverb",
-      "translations": ["later", "maybe later", "perhaps"],
+      "translations": [
+        "later",
+        "maybe later",
+        "perhaps"
+      ],
       "relatedTagalog": "mamaya",
       "examples": [
-        {"kp": "Munta taku pota.", "en": "Let's go later."},
-        {"kp": "Pota uran.", "en": "It might rain later."}
+        {
+          "kp": "Munta taku pota.",
+          "en": "Let's go later."
+        },
+        {
+          "kp": "Pota uran.",
+          "en": "It might rain later."
+        }
       ],
       "notes": "Confirmed in Wikivoyage phrasebook and the Kapampangan Traveller as meaning 'later'. Also carries a sense of uncertainty ('maybe'). Commonly used in everyday speech."
     },
@@ -162,11 +275,20 @@
       "id": "time-mitalwi",
       "word": "mitalwi",
       "partOfSpeech": "verb",
-      "translations": ["to arrive late", "to be late"],
+      "translations": [
+        "to arrive late",
+        "to be late"
+      ],
       "relatedTagalog": "mahuli",
       "examples": [
-        {"kp": "Mitalwi ya king opisina.", "en": "He arrived late at the office."},
-        {"kp": "Ali tamu mitalwi bukas.", "en": "Let's not be late tomorrow."}
+        {
+          "kp": "Mitalwi ya king opisina.",
+          "en": "He arrived late at the office."
+        },
+        {
+          "kp": "Ali tamu mitalwi bukas.",
+          "en": "Let's not be late tomorrow."
+        }
       ],
       "notes": "Confirmed in the Kapampangan Traveller as the specific term for 'arrive late'. Distinct from simply being slow; specifically refers to arriving after the expected time."
     },
@@ -174,11 +296,19 @@
       "id": "time-lunes",
       "word": "Lunes",
       "partOfSpeech": "noun",
-      "translations": ["Monday"],
+      "translations": [
+        "Monday"
+      ],
       "relatedTagalog": "Lunes",
       "examples": [
-        {"kp": "Trabahu taku king Lunes.", "en": "We work on Monday."},
-        {"kp": "Maranun taku king Lunes.", "en": "Let's be early on Monday."}
+        {
+          "kp": "Trabahu taku king Lunes.",
+          "en": "We work on Monday."
+        },
+        {
+          "kp": "Maranun taku king Lunes.",
+          "en": "Let's be early on Monday."
+        }
       ],
       "notes": "Loanword from Spanish lunes. Confirmed in Wikivoyage Kapampangan phrasebook as the Kapampangan word for Monday."
     },
@@ -186,11 +316,19 @@
       "id": "time-martes",
       "word": "Martes",
       "partOfSpeech": "noun",
-      "translations": ["Tuesday"],
+      "translations": [
+        "Tuesday"
+      ],
       "relatedTagalog": "Martes",
       "examples": [
-        {"kp": "Munta taku king Martes.", "en": "Let's go on Tuesday."},
-        {"kp": "King Martes ya ing klase.", "en": "The class is on Tuesday."}
+        {
+          "kp": "Munta taku king Martes.",
+          "en": "Let's go on Tuesday."
+        },
+        {
+          "kp": "King Martes ya ing klase.",
+          "en": "The class is on Tuesday."
+        }
       ],
       "notes": "Loanword from Spanish martes. Confirmed in Wikivoyage Kapampangan phrasebook."
     },
@@ -198,11 +336,19 @@
       "id": "time-myerkoles",
       "word": "Myerkoles",
       "partOfSpeech": "noun",
-      "translations": ["Wednesday"],
+      "translations": [
+        "Wednesday"
+      ],
       "relatedTagalog": "Miyerkules",
       "examples": [
-        {"kp": "Myerkoles ngeni.", "en": "It is Wednesday today."},
-        {"kp": "Mangan taku king Myerkoles.", "en": "Let's eat together on Wednesday."}
+        {
+          "kp": "Myerkoles ngeni.",
+          "en": "It is Wednesday today."
+        },
+        {
+          "kp": "Mangan taku king Myerkoles.",
+          "en": "Let's eat together on Wednesday."
+        }
       ],
       "notes": "Loanword from Spanish miércoles. Wikivoyage Kapampangan phrasebook spells this 'Myerkoles'. Tagalog uses Miyerkules."
     },
@@ -210,11 +356,19 @@
       "id": "time-sabado",
       "word": "Sabado",
       "partOfSpeech": "noun",
-      "translations": ["Saturday"],
+      "translations": [
+        "Saturday"
+      ],
       "relatedTagalog": "Sabado",
       "examples": [
-        {"kp": "Marelax taku king Sabado.", "en": "Let's relax on Saturday."},
-        {"kp": "King Sabado, maranun tamu.", "en": "On Saturday, let's be early."}
+        {
+          "kp": "Marelax taku king Sabado.",
+          "en": "Let's relax on Saturday."
+        },
+        {
+          "kp": "King Sabado, maranun tamu.",
+          "en": "On Saturday, let's be early."
+        }
       ],
       "notes": "Loanword from Spanish sábado. Confirmed in Wikivoyage Kapampangan phrasebook. One of the two weekend days alongside Duminggu."
     }
@@ -225,14 +379,20 @@
       "title": "Parts of the Day",
       "theme": "Morning, noon, afternoon, and night",
       "intro": "Kapampangan divides the day into four main periods: abak (morning, dawn to midday), ugtu (noon), gatpanapun (afternoon), and bengi (night/evening). These combine with mayap (good) to form standard greetings.",
-      "wordIds": ["time-abak", "time-ugtu", "time-gatpanapun"],
+      "wordIds": [
+        "time-abak",
+        "time-ugtu",
+        "time-gatpanapun"
+      ],
       "exercises": [
         {
           "id": "time-1-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"abak\" mean?",
-          "wordIds": ["time-abak"],
+          "wordIds": [
+            "time-abak"
+          ],
           "answerId": "time-abak"
         },
         {
@@ -240,7 +400,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"ugtu\" mean?",
-          "wordIds": ["time-ugtu"],
+          "wordIds": [
+            "time-ugtu"
+          ],
           "answerId": "time-ugtu"
         },
         {
@@ -248,7 +410,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"gatpanapun\" mean?",
-          "wordIds": ["time-gatpanapun"],
+          "wordIds": [
+            "time-gatpanapun"
+          ],
           "answerId": "time-gatpanapun"
         },
         {
@@ -256,29 +420,59 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mayap a abak!",
-          "wordIds": ["time-abak"],
-          "accepted": ["good morning", "good morning!"]
+          "wordIds": [
+            "time-abak"
+          ],
+          "accepted": [
+            "good morning",
+            "good morning!"
+          ]
         },
         {
           "id": "time-1-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mangan tamu king ugtu.",
-          "wordIds": ["time-ugtu"],
-          "accepted": ["let's eat at noon", "let us eat at noon", "let's eat at noon."]
+          "wordIds": [
+            "time-ugtu"
+          ],
+          "accepted": [
+            "let's eat at noon",
+            "let us eat at noon",
+            "let's eat at noon.",
+            "let's eat at midday",
+            "let us eat at midday",
+            "let's eat at midday."
+          ]
         },
         {
           "id": "time-1-fb1",
           "type": "fill-blank",
           "prompt": "Mayap a ____! (Good afternoon!)",
-          "wordIds": ["time-gatpanapun"],
+          "wordIds": [
+            "time-gatpanapun"
+          ],
           "answerId": "time-gatpanapun"
         },
         {
           "id": "time-1-ma1",
           "type": "matching",
-          "wordIds": ["time-abak", "time-ugtu", "time-gatpanapun"],
-          "pairs": [{"wordId": "time-abak"}, {"wordId": "time-ugtu"}, {"wordId": "time-gatpanapun"}]
+          "wordIds": [
+            "time-abak",
+            "time-ugtu",
+            "time-gatpanapun"
+          ],
+          "pairs": [
+            {
+              "wordId": "time-abak"
+            },
+            {
+              "wordId": "time-ugtu"
+            },
+            {
+              "wordId": "time-gatpanapun"
+            }
+          ]
         }
       ]
     },
@@ -287,14 +481,20 @@
       "title": "Day, Night & Sun",
       "theme": "Aldo, bengi, and oras",
       "intro": "Aldo means both 'day' and 'sun' — just like Tagalog araw. Bengi covers both 'evening' and 'night'. Oras (from Spanish hora) is used for clock time and measuring hours.",
-      "wordIds": ["time-aldo", "time-bengi", "time-oras"],
+      "wordIds": [
+        "time-aldo",
+        "time-bengi",
+        "time-oras"
+      ],
       "exercises": [
         {
           "id": "time-2-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"aldo\" mean?",
-          "wordIds": ["time-aldo"],
+          "wordIds": [
+            "time-aldo"
+          ],
           "answerId": "time-aldo"
         },
         {
@@ -302,7 +502,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"bengi\" mean?",
-          "wordIds": ["time-bengi"],
+          "wordIds": [
+            "time-bengi"
+          ],
           "answerId": "time-bengi"
         },
         {
@@ -310,7 +512,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"oras\" mean?",
-          "wordIds": ["time-oras"],
+          "wordIds": [
+            "time-oras"
+          ],
           "answerId": "time-oras"
         },
         {
@@ -318,29 +522,57 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mayap a bengi!",
-          "wordIds": ["time-bengi"],
-          "accepted": ["good evening", "good evening!", "good night", "good night!"]
+          "wordIds": [
+            "time-bengi"
+          ],
+          "accepted": [
+            "good evening",
+            "good evening!",
+            "good night",
+            "good night!"
+          ]
         },
         {
           "id": "time-2-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Nanu na ing oras?",
-          "wordIds": ["time-oras"],
-          "accepted": ["what time is it", "what time is it?"]
+          "wordIds": [
+            "time-oras"
+          ],
+          "accepted": [
+            "what time is it",
+            "what time is it?"
+          ]
         },
         {
           "id": "time-2-fb1",
           "type": "fill-blank",
           "prompt": "Maragul ya ing ____ ngeni. (The sun is big today.)",
-          "wordIds": ["time-aldo"],
+          "wordIds": [
+            "time-aldo"
+          ],
           "answerId": "time-aldo"
         },
         {
           "id": "time-2-ma1",
           "type": "matching",
-          "wordIds": ["time-aldo", "time-bengi", "time-oras"],
-          "pairs": [{"wordId": "time-aldo"}, {"wordId": "time-bengi"}, {"wordId": "time-oras"}]
+          "wordIds": [
+            "time-aldo",
+            "time-bengi",
+            "time-oras"
+          ],
+          "pairs": [
+            {
+              "wordId": "time-aldo"
+            },
+            {
+              "wordId": "time-bengi"
+            },
+            {
+              "wordId": "time-oras"
+            }
+          ]
         }
       ]
     },
@@ -349,14 +581,20 @@
       "title": "Month, Year & Week",
       "theme": "Calendar units",
       "intro": "Bulan means both 'month' and 'moon' (like Tagalog buwan). Banwa means 'year' (also spelled banua; it additionally means 'sky' or 'heaven' in some contexts). Duminggu is unique: it means both 'week' and 'Sunday', borrowed from Spanish domingo.",
-      "wordIds": ["time-bulan", "time-banwa", "time-duminggu"],
+      "wordIds": [
+        "time-bulan",
+        "time-banwa",
+        "time-duminggu"
+      ],
       "exercises": [
         {
           "id": "time-3-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"bulan\" mean?",
-          "wordIds": ["time-bulan"],
+          "wordIds": [
+            "time-bulan"
+          ],
           "answerId": "time-bulan"
         },
         {
@@ -364,7 +602,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"banwa\" mean?",
-          "wordIds": ["time-banwa"],
+          "wordIds": [
+            "time-banwa"
+          ],
           "answerId": "time-banwa"
         },
         {
@@ -372,7 +612,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"duminggu\" mean?",
-          "wordIds": ["time-duminggu"],
+          "wordIds": [
+            "time-duminggu"
+          ],
           "answerId": "time-duminggu"
         },
         {
@@ -380,29 +622,56 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Pilan na kang banwa?",
-          "wordIds": ["time-banwa"],
-          "accepted": ["how old are you", "how old are you?", "how many years are you"]
+          "wordIds": [
+            "time-banwa"
+          ],
+          "accepted": [
+            "how old are you",
+            "how old are you?",
+            "how many years are you"
+          ]
         },
         {
           "id": "time-3-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malagu ya ing bulan ngeni.",
-          "wordIds": ["time-bulan"],
-          "accepted": ["the moon is beautiful tonight", "the moon is beautiful tonight."]
+          "wordIds": [
+            "time-bulan"
+          ],
+          "accepted": [
+            "the moon is beautiful tonight",
+            "the moon is beautiful tonight."
+          ]
         },
         {
           "id": "time-3-fb1",
           "type": "fill-blank",
           "prompt": "Ngening ____, marelax tamu. (This week, let's relax.)",
-          "wordIds": ["time-duminggu"],
+          "wordIds": [
+            "time-duminggu"
+          ],
           "answerId": "time-duminggu"
         },
         {
           "id": "time-3-ma1",
           "type": "matching",
-          "wordIds": ["time-bulan", "time-banwa", "time-duminggu"],
-          "pairs": [{"wordId": "time-bulan"}, {"wordId": "time-banwa"}, {"wordId": "time-duminggu"}]
+          "wordIds": [
+            "time-bulan",
+            "time-banwa",
+            "time-duminggu"
+          ],
+          "pairs": [
+            {
+              "wordId": "time-bulan"
+            },
+            {
+              "wordId": "time-banwa"
+            },
+            {
+              "wordId": "time-duminggu"
+            }
+          ]
         }
       ]
     },
@@ -411,14 +680,20 @@
       "title": "Yesterday, Today & Tomorrow",
       "theme": "Relative time: past, present, future",
       "intro": "Napun (yesterday), ngening aldo (today, lit. 'this day'), and bukas (tomorrow) are the three core words for placing events in time. Note that ngeni (now/today) is already familiar — ngening aldo simply adds aldo to mean specifically 'today'.",
-      "wordIds": ["time-napun", "time-bukas", "time-pota"],
+      "wordIds": [
+        "time-napun",
+        "time-bukas",
+        "time-pota"
+      ],
       "exercises": [
         {
           "id": "time-4-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"napun\" mean?",
-          "wordIds": ["time-napun"],
+          "wordIds": [
+            "time-napun"
+          ],
           "answerId": "time-napun"
         },
         {
@@ -426,7 +701,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"bukas\" mean?",
-          "wordIds": ["time-bukas"],
+          "wordIds": [
+            "time-bukas"
+          ],
           "answerId": "time-bukas"
         },
         {
@@ -434,7 +711,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"pota\" mean?",
-          "wordIds": ["time-pota"],
+          "wordIds": [
+            "time-pota"
+          ],
           "answerId": "time-pota"
         },
         {
@@ -442,29 +721,56 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Munta tamu bukas.",
-          "wordIds": ["time-bukas"],
-          "accepted": ["let's go tomorrow", "let us go tomorrow", "let's go tomorrow."]
+          "wordIds": [
+            "time-bukas"
+          ],
+          "accepted": [
+            "let's go tomorrow",
+            "let us go tomorrow",
+            "let's go tomorrow."
+          ]
         },
         {
           "id": "time-4-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mapali ya ing panahon napun.",
-          "wordIds": ["time-napun"],
-          "accepted": ["the weather was hot yesterday", "the weather was hot yesterday."]
+          "wordIds": [
+            "time-napun"
+          ],
+          "accepted": [
+            "the weather was hot yesterday",
+            "the weather was hot yesterday."
+          ]
         },
         {
           "id": "time-4-fb1",
           "type": "fill-blank",
           "prompt": "Munta taku ____. (Let's go later.)",
-          "wordIds": ["time-pota"],
+          "wordIds": [
+            "time-pota"
+          ],
           "answerId": "time-pota"
         },
         {
           "id": "time-4-ma1",
           "type": "matching",
-          "wordIds": ["time-napun", "time-bukas", "time-pota"],
-          "pairs": [{"wordId": "time-napun"}, {"wordId": "time-bukas"}, {"wordId": "time-pota"}]
+          "wordIds": [
+            "time-napun",
+            "time-bukas",
+            "time-pota"
+          ],
+          "pairs": [
+            {
+              "wordId": "time-napun"
+            },
+            {
+              "wordId": "time-bukas"
+            },
+            {
+              "wordId": "time-pota"
+            }
+          ]
         }
       ]
     },
@@ -473,14 +779,20 @@
       "title": "Early & Late",
       "theme": "Timing and punctuality",
       "intro": "Maranun means 'early' and is used to describe arriving or doing something before the expected time. Mitalwi specifically means 'to arrive late' — a verb rather than a simple adjective. Together they capture the Kapampangan sense of time discipline.",
-      "wordIds": ["time-maranun", "time-mitalwi", "time-lunes"],
+      "wordIds": [
+        "time-maranun",
+        "time-mitalwi",
+        "time-lunes"
+      ],
       "exercises": [
         {
           "id": "time-5-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"maranun\" mean?",
-          "wordIds": ["time-maranun"],
+          "wordIds": [
+            "time-maranun"
+          ],
           "answerId": "time-maranun"
         },
         {
@@ -488,7 +800,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"mitalwi\" mean?",
-          "wordIds": ["time-mitalwi"],
+          "wordIds": [
+            "time-mitalwi"
+          ],
           "answerId": "time-mitalwi"
         },
         {
@@ -496,7 +810,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Lunes\" mean?",
-          "wordIds": ["time-lunes"],
+          "wordIds": [
+            "time-lunes"
+          ],
           "answerId": "time-lunes"
         },
         {
@@ -504,29 +820,58 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maranun ya ing dating na.",
-          "wordIds": ["time-maranun"],
-          "accepted": ["his arrival was early", "her arrival was early", "their arrival was early", "his arrival was early."]
+          "wordIds": [
+            "time-maranun"
+          ],
+          "accepted": [
+            "his arrival was early",
+            "her arrival was early",
+            "their arrival was early",
+            "his arrival was early."
+          ]
         },
         {
           "id": "time-5-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mitalwi ya king opisina.",
-          "wordIds": ["time-mitalwi"],
-          "accepted": ["he arrived late at the office", "she arrived late at the office", "he arrived late at the office."]
+          "wordIds": [
+            "time-mitalwi"
+          ],
+          "accepted": [
+            "he arrived late at the office",
+            "she arrived late at the office",
+            "he arrived late at the office."
+          ]
         },
         {
           "id": "time-5-fb1",
           "type": "fill-blank",
           "prompt": "Trabahu taku king ____. (We work on Monday.)",
-          "wordIds": ["time-lunes"],
+          "wordIds": [
+            "time-lunes"
+          ],
           "answerId": "time-lunes"
         },
         {
           "id": "time-5-ma1",
           "type": "matching",
-          "wordIds": ["time-maranun", "time-mitalwi", "time-lunes"],
-          "pairs": [{"wordId": "time-maranun"}, {"wordId": "time-mitalwi"}, {"wordId": "time-lunes"}]
+          "wordIds": [
+            "time-maranun",
+            "time-mitalwi",
+            "time-lunes"
+          ],
+          "pairs": [
+            {
+              "wordId": "time-maranun"
+            },
+            {
+              "wordId": "time-mitalwi"
+            },
+            {
+              "wordId": "time-lunes"
+            }
+          ]
         }
       ]
     },
@@ -535,14 +880,20 @@
       "title": "Days of the Week",
       "theme": "Tuesday, Wednesday & Saturday",
       "intro": "Like Tagalog and most Philippine languages, Kapampangan uses Spanish-derived names for the days of the week. Tuesday is Martes, Wednesday is Myerkoles (note Kapampangan spelling vs. Tagalog Miyerkules), and Saturday is Sabado. Sunday and week are both covered by duminggu from Lesson 3.",
-      "wordIds": ["time-martes", "time-myerkoles", "time-sabado"],
+      "wordIds": [
+        "time-martes",
+        "time-myerkoles",
+        "time-sabado"
+      ],
       "exercises": [
         {
           "id": "time-6-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Martes\" mean?",
-          "wordIds": ["time-martes"],
+          "wordIds": [
+            "time-martes"
+          ],
           "answerId": "time-martes"
         },
         {
@@ -550,7 +901,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Myerkoles\" mean?",
-          "wordIds": ["time-myerkoles"],
+          "wordIds": [
+            "time-myerkoles"
+          ],
           "answerId": "time-myerkoles"
         },
         {
@@ -558,7 +911,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"Sabado\" mean?",
-          "wordIds": ["time-sabado"],
+          "wordIds": [
+            "time-sabado"
+          ],
           "answerId": "time-sabado"
         },
         {
@@ -566,29 +921,58 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Munta taku king Martes.",
-          "wordIds": ["time-martes"],
-          "accepted": ["let's go on tuesday", "let us go on tuesday", "let's go on tuesday."]
+          "wordIds": [
+            "time-martes"
+          ],
+          "accepted": [
+            "let's go on tuesday",
+            "let us go on tuesday",
+            "let's go on tuesday."
+          ]
         },
         {
           "id": "time-6-tr2",
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Myerkoles ngeni.",
-          "wordIds": ["time-myerkoles"],
-          "accepted": ["it is wednesday today", "it is wednesday today.", "today is wednesday", "today is wednesday."]
+          "wordIds": [
+            "time-myerkoles"
+          ],
+          "accepted": [
+            "it is wednesday today",
+            "it is wednesday today.",
+            "today is wednesday",
+            "today is wednesday."
+          ]
         },
         {
           "id": "time-6-fb1",
           "type": "fill-blank",
           "prompt": "Marelax taku king ____. (Let's relax on Saturday.)",
-          "wordIds": ["time-sabado"],
+          "wordIds": [
+            "time-sabado"
+          ],
           "answerId": "time-sabado"
         },
         {
           "id": "time-6-ma1",
           "type": "matching",
-          "wordIds": ["time-martes", "time-myerkoles", "time-sabado"],
-          "pairs": [{"wordId": "time-martes"}, {"wordId": "time-myerkoles"}, {"wordId": "time-sabado"}]
+          "wordIds": [
+            "time-martes",
+            "time-myerkoles",
+            "time-sabado"
+          ],
+          "pairs": [
+            {
+              "wordId": "time-martes"
+            },
+            {
+              "wordId": "time-myerkoles"
+            },
+            {
+              "wordId": "time-sabado"
+            }
+          ]
         }
       ]
     }
