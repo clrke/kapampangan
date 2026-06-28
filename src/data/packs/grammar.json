@@ -221,6 +221,18 @@
         }
       ],
       "notes": "3rd-person plural genitive/non-subject enclitic pronoun — 'their' or 'by them'. Corresponds to Tagalog 'nila'. Not to be confused with the subject pronoun 'la' (they). Attested in existing pack examples: 'Sero ing bilang da' (numbers pack)."
+    },
+    {
+      "id": "gram-a",
+      "word": "a",
+      "partOfSpeech": "particle",
+      "translations": ["(linker) — connects adjective/number to noun"],
+      "relatedTagalog": "na / -ng",
+      "examples": [
+        {"kp": "Mayap a tau ya.", "en": "He is a good person."},
+        {"kp": "Metung a anak ing meyari ku.", "en": "I have one child."}
+      ],
+      "notes": "The linker 'a' follows a word ending in a consonant. After a vowel, use '-ng' (suffix): 'bayu' → 'bayung tau' (new person). Equivalent to Tagalog 'na' or the '-ng' linker."
     }
   ],
   "lessons": [
@@ -474,6 +486,39 @@
             {"wordId": "gram-deng"},
             {"wordId": "gram-da"}
           ]
+        }
+      ]
+    },
+    {
+      "id": "gram-L4",
+      "title": "The Linker: a / -ng",
+      "theme": "modifier-to-noun linker",
+      "intro": "Kapampangan uses the linker 'a' to connect an adjective or number to the noun it describes: 'mayap a tau' (good person), 'atlung aldo' (three days). After a vowel-final word, the linker is '-ng' (a suffix), not a separate word.",
+      "wordIds": ["gram-a"],
+      "exercises": [
+        {
+          "id": "gram-L4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What is the function of \"a\" in \"mayap a tau\"?",
+          "wordIds": ["gram-a"],
+          "answerId": "gram-a"
+        },
+        {
+          "id": "gram-L4-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which particle links an adjective to a noun after a consonant?",
+          "wordIds": ["gram-a"],
+          "answerId": "gram-a"
+        },
+        {
+          "id": "gram-L4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mayap a tau ya.",
+          "wordIds": ["gram-a"],
+          "accepted": ["he is a good person", "she is a good person", "they are a good person", "he is good", "she is good"]
         }
       ]
     }

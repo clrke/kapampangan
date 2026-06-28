@@ -30,7 +30,7 @@
       "id": "fam-anak",
       "word": "Anak",
       "partOfSpeech": "noun",
-      "translations": ["child", "son", "daughter"],
+      "translations": ["child", "kid", "son", "daughter"],
       "relatedTagalog": "anak",
       "examples": [
         {"kp": "Ninu ing Anak a yan?", "en": "Who is that child?"},

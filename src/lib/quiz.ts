@@ -89,10 +89,39 @@ function expandContractions(s: string): string {
   )
 }
 
+/** Standard Levenshtein edit distance between two strings. */
+function levenshtein(a: string, b: string): number {
+  const m = a.length
+  const n = b.length
+  const dp: number[] = Array.from({ length: n + 1 }, (_, j) => j)
+  for (let i = 1; i <= m; i++) {
+    let prev = dp[0]
+    dp[0] = i
+    for (let j = 1; j <= n; j++) {
+      const temp = dp[j]
+      dp[j] = a[i - 1] === b[j - 1] ? prev : 1 + Math.min(prev, dp[j], dp[j - 1])
+      prev = temp
+    }
+  }
+  return dp[n]
+}
+
+/**
+ * Maximum tolerated edit-distance for an answer of the given length.
+ * length < 4  → 0 (exact only — too short to safely fuzz)
+ * length 4–7  → 1 (one-character typo)
+ * length 8+   → 2 (two-character typos for longer phrases)
+ */
+function maxEdits(len: number): number {
+  if (len < 4) return 0
+  if (len < 8) return 1
+  return 2
+}
+
 /**
  * Check a free-text answer against the accepted list. Case-, whitespace-, and
- * punctuation-insensitive, and tolerant of English contractions (don't = do
- * not, I'm = I am, cannot = can't = can not, ...).
+ * punctuation-insensitive, and tolerant of English contractions (don’t = do
+ * not, I’m = I am, cannot = can’t = can not, ...).
  */
 export function checkTranslation(input: string, accepted: string[]): boolean {
   const norm = (s: string) =>
@@ -100,13 +129,18 @@ export function checkTranslation(input: string, accepted: string[]): boolean {
       s
         .trim()
         .toLowerCase()
-        .replace(/[‘’ʼ`]/g, "'"), // smart/odd apostrophes -> '
+        .replace(/[‘’ʼ`]/g, "'"),
     )
       .replace(/[.!?,]+$/, '')
       .replace(/\s+/g, ' ')
       .trim()
   const target = norm(input)
-  return accepted.some((a) => norm(a) === target)
+  return accepted.some((a) => {
+    const n = norm(a)
+    if (n === target) return true
+    const edits = maxEdits(Math.min(target.length, n.length))
+    return edits > 0 && levenshtein(target, n) <= edits
+  })
 }
 
 /** Check a multiple-choice / fill-blank selection. */

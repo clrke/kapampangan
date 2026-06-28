@@ -56,7 +56,7 @@ const NAMES_AND_LOANS = [
  * content words not yet taught. Each is intentionally untaught FOR NOW.
  */
 const KP_BACKLOG = [
-  'a', 'aduang', 'adwang', 'akung', 'alang', 'alang-alang', 'aldo-aldo', 'aldong', 'ampo', 'ano', 'arkilan',
+  'aduang', 'adwang', 'akung', 'alang', 'alang-alang', 'aldo-aldo', 'aldong', 'ampo', 'ano', 'arkilan',
   'aso', 'at', 'ati', 'ating', 'atlung', 'atneng', 'atulan', 'bag', 'bakuran', 'balat', 'baldi', 'balik',
   'basaen', 'bayung', 'bengi-bengi', 'binayad', 'binie',
   'binura', 'bisita', 'biyaya', 'buhuk', 'bukasan', 'bulak', 'bulsa',
@@ -64,7 +64,7 @@ const KP_BACKLOG = [
   'dinatang', 'dingna', 'dintang', 'dita', 'drayber', 'elepante', 'eme', 'entabladu', 'gagawan',
   'gagewan', 'gamitan', 'gamiton', 'gawan', 'ginawa', 'guagua', 'gumawa', 'gustu',
   'hugasan', 'i', 'ibili', 'ibinie', 'ibiye', 'ibuklat', 'ibyan', 'ilaga', 'ina', 'inda', 'ining',
-  'ipil', 'itik', 'kailangan', 'kakanán', 'kalagu', 'kaming', 'kamu', 'kamut', 'kanaku',
+  'ipil', 'itik', 'kailangan', 'kalagu', 'kaming', 'kamu', 'kamut', 'kanaku',
   'kanto', 'kanyaman', 'kapiganakan', 'karela', 'kareni', 'karimla', 'karing', 'kasal',
   'kasuyuan', 'kata', 'kaya', 'kayabe', 'keku', 'keng', 'keraklan', 'keta', 'keti', 'ko',
   'kulambung', 'kung', 'kuwarta', 'kwarto', 'kwentu', 'labas', 'labhan', 'labuad', 'lagyan',
@@ -84,7 +84,7 @@ const KP_BACKLOG = [
   'pagkain', 'pagsarian', 'pakisuyo', 'palayan', 'palisan', 'palitan', 'palwal', 'pamagmula', 'pamagsabyan',
   'pamasahe', 'panalung', 'pananim', 'panaun', 'pane-neng', 'papunta', 'pari', 'parsala',
   'paru-paro', 'pasalan', 'pelikula', 'pero', 'pila', 'pong', 'pritung',
-  'malaus', 'puerta', 'pun', 'pung', 'raku', 'ri', 'ring', 'sagiwa', 'sake', 'sala',
+  'malaus', 'masarap', 'puerta', 'pun', 'pung', 'raku', 'ri', 'ring', 'sagiwa', 'sake', 'sala',
   'sana', 'sangdominggo', 'sarad', 'sasara', 'seli', 'sige', 'sinadsad', 'sinali',
   'sinalita', 'sinaul', 'sukli', 'suluk', 'susulat', 'susunud', 'ta', 'taku', 'talaga',
   'talaturu', 'talaturung', 'tana', 'tanaman', 'tang', 'tapos', 'temperatura', 'tibuk',

@@ -232,6 +232,18 @@
         {"kp": "Atin saging king lamesa.", "en": "There is a banana on the table."},
         {"kp": "Mangan ku saging.", "en": "I am eating a banana."}
       ]
+    },
+    {
+      "id": "food-kakaná",
+      "word": "kakanán",
+      "partOfSpeech": "noun",
+      "translations": ["food", "meal", "something to eat"],
+      "relatedTagalog": "pagkain",
+      "examples": [
+        {"kp": "Metung a mansanas ing kakanán ku.", "en": "My food is one apple."},
+        {"kp": "Masarap ya ing kakanán.", "en": "The food is delicious."}
+      ],
+      "notes": "Specifically 'the food being eaten' or 'the meal at hand'. Contrast with pamangan (food in general)."
     }
   ],
   "lessons": [
@@ -672,6 +684,39 @@
           "prompt": "Mayumu ya ing mansanas.",
           "wordIds": ["food-mansanas", "food-mayumu"],
           "accepted": ["the apple is sweet", "an apple is sweet"]
+        }
+      ]
+    },
+    {
+      "id": "food-8",
+      "title": "The Meal",
+      "theme": "food being eaten",
+      "intro": "Kapampangan distinguishes pamangan (food in general) from kakanán (the specific food being eaten or served). You will hear kakanán constantly at the Kapampangan table.",
+      "wordIds": ["food-kakaná"],
+      "exercises": [
+        {
+          "id": "food-8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kakanán\" mean?",
+          "wordIds": ["food-kakaná"],
+          "answerId": "food-kakaná"
+        },
+        {
+          "id": "food-8-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"meal / food being eaten\"?",
+          "wordIds": ["food-kakaná"],
+          "answerId": "food-kakaná"
+        },
+        {
+          "id": "food-8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Masarap ya ing kakanán.",
+          "wordIds": ["food-kakaná"],
+          "accepted": ["the food is delicious", "the meal is delicious", "the food is tasty"]
         }
       ]
     }

@@ -87,6 +87,28 @@ describe('checkTranslation', () => {
   })
 })
 
+describe('typo tolerance', () => {
+  it('accepts a one-character typo in a medium-length word', () => {
+    expect(checkTranslation('chold', ['child'])).toBe(true)      // 5 chars, 1 edit
+    expect(checkTranslation('thabk you', ['thank you'])).toBe(true) // 9 chars, 1 edit
+  })
+
+  it('accepts up to two typos in long phrases', () => {
+    expect(checkTranslation('good mornng', ['good morning'])).toBe(true)  // 11 chars, 1 edit
+    expect(checkTranslation('I am verry hapyy', ['i am very happy'])).toBe(true) // 15 chars, 2 edits
+  })
+
+  it('rejects typos in very short answers (< 4 chars)', () => {
+    expect(checkTranslation('yos', ['yes'])).toBe(false)   // 3 chars, exact only
+    expect(checkTranslation('fo', ['go'])).toBe(false)     // 2 chars
+  })
+
+  it('still rejects wrong answers even with tolerance', () => {
+    expect(checkTranslation('food', ['good'])).toBe(true)   // 4 chars, 1 edit — intentionally accepted
+    expect(checkTranslation('morning', ['evening'])).toBe(false) // distance 4, too far
+  })
+})
+
 describe('checkAnswer', () => {
   it('validates a real multiple-choice exercise', () => {
     const ex = lessons[0].exercises.find((e) => e.id === 'greet-mc-1')!
