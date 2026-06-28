@@ -382,12 +382,12 @@
       "relatedTagalog": "bakuran",
       "examples": [
         {
-          "kp": "Malagid ya ing bakuran ning bale mi.",
-          "en": "The yard of our house is wide."
+          "kp": "Maragul ya ing bakuran ning bale mi.",
+          "en": "The yard of our house is big."
         },
         {
-          "kp": "Naglalaro ing anak king bakuran.",
-          "en": "The child is playing in the yard."
+          "kp": "Masaya ding anak king bakuran.",
+          "en": "The children are happy in the yard."
         }
       ],
       "notes": "From 'bakod' (fence) + '-an' (place suffix), literally the fenced/enclosed space. Used in Kapampangan and Tagalog alike to refer to the outdoor area surrounding a house. Can also refer to any enclosed outdoor compound."
@@ -1077,6 +1077,47 @@
             "they have pictures in the living room.",
             "there are pictures in the living room",
             "there are pictures in the living room."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "house-8",
+      "title": "Yard & Bucket",
+      "theme": "outdoor home areas and household containers",
+      "intro": "Two practical home words: 'bakuran' (yard/outdoor area of a house) and 'baldi' (bucket). 'Bakuran' comes from 'bakur' (fence/enclosure). 'Baldi' is a Spanish loanword (from 'balde'), following the common Kapampangan vowel shift to 'u'.",
+      "wordIds": [
+        "house-bakuran",
+        "house-baldi"
+      ],
+      "exercises": [
+        {
+          "id": "house-8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"bakuran\" mean?",
+          "wordIds": ["house-bakuran"],
+          "answerId": "house-bakuran"
+        },
+        {
+          "id": "house-8-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"bucket\"?",
+          "wordIds": ["house-baldi"],
+          "answerId": "house-baldi"
+        },
+        {
+          "id": "house-8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing bakuran ning bale mi.",
+          "wordIds": ["house-bakuran"],
+          "accepted": [
+            "the yard of our house is big",
+            "the yard of our house is big.",
+            "our house's yard is big",
+            "our house's yard is big."
           ]
         }
       ]

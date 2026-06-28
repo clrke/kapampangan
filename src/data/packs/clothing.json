@@ -1078,6 +1078,38 @@
           ]
         }
       ]
+    },
+    {
+      "id": "wear-7",
+      "title": "Pocket",
+      "theme": "clothing parts and accessories",
+      "intro": "'Bulsa' (pocket) is a Spanish loanword (from 'bolsa', bag/purse) used widely in Kapampangan to mean pocket.",
+      "wordIds": [
+        "wear-bulsa"
+      ],
+      "exercises": [
+        {
+          "id": "wear-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"bulsa\" mean?",
+          "wordIds": ["wear-bulsa"],
+          "answerId": "wear-bulsa"
+        },
+        {
+          "id": "wear-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin ku pera king bulsa ku.",
+          "wordIds": ["wear-bulsa"],
+          "accepted": [
+            "i have money in my pocket",
+            "i have money in my pocket.",
+            "there is money in my pocket",
+            "there is money in my pocket."
+          ]
+        }
+      ]
     }
   ],
   "sources": [

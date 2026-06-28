@@ -917,6 +917,47 @@
           ]
         }
       ]
+    },
+    {
+      "id": "mkt-7",
+      "title": "Change & Debt",
+      "theme": "financial transactions and obligations",
+      "intro": "Two essential transaction words: 'sukli' (change/money back) and 'utang' (debt/loan). 'Sukli' is used when a vendor returns change after a purchase. 'Utang' covers any debt or loan obligation.",
+      "wordIds": [
+        "mkt-sukli",
+        "mkt-utang"
+      ],
+      "exercises": [
+        {
+          "id": "mkt-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"sukli\" mean?",
+          "wordIds": ["mkt-sukli"],
+          "answerId": "mkt-sukli"
+        },
+        {
+          "id": "mkt-7-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"debt\"?",
+          "wordIds": ["mkt-utang"],
+          "answerId": "mkt-utang"
+        },
+        {
+          "id": "mkt-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin ku sukli king tindahan.",
+          "wordIds": ["mkt-sukli"],
+          "accepted": [
+            "i have change at the store",
+            "i have change at the store.",
+            "i have change from the store",
+            "i have change from the store."
+          ]
+        }
+      ]
     }
   ],
   "sources": [

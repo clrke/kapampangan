@@ -1834,6 +1834,38 @@
           "answerId": "part-naman"
         }
       ]
+    },
+    {
+      "id": "part-L11",
+      "title": "Sequence & Completion: tapos",
+      "theme": "temporal conjunctions and completion markers",
+      "intro": "'Tapos' functions both as a conjunction ('then/after') linking sequential actions and as a predicate ('finished/done'). Though shared with Tagalog, it is in common everyday use in Kapampangan speech.",
+      "wordIds": [
+        "part-tapos"
+      ],
+      "exercises": [
+        {
+          "id": "part-L11-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"tapos\" mean?",
+          "wordIds": ["part-tapos"],
+          "answerId": "part-tapos"
+        },
+        {
+          "id": "part-L11-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Tapos na ing trabahu ku.",
+          "wordIds": ["part-tapos"],
+          "accepted": [
+            "my work is finished",
+            "my work is finished.",
+            "my work is done",
+            "my work is done."
+          ]
+        }
+      ]
     }
   ]
 }

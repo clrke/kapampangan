@@ -689,6 +689,47 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ev-4",
+      "title": "Visitors & Weddings",
+      "theme": "social events and gatherings",
+      "intro": "Two social life words: 'bisita' (visitor/guest/to visit) and 'kasal' (wedding/marriage). 'Bisita' is a Spanish loanword (from 'visita') used as both a noun and verb in Kapampangan. 'Kasal' means wedding ceremony or marriage.",
+      "wordIds": [
+        "ev-bisita",
+        "ev-kasal"
+      ],
+      "exercises": [
+        {
+          "id": "ev-4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"bisita\" mean?",
+          "wordIds": ["ev-bisita"],
+          "answerId": "ev-bisita"
+        },
+        {
+          "id": "ev-4-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"wedding\"?",
+          "wordIds": ["ev-kasal"],
+          "answerId": "ev-kasal"
+        },
+        {
+          "id": "ev-4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Masaya ya ing kasal da.",
+          "wordIds": ["ev-kasal"],
+          "accepted": [
+            "their wedding is joyful",
+            "their wedding is joyful.",
+            "their wedding is happy",
+            "their wedding is happy."
+          ]
+        }
+      ]
     }
   ]
 }

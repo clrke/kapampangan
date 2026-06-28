@@ -1076,6 +1076,38 @@
           ]
         }
       ]
+    },
+    {
+      "id": "body-8",
+      "title": "Hair",
+      "theme": "head and hair vocabulary",
+      "intro": "'Buhuk' is the Kapampangan word for hair (of the head). It contrasts with Tagalog 'buhok'.",
+      "wordIds": [
+        "body-buhuk"
+      ],
+      "exercises": [
+        {
+          "id": "body-8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"buhuk\" mean?",
+          "wordIds": ["body-buhuk"],
+          "answerId": "body-buhuk"
+        },
+        {
+          "id": "body-8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maitum ya ing buhuk na.",
+          "wordIds": ["body-buhuk"],
+          "accepted": [
+            "her hair is black",
+            "her hair is black.",
+            "his hair is black",
+            "his hair is black."
+          ]
+        }
+      ]
     }
   ],
   "sources": [

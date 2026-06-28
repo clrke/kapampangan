@@ -1237,6 +1237,38 @@
           "answerId": "gram-karing"
         }
       ]
+    },
+    {
+      "id": "gram-L9",
+      "title": "Informal 2nd-person Plural: kamu",
+      "theme": "alternate and archaic pronouns",
+      "intro": "'Kamu' is an informal 2nd-person plural pronoun ('you all') derived from Proto-Malayo-Polynesian *kamu. In modern Kapampangan, 'kayu' is more standard; 'kamu' appears in informal speech and traditional registers.",
+      "wordIds": [
+        "gram-kamu"
+      ],
+      "exercises": [
+        {
+          "id": "gram-L9-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kamu\" mean?",
+          "wordIds": ["gram-kamu"],
+          "answerId": "gram-kamu"
+        },
+        {
+          "id": "gram-L9-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Masaya kamu ngeni?",
+          "wordIds": ["gram-kamu"],
+          "accepted": [
+            "are you all happy now",
+            "are you all happy now?",
+            "are you happy now",
+            "are you happy now?"
+          ]
+        }
+      ]
     }
   ]
 }
