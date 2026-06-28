@@ -6,7 +6,9 @@ import { contentStats } from '../lib/contentStats'
 export default function Home() {
   const progress = loadProgress()
   const navigate = useNavigate()
-  const nextIncomplete = lessons.find((l) => !progress.completedLessons.includes(l.id))
+  const nextIncomplete = progress.completedLessons.length > 0
+    ? lessons.find((l) => !progress.completedLessons.includes(l.id))
+    : undefined
 
   function goRandom() {
     const idx = Math.floor(Math.random() * lessons.length)
