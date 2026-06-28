@@ -589,6 +589,46 @@
         }
       ],
       "notes": "Proximal plural demonstrative pronoun meaning 'these'. Equivalent to Tagalog 'mga ito'. The plural counterpart of 'iti/ini'. Attested in Wikipedia ('Isanu deti ya ing bisa ka?') and in existing pack sentences. Confidence: very high."
+    },
+    {
+      "id": "part-keng",
+      "word": "keng",
+      "partOfSpeech": "particle",
+      "translations": ["in", "at", "to", "into", "for", "of"],
+      "relatedTagalog": "sa",
+      "examples": [
+        {
+          "kp": "Sinadsad ne keng gabun.",
+          "en": "It was dropped to the ground."
+        },
+        {
+          "kp": "Mikit tana keng tutuki!",
+          "en": "See you next time!"
+        },
+        {
+          "kp": "Matula la ngan keng kasuyuan king aldo na ita.",
+          "en": "They were all joyful in the happiness of that day."
+        }
+      ],
+      "notes": "Pre-vocalic allomorph of 'king' — used before vowel-initial words exactly as English 'an' is used before vowels. 'King' and 'keng' are the same particle; the choice is purely phonological: 'king bale' (at home) but 'keng eskwela' (at school). Both translate to the Tagalog locative 'sa'."
+    },
+    {
+      "id": "part-ta",
+      "word": "ta",
+      "partOfSpeech": "conjunction",
+      "translations": ["because", "since", "as"],
+      "relatedTagalog": "kasi / dahil",
+      "examples": [
+        {
+          "kp": "Sulud me ing sako mu ta marimla.",
+          "en": "Put on your jacket because it is cold."
+        },
+        {
+          "kp": "Sulud me ing payung ta miguran na.",
+          "en": "Use the umbrella since it is already raining."
+        }
+      ],
+      "notes": "Causal subordinating conjunction — introduces a reason or cause clause, equivalent to 'because' or 'since'. It follows the main clause: '[imperative], ta [reason]'. Distinct from the inclusive-we enclitic 'tamu' (let's go) and the noun 'ta' (father, in some dialects). In the particles context it always marks causation."
     }
   ],
   "lessons": [
@@ -1230,6 +1270,90 @@
             "part-lang"
           ],
           "answerId": "part-lang"
+        }
+      ]
+    },
+    {
+      "id": "part-L7",
+      "title": "Location and Cause: keng and ta",
+      "theme": "at/in (before vowels) and because/since",
+      "intro": "'keng' is simply 'king' before a vowel-initial word — the same locative particle, just shaped by the following sound. 'ta' links a command or statement to its reason: 'Sulud me ing sako mu ta marimla' (Put on your jacket because it is cold).",
+      "wordIds": [
+        "part-keng",
+        "part-ta"
+      ],
+      "exercises": [
+        {
+          "id": "part-L7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'keng' mean?",
+          "wordIds": [
+            "part-keng"
+          ],
+          "answerId": "part-keng"
+        },
+        {
+          "id": "part-L7-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'ta' mean?",
+          "wordIds": [
+            "part-ta"
+          ],
+          "answerId": "part-ta"
+        },
+        {
+          "id": "part-L7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sinadsad ne keng gabun.",
+          "wordIds": [
+            "part-keng"
+          ],
+          "accepted": [
+            "it was dropped to the ground",
+            "it was dropped to the ground.",
+            "it was dropped on the ground",
+            "it was dropped on the ground."
+          ]
+        },
+        {
+          "id": "part-L7-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sulud me ing sako mu ta marimla.",
+          "wordIds": [
+            "part-ta"
+          ],
+          "accepted": [
+            "put on your jacket because it is cold",
+            "put on your jacket because it is cold.",
+            "put on your jacket since it is cold",
+            "put on your jacket since it is cold.",
+            "wear your jacket because it is cold",
+            "wear your jacket because it is cold.",
+            "wear your jacket since it is cold",
+            "wear your jacket since it is cold."
+          ]
+        },
+        {
+          "id": "part-L7-fb1",
+          "type": "fill-blank",
+          "prompt": "Mikit tana ____ tutuki! (See you next time!)",
+          "wordIds": [
+            "part-keng"
+          ],
+          "answerId": "part-keng"
+        },
+        {
+          "id": "part-L7-fb2",
+          "type": "fill-blank",
+          "prompt": "Sulud me ing payung ____ miguran na. (Use the umbrella since it is already raining.)",
+          "wordIds": [
+            "part-ta"
+          ],
+          "answerId": "part-ta"
         }
       ]
     }
