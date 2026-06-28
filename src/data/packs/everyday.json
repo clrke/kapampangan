@@ -206,7 +206,7 @@
           "en": "He sat down on the chair."
         },
         {
-          "kp": "Atin silya king suluk ning kwarto.",
+          "kp": "Atin silya king suluk ning kwartu.",
           "en": "There is a chair in the corner of the room."
         }
       ],
@@ -243,7 +243,7 @@
       "relatedTagalog": "bintana",
       "examples": [
         {
-          "kp": "Bukasan me ing bintana para maliwanag ing kwarto.",
+          "kp": "Bukasan me ing bintana para maliwanag ing kwartu.",
           "en": "Open the window so the room is bright."
         },
         {
@@ -619,7 +619,7 @@
           "id": "ev-3-tr2",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Bukasan me ing bintana para maliwanag ing kwarto.",
+          "prompt": "Bukasan me ing bintana para maliwanag ing kwartu.",
           "wordIds": [
             "ev-bintana"
           ],

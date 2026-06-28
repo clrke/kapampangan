@@ -519,6 +519,27 @@
       "notes": "Proximal demonstrative, closely related to 'iti'. 'Ini' typically functions as a post-nominal modifier ('the bag ini' = 'this bag'), while 'iti' is more often used as a sentence-level predicative or object pronoun. The distinction in modern Kapampangan is not always sharp; both translate to 'this'. Attested in existing pack sentences ('Kaninu ya ing bag ini?'). Confidence: high."
     },
     {
+      "id": "part-me",
+      "word": "me",
+      "partOfSpeech": "particle",
+      "translations": [
+        "you (actor enclitic)",
+        "you do it"
+      ],
+      "relatedTagalog": "mo",
+      "examples": [
+        {
+          "kp": "Sara me ing pasbul.",
+          "en": "Close the door."
+        },
+        {
+          "kp": "Bukasan me ing bintana.",
+          "en": "Open the window."
+        }
+      ],
+      "notes": "'me' is the 2nd-person actor enclitic — it marks 'you' as the one performing the action. It follows the verb directly: 'Sara me' (you close it), 'Linisan me' (you clean it), 'Ibuklat me' (you open it). Contrast with 'mu' (2sg non-subject/possessive: 'ing bale mu' = your house)."
+    },
+    {
       "id": "part-deti",
       "word": "deti",
       "partOfSpeech": "pronoun",
@@ -945,6 +966,66 @@
               "wordId": "part-deti"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "part-L4",
+      "title": "You as the Actor: me",
+      "theme": "giving instructions and commands",
+      "intro": "The enclitic 'me' marks the 2nd person ('you') as the actor — the one performing the action. It comes right after the verb: 'Sara me' (close it), 'Linisan me' (clean it). This is one of the most common patterns in everyday Kapampangan speech, especially for requests and instructions. Contrast with 'mu' (your / by you — used for possession and non-topic roles).",
+      "wordIds": [
+        "part-me"
+      ],
+      "exercises": [
+        {
+          "id": "part-L4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'me' signal in a sentence?",
+          "wordIds": [
+            "part-me"
+          ],
+          "answerId": "part-me"
+        },
+        {
+          "id": "part-L4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sara me ing pasbul.",
+          "wordIds": [
+            "part-me"
+          ],
+          "accepted": [
+            "close the door",
+            "close the door.",
+            "you close the door",
+            "you close the door."
+          ]
+        },
+        {
+          "id": "part-L4-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Bukasan me ing bintana.",
+          "wordIds": [
+            "part-me"
+          ],
+          "accepted": [
+            "open the window",
+            "open the window.",
+            "you open the window",
+            "you open the window."
+          ]
+        },
+        {
+          "id": "part-L4-fb1",
+          "type": "fill-blank",
+          "prompt": "Linisan ____ ing kwartu. (Clean the room.)",
+          "wordIds": [
+            "part-me"
+          ],
+          "answerId": "part-me"
         }
       ]
     }
