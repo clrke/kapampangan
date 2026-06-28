@@ -77,7 +77,7 @@
       "relatedTagalog": "mabilis",
       "examples": [
         {
-          "kp": "Ing dagis maliksi ya.",
+          "kp": "Ing angin maliksi ya.",
           "en": "The wind is fast."
         },
         {
@@ -162,8 +162,8 @@
       "relatedTagalog": "masipag",
       "examples": [
         {
-          "kp": "Ing panas masipag ya.",
-          "en": "The worker is hardworking."
+          "kp": "Ing tao masipag ya.",
+          "en": "The person is hardworking."
         },
         {
           "kp": "Masipag ya ing anak da.",
@@ -306,7 +306,7 @@
           "id": "adj-1-tr2",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Ing dagis maliksi ya.",
+          "prompt": "Ing angin maliksi ya.",
           "wordIds": [
             "adj-maliksi"
           ],
@@ -531,17 +531,17 @@
           "id": "adj-3-tr1",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Ing panas masipag ya.",
+          "prompt": "Ing tao masipag ya.",
           "wordIds": [
             "adj-masipag"
           ],
           "accepted": [
-            "the worker is hardworking",
-            "the worker is hardworking.",
-            "the worker is diligent",
-            "the worker is diligent.",
-            "the worker is industrious",
-            "the worker is industrious."
+            "the person is hardworking",
+            "the person is hardworking.",
+            "the person is diligent",
+            "the person is diligent.",
+            "the person is industrious",
+            "the person is industrious."
           ]
         },
         {
