@@ -389,7 +389,7 @@
       "relatedTagalog": "sa mga",
       "examples": [
         {
-          "kp": "Atin libre a pagkain kareng anak.",
+          "kp": "Atin libre a pamangan kareng anak.",
           "en": "There is free food for the children."
         },
         {
@@ -397,7 +397,7 @@
           "en": "I am full from the rice (among/of the rice)."
         },
         {
-          "kp": "Ibie me kareng tau ing pagkain.",
+          "kp": "Ibie me kareng tau ing pamangan.",
           "en": "Give the food to the people."
         }
       ],
@@ -479,8 +479,8 @@
           "en": "How do you do this?"
         },
         {
-          "kp": "Mal ya masyadu iti.",
-          "en": "This is too expensive."
+          "kp": "Mal ya iti.",
+          "en": "This is expensive."
         },
         {
           "kp": "Nanu ya iti?",

@@ -118,8 +118,8 @@
       "relatedTagalog": "mahal",
       "examples": [
         {
-          "kp": "Mal ya masyadu iti.",
-          "en": "This is too expensive."
+          "kp": "Mal ya iti.",
+          "en": "This is expensive."
         },
         {
           "kp": "Mal ya ing manuk king palengke ngeni.",
@@ -226,11 +226,11 @@
       "relatedTagalog": "dukha",
       "examples": [
         {
-          "kp": "Dukha ya pero masaya ya.",
+          "kp": "Dukha ya ngan masaya ya.",
           "en": "He is poor but happy."
         },
         {
-          "kp": "E tamu dapat magpakalugud king dukha.",
+          "kp": "Ali tamu magpakalugud king dukha.",
           "en": "We should not look down on the poor."
         }
       ],
@@ -252,7 +252,7 @@
           "en": "This is free, you do not need to pay."
         },
         {
-          "kp": "Atin libre a pagkain kareng anak.",
+          "kp": "Atin libre a pamangan kareng anak.",
           "en": "There is free food for the children."
         }
       ],

@@ -273,6 +273,96 @@
         }
       ],
       "notes": "The linker 'a' follows a word ending in a consonant. After a vowel, use '-ng' (suffix): 'bayu' → 'bayung tau' (new person). Equivalent to Tagalog 'na' or the '-ng' linker."
+    },
+    {
+      "id": "gram-ko",
+      "word": "ko",
+      "partOfSpeech": "pronoun",
+      "translations": ["I", "me", "my"],
+      "relatedTagalog": "ko / ako",
+      "examples": [
+        {
+          "kp": "Maranup ko pa.",
+          "en": "I am still hungry."
+        },
+        {
+          "kp": "Kabsi ko na.",
+          "en": "I am already full."
+        }
+      ],
+      "notes": "Pre-vocalic allomorph of 'ku' — used in the same positions (after predicate as subject enclitic, or possessive) but by many speakers interchangeably with 'ku'. 'Ko' is especially common before a pause or sentence-finally. Both 'ku' and 'ko' are correct Kapampangan; 'ko' is also the standard Tagalog 1sg genitive, which reinforces its frequency in modern speech."
+    },
+    {
+      "id": "gram-mi",
+      "word": "mi",
+      "partOfSpeech": "pronoun",
+      "translations": ["our", "we (exclusive)"],
+      "relatedTagalog": "namin / kami",
+      "examples": [
+        {
+          "kp": "Maragul ya ing bale mi.",
+          "en": "Our house is big."
+        },
+        {
+          "kp": "Malagu ya ing eskwela mi.",
+          "en": "Our school is beautiful."
+        }
+      ],
+      "notes": "1st person plural exclusive genitive/absolutive enclitic — 'our (not yours)'. The possessive and topic form of 'kami'. Used after a noun: 'bale mi' (our house), 'anak mi' (our child). Contrast with 'tamu/ta' (we inclusive, including the listener)."
+    },
+    {
+      "id": "gram-at",
+      "word": "at",
+      "partOfSpeech": "conjunction",
+      "translations": ["and"],
+      "relatedTagalog": "at",
+      "examples": [
+        {
+          "kp": "Maragul at malagu ya ing bale.",
+          "en": "The house is big and beautiful."
+        },
+        {
+          "kp": "Maragul at mabangis ya ing damulag.",
+          "en": "The carabao is big and fierce."
+        }
+      ],
+      "notes": "Coordinating conjunction meaning 'and'. Shared with Tagalog. Used to connect adjectives, nouns, or clauses: 'Maragul at malagu' (big and beautiful). The native alternative 'ampong' exists but 'at' is standard in modern Kapampangan."
+    },
+    {
+      "id": "gram-i",
+      "word": "i",
+      "partOfSpeech": "particle",
+      "translations": ["(personal article before names)"],
+      "relatedTagalog": "si",
+      "examples": [
+        {
+          "kp": "Munta ya i Elena king eskwela.",
+          "en": "Elena will go to school."
+        },
+        {
+          "kp": "Magaral ya i Jose king iskuwela.",
+          "en": "Jose studies at school."
+        }
+      ],
+      "notes": "The Kapampangan personal article — used before proper names of people, equivalent to Tagalog 'si'. It marks the name as the topic of the sentence. 'Ing' is used before common nouns (thing/place); 'i' is used before personal names: 'i Elena', 'i Juan', 'i tatang ku' (my father)."
+    },
+    {
+      "id": "gram-ati",
+      "word": "ati",
+      "partOfSpeech": "verb",
+      "translations": ["there is", "to be present", "to exist"],
+      "relatedTagalog": "mayroon / nandoon",
+      "examples": [
+        {
+          "kp": "Nung ati kang sakit, munta ka king doktor.",
+          "en": "If you are sick, go to the doctor."
+        },
+        {
+          "kp": "Obakit ati ka keni?",
+          "en": "Why are you here?"
+        }
+      ],
+      "notes": "Short/bare form of 'atin' — the existential predicate meaning 'there is' or 'to be at/present'. 'Atin' and 'ati' are used interchangeably by many speakers; 'ati' is more common as the bare predicate before a topic enclitic ('ati ka' = you are present), while 'atin' often precedes the noun phrase ('Atin ku kuwarta' = I have money). Contrast with 'atyu' (to be located, non-existential)."
     }
   ],
   "lessons": [
@@ -647,6 +737,94 @@
             "he is good",
             "she is good"
           ]
+        }
+      ]
+    },
+    {
+      "id": "gram-L5",
+      "title": "More Pronouns, Articles, and Conjunctions",
+      "theme": "ko, mi, at, i, ati",
+      "intro": "'ko' is the allomorph of 'ku' used interchangeably by many speakers. 'mi' means our (exclusive — not including the listener). 'at' connects words and clauses with 'and'. 'i' is the personal article placed before a person's name (like Tagalog 'si'). 'ati' is the bare existential predicate: 'Ati ka keni?' (Are you here?).",
+      "wordIds": [
+        "gram-ko",
+        "gram-mi",
+        "gram-at",
+        "gram-i",
+        "gram-ati"
+      ],
+      "exercises": [
+        {
+          "id": "gram-L5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'mi' mean?",
+          "wordIds": ["gram-mi"],
+          "answerId": "gram-mi"
+        },
+        {
+          "id": "gram-L5-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'at' mean?",
+          "wordIds": ["gram-at"],
+          "answerId": "gram-at"
+        },
+        {
+          "id": "gram-L5-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'i' mean (before a name)?",
+          "wordIds": ["gram-i"],
+          "answerId": "gram-i"
+        },
+        {
+          "id": "gram-L5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing bale mi.",
+          "wordIds": ["gram-mi"],
+          "accepted": [
+            "our house is big",
+            "our house is big.",
+            "the house is big",
+            "the house is big."
+          ]
+        },
+        {
+          "id": "gram-L5-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta ya i Elena king eskwela.",
+          "wordIds": ["gram-i"],
+          "accepted": [
+            "elena will go to school",
+            "elena will go to school.",
+            "elena is going to school",
+            "elena is going to school.",
+            "elena goes to school",
+            "elena goes to school."
+          ]
+        },
+        {
+          "id": "gram-L5-fb1",
+          "type": "fill-blank",
+          "prompt": "Maragul ____ malagu ya ing bale. (The house is big and beautiful.)",
+          "wordIds": ["gram-at"],
+          "answerId": "gram-at"
+        },
+        {
+          "id": "gram-L5-fb2",
+          "type": "fill-blank",
+          "prompt": "Maranup ____ pa. (I am still hungry.)",
+          "wordIds": ["gram-ko"],
+          "answerId": "gram-ko"
+        },
+        {
+          "id": "gram-L5-fb3",
+          "type": "fill-blank",
+          "prompt": "Obakit ____ ka keni? (Why are you here?)",
+          "wordIds": ["gram-ati"],
+          "answerId": "gram-ati"
         }
       ]
     }
