@@ -1,14 +1,16 @@
 import { useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Link, useParams, useNavigate } from 'react-router-dom'
 import { getLesson } from '../lib/lookup'
 import { getEntry } from '../lib/lookup'
 import ExercisePlayer, { XP_PER_CORRECT } from '../components/ExercisePlayer'
 import KpText from '../components/KpText'
 import { completeLesson } from '../lib/progress'
+import { lessons } from '../data/lessons'
 
 export default function LessonView() {
   const { id } = useParams<{ id: string }>()
   const lesson = id ? getLesson(id) : undefined
+  const navigate = useNavigate()
   const [phase, setPhase] = useState<'intro' | 'play' | 'done'>('intro')
   const [score, setScore] = useState({ correct: 0, total: 0 })
 
@@ -64,6 +66,15 @@ export default function LessonView() {
     )
   }
 
+  const lessonIndex = lessons.findIndex((l) => l.id === lesson.id)
+  const nextLesson = lessonIndex >= 0 ? lessons[lessonIndex + 1] : undefined
+
+  function goNext() {
+    setPhase('intro')
+    setScore({ correct: 0, total: 0 })
+    navigate('/lesson/' + nextLesson!.id)
+  }
+
   return (
     <div className="lesson done-screen">
       <h1>🎉 Lesson complete!</h1>
@@ -71,14 +82,13 @@ export default function LessonView() {
         {score.correct} / {score.total} correct · +{score.correct * XP_PER_CORRECT} XP
       </p>
       <div className="done-actions">
-        <Link to="/" className="btn primary">Back to lessons</Link>
-        <button
-          className="btn"
-          onClick={() => {
-            setScore({ correct: 0, total: 0 })
-            setPhase('play')
-          }}
-        >
+        {nextLesson ? (
+          <button className="btn primary" onClick={goNext}>Next Lesson →</button>
+        ) : (
+          <Link to="/" className="btn primary">Back to lessons</Link>
+        )}
+        <Link to="/" className="btn">Back to lessons</Link>
+        <button className="btn" onClick={() => { setScore({ correct: 0, total: 0 }); setPhase('play') }}>
           Try again
         </button>
       </div>

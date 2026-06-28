@@ -58,6 +58,21 @@ body {
 .lesson-meta small { color: var(--muted); }
 .lesson-status { font-size: 1.3rem; color: var(--muted); }
 
+/* Continue banner */
+.continue-banner {
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  background: var(--card); border: 1px solid var(--line);
+  border-left: 4px solid var(--accent);
+  border-radius: 14px; padding: 1rem 1.1rem; margin-bottom: 1rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,.05);
+}
+.continue-text {
+  display: flex; flex-direction: column; gap: .15rem;
+}
+.continue-label {
+  font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); font-weight: 600;
+}
+
 /* Lesson */
 .back { color: var(--accent); text-decoration: none; font-size: .9rem; }
 .lesson h1 { margin: .6rem 0; }

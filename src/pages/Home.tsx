@@ -6,6 +6,7 @@ import { contentStats } from '../lib/contentStats'
 export default function Home() {
   const progress = loadProgress()
   const navigate = useNavigate()
+  const nextIncomplete = lessons.find((l) => !progress.completedLessons.includes(l.id))
 
   function goRandom() {
     const idx = Math.floor(Math.random() * lessons.length)
@@ -23,6 +24,17 @@ export default function Home() {
         </div>
         <button className="random-btn" onClick={goRandom}>🎲 Random Lesson</button>
       </section>
+
+      {nextIncomplete && (
+        <div className="continue-banner">
+          <div className="continue-text">
+            <span className="continue-label">Continue learning</span>
+            <strong>{nextIncomplete.title}</strong>
+            <small>{nextIncomplete.theme}</small>
+          </div>
+          <Link to={`/lesson/${nextIncomplete.id}`} className="btn primary">Resume →</Link>
+        </div>
+      )}
 
       <ol className="lesson-list">
         {lessons.map((lesson, i) => {
