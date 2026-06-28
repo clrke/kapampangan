@@ -173,25 +173,44 @@
       ]
     },
     {
-      "id": "dl-tudtud",
-      "word": "Tudtud",
-      "partOfSpeech": "verb",
+      "id": "dl-drayber",
+      "word": "drayber",
+      "partOfSpeech": "noun",
       "translations": [
-        "to sleep",
-        "sleep"
+        "driver"
       ],
-      "relatedTagalog": "tulog",
+      "relatedTagalog": "drayber",
       "examples": [
         {
-          "kp": "Matudtud na ku.",
-          "en": "I am going to sleep now."
+          "kp": "Drayber ya ing lalaki.",
+          "en": "The man is a driver."
         },
         {
-          "kp": "Matudtud ne ing anak.",
-          "en": "The child is already asleep."
+          "kp": "Munta ya ing drayber king eskwela.",
+          "en": "The driver goes to the school."
         }
       ],
-      "notes": "The authentic Kapampangan word for sleep, distinct from Tagalog 'tulog'. Active form: matudtud (to sleep). The place form 'tudturan' means a sleeping place (bed/room). Note: 'tulog' (Tagalog) is sometimes heard in Kapampangan speech but is considered a Tagalog intrusion; 'tudtud' is the native term."
+      "notes": "English loanword from 'driver', spelled phonetically in Kapampangan and Tagalog. Common occupation term in modern Filipino languages."
+    },
+    {
+      "id": "dl-temperatura",
+      "word": "temperatura",
+      "partOfSpeech": "noun",
+      "translations": [
+        "temperature"
+      ],
+      "relatedTagalog": "temperatura",
+      "examples": [
+        {
+          "kp": "Mainit ya ing temperatura ngeni.",
+          "en": "The temperature is high now."
+        },
+        {
+          "kp": "Ano ya ing temperatura ngeni?",
+          "en": "What is the temperature now?"
+        }
+      ],
+      "notes": "Spanish loanword from 'temperatura', shared across Philippine languages. Used in weather reports and health contexts."
     }
   ],
   "lessons": [
@@ -457,6 +476,53 @@
             "i was surprised by the information.",
             "i was surprised by the report",
             "i was surprised by the report."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dl-3",
+      "title": "Driver & Temperature",
+      "theme": "occupations and weather measurement",
+      "intro": "Learn two modern loanwords: 'drayber' (driver, from English) and 'temperatura' (temperature, from Spanish). Both are widely used in everyday Kapampangan speech.",
+      "wordIds": [
+        "dl-drayber",
+        "dl-temperatura"
+      ],
+      "exercises": [
+        {
+          "id": "dl-3-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"drayber\" mean?",
+          "wordIds": [
+            "dl-drayber"
+          ],
+          "answerId": "dl-drayber"
+        },
+        {
+          "id": "dl-3-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"temperature\"?",
+          "wordIds": [
+            "dl-temperatura"
+          ],
+          "answerId": "dl-temperatura"
+        },
+        {
+          "id": "dl-3-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mainit ya ing temperatura ngeni.",
+          "wordIds": [
+            "dl-temperatura"
+          ],
+          "accepted": [
+            "the temperature is high now",
+            "the temperature is high now.",
+            "the temperature is hot now",
+            "the temperature is hot now."
           ]
         }
       ]

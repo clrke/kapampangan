@@ -364,6 +364,46 @@
         }
       ],
       "notes": "Iconic Kapampangan insect and culinary delicacy. Confirmed in Kapampangan Listorian insect article and multiple sources as 'kamaru' = mole cricket. The dish 'adobong kamaru' is a famous Pampanga specialty."
+    },
+    {
+      "id": "anim-aso",
+      "word": "aso",
+      "partOfSpeech": "noun",
+      "translations": [
+        "dog"
+      ],
+      "relatedTagalog": "aso",
+      "examples": [
+        {
+          "kp": "Maragul ya ing aso mi.",
+          "en": "Our dog is big."
+        },
+        {
+          "kp": "Atin kami aso king bale.",
+          "en": "We have a dog at home."
+        }
+      ],
+      "notes": "Tagalog-origin spelling variant of native Kapampangan 'asu'. Both forms are used in modern Kapampangan writing; 'aso' reflects Tagalog influence while 'asu' is the traditional Kapampangan form."
+    },
+    {
+      "id": "anim-elepante",
+      "word": "elepante",
+      "partOfSpeech": "noun",
+      "translations": [
+        "elephant"
+      ],
+      "relatedTagalog": "elepante",
+      "examples": [
+        {
+          "kp": "Maragul ya ing elepante.",
+          "en": "The elephant is big."
+        },
+        {
+          "kp": "Ikit ku ing elepante.",
+          "en": "I saw the elephant."
+        }
+      ],
+      "notes": "Spanish loanword from 'elefante', shared across Philippine languages. Common in modern Kapampangan vocabulary."
     }
   ],
   "lessons": [
@@ -973,6 +1013,51 @@
             {
               "wordId": "anim-kamaru"
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anim-7",
+      "title": "More Animals",
+      "theme": "dog (variant), elephant",
+      "intro": "Expand your animal vocabulary with 'aso' (a common spelling variant of 'asu' for dog) and 'elepante' (elephant), a Spanish loanword shared across Philippine languages.",
+      "wordIds": [
+        "anim-aso",
+        "anim-elepante"
+      ],
+      "exercises": [
+        {
+          "id": "anim-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"aso\" mean?",
+          "wordIds": [
+            "anim-aso"
+          ],
+          "answerId": "anim-aso"
+        },
+        {
+          "id": "anim-7-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"elephant\"?",
+          "wordIds": [
+            "anim-elepante"
+          ],
+          "answerId": "anim-elepante"
+        },
+        {
+          "id": "anim-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing elepante.",
+          "wordIds": [
+            "anim-elepante"
+          ],
+          "accepted": [
+            "the elephant is big",
+            "the elephant is big."
           ]
         }
       ]

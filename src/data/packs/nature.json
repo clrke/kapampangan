@@ -370,6 +370,49 @@
         }
       ],
       "notes": "From Spanish escuela."
+    },
+    {
+      "id": "nat-palayan",
+      "word": "palayan",
+      "partOfSpeech": "noun",
+      "translations": [
+        "rice field",
+        "paddy field"
+      ],
+      "relatedTagalog": "palayan",
+      "examples": [
+        {
+          "kp": "Maragul ya ing palayan mi.",
+          "en": "Our rice field is big."
+        },
+        {
+          "kp": "Munta ya king palayan.",
+          "en": "He/she goes to the rice field."
+        }
+      ],
+      "notes": "Derived from 'palay' (unhusked rice) with the locative suffix -an. Central to Kapampangan agrarian culture; Pampanga is one of the Philippines' major rice-producing regions."
+    },
+    {
+      "id": "nat-pananim",
+      "word": "pananim",
+      "partOfSpeech": "noun",
+      "translations": [
+        "plants",
+        "crops",
+        "things planted"
+      ],
+      "relatedTagalog": "pananim / halaman",
+      "examples": [
+        {
+          "kp": "Mayap ding pananim mi ngeni.",
+          "en": "Our crops are good now."
+        },
+        {
+          "kp": "Dakal a pananim king palayan.",
+          "en": "There are many crops in the rice field."
+        }
+      ],
+      "notes": "From 'tanim' (to plant) with the pa- prefix, forming a collective noun for planted things. Used for both agricultural crops and ornamental plants."
     }
   ],
   "lessons": [
@@ -1025,6 +1068,68 @@
             {
               "wordId": "nat-iskuwela"
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nat-7",
+      "title": "Rice Field & Crops",
+      "theme": "farming and agriculture",
+      "intro": "Pampanga is a major rice-producing region of the Philippines. Learn 'palayan' (rice field/paddy) and 'pananim' (crops/plants) to talk about the agricultural landscape.",
+      "wordIds": [
+        "nat-palayan",
+        "nat-pananim"
+      ],
+      "exercises": [
+        {
+          "id": "nat-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"palayan\" mean?",
+          "wordIds": [
+            "nat-palayan"
+          ],
+          "answerId": "nat-palayan"
+        },
+        {
+          "id": "nat-7-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"crops\" or \"plants\"?",
+          "wordIds": [
+            "nat-pananim"
+          ],
+          "answerId": "nat-pananim"
+        },
+        {
+          "id": "nat-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing palayan mi.",
+          "wordIds": [
+            "nat-palayan"
+          ],
+          "accepted": [
+            "our rice field is big",
+            "our rice field is big.",
+            "our paddy field is big",
+            "our paddy field is big."
+          ]
+        },
+        {
+          "id": "nat-7-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mayap ding pananim mi ngeni.",
+          "wordIds": [
+            "nat-pananim"
+          ],
+          "accepted": [
+            "our crops are good now",
+            "our crops are good now.",
+            "our plants are good now",
+            "our plants are good now."
           ]
         }
       ]

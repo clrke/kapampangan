@@ -371,6 +371,26 @@
         }
       ],
       "notes": "Loanword from Spanish sábado. Confirmed in Wikivoyage Kapampangan phrasebook. One of the two weekend days alongside Duminggu."
+    },
+    {
+      "id": "time-linggu",
+      "word": "linggu",
+      "partOfSpeech": "noun",
+      "translations": [
+        "week"
+      ],
+      "relatedTagalog": "linggo / sanlinggo",
+      "examples": [
+        {
+          "kp": "Atlung linggu na.",
+          "en": "It has been three weeks already."
+        },
+        {
+          "kp": "Lima ya ing linggu.",
+          "en": "There are five weeks."
+        }
+      ],
+      "notes": "Derived from Spanish 'domingo' (Sunday), which in Kapampangan became the word for both Sunday (duminggu) and a week unit (linggu). Parallel to Tagalog 'linggo' for week."
     }
   ],
   "lessons": [
@@ -974,6 +994,52 @@
             {
               "wordId": "time-sabado"
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time-7",
+      "title": "Week",
+      "theme": "the word for week",
+      "intro": "Kapampangan 'linggu' (week) evolved from Spanish 'domingo' (Sunday), the same root as 'duminggu'. Learning 'linggu' lets you talk about durations and schedules.",
+      "wordIds": [
+        "time-linggu"
+      ],
+      "exercises": [
+        {
+          "id": "time-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"linggu\" mean?",
+          "wordIds": [
+            "time-linggu"
+          ],
+          "answerId": "time-linggu"
+        },
+        {
+          "id": "time-7-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"week\"?",
+          "wordIds": [
+            "time-linggu"
+          ],
+          "answerId": "time-linggu"
+        },
+        {
+          "id": "time-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atlung linggu na.",
+          "wordIds": [
+            "time-linggu"
+          ],
+          "accepted": [
+            "it has been three weeks already",
+            "it has been three weeks already.",
+            "three weeks already",
+            "three weeks."
           ]
         }
       ]

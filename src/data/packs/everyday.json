@@ -315,6 +315,110 @@
         }
       ],
       "notes": "From Spanish 'casar' (to marry). Used across Philippine languages including Kapampangan. Refers to the wedding ceremony or the institution of marriage. The verb form is 'magkasal' (to get married)."
+    },
+    {
+      "id": "ev-libru",
+      "word": "libru",
+      "partOfSpeech": "noun",
+      "translations": [
+        "book"
+      ],
+      "relatedTagalog": "libro",
+      "examples": [
+        {
+          "kp": "Atin ku libru ning Kapampangan.",
+          "en": "I have a Kapampangan book."
+        },
+        {
+          "kp": "Mamasa ya ning libru.",
+          "en": "He/she is reading a book."
+        }
+      ],
+      "notes": "Kapampangan vowel-shift form of Spanish loanword 'libro'. The shift from final -o to -u is characteristic of Kapampangan phonology; compare 'trabahu' (trabaho), 'libru' (libro)."
+    },
+    {
+      "id": "ev-opisina",
+      "word": "opisina",
+      "partOfSpeech": "noun",
+      "translations": [
+        "office"
+      ],
+      "relatedTagalog": "opisina",
+      "examples": [
+        {
+          "kp": "Munta ya king opisina.",
+          "en": "He/she goes to the office."
+        },
+        {
+          "kp": "Atyu ya king opisina na.",
+          "en": "He/she is already at the office."
+        }
+      ],
+      "notes": "Spanish loanword from 'oficina', used identically in Tagalog and Kapampangan. Common in modern urban vocabulary."
+    },
+    {
+      "id": "ev-pelikula",
+      "word": "pelikula",
+      "partOfSpeech": "noun",
+      "translations": [
+        "movie",
+        "film"
+      ],
+      "relatedTagalog": "pelikula",
+      "examples": [
+        {
+          "kp": "Mayap ya ing pelikula.",
+          "en": "The movie is good."
+        },
+        {
+          "kp": "Munta kami lawen ing pelikula.",
+          "en": "We are going to watch a movie."
+        }
+      ],
+      "notes": "Spanish loanword from 'pelicula'. Used identically across Philippine languages for movie or film."
+    },
+    {
+      "id": "ev-pila",
+      "word": "pila",
+      "partOfSpeech": "noun",
+      "translations": [
+        "line",
+        "queue"
+      ],
+      "relatedTagalog": "pila",
+      "examples": [
+        {
+          "kp": "Atin a pila ngeni.",
+          "en": "There is a line now."
+        },
+        {
+          "kp": "Munta ka king pila.",
+          "en": "Get in line."
+        }
+      ],
+      "notes": "From Spanish 'fila' (row/line). The primary modern meaning is a queue or line of people. Also can mean a saw (tool) in some contexts, but queue is the everyday usage."
+    },
+    {
+      "id": "ev-kwentu",
+      "word": "kwentu",
+      "partOfSpeech": "noun",
+      "translations": [
+        "story",
+        "tale",
+        "account"
+      ],
+      "relatedTagalog": "kwento",
+      "examples": [
+        {
+          "kp": "Mayap ya ing kwentu na.",
+          "en": "His/her story is good."
+        },
+        {
+          "kp": "Sabian me ing kwentu mu.",
+          "en": "Tell me your story."
+        }
+      ],
+      "notes": "Spanish loanword from 'cuento' (story/tale). Kapampangan form 'kwentu' vs. Tagalog 'kwento' — reflecting the Kapampangan final-vowel shift."
     }
   ],
   "lessons": [
@@ -727,6 +831,93 @@
             "their wedding is joyful.",
             "their wedding is happy",
             "their wedding is happy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "title": "Books, Offices & Entertainment",
+      "theme": "modern everyday vocabulary",
+      "intro": "These five words cover common modern life: 'libru' (book), 'opisina' (office), 'pelikula' (movie), 'pila' (queue), and 'kwentu' (story). Most are Spanish loanwords adapted to Kapampangan phonology.",
+      "wordIds": [
+        "ev-libru",
+        "ev-opisina",
+        "ev-pelikula",
+        "ev-pila",
+        "ev-kwentu"
+      ],
+      "exercises": [
+        {
+          "id": "ev-5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"libru\" mean?",
+          "wordIds": [
+            "ev-libru"
+          ],
+          "answerId": "ev-libru"
+        },
+        {
+          "id": "ev-5-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"pelikula\" mean?",
+          "wordIds": [
+            "ev-pelikula"
+          ],
+          "answerId": "ev-pelikula"
+        },
+        {
+          "id": "ev-5-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"office\"?",
+          "wordIds": [
+            "ev-opisina"
+          ],
+          "answerId": "ev-opisina"
+        },
+        {
+          "id": "ev-5-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"story\" or \"tale\"?",
+          "wordIds": [
+            "ev-kwentu"
+          ],
+          "answerId": "ev-kwentu"
+        },
+        {
+          "id": "ev-5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta ya king opisina.",
+          "wordIds": [
+            "ev-opisina"
+          ],
+          "accepted": [
+            "he goes to the office",
+            "he goes to the office.",
+            "she goes to the office",
+            "she goes to the office.",
+            "he/she goes to the office",
+            "he/she goes to the office."
+          ]
+        },
+        {
+          "id": "ev-5-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mayap ya ing pelikula.",
+          "wordIds": [
+            "ev-pelikula"
+          ],
+          "accepted": [
+            "the movie is good",
+            "the movie is good.",
+            "the film is good",
+            "the film is good."
           ]
         }
       ]
