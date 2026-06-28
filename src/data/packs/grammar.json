@@ -491,6 +491,60 @@
         }
       ],
       "notes": "Interrogative pronoun meaning 'what'. Functions as the predicate of a question: 'Ano ing X?' (What is the X?). The Kapampangan native equivalent is 'nanu', which is more formal/traditional; 'ano' is used interchangeably in modern speech and is shared with Tagalog. Both 'ano' and 'nanu' are attested in Kapampangan."
+    },
+    {
+      "id": "gram-taku",
+      "word": "taku",
+      "partOfSpeech": "pronoun",
+      "translations": ["we (you and I)", "us (inclusive)", "let's"],
+      "relatedTagalog": "tayo",
+      "examples": [
+        {
+          "kp": "Munta taku simbahan king duminggu.",
+          "en": "Let's go to church on Sunday."
+        },
+        {
+          "kp": "Trabahu taku king Lunes.",
+          "en": "We work on Monday."
+        }
+      ],
+      "notes": "First-person inclusive plural actor enclitic — 'we (you and I together)'. Includes both the speaker and the listener. Equivalent to Tagalog 'tayo'. Distinct from 'kami' (exclusive 'we' — speaker + others, not the listener). 'Taku' is the actor/topic form; it often follows the verb directly as a post-verbal enclitic: 'Munta taku' (Let's go). Also analysable as 'ta' (1pl incl) + 'ku' (1sg)."
+    },
+    {
+      "id": "gram-karing",
+      "word": "karing",
+      "partOfSpeech": "particle",
+      "translations": ["to the (plural)", "at the (plural)", "for the (plural)", "the (plural oblique)"],
+      "relatedTagalog": "sa mga",
+      "examples": [
+        {
+          "kp": "Ibili yu karing anak.",
+          "en": "Buy (it) for the children."
+        },
+        {
+          "kp": "Antayan tamu ya karing aduang oras.",
+          "en": "Let's wait for two hours."
+        }
+      ],
+      "notes": "Oblique plural article — marks a plural noun phrase as the oblique argument (direction, location, recipient, beneficiary). Formed from 'ka-' + 'ring' (plural absolutive). Contrast: 'king' (oblique singular, location/direction), 'ning' (genitive singular), 'karing' (oblique plural). Equivalent to Tagalog 'sa mga'."
+    },
+    {
+      "id": "gram-kung",
+      "word": "kung",
+      "partOfSpeech": "pronoun",
+      "translations": ["I (before vowel)", "me (before vowel)", "my (before vowel)"],
+      "relatedTagalog": "ko (ko + ng)  / ko pa",
+      "examples": [
+        {
+          "kp": "Bisa kung mangan.",
+          "en": "I want to eat."
+        },
+        {
+          "kp": "Bisa kung nasi ampo asan.",
+          "en": "I want rice and fish."
+        }
+      ],
+      "notes": "Pre-vocalic allomorph of 'ku' (first-person singular actor/topic enclitic). Used when the following word begins with a vowel, to avoid the awkward sequence 'ku + vowel'. Example: 'Bisa ku' (I want) vs 'Bisa kung mangan' (I want to eat — 'mangan' starts with /m/, but the -ng forms when a vowel-initial complement follows). Also marks possession before vowel-initial nouns. Learners should treat 'ku' and 'kung' as the same word in different phonological contexts."
     }
   ],
   "lessons": [
@@ -1094,6 +1148,71 @@
           "prompt": "Saupan ____ ku pu. (Please help me, you all.)",
           "wordIds": ["gram-yu"],
           "answerId": "gram-yu"
+        }
+      ]
+    },
+    {
+      "id": "gram-L8",
+      "title": "Inclusive We, Oblique Plural, and Prevocalic I",
+      "theme": "taku, karing, kung",
+      "intro": "'taku' is the first-person inclusive plural (we = you + I). 'karing' is the oblique plural article (to/at/for the plural). 'kung' is the prevocalic form of 'ku' (I/me), used when followed by a vowel-initial word.",
+      "wordIds": ["gram-taku", "gram-karing", "gram-kung"],
+      "exercises": [
+        {
+          "id": "gram-L8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'taku' mean?",
+          "wordIds": ["gram-taku"],
+          "answerId": "gram-taku"
+        },
+        {
+          "id": "gram-L8-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'karing' mean?",
+          "wordIds": ["gram-karing"],
+          "answerId": "gram-karing"
+        },
+        {
+          "id": "gram-L8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta taku simbahan king duminggu.",
+          "wordIds": ["gram-taku"],
+          "accepted": [
+            "let's go to church on sunday",
+            "let's go to church on sunday.",
+            "let us go to church on sunday",
+            "let us go to church on sunday."
+          ]
+        },
+        {
+          "id": "gram-L8-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Bisa kung mangan.",
+          "wordIds": ["gram-kung"],
+          "accepted": [
+            "i want to eat",
+            "i want to eat.",
+            "i would like to eat",
+            "i would like to eat."
+          ]
+        },
+        {
+          "id": "gram-L8-fb1",
+          "type": "fill-blank",
+          "prompt": "Munta ____ simbahan king duminggu. (Let's go to church on Sunday.)",
+          "wordIds": ["gram-taku"],
+          "answerId": "gram-taku"
+        },
+        {
+          "id": "gram-L8-fb2",
+          "type": "fill-blank",
+          "prompt": "Ibili yu ____ anak. (Buy for the children.)",
+          "wordIds": ["gram-karing"],
+          "answerId": "gram-karing"
         }
       ]
     }

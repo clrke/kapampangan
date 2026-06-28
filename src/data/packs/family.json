@@ -395,6 +395,24 @@
         }
       ],
       "notes": "Also spelled 'taw'. The phrase 'Tau Kapampangan' is used to describe Kapampangan people as an ethnic group."
+    },
+    {
+      "id": "fam-talaturu",
+      "word": "talaturu",
+      "partOfSpeech": "noun",
+      "translations": ["teacher", "instructor"],
+      "relatedTagalog": "guro / titser",
+      "examples": [
+        {
+          "kp": "Achi ku ing talaturu.",
+          "en": "My older sister is the teacher."
+        },
+        {
+          "kp": "Ing Babai ing talaturu king anak.",
+          "en": "The woman is the teacher of the children."
+        }
+      ],
+      "notes": "Noun meaning 'teacher, instructor'. Derived from the root 'turu' (to teach/point) with the agentive prefix 'tala-'. The Kapampangan agentive prefix 'tala-' indicates a person who regularly does an action, equivalent to Tagalog '-an' or 'guro'. In formal and school contexts, 'talaturu' is the native word, while 'titser' (from English 'teacher') is also widely used in informal speech."
     }
   ],
   "lessons": [
@@ -988,6 +1006,36 @@
             {
               "wordId": "fam-tau"
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fam-7",
+      "title": "The Teacher",
+      "theme": "talaturu — teacher, instructor",
+      "intro": "'talaturu' is the Kapampangan word for teacher, from the root 'turu' (to teach/point) with the agentive prefix 'tala-'. In everyday speech, 'titser' (from English) is also used.",
+      "wordIds": ["fam-talaturu"],
+      "exercises": [
+        {
+          "id": "fam-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'talaturu' mean?",
+          "wordIds": ["fam-talaturu"],
+          "answerId": "fam-talaturu"
+        },
+        {
+          "id": "fam-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Achi ku ing talaturu.",
+          "wordIds": ["fam-talaturu"],
+          "accepted": [
+            "my older sister is the teacher",
+            "my older sister is the teacher.",
+            "my elder sister is the teacher",
+            "my elder sister is the teacher."
           ]
         }
       ]

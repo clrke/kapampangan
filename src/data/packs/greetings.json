@@ -316,6 +316,20 @@
         }
       ],
       "notes": "The standard Kapampangan birthday greeting. 'Kebaitan' means birthday/birth anniversary."
+    },
+    {
+      "id": "greet-malaus",
+      "word": "Malaus",
+      "partOfSpeech": "adjective",
+      "translations": ["welcome", "gracious", "generous"],
+      "relatedTagalog": "maligayang pagdating / mabuti (generous)",
+      "examples": [
+        {
+          "kp": "Malaus ko pu, mangan kamu deni!",
+          "en": "Welcome, please eat here!"
+        }
+      ],
+      "notes": "Adjective meaning 'welcome' in a greeting context ('Malaus ka pu' = You are welcome here) and also 'gracious, generous'. Used as a welcoming expression: 'Malaus kamu pu king bale mi' (You are welcome to our home). Equivalent to Tagalog 'maligayang pagdating' for the welcoming sense, and 'mabuti/mapagbigay' for the generous sense."
     }
   ],
   "lessons": [
@@ -905,6 +919,37 @@
           ]
         }
       ]
+    },
+    {
+      "id": "greet-7",
+      "title": "Welcome and Gracious Greetings",
+      "theme": "malaus — welcome, gracious",
+      "intro": "'Malaus' means 'welcome' when greeting a guest and also describes a generous or gracious person. Use it to welcome someone to your home: 'Malaus kamu pu king bale mi' (You are welcome to our home).",
+      "wordIds": ["greet-malaus"],
+      "exercises": [
+        {
+          "id": "greet-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'Malaus' mean?",
+          "wordIds": ["greet-malaus"],
+          "answerId": "greet-malaus"
+        },
+        {
+          "id": "greet-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malaus ko pu, mangan kamu deni!",
+          "wordIds": ["greet-malaus"],
+          "accepted": [
+            "welcome, please eat here",
+            "welcome, please eat here!",
+            "welcome, eat here please",
+            "welcome! please eat here!",
+            "you are welcome, please eat here!"
+          ]
+        }
+      ]
     }
   ],
   "sources": [
@@ -916,5 +961,6 @@
     "https://pdfcoffee.com/common-kapampangan-words-amp-phrasesdocx-pdf-free.html",
     "https://www.tagaloglang.com/kapampangan-phrases/"
   ],
+  "lessonNotes": "greet-7 lesson for malaus added after the batch-4 expansion.",
   "confidenceNotes": "HIGH confidence (attested in Wikivoyage phrasebook and/or multiple independent sources): Mayap a abak, Mayap a gatpanapun, Mayap a bengi, Paalam, Patawad na, Makilabas ku, Malaus ko pu, Mimingat, Alang nanu naman, Tara na, Mikit tana keng tutuki, Malyari, Dispû, Wa, Masayang kebaitan. MEDIUM-HIGH confidence: Págmanánwan — attested on Tatoeba Kapampangan corpus as translation of 'Congratulations!', and confirmed by multiple search references. No entries are based solely on machine translation."
 }

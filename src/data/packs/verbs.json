@@ -430,6 +430,24 @@
         }
       ],
       "notes": "Verb meaning 'to graze' — used for animals eating grass or grazing in a field. The subject is typically a grazing animal (goat, carabao, horse). 'makmak ya ning damu' = grazes on the grass ('ning' is the oblique article for the grass)."
+    },
+    {
+      "id": "verb-sarad",
+      "word": "sarad",
+      "partOfSpeech": "verb",
+      "translations": ["closed", "to close", "shut"],
+      "relatedTagalog": "sarado / sara",
+      "examples": [
+        {
+          "kp": "Sarad ya ing pintuan.",
+          "en": "The door is closed."
+        },
+        {
+          "kp": "Sarad mo ing asbuk mu.",
+          "en": "Close your mouth."
+        }
+      ],
+      "notes": "Stative verb and imperative meaning 'closed / to close'. As a stative: 'Sarad ya ing pintuan' (The door is closed). As an imperative: 'Sarad mo ing pintuan' (Close the door). Related to Spanish/Tagalog 'sarado' (closed). Compare with 'Sara me' (imperative, actor-focus: you close it) vs 'Sarad mo' (object-focus imperative). 'Sasara' is the progressive form."
     }
   ],
   "lessons": [
@@ -1120,6 +1138,43 @@
           "prompt": "Ing kambing ____ ya ning damu. (The goat grazes on the grass.)",
           "wordIds": ["verb-makmak"],
           "answerId": "verb-makmak"
+        }
+      ]
+    },
+    {
+      "id": "verb-8",
+      "title": "Closed and Closing",
+      "theme": "sarad — closed, to close",
+      "intro": "'sarad' means 'closed' as a stative predicate and 'close!' as an imperative. 'Sarad ya ing pintuan' (The door is closed). 'Sarad mo ing pintuan' (Close the door). Compare with 'Sara me' (actor-focus imperative: you close it).",
+      "wordIds": ["verb-sarad"],
+      "exercises": [
+        {
+          "id": "verb-8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'sarad' mean?",
+          "wordIds": ["verb-sarad"],
+          "answerId": "verb-sarad"
+        },
+        {
+          "id": "verb-8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sarad ya ing pintuan.",
+          "wordIds": ["verb-sarad"],
+          "accepted": [
+            "the door is closed",
+            "the door is closed.",
+            "the door is shut",
+            "the door is shut."
+          ]
+        },
+        {
+          "id": "verb-8-fb1",
+          "type": "fill-blank",
+          "prompt": "Sarad ____ ing asbuk mu. (Close your mouth.)",
+          "wordIds": ["gram-mo"],
+          "answerId": "gram-mo"
         }
       ]
     }

@@ -781,6 +781,88 @@
         }
       ],
       "notes": "Noun meaning 'fault, blame, sin, wrongdoing'. Derived from the root 'sala' (mistake/fault) with the Kapampangan nominalizing prefix 'par-'. Used in moral and religious contexts: 'alang parsala' (without fault/blameless), 'malagung parsala' (a heavy sin). Equivalent to Tagalog 'sala' or 'pagkakasala' in a moral sense."
+    },
+    {
+      "id": "part-ne",
+      "word": "ne",
+      "partOfSpeech": "particle",
+      "translations": ["already (done)", "now (resultative)", "no more"],
+      "relatedTagalog": "na (resultative sense)",
+      "examples": [
+        {
+          "kp": "Matua ne ing Tatang ku.",
+          "en": "My father is already old."
+        },
+        {
+          "kp": "Marine ya uling binura ne ing sulat na.",
+          "en": "He/she is sad because his/her letter was already erased."
+        }
+      ],
+      "notes": "Resultative/completive particle meaning 'already done, now in that state, no more'. A portmanteau/coalescence of 'na' (already/now) + 'ya' (3sg enclitic) — thus 'ne' is often found where 'na ya' would occur in more careful speech. Example: 'Matua na ya' → 'Matua ne'. Equivalent to Tagalog 'na na siya' → 'na na sya'. Very high frequency in everyday speech. Also used standalone as 'wala ne' (gone/no more)."
+    },
+    {
+      "id": "part-tana",
+      "word": "tana",
+      "partOfSpeech": "particle",
+      "translations": ["let's (you and I)", "let us", "shall we"],
+      "relatedTagalog": "tayo na",
+      "examples": [
+        {
+          "kp": "Munta tana king simbahan.",
+          "en": "Let's go to church."
+        },
+        {
+          "kp": "Paalam na, Mikit tana mamaya.",
+          "en": "Goodbye, let's meet again later."
+        }
+      ],
+      "notes": "First-person inclusive hortative particle — invites both speaker and listener to do something together ('let us/let's'). A coalescence of 'ta' (1pl inclusive) + 'na' (now/already). Used after the verb: 'Munta tana' (Let's go), 'Mangan tana' (Let's eat). Equivalent to Tagalog 'tayo na'. Highly frequent in spoken Kapampangan. Distinct from 'taku' (we/let's in actor position)."
+    },
+    {
+      "id": "part-namu",
+      "word": "namu",
+      "partOfSpeech": "particle",
+      "translations": ["really", "indeed", "truly", "our (emphatic)"],
+      "relatedTagalog": "talaga namin / nga",
+      "examples": [
+        {
+          "kp": "Maragul ya ing asu namu.",
+          "en": "Our dog is really big."
+        }
+      ],
+      "notes": "Emphatic enclitic with two related functions: (1) emphatic intensifier meaning 'really, indeed, truly' — 'Maragul ya namu' (It is really big); (2) first-person exclusive plural possessive 'ours' — 'asu namu' (our dog). Context distinguishes the two. As an intensifier it is post-predicate. As possessive it follows the noun. Compare 'namu' (our) vs 'mi' (our — subject form)."
+    },
+    {
+      "id": "part-naman",
+      "word": "naman",
+      "partOfSpeech": "particle",
+      "translations": ["also", "in return", "on the other hand", "you're welcome"],
+      "relatedTagalog": "naman",
+      "examples": [
+        {
+          "kp": "Mayap ka naman!",
+          "en": "You're fine too! / And you?"
+        },
+        {
+          "kp": "\"Dakal a salamat!\" \"Alang nanu naman.\"",
+          "en": "\"Thank you very much!\" \"You're welcome.\""
+        }
+      ],
+      "notes": "Discourse particle used to introduce a reciprocal or contrasting element. Four main uses: (1) reciprocal — 'Mayap ka naman' (And you?); (2) 'you're welcome' in the set phrase 'Alang nanu naman' (It's nothing / You're welcome); (3) additive 'also/too'; (4) mild contrast 'on the other hand'. Shared with Tagalog where 'naman' carries the same functions. Extremely frequent in conversation."
+    },
+    {
+      "id": "part-kayabe",
+      "word": "kayabe",
+      "partOfSpeech": "preposition",
+      "translations": ["with", "together with", "accompanying", "along with"],
+      "relatedTagalog": "kasama",
+      "examples": [
+        {
+          "kp": "Ali ka matakut; kayabe ku ka.",
+          "en": "Don't be afraid; I am with you."
+        }
+      ],
+      "notes": "Preposition/particle meaning 'with, together with, accompanied by'. Equivalent to Tagalog 'kasama'. Used before or after the noun phrase it governs: 'Kayabe ku ka' (I am with you — I accompany you) or 'Munta taku kayabe' (Let's go together). A key word for expressing accompaniment and solidarity."
     }
   ],
   "lessons": [
@@ -1652,6 +1734,80 @@
           "prompt": "Malaus ko pu, mangan kamu ____! (Welcome, please eat here!)",
           "wordIds": ["part-deni"],
           "answerId": "part-deni"
+        }
+      ]
+    },
+    {
+      "id": "part-L10",
+      "title": "Resultative, Hortative, and Social Particles",
+      "theme": "ne, tana, namu, naman, kayabe",
+      "intro": "'ne' = already/now (resultative particle, often na+ya fused). 'tana' = let's (1pl inclusive hortative). 'namu' = really/indeed or our (emphatic). 'naman' = also/you're welcome/in return. 'kayabe' = with, together with.",
+      "wordIds": ["part-ne", "part-tana", "part-namu", "part-naman", "part-kayabe"],
+      "exercises": [
+        {
+          "id": "part-L10-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'ne' mean?",
+          "wordIds": ["part-ne"],
+          "answerId": "part-ne"
+        },
+        {
+          "id": "part-L10-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'kayabe' mean?",
+          "wordIds": ["part-kayabe"],
+          "answerId": "part-kayabe"
+        },
+        {
+          "id": "part-L10-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Matua ne ing Tatang ku.",
+          "wordIds": ["part-ne"],
+          "accepted": [
+            "my father is already old",
+            "my father is already old.",
+            "my father is now old",
+            "my father is now old."
+          ]
+        },
+        {
+          "id": "part-L10-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ali ka matakut; kayabe ku ka.",
+          "wordIds": ["part-kayabe"],
+          "accepted": [
+            "don't be afraid; i am with you",
+            "don't be afraid; i am with you.",
+            "don't be afraid, i am with you",
+            "don't be afraid, i am with you.",
+            "do not be afraid; i am with you",
+            "do not be afraid; i am with you."
+          ]
+        },
+        {
+          "id": "part-L10-fb1",
+          "type": "fill-blank",
+          "prompt": "Munta ____ king simbahan. (Let's go to church.)",
+          "wordIds": ["part-tana"],
+          "answerId": "part-tana"
+        },
+        {
+          "id": "part-L10-fb2",
+          "type": "fill-blank",
+          "prompt": "Maragul ya ing asu ____. (Our dog is really big.)",
+          "wordIds": ["part-namu"],
+          "answerId": "part-namu"
+        },
+        {
+          "id": "part-L10-fb3",
+          "type": "fill-blank",
+          "prompt": "Mayap ka ____! (And you! / You're fine too!)",
+          "wordIds": ["part-naman"],
+          "answerId": "part-naman"
         }
       ]
     }
