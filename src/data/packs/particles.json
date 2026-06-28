@@ -629,6 +629,88 @@
         }
       ],
       "notes": "Causal subordinating conjunction — introduces a reason or cause clause, equivalent to 'because' or 'since'. It follows the main clause: '[imperative], ta [reason]'. Distinct from the inclusive-we enclitic 'tamu' (let's go) and the noun 'ta' (father, in some dialects). In the particles context it always marks causation."
+    },
+    {
+      "id": "part-ngan",
+      "word": "ngan",
+      "partOfSpeech": "particle",
+      "translations": ["but", "yet", "even so", "after all"],
+      "relatedTagalog": "pero / kahit na",
+      "examples": [
+        {
+          "kp": "Dukha ya ngan masaya ya.",
+          "en": "He is poor but happy."
+        },
+        {
+          "kp": "Meniglo la ngan king gewa na.",
+          "en": "They were all astonished at what he did."
+        }
+      ],
+      "notes": "Adversative/concessive particle — follows the first clause/predicate and introduces a contrasting or unexpected result. In 'Dukha ya ngan masaya ya' it means 'but'. In collective/emphatic contexts ('Meniglo la ngan') it means 'even so/after all/altogether'. Equivalent to Tagalog 'pero' (adversative) or 'kahit na' (concessive) depending on context."
+    },
+    {
+      "id": "part-sige",
+      "word": "Sige",
+      "partOfSpeech": "interjection",
+      "translations": ["okay", "go ahead", "alright"],
+      "relatedTagalog": "sige",
+      "examples": [
+        {
+          "kp": "Sige, kunan ke.",
+          "en": "OK, I will take it."
+        }
+      ],
+      "notes": "Discourse particle/interjection expressing agreement or permission — 'okay', 'go ahead', 'alright'. Shared with Tagalog, from Spanish 'sigue' (continue). Used at the start of a response or to give approval."
+    },
+    {
+      "id": "part-alang",
+      "word": "alang",
+      "partOfSpeech": "particle",
+      "translations": ["without", "there is no", "lacking"],
+      "relatedTagalog": "walang",
+      "examples": [
+        {
+          "kp": "Tikdo yang alang parsala.",
+          "en": "He stands without fault."
+        }
+      ],
+      "notes": "Existential negator/modifier meaning 'without' or 'there is no [X]'. It is the linker form of 'ala' (there is none) used as an attributive modifier before a noun: 'alang parsala' (without fault), 'alang pera' (without money). Equivalent to Tagalog 'walang'. Compare 'ala' (predicate: 'Ala ku kuwarta' = I have no money) vs 'alang-' (modifier before a noun)."
+    },
+    {
+      "id": "part-papunta",
+      "word": "papunta",
+      "partOfSpeech": "particle",
+      "translations": ["going to", "toward", "in the direction of"],
+      "relatedTagalog": "papunta",
+      "examples": [
+        {
+          "kp": "Lumakad ya papunta king bale.",
+          "en": "He walked toward the house."
+        },
+        {
+          "kp": "Malupit ya ing dalan papunta king bunduk.",
+          "en": "The path going to the mountain is rough."
+        }
+      ],
+      "notes": "Directional particle meaning 'going to' or 'toward a destination'. Always followed by 'king/keng + destination'. Used both as a verb complement ('lumakad papunta king bale' = walked toward the house) and as a postmodifier of a noun phrase ('dalan papunta king bunduk' = path to the mountain). Shared with Tagalog."
+    },
+    {
+      "id": "part-kailangan",
+      "word": "Kailangan",
+      "partOfSpeech": "verb",
+      "translations": ["to need", "it is needed", "must"],
+      "relatedTagalog": "kailangan",
+      "examples": [
+        {
+          "kp": "Kailangan ku ning gamut para king sakit ku.",
+          "en": "I need medicine for my illness."
+        },
+        {
+          "kp": "Kailangan ku ing kulambung para king yamuk.",
+          "en": "I need a mosquito net for the mosquitoes."
+        }
+      ],
+      "notes": "Modal predicate expressing necessity or need — 'to need', 'it is necessary'. Shared with Tagalog (from Malay 'kailangan'). Follows predicate-initial word order: 'Kailangan ku [ing/ning object]'. Compare 'bisa' (to want/can) and 'uling' (because/reason). Widely used in modern Kapampangan speech."
     }
   ],
   "lessons": [
@@ -1354,6 +1436,85 @@
             "part-ta"
           ],
           "answerId": "part-ta"
+        }
+      ]
+    },
+    {
+      "id": "part-L8",
+      "title": "More Particles: ngan, sige, alang, papunta, kailangan",
+      "theme": "contrast, agreement, negation, direction, and need",
+      "intro": "'ngan' contrasts two ideas (poor but happy). 'Sige' gives agreement or permission (okay/go ahead). 'alang' means 'without/there is no'. 'papunta' marks direction toward a place. 'Kailangan' means 'to need' and starts a necessity sentence.",
+      "wordIds": [
+        "part-ngan",
+        "part-sige",
+        "part-alang",
+        "part-papunta",
+        "part-kailangan"
+      ],
+      "exercises": [
+        {
+          "id": "part-L8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'ngan' mean in 'Dukha ya ngan masaya ya'?",
+          "wordIds": ["part-ngan"],
+          "answerId": "part-ngan"
+        },
+        {
+          "id": "part-L8-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'Kailangan' mean?",
+          "wordIds": ["part-kailangan"],
+          "answerId": "part-kailangan"
+        },
+        {
+          "id": "part-L8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Dukha ya ngan masaya ya.",
+          "wordIds": ["part-ngan"],
+          "accepted": [
+            "he is poor but happy",
+            "he is poor but happy.",
+            "she is poor but happy",
+            "she is poor but happy."
+          ]
+        },
+        {
+          "id": "part-L8-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Kailangan ku ning gamut para king sakit ku.",
+          "wordIds": ["part-kailangan"],
+          "accepted": [
+            "i need medicine for my illness",
+            "i need medicine for my illness.",
+            "i need medicine for my sickness",
+            "i need medicine for my sickness."
+          ]
+        },
+        {
+          "id": "part-L8-fb1",
+          "type": "fill-blank",
+          "prompt": "Tikdo yang ____ parsala. (He stands without fault.)",
+          "wordIds": ["part-alang"],
+          "answerId": "part-alang"
+        },
+        {
+          "id": "part-L8-fb2",
+          "type": "fill-blank",
+          "prompt": "Lumakad ya ____ king bale. (He walked toward the house.)",
+          "wordIds": ["part-papunta"],
+          "answerId": "part-papunta"
+        },
+        {
+          "id": "part-L8-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'Sige' mean?",
+          "wordIds": ["part-sige"],
+          "answerId": "part-sige"
         }
       ]
     }

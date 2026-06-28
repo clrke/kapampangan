@@ -311,6 +311,60 @@
       "notes": "1st person plural exclusive genitive/absolutive enclitic — 'our (not yours)'. The possessive and topic form of 'kami'. Used after a noun: 'bale mi' (our house), 'anak mi' (our child). Contrast with 'tamu/ta' (we inclusive, including the listener)."
     },
     {
+      "id": "gram-kareni",
+      "word": "kareni",
+      "partOfSpeech": "adverb",
+      "translations": ["here", "from here", "near this place"],
+      "relatedTagalog": "dito / mula dito",
+      "examples": [
+        {
+          "kp": "Malayo ya ing dagat kareni.",
+          "en": "The sea is far from here."
+        },
+        {
+          "kp": "Malayo ya ing iskuwela kareni.",
+          "en": "The school is far from here."
+        }
+      ],
+      "notes": "Proximal locative adverb — 'here' with a sense of 'from this location' or 'in relation to here'. Used as a sentence-final locative complement. Parallel to 'keti' (here, bare-locative) but 'kareni' often appears with distance words like 'malayo' (far) and 'malapit' (near). Equivalent to Tagalog 'dito / mula dito'."
+    },
+    {
+      "id": "gram-keta",
+      "word": "keta",
+      "partOfSpeech": "adverb",
+      "translations": ["there", "over there", "at that place"],
+      "relatedTagalog": "doon / diyaan",
+      "examples": [
+        {
+          "kp": "Maragul ya ing dutung keta.",
+          "en": "The tree there is big."
+        },
+        {
+          "kp": "Mabatu ya ing dalan keta.",
+          "en": "The road there is rocky."
+        }
+      ],
+      "notes": "Distal locative adverb — 'there' (away from both speaker and listener). Functions as a sentence-final locative predicate complement. Part of the Kapampangan demonstrative locative set: 'keti' (here, proximal), 'keta' (there, distal), 'kareni' (here, relational). Equivalent to Tagalog 'doon'."
+    },
+    {
+      "id": "gram-keti",
+      "word": "keti",
+      "partOfSpeech": "adverb",
+      "translations": ["here", "at this place", "right here"],
+      "relatedTagalog": "dito / rito",
+      "examples": [
+        {
+          "kp": "Malapit ya ing tindahan keti.",
+          "en": "The store is near here."
+        },
+        {
+          "kp": "Lawen mo reng tau keti.",
+          "en": "Look at the people here."
+        }
+      ],
+      "notes": "Proximal locative adverb — 'here' (at this place). Used as a sentence-final locative complement. Part of the Kapampangan demonstrative locative set alongside 'keta' (there) and 'kareni' (here/from here). Equivalent to Tagalog 'dito'. Compare 'keni' (here — the oblique/dative locative used after 'king': 'king keni' = right here)."
+    },
+    {
       "id": "gram-at",
       "word": "at",
       "partOfSpeech": "conjunction",
@@ -825,6 +879,75 @@
           "prompt": "Obakit ____ ka keni? (Why are you here?)",
           "wordIds": ["gram-ati"],
           "answerId": "gram-ati"
+        }
+      ]
+    },
+    {
+      "id": "gram-L6",
+      "title": "Locative Adverbs: kareni, keta, keti",
+      "theme": "here and there",
+      "intro": "'keti' and 'kareni' both mean 'here', while 'keta' means 'there'. These sentence-final locatives place people and things in space without needing 'king'. 'Malapit ya ing tindahan keti' — the store is near here. 'Maragul ya ing dutung keta' — the tree there is big.",
+      "wordIds": [
+        "gram-kareni",
+        "gram-keta",
+        "gram-keti"
+      ],
+      "exercises": [
+        {
+          "id": "gram-L6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'keta' mean?",
+          "wordIds": ["gram-keta"],
+          "answerId": "gram-keta"
+        },
+        {
+          "id": "gram-L6-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'keti' mean?",
+          "wordIds": ["gram-keti"],
+          "answerId": "gram-keti"
+        },
+        {
+          "id": "gram-L6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malapit ya ing tindahan keti.",
+          "wordIds": ["gram-keti"],
+          "accepted": [
+            "the store is near here",
+            "the store is near here.",
+            "the shop is near here",
+            "the shop is near here."
+          ]
+        },
+        {
+          "id": "gram-L6-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malayo ya ing dagat kareni.",
+          "wordIds": ["gram-kareni"],
+          "accepted": [
+            "the sea is far from here",
+            "the sea is far from here.",
+            "the ocean is far from here",
+            "the ocean is far from here."
+          ]
+        },
+        {
+          "id": "gram-L6-fb1",
+          "type": "fill-blank",
+          "prompt": "Maragul ya ing dutung ____. (The tree there is big.)",
+          "wordIds": ["gram-keta"],
+          "answerId": "gram-keta"
+        },
+        {
+          "id": "gram-L6-fb2",
+          "type": "fill-blank",
+          "prompt": "Malayo ya ing iskuwela ____. (The school is far from here.)",
+          "wordIds": ["gram-kareni"],
+          "answerId": "gram-kareni"
         }
       ]
     }

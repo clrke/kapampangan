@@ -374,6 +374,62 @@
         }
       ],
       "notes": "Root noun for reciprocal love. Kaluguran daka = I love you (expression with ka-...-an circumfix). Lugud implies mutual affection; one-sided longing is sintâ. Confirmed across multiple Kapampangan cultural and linguistic sources."
+    },
+    {
+      "id": "verb-miras",
+      "word": "miras",
+      "partOfSpeech": "verb",
+      "translations": ["to leave", "to go away", "to be absent"],
+      "relatedTagalog": "umalis / wala",
+      "examples": [
+        {
+          "kp": "Malungkut ku nung miras ka.",
+          "en": "I am sad when you leave."
+        }
+      ],
+      "notes": "Verb meaning 'to leave / go away / be absent'. Often used in conditional or temporal clauses: 'nung miras ka' (when you are away). Contrast with 'munta' (to go toward a destination) — 'miras' emphasizes departure from the current place."
+    },
+    {
+      "id": "verb-tibuk",
+      "word": "tibuk",
+      "partOfSpeech": "verb",
+      "translations": ["to beat", "to throb", "to pulse"],
+      "relatedTagalog": "tibok",
+      "examples": [
+        {
+          "kp": "Tibuk ya ing puso ku.",
+          "en": "My heart is beating."
+        }
+      ],
+      "notes": "Verb meaning 'to beat/throb', used almost exclusively with 'puso' (heart): 'Tibuk ya ing puso ku' (My heart is beating/throbbing). Equivalent to Tagalog 'tibok ng puso'. The root form 'tibuk' appears as a predicate followed by the 3sg enclitic 'ya'."
+    },
+    {
+      "id": "verb-palwal",
+      "word": "palwal",
+      "partOfSpeech": "verb",
+      "translations": ["to flow out", "to empty into", "to drain into"],
+      "relatedTagalog": "dumadaloy / bumabagsak sa",
+      "examples": [
+        {
+          "kp": "Ding ilug palwal la king dagat.",
+          "en": "The rivers flow out to the sea."
+        }
+      ],
+      "notes": "Verb describing the flow of rivers into a body of water — 'to flow out into / empty into'. Used as a predicate: 'palwal la' (they flow out), where 'la' is the 3rd person plural enclitic. Typically used with rivers and water bodies."
+    },
+    {
+      "id": "verb-makmak",
+      "word": "makmak",
+      "partOfSpeech": "verb",
+      "translations": ["to graze", "to eat grass", "to feed on grass"],
+      "relatedTagalog": "manginain / kumain ng damo",
+      "examples": [
+        {
+          "kp": "Ing kambing makmak ya ning damu.",
+          "en": "The goat grazes on the grass."
+        }
+      ],
+      "notes": "Verb meaning 'to graze' — used for animals eating grass or grazing in a field. The subject is typically a grazing animal (goat, carabao, horse). 'makmak ya ning damu' = grazes on the grass ('ning' is the oblique article for the grass)."
     }
   ],
   "lessons": [
@@ -992,6 +1048,78 @@
               "wordId": "verb-lugud"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "verb-7",
+      "title": "More Verbs: Leave, Beat, Flow, Graze",
+      "theme": "miras, tibuk, palwal, makmak",
+      "intro": "'miras' means to leave or go away. 'tibuk' is the beat of the heart. 'palwal' describes rivers flowing into the sea. 'makmak' is what goats and carabaos do — graze on grass.",
+      "wordIds": [
+        "verb-miras",
+        "verb-tibuk",
+        "verb-palwal",
+        "verb-makmak"
+      ],
+      "exercises": [
+        {
+          "id": "verb-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'miras' mean?",
+          "wordIds": ["verb-miras"],
+          "answerId": "verb-miras"
+        },
+        {
+          "id": "verb-7-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does 'tibuk' mean?",
+          "wordIds": ["verb-tibuk"],
+          "answerId": "verb-tibuk"
+        },
+        {
+          "id": "verb-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malungkut ku nung miras ka.",
+          "wordIds": ["verb-miras"],
+          "accepted": [
+            "i am sad when you leave",
+            "i am sad when you leave.",
+            "i am sad when you are away",
+            "i am sad when you are away.",
+            "i'm sad when you leave",
+            "i'm sad when you leave."
+          ]
+        },
+        {
+          "id": "verb-7-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Tibuk ya ing puso ku.",
+          "wordIds": ["verb-tibuk"],
+          "accepted": [
+            "my heart is beating",
+            "my heart is beating.",
+            "my heart beats",
+            "my heart beats."
+          ]
+        },
+        {
+          "id": "verb-7-fb1",
+          "type": "fill-blank",
+          "prompt": "Ding ilug ____ la king dagat. (The rivers flow out to the sea.)",
+          "wordIds": ["verb-palwal"],
+          "answerId": "verb-palwal"
+        },
+        {
+          "id": "verb-7-fb2",
+          "type": "fill-blank",
+          "prompt": "Ing kambing ____ ya ning damu. (The goat grazes on the grass.)",
+          "wordIds": ["verb-makmak"],
+          "answerId": "verb-makmak"
         }
       ]
     }
