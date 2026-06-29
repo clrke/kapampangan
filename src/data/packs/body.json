@@ -428,6 +428,24 @@
         }
       ],
       "notes": "Native Kapampangan word shared with Tagalog. Means skin (of a person or animal), peel (of fruit), or bark (of a tree). The same root covers skin and outer covering broadly."
+    },
+    {
+      "id": "body-kamut",
+      "word": "kamut",
+      "partOfSpeech": "noun",
+      "translations": ["hand", "hands"],
+      "relatedTagalog": "kamay",
+      "examples": [
+        {
+          "kp": "Hugasan me ing kamut mu.",
+          "en": "Wash your hands."
+        },
+        {
+          "kp": "Masakit ya ing kamut ku.",
+          "en": "My hand hurts."
+        }
+      ],
+      "notes": "Dialectal/variant form of 'gamat' (hand) used in certain Kapampangan-speaking communities. Both 'gamat' and 'kamut' are attested as the Kapampangan word for hand. Equivalent to Tagalog 'kamay'."
     }
   ],
   "lessons": [
@@ -1160,6 +1178,44 @@
             "his skin is smooth",
             "her skin is smooth",
             "his/her skin is smooth"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "body-10",
+      "title": "Hand (Variant): kamut",
+      "theme": "dialectal hand word",
+      "intro": "'kamut' is a dialectal variant of 'gamat' meaning hand. Both words are used across different Kapampangan-speaking communities. Equivalent to Tagalog 'kamay'.",
+      "wordIds": ["body-kamut"],
+      "exercises": [
+        {
+          "id": "body-10-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kamut\" mean?",
+          "wordIds": ["body-kamut"],
+          "answerId": "body-kamut"
+        },
+        {
+          "id": "body-10-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word is a dialectal variant meaning \"hand\"?",
+          "wordIds": ["body-kamut"],
+          "answerId": "body-kamut"
+        },
+        {
+          "id": "body-10-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Hugasan me ing kamut mu.",
+          "wordIds": ["body-kamut"],
+          "accepted": [
+            "wash your hands",
+            "wash your hands.",
+            "wash your hand",
+            "wash your hand."
           ]
         }
       ]

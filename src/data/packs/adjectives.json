@@ -244,6 +244,150 @@
         }
       ],
       "notes": "Native Kapampangan adjective meaning fresh, cool, or refreshing. Used for water, food, weather, and sensations. Attested in the Wikivoyage phrasebook as 'prutas sagiwa' (fresh fruit). The Tagalog equivalent is 'sariwa' (fresh) or 'malamig' (cool/cold)."
+    },
+    {
+      "id": "adj-dakul",
+      "word": "dakul",
+      "partOfSpeech": "adjective",
+      "translations": ["many", "a lot", "big", "large"],
+      "relatedTagalog": "marami / malaki",
+      "examples": [
+        {
+          "kp": "Dakul ya ing anak da.",
+          "en": "They have many children."
+        },
+        {
+          "kp": "Dakul a gulay king palengke ngeni.",
+          "en": "There are many vegetables at the market today."
+        }
+      ],
+      "notes": "Native Kapampangan word meaning 'many/a lot' or 'big/large' depending on context. Variant forms include dakal, dakol, and dakal. Used for quantity ('many') and size ('big'). Equivalent to Tagalog 'marami' (many) or 'malaki' (big)."
+    },
+    {
+      "id": "adj-raku",
+      "word": "raku",
+      "partOfSpeech": "adjective",
+      "translations": ["many", "numerous", "plenty"],
+      "relatedTagalog": "marami",
+      "examples": [
+        {
+          "kp": "Raku ya ing tindahan keti.",
+          "en": "There are many stores here."
+        },
+        {
+          "kp": "Raku la ing manuk king bakuran.",
+          "en": "There are many chickens in the yard."
+        }
+      ],
+      "notes": "Synonym/variant of dakal meaning 'many, numerous, plenty'. Used interchangeably with dakal and dakul in various Kapampangan dialects."
+    },
+    {
+      "id": "adj-kanyaman",
+      "word": "kanyaman",
+      "partOfSpeech": "noun",
+      "translations": ["comfort", "ease", "contentment", "feeling good"],
+      "relatedTagalog": "kaginhawahan / kasiyahan",
+      "examples": [
+        {
+          "kp": "Kanyaman ya king bale.",
+          "en": "He/she feels comfortable at home."
+        },
+        {
+          "kp": "Atin ku kanyaman ngeni.",
+          "en": "I feel comfortable now."
+        }
+      ],
+      "notes": "Native Kapampangan noun/adjective expressing comfort, ease, or contentment. 'Kanyaman ya' means 'he/she feels comfortable/at ease'. Related to the adjective 'manyaman' (delicious/pleasant)."
+    },
+    {
+      "id": "adj-karimla",
+      "word": "karimla",
+      "partOfSpeech": "adjective",
+      "translations": ["sour", "tart", "acidic"],
+      "relatedTagalog": "maasim",
+      "examples": [
+        {
+          "kp": "Karimla ya ing prutas a ini.",
+          "en": "This fruit is sour."
+        },
+        {
+          "kp": "Karimla ya ing danum a ita.",
+          "en": "That water is acidic/tart."
+        }
+      ],
+      "notes": "Native Kapampangan taste adjective for sour, tart, or acidic flavors. Equivalent to Tagalog 'maasim'. Attested in the Sunstar Pampanga food vocabulary contexts."
+    },
+    {
+      "id": "adj-mali",
+      "word": "mali",
+      "partOfSpeech": "adjective",
+      "translations": ["wrong", "mistaken", "incorrect"],
+      "relatedTagalog": "mali",
+      "examples": [
+        {
+          "kp": "Mali ya ing bilang.",
+          "en": "The number/count is wrong."
+        },
+        {
+          "kp": "Mali ku king sabi ku.",
+          "en": "I was wrong in what I said."
+        }
+      ],
+      "notes": "Shared Philippine word meaning wrong, mistaken, or incorrect. Used in Kapampangan the same way as Tagalog 'mali'. Can function as a predicate ('Mali ya' = it is wrong) or noun ('Mali ku' = I was wrong/I made a mistake)."
+    },
+    {
+      "id": "adj-masikan",
+      "word": "masikan",
+      "partOfSpeech": "adjective",
+      "translations": ["strong", "robust", "sturdy", "tough"],
+      "relatedTagalog": "malakas",
+      "examples": [
+        {
+          "kp": "Masikan ya ing lalaki.",
+          "en": "The man is strong."
+        },
+        {
+          "kp": "Masikan ya ing pader ning bale.",
+          "en": "The wall of the house is sturdy."
+        }
+      ],
+      "notes": "Native Kapampangan adjective meaning strong, robust, or sturdy. Attested in the Sunstar Pampanga headline 'Pamagdatilang Masikan at Malusug king Kabilyan Ngeni' (Staying Strong and Healthy). Equivalent to Tagalog 'malakas'."
+    },
+    {
+      "id": "adj-mataba",
+      "word": "mataba",
+      "partOfSpeech": "adjective",
+      "translations": ["fat", "chubby", "plump"],
+      "relatedTagalog": "mataba",
+      "examples": [
+        {
+          "kp": "Mataba ya ing asu.",
+          "en": "The dog is fat."
+        },
+        {
+          "kp": "Mataba ya ing anak na.",
+          "en": "His/her child is chubby."
+        }
+      ],
+      "notes": "Shared Kapampangan-Tagalog word meaning fat, chubby, or plump. Used as a predicate: 'Mataba ya' (he/she/it is fat). Can apply to people and animals."
+    },
+    {
+      "id": "adj-matulid",
+      "word": "matulid",
+      "partOfSpeech": "adjective",
+      "translations": ["straight", "upright", "direct"],
+      "relatedTagalog": "tuwid",
+      "examples": [
+        {
+          "kp": "Matulid ya ing dalan.",
+          "en": "The road is straight."
+        },
+        {
+          "kp": "Matulid ya ing tukud.",
+          "en": "The post is straight."
+        }
+      ],
+      "notes": "Native Kapampangan adjective meaning straight, upright, or direct. Used for roads, posts, lines, and posture. Equivalent to Tagalog 'tuwid'. The word 'tukud' (post/pole) is safe to use as it appears in attested Kapampangan sources."
     }
   ],
   "lessons": [
@@ -686,6 +830,253 @@
             "the water is cool.",
             "the water is refreshing",
             "the water is refreshing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj-6",
+      "title": "Many, Strong & Sour",
+      "theme": "quantity, strength, and taste",
+      "intro": "Three useful adjectives: 'dakul' (many/a lot/big), 'masikan' (strong/sturdy), and 'karimla' (sour/acidic). 'Dakul' covers both quantity ('many') and size ('big'). 'Masikan' expresses physical strength or structural sturdiness. 'Karimla' is the Kapampangan taste word for sour.",
+      "wordIds": ["adj-dakul", "adj-masikan", "adj-karimla"],
+      "exercises": [
+        {
+          "id": "adj-6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"dakul\" mean?",
+          "wordIds": ["adj-dakul"],
+          "answerId": "adj-dakul"
+        },
+        {
+          "id": "adj-6-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"masikan\" mean?",
+          "wordIds": ["adj-masikan"],
+          "answerId": "adj-masikan"
+        },
+        {
+          "id": "adj-6-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"karimla\" mean?",
+          "wordIds": ["adj-karimla"],
+          "answerId": "adj-karimla"
+        },
+        {
+          "id": "adj-6-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"sour\" or \"tart\"?",
+          "wordIds": ["adj-karimla"],
+          "answerId": "adj-karimla"
+        },
+        {
+          "id": "adj-6-mc5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"strong\" or \"sturdy\"?",
+          "wordIds": ["adj-masikan"],
+          "answerId": "adj-masikan"
+        },
+        {
+          "id": "adj-6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Dakul ya ing anak da.",
+          "wordIds": ["adj-dakul"],
+          "accepted": [
+            "they have many children",
+            "they have many children.",
+            "their children are many",
+            "their children are many."
+          ]
+        },
+        {
+          "id": "adj-6-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Masikan ya ing lalaki.",
+          "wordIds": ["adj-masikan"],
+          "accepted": [
+            "the man is strong",
+            "the man is strong.",
+            "the man is robust",
+            "the man is robust.",
+            "the man is tough",
+            "the man is tough."
+          ]
+        },
+        {
+          "id": "adj-6-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Karimla ya ing prutas a ini.",
+          "wordIds": ["adj-karimla"],
+          "accepted": [
+            "this fruit is sour",
+            "this fruit is sour.",
+            "this fruit is tart",
+            "this fruit is tart.",
+            "this fruit is acidic",
+            "this fruit is acidic."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj-7",
+      "title": "Wrong, Fat & Straight",
+      "theme": "correctness, shape, and appearance",
+      "intro": "Three adjectives covering very different domains: 'mali' (wrong/mistaken) is shared with Tagalog and used to express errors. 'Mataba' (fat/chubby) describes body type. 'Matulid' (straight/upright) describes lines, roads, and posture.",
+      "wordIds": ["adj-mali", "adj-mataba", "adj-matulid"],
+      "exercises": [
+        {
+          "id": "adj-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mali\" mean?",
+          "wordIds": ["adj-mali"],
+          "answerId": "adj-mali"
+        },
+        {
+          "id": "adj-7-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mataba\" mean?",
+          "wordIds": ["adj-mataba"],
+          "answerId": "adj-mataba"
+        },
+        {
+          "id": "adj-7-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"matulid\" mean?",
+          "wordIds": ["adj-matulid"],
+          "answerId": "adj-matulid"
+        },
+        {
+          "id": "adj-7-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"wrong\" or \"incorrect\"?",
+          "wordIds": ["adj-mali"],
+          "answerId": "adj-mali"
+        },
+        {
+          "id": "adj-7-mc5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"straight\" or \"upright\"?",
+          "wordIds": ["adj-matulid"],
+          "answerId": "adj-matulid"
+        },
+        {
+          "id": "adj-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mali ya ing bilang.",
+          "wordIds": ["adj-mali"],
+          "accepted": [
+            "the number is wrong",
+            "the number is wrong.",
+            "the count is wrong",
+            "the count is wrong.",
+            "the number is incorrect",
+            "the number is incorrect."
+          ]
+        },
+        {
+          "id": "adj-7-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mataba ya ing asu.",
+          "wordIds": ["adj-mataba"],
+          "accepted": [
+            "the dog is fat",
+            "the dog is fat.",
+            "the dog is chubby",
+            "the dog is chubby.",
+            "the dog is plump",
+            "the dog is plump."
+          ]
+        },
+        {
+          "id": "adj-7-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Matulid ya ing dalan.",
+          "wordIds": ["adj-matulid"],
+          "accepted": [
+            "the road is straight",
+            "the road is straight.",
+            "the path is straight",
+            "the path is straight.",
+            "the road is direct",
+            "the road is direct."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj-8",
+      "title": "Comfort & More: kanyaman and raku",
+      "theme": "well-being and abundance",
+      "intro": "'kanyaman' expresses comfort, ease, and contentment — 'Kanyaman ya king bale' means he/she is comfortable at home. 'raku' means many or numerous — a synonym of dakul used in certain dialects.",
+      "wordIds": ["adj-kanyaman", "adj-raku"],
+      "exercises": [
+        {
+          "id": "adj-8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kanyaman\" mean?",
+          "wordIds": ["adj-kanyaman"],
+          "answerId": "adj-kanyaman"
+        },
+        {
+          "id": "adj-8-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"raku\" mean?",
+          "wordIds": ["adj-raku"],
+          "answerId": "adj-raku"
+        },
+        {
+          "id": "adj-8-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"comfort\" or \"contentment\"?",
+          "wordIds": ["adj-kanyaman"],
+          "answerId": "adj-kanyaman"
+        },
+        {
+          "id": "adj-8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Kanyaman ya king bale.",
+          "wordIds": ["adj-kanyaman"],
+          "accepted": [
+            "he is comfortable at home",
+            "he is comfortable at home.",
+            "she is comfortable at home",
+            "she is comfortable at home.",
+            "he/she feels comfortable at home",
+            "he/she feels comfortable at home."
+          ]
+        },
+        {
+          "id": "adj-8-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Raku la ing manuk king bakuran.",
+          "wordIds": ["adj-raku"],
+          "accepted": [
+            "there are many chickens in the yard",
+            "there are many chickens in the yard.",
+            "the chickens in the yard are numerous",
+            "the chickens in the yard are numerous."
           ]
         }
       ]

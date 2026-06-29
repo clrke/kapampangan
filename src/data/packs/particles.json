@@ -887,6 +887,42 @@
         }
       ],
       "notes": "Functions both as a conjunction ('then, after that') linking sequential actions and as an adjective/predicate ('finished, done'). Though 'tapos' appears in both Kapampangan and Tagalog, it is in common everyday use in Kapampangan speech. Used to sequence events or signal completion."
+    },
+    {
+      "id": "part-naku",
+      "word": "Naku",
+      "partOfSpeech": "interjection",
+      "translations": ["oh!", "oh my!", "oh no!", "goodness!"],
+      "relatedTagalog": "naku / ay nako",
+      "examples": [
+        {
+          "kp": "Naku, masakit ya!",
+          "en": "Oh no, it hurts!"
+        },
+        {
+          "kp": "Naku, maragul ya!",
+          "en": "Oh my, it is big!"
+        }
+      ],
+      "notes": "Exclamation of surprise, distress, or emphasis. Equivalent to Tagalog 'naku' or 'ay nako'. Used at the start of a sentence to express alarm, wonder, or concern. Very common in everyday Kapampangan and Filipino speech."
+    },
+    {
+      "id": "part-kaya",
+      "word": "kaya",
+      "partOfSpeech": "conjunction",
+      "translations": ["so", "therefore", "that's why", "thus"],
+      "relatedTagalog": "kaya",
+      "examples": [
+        {
+          "kp": "Masaya ku, kaya masaya la.",
+          "en": "I am happy, so they are happy."
+        },
+        {
+          "kp": "Mapagal na ku, kaya munta na ku.",
+          "en": "I am already tired, so I will go now."
+        }
+      ],
+      "notes": "Conjunction meaning 'so, therefore, that's why'. Introduces a result or consequence clause. Shared with Tagalog where 'kaya' carries the same function. Also has a secondary meaning as a noun meaning 'ability/capability' but the conjunction use is primary in everyday speech."
     }
   ],
   "lessons": [
@@ -1863,6 +1899,69 @@
             "my work is finished.",
             "my work is done",
             "my work is done."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-L12",
+      "title": "Exclamations & Consequence: naku and kaya",
+      "theme": "surprise, result, and consequence",
+      "intro": "'Naku' is the go-to Kapampangan exclamation of surprise or alarm — equivalent to Tagalog 'naku'. 'Kaya' is a conjunction meaning 'so/therefore/that's why' — it links a cause to its result: 'Mapagal na ku, kaya munta na ku' (I am already tired, so I will go now).",
+      "wordIds": ["part-naku", "part-kaya"],
+      "exercises": [
+        {
+          "id": "part-L12-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"Naku\" mean?",
+          "wordIds": ["part-naku"],
+          "answerId": "part-naku"
+        },
+        {
+          "id": "part-L12-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kaya\" mean as a conjunction?",
+          "wordIds": ["part-kaya"],
+          "answerId": "part-kaya"
+        },
+        {
+          "id": "part-L12-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"so\" or \"therefore\"?",
+          "wordIds": ["part-kaya"],
+          "answerId": "part-kaya"
+        },
+        {
+          "id": "part-L12-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Naku, masakit ya!",
+          "wordIds": ["part-naku"],
+          "accepted": [
+            "oh no, it hurts!",
+            "oh no, it hurts",
+            "oh my, it hurts!",
+            "oh my, it hurts",
+            "oh!, it hurts!",
+            "goodness, it hurts!"
+          ]
+        },
+        {
+          "id": "part-L12-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mapagal na ku, kaya munta na ku.",
+          "wordIds": ["part-kaya"],
+          "accepted": [
+            "i am already tired, so i will go now",
+            "i am already tired, so i will go now.",
+            "i am tired now, so i will go now",
+            "i am tired now, so i will go now.",
+            "i am already tired, therefore i will go now",
+            "i am already tired, therefore i will go now."
           ]
         }
       ]

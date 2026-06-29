@@ -344,6 +344,27 @@
         }
       ],
       "notes": "From Spanish 'tendero'. Female form: tindera. Used for market vendors and shop owners."
+    },
+    {
+      "id": "mkt-seli",
+      "word": "seli",
+      "partOfSpeech": "verb",
+      "translations": [
+        "to buy",
+        "to purchase"
+      ],
+      "relatedTagalog": "bumili",
+      "examples": [
+        {
+          "kp": "Seli kami manuk king palengke.",
+          "en": "We buy chicken at the market."
+        },
+        {
+          "kp": "Seli me ing gulay.",
+          "en": "Buy the vegetables."
+        }
+      ],
+      "notes": "Base form of the Kapampangan verb for buying. Actor-focus form: meli (present/habitual). Past patient-focus form: sinali. 'Atin ku kwalta para seli' (I have money to buy). Attested in the Wikipedia Kapampangan article and multiple Kapampangan vocabulary sources."
     }
   ],
   "lessons": [
@@ -955,6 +976,57 @@
             "i have change at the store.",
             "i have change from the store",
             "i have change from the store."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkt-8",
+      "title": "Buying Things: seli",
+      "theme": "purchasing and shopping",
+      "intro": "'seli' is the base verb for buying in Kapampangan. The actor-focus form is 'meli' (present/habitual). When you say 'Seli me ing gulay', you are telling someone to buy the vegetables. 'Atin ku kwalta para seli' means 'I have money to buy things'.",
+      "wordIds": ["mkt-seli"],
+      "exercises": [
+        {
+          "id": "mkt-8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"seli\" mean?",
+          "wordIds": ["mkt-seli"],
+          "answerId": "mkt-seli"
+        },
+        {
+          "id": "mkt-8-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"to buy\"?",
+          "wordIds": ["mkt-seli"],
+          "answerId": "mkt-seli"
+        },
+        {
+          "id": "mkt-8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Seli kami manuk king palengke.",
+          "wordIds": ["mkt-seli"],
+          "accepted": [
+            "we buy chicken at the market",
+            "we buy chicken at the market.",
+            "we are buying chicken at the market",
+            "we are buying chicken at the market."
+          ]
+        },
+        {
+          "id": "mkt-8-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Seli me ing gulay.",
+          "wordIds": ["mkt-seli"],
+          "accepted": [
+            "buy the vegetables",
+            "buy the vegetables.",
+            "buy the vegetable",
+            "buy the vegetable."
           ]
         }
       ]
