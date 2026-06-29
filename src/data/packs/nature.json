@@ -413,6 +413,24 @@
         }
       ],
       "notes": "From 'tanim' (to plant) with the pa- prefix, forming a collective noun for planted things. Used for both agricultural crops and ornamental plants."
+    },
+    {
+      "id": "nat-tanaman",
+      "word": "tanaman",
+      "partOfSpeech": "noun",
+      "translations": ["garden", "planted area", "crops", "plants"],
+      "relatedTagalog": "taniman / hardin",
+      "examples": [
+        {
+          "kp": "Atin kami tanaman king lual ning bale.",
+          "en": "We have a garden outside the house."
+        },
+        {
+          "kp": "Maragul ya ing tanaman mi.",
+          "en": "Our garden is big."
+        }
+      ],
+      "notes": "From 'tanam' (to plant) — refers to a garden, planted area, or collection of crops. Used for both vegetable gardens and ornamental planted areas. Equivalent to Tagalog 'taniman' (planting place) or 'hardin' (garden). Related to 'pananim' (crops/plants)."
     }
   ],
   "lessons": [
@@ -1130,6 +1148,61 @@
             "our crops are good now.",
             "our plants are good now",
             "our plants are good now."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nat-8",
+      "title": "The Garden: tanaman",
+      "theme": "garden and planted spaces",
+      "intro": "'tanaman' refers to a garden or planted area — a place where things are grown. It is distinct from 'pananim' (the crops/plants themselves); 'tanaman' is the place or area. 'Atin kami tanaman king lual ning bale' means we have a garden outside the house.",
+      "wordIds": ["nat-tanaman"],
+      "exercises": [
+        {
+          "id": "nat-8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"tanaman\" mean?",
+          "wordIds": ["nat-tanaman"],
+          "answerId": "nat-tanaman"
+        },
+        {
+          "id": "nat-8-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"garden\" or \"planted area\"?",
+          "wordIds": ["nat-tanaman"],
+          "answerId": "nat-tanaman"
+        },
+        {
+          "id": "nat-8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin kami tanaman king lual ning bale.",
+          "wordIds": ["nat-tanaman"],
+          "accepted": [
+            "we have a garden outside the house",
+            "we have a garden outside the house.",
+            "we have a planted area outside the house",
+            "we have a planted area outside the house.",
+            "we have a garden outside our house",
+            "we have a garden outside our house."
+          ]
+        },
+        {
+          "id": "nat-8-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing tanaman mi.",
+          "wordIds": ["nat-tanaman"],
+          "accepted": [
+            "our garden is big",
+            "our garden is big.",
+            "our garden is large",
+            "our garden is large.",
+            "our planted area is big",
+            "our planted area is big."
           ]
         }
       ]

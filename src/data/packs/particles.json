@@ -923,6 +923,42 @@
         }
       ],
       "notes": "Conjunction meaning 'so, therefore, that's why'. Introduces a result or consequence clause. Shared with Tagalog where 'kaya' carries the same function. Also has a secondary meaning as a noun meaning 'ability/capability' but the conjunction use is primary in everyday speech."
+    },
+    {
+      "id": "part-balik",
+      "word": "balik",
+      "partOfSpeech": "verb",
+      "translations": ["to return", "to go back", "again", "back"],
+      "relatedTagalog": "bumalik / balik",
+      "examples": [
+        {
+          "kp": "Balik ka king bale.",
+          "en": "Return home."
+        },
+        {
+          "kp": "Balik na ku ngeni.",
+          "en": "I am returning now."
+        }
+      ],
+      "notes": "Common Kapampangan/Philippine word for returning or going back. In Kapampangan, 'balik' is the base form used as an imperative and in everyday speech. Actor-focus: 'muli' or 'bumalik' in some dialects, but 'balik' is widely used directly. Also functions adverbially meaning 'again' or 'back'."
+    },
+    {
+      "id": "part-mamaya",
+      "word": "mamaya",
+      "partOfSpeech": "adverb",
+      "translations": ["later", "soon", "in a while", "shortly"],
+      "relatedTagalog": "mamaya",
+      "examples": [
+        {
+          "kp": "Munta ku mamaya.",
+          "en": "I will go later."
+        },
+        {
+          "kp": "Mamaya na ku balik.",
+          "en": "I will return later."
+        }
+      ],
+      "notes": "Temporal adverb meaning 'later', 'soon', or 'in a while'. Shared with Tagalog where 'mamaya' carries the same temporal meaning. Often placed at the start or end of a clause. 'Mamaya na' intensifies the sense of 'soon/shortly'."
     }
   ],
   "lessons": [
@@ -1962,6 +1998,69 @@
             "i am tired now, so i will go now.",
             "i am already tired, therefore i will go now",
             "i am already tired, therefore i will go now."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-L13",
+      "title": "Return & Later: balik and mamaya",
+      "theme": "motion and time",
+      "intro": "'balik' means to return or go back — 'Balik ka king bale' means go back home. 'mamaya' is the temporal word for later or soon — 'Munta ku mamaya' means I will go later. Together they let you talk about comings and goings across time.",
+      "wordIds": ["part-balik", "part-mamaya"],
+      "exercises": [
+        {
+          "id": "part-L13-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"balik\" mean?",
+          "wordIds": ["part-balik"],
+          "answerId": "part-balik"
+        },
+        {
+          "id": "part-L13-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mamaya\" mean?",
+          "wordIds": ["part-mamaya"],
+          "answerId": "part-mamaya"
+        },
+        {
+          "id": "part-L13-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"later\" or \"soon\"?",
+          "wordIds": ["part-mamaya"],
+          "answerId": "part-mamaya"
+        },
+        {
+          "id": "part-L13-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Balik ka king bale.",
+          "wordIds": ["part-balik"],
+          "accepted": [
+            "return home",
+            "return home.",
+            "go back home",
+            "go back home.",
+            "come back home",
+            "come back home."
+          ]
+        },
+        {
+          "id": "part-L13-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta ku mamaya.",
+          "wordIds": ["part-mamaya"],
+          "accepted": [
+            "i will go later",
+            "i will go later.",
+            "i am going later",
+            "i am going later.",
+            "i will go soon",
+            "i will go soon."
           ]
         }
       ]

@@ -272,6 +272,24 @@
         }
       ],
       "notes": "Spanish loanword from 'canto' (corner). Used widely in Filipino languages including Kapampangan. Refers to a street corner or intersection point. In everyday Kapampangan speech, people say 'king kanto' (at the corner) as a casual meeting place reference."
+    },
+    {
+      "id": "pl-dayat",
+      "word": "dayat",
+      "partOfSpeech": "noun",
+      "translations": ["coastal plain", "lowland", "flat coastal area"],
+      "relatedTagalog": "kapatagan / baybayin",
+      "examples": [
+        {
+          "kp": "Atyu kami king dayat.",
+          "en": "We are on the coastal plain."
+        },
+        {
+          "kp": "Malago ya ing dayat ning Kapampangan.",
+          "en": "The coastal plain of Kapampangan is beautiful."
+        }
+      ],
+      "notes": "Refers to the flat coastal and delta region of Pampanga. Pampanga is historically a lowland province with a broad coastal plain. 'Dayat' describes this kind of flat, low-lying coastal geography. Equivalent to Tagalog 'kapatagan' (plain) or 'baybayin' (coast)."
     }
   ],
   "lessons": [
@@ -757,6 +775,46 @@
             "he/she is at the street corner",
             "he is at the corner",
             "she is at the corner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pl-5",
+      "title": "The Coastal Plain: dayat",
+      "theme": "Kapampangan geography — lowlands and coast",
+      "intro": "'dayat' refers to the flat coastal plain or lowland area — the kind of broad, flat landscape that defines much of Pampanga. 'Atyu kami king dayat' means we are on the coastal plain. It reflects the geographical identity of the Kapampangan homeland.",
+      "wordIds": ["pl-dayat"],
+      "exercises": [
+        {
+          "id": "pl-5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"dayat\" mean?",
+          "wordIds": ["pl-dayat"],
+          "answerId": "pl-dayat"
+        },
+        {
+          "id": "pl-5-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"coastal plain\" or \"lowland\"?",
+          "wordIds": ["pl-dayat"],
+          "answerId": "pl-dayat"
+        },
+        {
+          "id": "pl-5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atyu kami king dayat.",
+          "wordIds": ["pl-dayat"],
+          "accepted": [
+            "we are on the coastal plain",
+            "we are on the coastal plain.",
+            "we are in the lowland",
+            "we are in the lowland.",
+            "we are in the lowlands",
+            "we are in the lowlands."
           ]
         }
       ]

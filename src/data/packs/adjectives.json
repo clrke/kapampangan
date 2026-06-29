@@ -388,6 +388,114 @@
         }
       ],
       "notes": "Native Kapampangan adjective meaning straight, upright, or direct. Used for roads, posts, lines, and posture. Equivalent to Tagalog 'tuwid'. The word 'tukud' (post/pole) is safe to use as it appears in attested Kapampangan sources."
+    },
+    {
+      "id": "adj-malagung",
+      "word": "malagung",
+      "partOfSpeech": "adjective",
+      "translations": ["quiet", "calm", "peaceful", "silent"],
+      "relatedTagalog": "tahimik",
+      "examples": [
+        {
+          "kp": "Malagung ya ing bale mi.",
+          "en": "Our house is quiet."
+        },
+        {
+          "kp": "Malagung ya ing bengi.",
+          "en": "The night is calm."
+        }
+      ],
+      "notes": "Native Kapampangan adjective meaning quiet, calm, peaceful, or silent. Used for places, people, and times. Equivalent to Tagalog 'tahimik'. Often used to praise a peaceful environment."
+    },
+    {
+      "id": "adj-malagus",
+      "word": "malagus",
+      "partOfSpeech": "adjective",
+      "translations": ["fast", "quick", "agile", "light (not heavy)"],
+      "relatedTagalog": "mabilis / magaan",
+      "examples": [
+        {
+          "kp": "Malagus ya ing asu mi.",
+          "en": "Our dog is fast."
+        },
+        {
+          "kp": "Malagus ya ing lalaki.",
+          "en": "The man is agile."
+        }
+      ],
+      "notes": "Native Kapampangan adjective meaning fast, quick, agile, or light (not heavy). Distinct from 'maliksi' (also fast/quick); 'malagus' can additionally describe lightness in weight. Equivalent to Tagalog 'mabilis' (fast) or 'magaan' (light)."
+    },
+    {
+      "id": "adj-malake",
+      "word": "malake",
+      "partOfSpeech": "adjective",
+      "translations": ["big", "large", "great"],
+      "relatedTagalog": "malaki",
+      "examples": [
+        {
+          "kp": "Malake ya ing bale mi.",
+          "en": "Our house is big."
+        },
+        {
+          "kp": "Malake ya ing palayan.",
+          "en": "The rice field is big."
+        }
+      ],
+      "notes": "Kapampangan adjective meaning big, large, or great. A variant/synonym of 'maragul'. Equivalent to Tagalog 'malaki'. Used for size of things, places, and people."
+    },
+    {
+      "id": "adj-malapad",
+      "word": "malapad",
+      "partOfSpeech": "adjective",
+      "translations": ["wide", "broad", "flat"],
+      "relatedTagalog": "malawak / malawid",
+      "examples": [
+        {
+          "kp": "Malapad ya ing dalan.",
+          "en": "The road is wide."
+        },
+        {
+          "kp": "Malapad ya ing palayan mi.",
+          "en": "Our rice field is wide."
+        }
+      ],
+      "notes": "Kapampangan adjective meaning wide, broad, or flat. Used for roads, fields, rivers, and open areas. Equivalent to Tagalog 'malawak' (spacious/broad)."
+    },
+    {
+      "id": "adj-pun",
+      "word": "pun",
+      "partOfSpeech": "adjective",
+      "translations": ["full", "filled", "filled up"],
+      "relatedTagalog": "puno",
+      "examples": [
+        {
+          "kp": "Pun na ya ing baldi.",
+          "en": "The bucket is already full."
+        },
+        {
+          "kp": "Pun me ing baldi ning danum.",
+          "en": "Fill the bucket with water."
+        }
+      ],
+      "notes": "Kapampangan adjective/verb meaning full or filled. 'Pun na' means 'already full'. 'Pun me' is the imperative meaning 'fill it'. Related to Tagalog 'puno' (full). 'Baldi' (bucket) and 'danum' (water) are both defined Kapampangan words."
+    },
+    {
+      "id": "adj-keraklan",
+      "word": "keraklan",
+      "partOfSpeech": "determiner",
+      "translations": ["most", "the majority", "most of"],
+      "relatedTagalog": "karamihan",
+      "examples": [
+        {
+          "kp": "Keraklan da masaya la.",
+          "en": "Most of them are happy."
+        },
+        {
+          "kp": "Keraklan ning aldo maliwanag ya.",
+          "en": "Most of the day it is bright."
+        }
+      ],
+      "notes": "Kapampangan superlative quantifier meaning 'most' or 'the majority'. Functions as a determiner or pronoun. Equivalent to Tagalog 'karamihan'. 'Keraklan da' = 'most of them', 'keraklan ning' = 'most of the...'."
     }
   ],
   "lessons": [
@@ -1016,6 +1124,194 @@
             "the path is straight.",
             "the road is direct",
             "the road is direct."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj-9",
+      "title": "Quiet, Fast & Big",
+      "theme": "peace, speed, and size",
+      "intro": "Three more useful 'ma-' adjectives: 'malagung' (quiet/calm/peaceful), 'malagus' (fast/agile), and 'malake' (big/large). 'Malagung ya ing bale mi' means our house is quiet. 'Malagus ya ing asu mi' means our dog is fast. 'Malake ya' means it is big.",
+      "wordIds": ["adj-malagung", "adj-malagus", "adj-malake"],
+      "exercises": [
+        {
+          "id": "adj-9-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"malagung\" mean?",
+          "wordIds": ["adj-malagung"],
+          "answerId": "adj-malagung"
+        },
+        {
+          "id": "adj-9-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"malagus\" mean?",
+          "wordIds": ["adj-malagus"],
+          "answerId": "adj-malagus"
+        },
+        {
+          "id": "adj-9-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"malake\" mean?",
+          "wordIds": ["adj-malake"],
+          "answerId": "adj-malake"
+        },
+        {
+          "id": "adj-9-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"quiet\" or \"peaceful\"?",
+          "wordIds": ["adj-malagung"],
+          "answerId": "adj-malagung"
+        },
+        {
+          "id": "adj-9-mc5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"big\" or \"large\"?",
+          "wordIds": ["adj-malake"],
+          "answerId": "adj-malake"
+        },
+        {
+          "id": "adj-9-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malagung ya ing bale mi.",
+          "wordIds": ["adj-malagung"],
+          "accepted": [
+            "our house is quiet",
+            "our house is quiet.",
+            "our house is calm",
+            "our house is calm.",
+            "our house is peaceful",
+            "our house is peaceful."
+          ]
+        },
+        {
+          "id": "adj-9-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malagus ya ing asu mi.",
+          "wordIds": ["adj-malagus"],
+          "accepted": [
+            "our dog is fast",
+            "our dog is fast.",
+            "our dog is quick",
+            "our dog is quick.",
+            "our dog is agile",
+            "our dog is agile."
+          ]
+        },
+        {
+          "id": "adj-9-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malake ya ing palayan.",
+          "wordIds": ["adj-malake"],
+          "accepted": [
+            "the rice field is big",
+            "the rice field is big.",
+            "the rice field is large",
+            "the rice field is large.",
+            "the paddy is big",
+            "the paddy is big."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj-10",
+      "title": "Wide, Full & Most",
+      "theme": "size, capacity, and quantity",
+      "intro": "Three more descriptors: 'malapad' (wide/broad), 'pun' (full/filled), and 'keraklan' (most/the majority). 'Malapad ya ing dalan' means the road is wide. 'Pun na ya ing baldi' means the bucket is already full. 'Keraklan da masaya la' means most of them are happy.",
+      "wordIds": ["adj-malapad", "adj-pun", "adj-keraklan"],
+      "exercises": [
+        {
+          "id": "adj-10-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"malapad\" mean?",
+          "wordIds": ["adj-malapad"],
+          "answerId": "adj-malapad"
+        },
+        {
+          "id": "adj-10-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"pun\" mean?",
+          "wordIds": ["adj-pun"],
+          "answerId": "adj-pun"
+        },
+        {
+          "id": "adj-10-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"keraklan\" mean?",
+          "wordIds": ["adj-keraklan"],
+          "answerId": "adj-keraklan"
+        },
+        {
+          "id": "adj-10-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"wide\" or \"broad\"?",
+          "wordIds": ["adj-malapad"],
+          "answerId": "adj-malapad"
+        },
+        {
+          "id": "adj-10-mc5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"most\" or \"the majority\"?",
+          "wordIds": ["adj-keraklan"],
+          "answerId": "adj-keraklan"
+        },
+        {
+          "id": "adj-10-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malapad ya ing dalan.",
+          "wordIds": ["adj-malapad"],
+          "accepted": [
+            "the road is wide",
+            "the road is wide.",
+            "the road is broad",
+            "the road is broad.",
+            "the road is flat",
+            "the road is flat."
+          ]
+        },
+        {
+          "id": "adj-10-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Pun na ya ing baldi.",
+          "wordIds": ["adj-pun"],
+          "accepted": [
+            "the bucket is already full",
+            "the bucket is already full.",
+            "the bucket is full now",
+            "the bucket is full now.",
+            "the bucket is now full",
+            "the bucket is now full."
+          ]
+        },
+        {
+          "id": "adj-10-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Keraklan da masaya la.",
+          "wordIds": ["adj-keraklan"],
+          "accepted": [
+            "most of them are happy",
+            "most of them are happy.",
+            "the majority of them are happy",
+            "the majority of them are happy.",
+            "most of them are cheerful",
+            "most of them are cheerful."
           ]
         }
       ]
