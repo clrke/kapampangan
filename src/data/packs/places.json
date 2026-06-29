@@ -259,7 +259,11 @@
       "id": "pl-kanto",
       "word": "kanto",
       "partOfSpeech": "noun",
-      "translations": ["street corner", "corner", "intersection"],
+      "translations": [
+        "street corner",
+        "corner",
+        "intersection"
+      ],
       "relatedTagalog": "kanto",
       "examples": [
         {
@@ -277,7 +281,11 @@
       "id": "pl-dayat",
       "word": "dayat",
       "partOfSpeech": "noun",
-      "translations": ["coastal plain", "lowland", "flat coastal area"],
+      "translations": [
+        "coastal plain",
+        "lowland",
+        "flat coastal area"
+      ],
       "relatedTagalog": "kapatagan / baybayin",
       "examples": [
         {
@@ -290,6 +298,29 @@
         }
       ],
       "notes": "Refers to the flat coastal and delta region of Pampanga. Pampanga is historically a lowland province with a broad coastal plain. 'Dayat' describes this kind of flat, low-lying coastal geography. Equivalent to Tagalog 'kapatagan' (plain) or 'baybayin' (coast)."
+    },
+    {
+      "id": "pl-labuad",
+      "word": "labuad",
+      "partOfSpeech": "noun",
+      "translations": [
+        "surroundings",
+        "neighborhood",
+        "area around",
+        "vicinity"
+      ],
+      "relatedTagalog": "paligid / kapaligiran",
+      "examples": [
+        {
+          "kp": "Malagu ya ing labuad ning bale mi.",
+          "en": "The surroundings of our house are beautiful."
+        },
+        {
+          "kp": "Atin dakal puno king labuad.",
+          "en": "There are many trees in the surrounding area."
+        }
+      ],
+      "notes": "Refers to the area surrounding a place — the neighborhood, vicinity, or environs. Equivalent to Tagalog 'paligid' (around/surrounding) or 'kapaligiran' (environment/surroundings). Commonly used when describing what is around a house, town, or landmark. Confidence: high; attested in Kapampangan vocabulary sources."
     }
   ],
   "lessons": [
@@ -745,14 +776,18 @@
       "title": "The Street Corner",
       "theme": "kanto — street corner, intersection",
       "intro": "'kanto' is the Kapampangan (and Filipino) word for street corner, borrowed from Spanish 'canto'. In everyday speech, 'king kanto' (at the corner) is a common meeting-place phrase.",
-      "wordIds": ["pl-kanto"],
+      "wordIds": [
+        "pl-kanto"
+      ],
       "exercises": [
         {
           "id": "pl-4-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"kanto\" mean?",
-          "wordIds": ["pl-kanto"],
+          "wordIds": [
+            "pl-kanto"
+          ],
           "answerId": "pl-kanto"
         },
         {
@@ -760,7 +795,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"street corner\"?",
-          "wordIds": ["pl-kanto"],
+          "wordIds": [
+            "pl-kanto"
+          ],
           "answerId": "pl-kanto"
         },
         {
@@ -768,7 +805,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atyu ya king kanto.",
-          "wordIds": ["pl-kanto"],
+          "wordIds": [
+            "pl-kanto"
+          ],
           "accepted": [
             "he is at the street corner",
             "she is at the street corner",
@@ -784,14 +823,18 @@
       "title": "The Coastal Plain: dayat",
       "theme": "Kapampangan geography — lowlands and coast",
       "intro": "'dayat' refers to the flat coastal plain or lowland area — the kind of broad, flat landscape that defines much of Pampanga. 'Atyu kami king dayat' means we are on the coastal plain. It reflects the geographical identity of the Kapampangan homeland.",
-      "wordIds": ["pl-dayat"],
+      "wordIds": [
+        "pl-dayat"
+      ],
       "exercises": [
         {
           "id": "pl-5-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"dayat\" mean?",
-          "wordIds": ["pl-dayat"],
+          "wordIds": [
+            "pl-dayat"
+          ],
           "answerId": "pl-dayat"
         },
         {
@@ -799,7 +842,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"coastal plain\" or \"lowland\"?",
-          "wordIds": ["pl-dayat"],
+          "wordIds": [
+            "pl-dayat"
+          ],
           "answerId": "pl-dayat"
         },
         {
@@ -807,7 +852,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atyu kami king dayat.",
-          "wordIds": ["pl-dayat"],
+          "wordIds": [
+            "pl-dayat"
+          ],
           "accepted": [
             "we are on the coastal plain",
             "we are on the coastal plain.",
@@ -815,6 +862,54 @@
             "we are in the lowland.",
             "we are in the lowlands",
             "we are in the lowlands."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pl-6",
+      "title": "Surroundings: labuad",
+      "theme": "the area around a place",
+      "intro": "'labuad' means the surroundings or vicinity of a place — the neighborhood or area around something. 'Malagu ya ing labuad ning bale mi' means the surroundings of our house are beautiful.",
+      "wordIds": [
+        "pl-labuad"
+      ],
+      "exercises": [
+        {
+          "id": "pl-6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"labuad\" mean?",
+          "wordIds": [
+            "pl-labuad"
+          ],
+          "answerId": "pl-labuad"
+        },
+        {
+          "id": "pl-6-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"surroundings\" or \"neighborhood\"?",
+          "wordIds": [
+            "pl-labuad"
+          ],
+          "answerId": "pl-labuad"
+        },
+        {
+          "id": "pl-6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malagu ya ing labuad ning bale mi.",
+          "wordIds": [
+            "pl-labuad"
+          ],
+          "accepted": [
+            "the surroundings of our house are beautiful",
+            "the surroundings of our house are beautiful.",
+            "the area around our house is beautiful",
+            "the area around our house is beautiful.",
+            "our neighborhood is beautiful",
+            "our neighborhood is beautiful."
           ]
         }
       ]

@@ -396,7 +396,12 @@
       "id": "time-panaun",
       "word": "panaun",
       "partOfSpeech": "noun",
-      "translations": ["season", "era", "period", "age"],
+      "translations": [
+        "season",
+        "era",
+        "period",
+        "age"
+      ],
       "relatedTagalog": "panahon",
       "examples": [
         {
@@ -409,6 +414,28 @@
         }
       ],
       "notes": "Kapampangan temporal noun meaning season, era, or period. A variant of 'panahon' (already in this pack) with a distinct Kapampangan phonological form. 'Panaun ning uran' = rainy season. 'King panaun nang ngeni' = in this day and age / in modern times."
+    },
+    {
+      "id": "time-sangdominggo",
+      "word": "sangdominggo",
+      "partOfSpeech": "noun",
+      "translations": [
+        "one week",
+        "a week",
+        "a full week"
+      ],
+      "relatedTagalog": "isang linggo",
+      "examples": [
+        {
+          "kp": "Sangdominggo ya ing byahe.",
+          "en": "The trip is one week."
+        },
+        {
+          "kp": "Munta ku bukas, sangdominggo ku atyu.",
+          "en": "I will go tomorrow and be there for a week."
+        }
+      ],
+      "notes": "Formed from 'sang-' (one/a single, from 'metung') + 'dominggu' (Sunday/week). In Kapampangan, 'dominggu' means both Sunday and a week (the period from Sunday to Sunday), so 'sangdominggo' = one week. Equivalent to Tagalog 'isang linggo'. Compare 'sang-' prefix forming: sangbulan (one month), sangbanwa (one year). Confidence: high; attested in Kapampangan time vocabulary."
     }
   ],
   "lessons": [
@@ -1067,14 +1094,18 @@
       "title": "Season & Era: panaun",
       "theme": "temporal scope — seasons, eras, and periods",
       "intro": "'Panaun' is the Kapampangan form of 'panahon' meaning season, era, or period of time. Use it to talk about seasons ('panaun ning uran' = rainy season) or epochs ('king panaun nang ngeni' = in this day and age).",
-      "wordIds": ["time-panaun"],
+      "wordIds": [
+        "time-panaun"
+      ],
       "exercises": [
         {
           "id": "time-8-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"panaun\" mean?",
-          "wordIds": ["time-panaun"],
+          "wordIds": [
+            "time-panaun"
+          ],
           "answerId": "time-panaun"
         },
         {
@@ -1082,7 +1113,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"season\" or \"era\"?",
-          "wordIds": ["time-panaun"],
+          "wordIds": [
+            "time-panaun"
+          ],
           "answerId": "time-panaun"
         },
         {
@@ -1090,7 +1123,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ing panaun ning uran malugay ya.",
-          "wordIds": ["time-panaun"],
+          "wordIds": [
+            "time-panaun"
+          ],
           "accepted": [
             "the rainy season is long",
             "the rainy season is long.",
@@ -1098,6 +1133,54 @@
             "the rainy season is lengthy.",
             "the rainy season is slow",
             "the rainy season is slow."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time-9",
+      "title": "One Week: sangdominggo",
+      "theme": "measuring time in weeks",
+      "intro": "'sangdominggo' means one week — formed from 'sang-' (one/a) and 'dominggu' (Sunday/week). 'Sangdominggo ya ing byahe' means the trip is one week. The 'sang-' prefix forms units of time: sangbulan (one month), sangbanwa (one year).",
+      "wordIds": [
+        "time-sangdominggo"
+      ],
+      "exercises": [
+        {
+          "id": "time-9-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"sangdominggo\" mean?",
+          "wordIds": [
+            "time-sangdominggo"
+          ],
+          "answerId": "time-sangdominggo"
+        },
+        {
+          "id": "time-9-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"one week\"?",
+          "wordIds": [
+            "time-sangdominggo"
+          ],
+          "answerId": "time-sangdominggo"
+        },
+        {
+          "id": "time-9-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sangdominggo ya ing byahe.",
+          "wordIds": [
+            "time-sangdominggo"
+          ],
+          "accepted": [
+            "the trip is one week",
+            "the trip is one week.",
+            "the journey is one week",
+            "the journey is one week.",
+            "the trip is a week",
+            "the trip is a week."
           ]
         }
       ]

@@ -418,7 +418,12 @@
       "id": "nat-tanaman",
       "word": "tanaman",
       "partOfSpeech": "noun",
-      "translations": ["garden", "planted area", "crops", "plants"],
+      "translations": [
+        "garden",
+        "planted area",
+        "crops",
+        "plants"
+      ],
       "relatedTagalog": "taniman / hardin",
       "examples": [
         {
@@ -431,6 +436,28 @@
         }
       ],
       "notes": "From 'tanam' (to plant) — refers to a garden, planted area, or collection of crops. Used for both vegetable gardens and ornamental planted areas. Equivalent to Tagalog 'taniman' (planting place) or 'hardin' (garden). Related to 'pananim' (crops/plants)."
+    },
+    {
+      "id": "nat-bulak",
+      "word": "bulak",
+      "partOfSpeech": "noun",
+      "translations": [
+        "cotton",
+        "cotton plant",
+        "cotton fiber"
+      ],
+      "relatedTagalog": "bulak",
+      "examples": [
+        {
+          "kp": "Maputi ya ing bulak.",
+          "en": "Cotton is white."
+        },
+        {
+          "kp": "Maragul ya ing tanaman ning bulak.",
+          "en": "The cotton field is large."
+        }
+      ],
+      "notes": "Refers to the cotton plant and its fiber. Shared with Tagalog 'bulak'. Cotton was historically cultivated in lowland Pampanga and woven into cloth. Distinct from 'bulaklak' (flower), though both share the 'bulak' root."
     }
   ],
   "lessons": [
@@ -1157,14 +1184,18 @@
       "title": "The Garden: tanaman",
       "theme": "garden and planted spaces",
       "intro": "'tanaman' refers to a garden or planted area — a place where things are grown. It is distinct from 'pananim' (the crops/plants themselves); 'tanaman' is the place or area. 'Atin kami tanaman king lual ning bale' means we have a garden outside the house.",
-      "wordIds": ["nat-tanaman"],
+      "wordIds": [
+        "nat-tanaman"
+      ],
       "exercises": [
         {
           "id": "nat-8-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"tanaman\" mean?",
-          "wordIds": ["nat-tanaman"],
+          "wordIds": [
+            "nat-tanaman"
+          ],
           "answerId": "nat-tanaman"
         },
         {
@@ -1172,7 +1203,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"garden\" or \"planted area\"?",
-          "wordIds": ["nat-tanaman"],
+          "wordIds": [
+            "nat-tanaman"
+          ],
           "answerId": "nat-tanaman"
         },
         {
@@ -1180,7 +1213,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atin kami tanaman king lual ning bale.",
-          "wordIds": ["nat-tanaman"],
+          "wordIds": [
+            "nat-tanaman"
+          ],
           "accepted": [
             "we have a garden outside the house",
             "we have a garden outside the house.",
@@ -1195,7 +1230,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ya ing tanaman mi.",
-          "wordIds": ["nat-tanaman"],
+          "wordIds": [
+            "nat-tanaman"
+          ],
           "accepted": [
             "our garden is big",
             "our garden is big.",
@@ -1203,6 +1240,69 @@
             "our garden is large.",
             "our planted area is big",
             "our planted area is big."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nat-9",
+      "title": "Cotton: bulak",
+      "theme": "plants and natural fibers",
+      "intro": "'bulak' is the Kapampangan (and Tagalog) word for cotton — the plant and its white fiber. It is related to 'bulaklak' (flower) but distinct. 'Maputi ya ing bulak' means cotton is white.",
+      "wordIds": [
+        "nat-bulak"
+      ],
+      "exercises": [
+        {
+          "id": "nat-9-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"bulak\" mean?",
+          "wordIds": [
+            "nat-bulak"
+          ],
+          "answerId": "nat-bulak"
+        },
+        {
+          "id": "nat-9-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"cotton\"?",
+          "wordIds": [
+            "nat-bulak"
+          ],
+          "answerId": "nat-bulak"
+        },
+        {
+          "id": "nat-9-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maputi ya ing bulak.",
+          "wordIds": [
+            "nat-bulak"
+          ],
+          "accepted": [
+            "cotton is white",
+            "cotton is white.",
+            "the cotton is white",
+            "the cotton is white."
+          ]
+        },
+        {
+          "id": "nat-9-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing tanaman ning bulak.",
+          "wordIds": [
+            "nat-bulak"
+          ],
+          "accepted": [
+            "the cotton field is large",
+            "the cotton field is large.",
+            "the cotton plantation is large",
+            "the cotton plantation is large.",
+            "the cotton garden is large",
+            "the cotton garden is large."
           ]
         }
       ]

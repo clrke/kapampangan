@@ -400,7 +400,10 @@
       "id": "fam-ina",
       "word": "ina",
       "partOfSpeech": "noun",
-      "translations": ["mother", "mom"],
+      "translations": [
+        "mother",
+        "mom"
+      ],
       "relatedTagalog": "ina / nanay",
       "examples": [
         {
@@ -418,7 +421,10 @@
       "id": "fam-pari",
       "word": "pari",
       "partOfSpeech": "noun",
-      "translations": ["priest", "father (clergy)"],
+      "translations": [
+        "priest",
+        "father (clergy)"
+      ],
       "relatedTagalog": "pari / padre",
       "examples": [
         {
@@ -436,7 +442,10 @@
       "id": "fam-talaturu",
       "word": "talaturu",
       "partOfSpeech": "noun",
-      "translations": ["teacher", "instructor"],
+      "translations": [
+        "teacher",
+        "instructor"
+      ],
       "relatedTagalog": "guro / titser",
       "examples": [
         {
@@ -449,6 +458,73 @@
         }
       ],
       "notes": "Noun meaning 'teacher, instructor'. Derived from the root 'turu' (to teach/point) with the agentive prefix 'tala-'. The Kapampangan agentive prefix 'tala-' indicates a person who regularly does an action, equivalent to Tagalog '-an' or 'guro'. In formal and school contexts, 'talaturu' is the native word, while 'titser' (from English 'teacher') is also widely used in informal speech."
+    },
+    {
+      "id": "fam-kalagu",
+      "word": "kalagu",
+      "partOfSpeech": "noun",
+      "translations": [
+        "namesake",
+        "person with the same name",
+        "name twin"
+      ],
+      "relatedTagalog": "kaagaw-pangalan / kasingpangalan",
+      "examples": [
+        {
+          "kp": "Kalagu ku ya ing tatang na.",
+          "en": "His father is my namesake."
+        },
+        {
+          "kp": "Atin ku kalagu king balen.",
+          "en": "I have a namesake in town."
+        }
+      ],
+      "notes": "Derived from 'lagyu' (name) with the reciprocal/relational prefix 'ka-'. Refers to a person who shares one's name — a namesake. The ka- prefix forms nouns describing a shared relationship: kapatad (co-sibling), kaklase (classmate), kalagu (co-name). Attested in Kapampangan vocabulary sources."
+    },
+    {
+      "id": "fam-kapiganakan",
+      "word": "kapiganakan",
+      "partOfSpeech": "noun",
+      "translations": [
+        "birth",
+        "birthday",
+        "nativity"
+      ],
+      "relatedTagalog": "kaarawan / kapanganakan",
+      "examples": [
+        {
+          "kp": "Masaya ing kapiganakan mu!",
+          "en": "Happy birthday!"
+        },
+        {
+          "kp": "Ninu ing kapiganakan ngeni?",
+          "en": "Whose birthday is it today?"
+        }
+      ],
+      "notes": "From 'pigan' (to be born) with the ka--an circumfix forming a nominalized abstract noun. Means birth, birthday, or the occasion of nativity. 'Masaya ing kapiganakan mu!' is the standard Kapampangan birthday greeting. Equivalent to Tagalog 'kaarawan' (birthday) or 'kapanganakan' (birth)."
+    },
+    {
+      "id": "fam-kasuyuan",
+      "word": "kasuyuan",
+      "partOfSpeech": "noun",
+      "translations": [
+        "lover",
+        "sweetheart",
+        "romantic partner",
+        "beloved"
+      ],
+      "relatedTagalog": "kasintahan / mahal",
+      "examples": [
+        {
+          "kp": "Malagu ya ing kasuyuan na.",
+          "en": "His sweetheart is beautiful."
+        },
+        {
+          "kp": "Ing kasuyuan ku atyu king balen.",
+          "en": "My sweetheart is in town."
+        }
+      ],
+      "notes": "From 'suyu' (to love, to court) with the ka--an circumfix forming a noun meaning one's romantic partner or sweetheart. Compare 'kaluguran' (beloved/friend, already in this pack) which is broader; 'kasuyuan' is specifically romantic. Attested in Kapampangan literary and everyday vocabulary."
     }
   ],
   "lessons": [
@@ -1061,7 +1137,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"ina\" mean?",
-          "wordIds": ["fam-ina"],
+          "wordIds": [
+            "fam-ina"
+          ],
           "answerId": "fam-ina"
         },
         {
@@ -1069,7 +1147,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"pari\" mean?",
-          "wordIds": ["fam-pari"],
+          "wordIds": [
+            "fam-pari"
+          ],
           "answerId": "fam-pari"
         },
         {
@@ -1077,7 +1157,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"priest\"?",
-          "wordIds": ["fam-pari"],
+          "wordIds": [
+            "fam-pari"
+          ],
           "answerId": "fam-pari"
         },
         {
@@ -1085,7 +1167,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mayap ya ing ina ku.",
-          "wordIds": ["fam-ina"],
+          "wordIds": [
+            "fam-ina"
+          ],
           "accepted": [
             "my mother is good",
             "my mother is well",
@@ -1098,7 +1182,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Munta ya king simbahan ing pari.",
-          "wordIds": ["fam-pari"],
+          "wordIds": [
+            "fam-pari"
+          ],
           "accepted": [
             "the priest goes to church",
             "the priest goes to the church",
@@ -1109,10 +1195,17 @@
         {
           "id": "fam-8-ma1",
           "type": "matching",
-          "wordIds": ["fam-ina", "fam-pari"],
+          "wordIds": [
+            "fam-ina",
+            "fam-pari"
+          ],
           "pairs": [
-            {"wordId": "fam-ina"},
-            {"wordId": "fam-pari"}
+            {
+              "wordId": "fam-ina"
+            },
+            {
+              "wordId": "fam-pari"
+            }
           ]
         }
       ]
@@ -1122,14 +1215,18 @@
       "title": "The Teacher",
       "theme": "talaturu — teacher, instructor",
       "intro": "'talaturu' is the Kapampangan word for teacher, from the root 'turu' (to teach/point) with the agentive prefix 'tala-'. In everyday speech, 'titser' (from English) is also used.",
-      "wordIds": ["fam-talaturu"],
+      "wordIds": [
+        "fam-talaturu"
+      ],
       "exercises": [
         {
           "id": "fam-7-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does 'talaturu' mean?",
-          "wordIds": ["fam-talaturu"],
+          "wordIds": [
+            "fam-talaturu"
+          ],
           "answerId": "fam-talaturu"
         },
         {
@@ -1137,12 +1234,109 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Achi ku ing talaturu.",
-          "wordIds": ["fam-talaturu"],
+          "wordIds": [
+            "fam-talaturu"
+          ],
           "accepted": [
             "my older sister is the teacher",
             "my older sister is the teacher.",
             "my elder sister is the teacher",
             "my elder sister is the teacher."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fam-9",
+      "title": "Names, Birthdays & Sweethearts: kalagu, kapiganakan, kasuyuan",
+      "theme": "social bonds — namesakes, birthdays, and romance",
+      "intro": "Three social-relationship nouns: 'kalagu' (namesake — someone who shares your name), 'kapiganakan' (birthday / birth), and 'kasuyuan' (sweetheart / romantic partner). All are formed with the relational ka- prefix common in Kapampangan.",
+      "wordIds": [
+        "fam-kalagu",
+        "fam-kapiganakan",
+        "fam-kasuyuan"
+      ],
+      "exercises": [
+        {
+          "id": "fam-9-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kalagu\" mean?",
+          "wordIds": [
+            "fam-kalagu"
+          ],
+          "answerId": "fam-kalagu"
+        },
+        {
+          "id": "fam-9-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kapiganakan\" mean?",
+          "wordIds": [
+            "fam-kapiganakan"
+          ],
+          "answerId": "fam-kapiganakan"
+        },
+        {
+          "id": "fam-9-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kasuyuan\" mean?",
+          "wordIds": [
+            "fam-kasuyuan"
+          ],
+          "answerId": "fam-kasuyuan"
+        },
+        {
+          "id": "fam-9-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"birthday\"?",
+          "wordIds": [
+            "fam-kapiganakan"
+          ],
+          "answerId": "fam-kapiganakan"
+        },
+        {
+          "id": "fam-9-mc5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"sweetheart\" or \"romantic partner\"?",
+          "wordIds": [
+            "fam-kasuyuan"
+          ],
+          "answerId": "fam-kasuyuan"
+        },
+        {
+          "id": "fam-9-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Masaya ing kapiganakan mu!",
+          "wordIds": [
+            "fam-kapiganakan"
+          ],
+          "accepted": [
+            "happy birthday",
+            "happy birthday!",
+            "happy birthday to you",
+            "happy birthday to you!"
+          ]
+        },
+        {
+          "id": "fam-9-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malagu ya ing kasuyuan na.",
+          "wordIds": [
+            "fam-kasuyuan"
+          ],
+          "accepted": [
+            "his sweetheart is beautiful",
+            "his sweetheart is beautiful.",
+            "her sweetheart is beautiful",
+            "her sweetheart is beautiful.",
+            "his beloved is beautiful",
+            "his beloved is beautiful."
           ]
         }
       ]

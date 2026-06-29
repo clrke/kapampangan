@@ -278,7 +278,11 @@
       "id": "gram-ko",
       "word": "ko",
       "partOfSpeech": "pronoun",
-      "translations": ["I", "me", "my"],
+      "translations": [
+        "I",
+        "me",
+        "my"
+      ],
       "relatedTagalog": "ko / ako",
       "examples": [
         {
@@ -296,7 +300,10 @@
       "id": "gram-mi",
       "word": "mi",
       "partOfSpeech": "pronoun",
-      "translations": ["our", "we (exclusive)"],
+      "translations": [
+        "our",
+        "we (exclusive)"
+      ],
       "relatedTagalog": "namin / kami",
       "examples": [
         {
@@ -314,7 +321,11 @@
       "id": "gram-kareni",
       "word": "kareni",
       "partOfSpeech": "adverb",
-      "translations": ["here", "from here", "near this place"],
+      "translations": [
+        "here",
+        "from here",
+        "near this place"
+      ],
       "relatedTagalog": "dito / mula dito",
       "examples": [
         {
@@ -332,7 +343,11 @@
       "id": "gram-keta",
       "word": "keta",
       "partOfSpeech": "adverb",
-      "translations": ["there", "over there", "at that place"],
+      "translations": [
+        "there",
+        "over there",
+        "at that place"
+      ],
       "relatedTagalog": "doon / diyaan",
       "examples": [
         {
@@ -350,7 +365,11 @@
       "id": "gram-keti",
       "word": "keti",
       "partOfSpeech": "adverb",
-      "translations": ["here", "at this place", "right here"],
+      "translations": [
+        "here",
+        "at this place",
+        "right here"
+      ],
       "relatedTagalog": "dito / rito",
       "examples": [
         {
@@ -368,7 +387,9 @@
       "id": "gram-at",
       "word": "at",
       "partOfSpeech": "conjunction",
-      "translations": ["and"],
+      "translations": [
+        "and"
+      ],
       "relatedTagalog": "at",
       "examples": [
         {
@@ -386,7 +407,9 @@
       "id": "gram-i",
       "word": "i",
       "partOfSpeech": "particle",
-      "translations": ["(personal article before names)"],
+      "translations": [
+        "(personal article before names)"
+      ],
       "relatedTagalog": "si",
       "examples": [
         {
@@ -404,7 +427,11 @@
       "id": "gram-ati",
       "word": "ati",
       "partOfSpeech": "verb",
-      "translations": ["there is", "to be present", "to exist"],
+      "translations": [
+        "there is",
+        "to be present",
+        "to exist"
+      ],
       "relatedTagalog": "mayroon / nandoon",
       "examples": [
         {
@@ -422,7 +449,10 @@
       "id": "gram-ring",
       "word": "ring",
       "partOfSpeech": "particle",
-      "translations": ["the (plural)", "the (they/these)"],
+      "translations": [
+        "the (plural)",
+        "the (they/these)"
+      ],
       "relatedTagalog": "ang mga",
       "examples": [
         {
@@ -436,7 +466,10 @@
       "id": "gram-yu",
       "word": "yu",
       "partOfSpeech": "pronoun",
-      "translations": ["you all", "you (plural actor)"],
+      "translations": [
+        "you all",
+        "you (plural actor)"
+      ],
       "relatedTagalog": "kayo",
       "examples": [
         {
@@ -450,7 +483,10 @@
       "id": "gram-mo",
       "word": "mo",
       "partOfSpeech": "pronoun",
-      "translations": ["you (singular actor — non-subject focus)", "you do it"],
+      "translations": [
+        "you (singular actor — non-subject focus)",
+        "you do it"
+      ],
       "relatedTagalog": "mo",
       "examples": [
         {
@@ -468,7 +504,10 @@
       "id": "gram-yan",
       "word": "yan",
       "partOfSpeech": "pronoun",
-      "translations": ["that", "that one (near you)"],
+      "translations": [
+        "that",
+        "that one (near you)"
+      ],
       "relatedTagalog": "yan / iyan",
       "examples": [
         {
@@ -482,7 +521,10 @@
       "id": "gram-ano",
       "word": "Ano",
       "partOfSpeech": "pronoun",
-      "translations": ["what", "what is"],
+      "translations": [
+        "what",
+        "what is"
+      ],
       "relatedTagalog": "ano",
       "examples": [
         {
@@ -496,7 +538,11 @@
       "id": "gram-taku",
       "word": "taku",
       "partOfSpeech": "pronoun",
-      "translations": ["we (you and I)", "us (inclusive)", "let's"],
+      "translations": [
+        "we (you and I)",
+        "us (inclusive)",
+        "let's"
+      ],
       "relatedTagalog": "tayo",
       "examples": [
         {
@@ -514,7 +560,12 @@
       "id": "gram-karing",
       "word": "karing",
       "partOfSpeech": "particle",
-      "translations": ["to the (plural)", "at the (plural)", "for the (plural)", "the (plural oblique)"],
+      "translations": [
+        "to the (plural)",
+        "at the (plural)",
+        "for the (plural)",
+        "the (plural oblique)"
+      ],
       "relatedTagalog": "sa mga",
       "examples": [
         {
@@ -532,7 +583,11 @@
       "id": "gram-kung",
       "word": "kung",
       "partOfSpeech": "pronoun",
-      "translations": ["I (before vowel)", "me (before vowel)", "my (before vowel)"],
+      "translations": [
+        "I (before vowel)",
+        "me (before vowel)",
+        "my (before vowel)"
+      ],
       "relatedTagalog": "ko (ko + ng)  / ko pa",
       "examples": [
         {
@@ -572,7 +627,10 @@
       "id": "gram-kata",
       "word": "kata",
       "partOfSpeech": "pronoun",
-      "translations": ["we two", "the two of us"],
+      "translations": [
+        "we two",
+        "the two of us"
+      ],
       "relatedTagalog": "tayong dalawa",
       "examples": [
         {
@@ -590,7 +648,11 @@
       "id": "gram-kanaku",
       "word": "kanaku",
       "partOfSpeech": "pronoun",
-      "translations": ["to me", "for me", "mine"],
+      "translations": [
+        "to me",
+        "for me",
+        "mine"
+      ],
       "relatedTagalog": "sa akin",
       "examples": [
         {
@@ -608,7 +670,10 @@
       "id": "gram-sake",
       "word": "sake",
       "partOfSpeech": "pronoun",
-      "translations": ["I (emphatic)", "me (myself)"],
+      "translations": [
+        "I (emphatic)",
+        "me (myself)"
+      ],
       "relatedTagalog": "ako mismo",
       "examples": [
         {
@@ -621,6 +686,28 @@
         }
       ],
       "notes": "Emphatic first-person singular pronoun. Used when the speaker wants to stress personal agency or contrast: 'I (and not someone else)'. Equivalent to Tagalog 'ako mismo'. Often appears with 'ku' in the same clause: 'Sake ku...' = 'I myself...'."
+    },
+    {
+      "id": "gram-dita",
+      "word": "dita",
+      "partOfSpeech": "pronoun",
+      "translations": [
+        "those (remote)",
+        "those ones (far away)",
+        "those (yonder)"
+      ],
+      "relatedTagalog": "yoon / iyon (plural)",
+      "examples": [
+        {
+          "kp": "Ninu la dita?",
+          "en": "Who are those (over there)?"
+        },
+        {
+          "kp": "Dita la reng anak.",
+          "en": "Those are the children."
+        }
+      ],
+      "notes": "Distal/remote demonstrative pronoun meaning 'those (far from both speaker and listener)'. Part of the Kapampangan tri-level demonstrative system: 'iti' (this, near speaker), 'iyan'/'yan' (that, near listener), 'dita' (those, remote from both). 'Dita' is the plural/general remote form. Compare 'ita' (that one, singular remote). Equivalent to Tagalog 'yoon' (remote) or 'iyon'."
     }
   ],
   "lessons": [
@@ -1016,7 +1103,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does 'mi' mean?",
-          "wordIds": ["gram-mi"],
+          "wordIds": [
+            "gram-mi"
+          ],
           "answerId": "gram-mi"
         },
         {
@@ -1024,7 +1113,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does 'at' mean?",
-          "wordIds": ["gram-at"],
+          "wordIds": [
+            "gram-at"
+          ],
           "answerId": "gram-at"
         },
         {
@@ -1032,7 +1123,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does 'i' mean (before a name)?",
-          "wordIds": ["gram-i"],
+          "wordIds": [
+            "gram-i"
+          ],
           "answerId": "gram-i"
         },
         {
@@ -1040,7 +1133,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ya ing bale mi.",
-          "wordIds": ["gram-mi"],
+          "wordIds": [
+            "gram-mi"
+          ],
           "accepted": [
             "our house is big",
             "our house is big.",
@@ -1053,7 +1148,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Munta ya i Elena king eskwela.",
-          "wordIds": ["gram-i"],
+          "wordIds": [
+            "gram-i"
+          ],
           "accepted": [
             "elena will go to school",
             "elena will go to school.",
@@ -1067,21 +1164,27 @@
           "id": "gram-L5-fb1",
           "type": "fill-blank",
           "prompt": "Maragul ____ malagu ya ing bale. (The house is big and beautiful.)",
-          "wordIds": ["gram-at"],
+          "wordIds": [
+            "gram-at"
+          ],
           "answerId": "gram-at"
         },
         {
           "id": "gram-L5-fb2",
           "type": "fill-blank",
           "prompt": "Maranup ____ pa. (I am still hungry.)",
-          "wordIds": ["gram-ko"],
+          "wordIds": [
+            "gram-ko"
+          ],
           "answerId": "gram-ko"
         },
         {
           "id": "gram-L5-fb3",
           "type": "fill-blank",
           "prompt": "Obakit ____ ka keni? (Why are you here?)",
-          "wordIds": ["gram-ati"],
+          "wordIds": [
+            "gram-ati"
+          ],
           "answerId": "gram-ati"
         }
       ]
@@ -1102,7 +1205,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does 'keta' mean?",
-          "wordIds": ["gram-keta"],
+          "wordIds": [
+            "gram-keta"
+          ],
           "answerId": "gram-keta"
         },
         {
@@ -1110,7 +1215,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does 'keti' mean?",
-          "wordIds": ["gram-keti"],
+          "wordIds": [
+            "gram-keti"
+          ],
           "answerId": "gram-keti"
         },
         {
@@ -1118,7 +1225,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malapit ya ing tindahan keti.",
-          "wordIds": ["gram-keti"],
+          "wordIds": [
+            "gram-keti"
+          ],
           "accepted": [
             "the store is near here",
             "the store is near here.",
@@ -1131,7 +1240,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Malayo ya ing dagat kareni.",
-          "wordIds": ["gram-kareni"],
+          "wordIds": [
+            "gram-kareni"
+          ],
           "accepted": [
             "the sea is far from here",
             "the sea is far from here.",
@@ -1143,14 +1254,18 @@
           "id": "gram-L6-fb1",
           "type": "fill-blank",
           "prompt": "Maragul ya ing dutung ____. (The tree there is big.)",
-          "wordIds": ["gram-keta"],
+          "wordIds": [
+            "gram-keta"
+          ],
           "answerId": "gram-keta"
         },
         {
           "id": "gram-L6-fb2",
           "type": "fill-blank",
           "prompt": "Malayo ya ing iskuwela ____. (The school is far from here.)",
-          "wordIds": ["gram-kareni"],
+          "wordIds": [
+            "gram-kareni"
+          ],
           "answerId": "gram-kareni"
         }
       ]
@@ -1160,14 +1275,22 @@
       "title": "More Articles, Pronouns, and Questions",
       "theme": "ring, yu, mo, yan, ano",
       "intro": "'ring' is an alternant of 'reng' (plural article). 'yu' is the 2pl actor enclitic (you all do X). 'mo' marks 2sg agency in non-actor-focus constructions (Lawen mo = you look). 'yan' is the distal demonstrative 'that'. 'Ano' means 'what'.",
-      "wordIds": ["gram-ring", "gram-yu", "gram-mo", "gram-yan", "gram-ano"],
+      "wordIds": [
+        "gram-ring",
+        "gram-yu",
+        "gram-mo",
+        "gram-yan",
+        "gram-ano"
+      ],
       "exercises": [
         {
           "id": "gram-L7-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does 'yu' mean?",
-          "wordIds": ["gram-yu"],
+          "wordIds": [
+            "gram-yu"
+          ],
           "answerId": "gram-yu"
         },
         {
@@ -1175,7 +1298,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does 'Ano' mean?",
-          "wordIds": ["gram-ano"],
+          "wordIds": [
+            "gram-ano"
+          ],
           "answerId": "gram-ano"
         },
         {
@@ -1183,7 +1308,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ninu ing Anak a yan?",
-          "wordIds": ["gram-yan"],
+          "wordIds": [
+            "gram-yan"
+          ],
           "accepted": [
             "who is that child?",
             "who is that child",
@@ -1196,7 +1323,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Ano ing sali mu?",
-          "wordIds": ["gram-ano"],
+          "wordIds": [
+            "gram-ano"
+          ],
           "accepted": [
             "what did you buy?",
             "what did you buy",
@@ -1208,21 +1337,27 @@
           "id": "gram-L7-fb1",
           "type": "fill-blank",
           "prompt": "Adwa ____ Kapatad ku. (I have two siblings.)",
-          "wordIds": ["gram-ring"],
+          "wordIds": [
+            "gram-ring"
+          ],
           "answerId": "gram-ring"
         },
         {
           "id": "gram-L7-fb2",
           "type": "fill-blank",
           "prompt": "Lawen ____ reng tau keti. (Look at the people here.)",
-          "wordIds": ["gram-mo"],
+          "wordIds": [
+            "gram-mo"
+          ],
           "answerId": "gram-mo"
         },
         {
           "id": "gram-L7-fb3",
           "type": "fill-blank",
           "prompt": "Saupan ____ ku pu. (Please help me, you all.)",
-          "wordIds": ["gram-yu"],
+          "wordIds": [
+            "gram-yu"
+          ],
           "answerId": "gram-yu"
         }
       ]
@@ -1232,14 +1367,20 @@
       "title": "Inclusive We, Oblique Plural, and Prevocalic I",
       "theme": "taku, karing, kung",
       "intro": "'taku' is the first-person inclusive plural (we = you + I). 'karing' is the oblique plural article (to/at/for the plural). 'kung' is the prevocalic form of 'ku' (I/me), used when followed by a vowel-initial word.",
-      "wordIds": ["gram-taku", "gram-karing", "gram-kung"],
+      "wordIds": [
+        "gram-taku",
+        "gram-karing",
+        "gram-kung"
+      ],
       "exercises": [
         {
           "id": "gram-L8-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does 'taku' mean?",
-          "wordIds": ["gram-taku"],
+          "wordIds": [
+            "gram-taku"
+          ],
           "answerId": "gram-taku"
         },
         {
@@ -1247,7 +1388,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does 'karing' mean?",
-          "wordIds": ["gram-karing"],
+          "wordIds": [
+            "gram-karing"
+          ],
           "answerId": "gram-karing"
         },
         {
@@ -1255,7 +1398,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Munta taku simbahan king duminggu.",
-          "wordIds": ["gram-taku"],
+          "wordIds": [
+            "gram-taku"
+          ],
           "accepted": [
             "let's go to church on sunday",
             "let's go to church on sunday.",
@@ -1268,7 +1413,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Bisa kung mangan.",
-          "wordIds": ["gram-kung"],
+          "wordIds": [
+            "gram-kung"
+          ],
           "accepted": [
             "i want to eat",
             "i want to eat.",
@@ -1280,14 +1427,18 @@
           "id": "gram-L8-fb1",
           "type": "fill-blank",
           "prompt": "Munta ____ simbahan king duminggu. (Let's go to church on Sunday.)",
-          "wordIds": ["gram-taku"],
+          "wordIds": [
+            "gram-taku"
+          ],
           "answerId": "gram-taku"
         },
         {
           "id": "gram-L8-fb2",
           "type": "fill-blank",
           "prompt": "Ibili yu ____ anak. (Buy for the children.)",
-          "wordIds": ["gram-karing"],
+          "wordIds": [
+            "gram-karing"
+          ],
           "answerId": "gram-karing"
         }
       ]
@@ -1306,7 +1457,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"kamu\" mean?",
-          "wordIds": ["gram-kamu"],
+          "wordIds": [
+            "gram-kamu"
+          ],
           "answerId": "gram-kamu"
         },
         {
@@ -1314,7 +1467,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Masaya kamu ngeni?",
-          "wordIds": ["gram-kamu"],
+          "wordIds": [
+            "gram-kamu"
+          ],
           "accepted": [
             "are you all happy now",
             "are you all happy now?",
@@ -1329,14 +1484,20 @@
       "title": "Dual & Oblique: kata, kanaku, sake",
       "theme": "dual inclusive pronoun, oblique 1sg, and emphatic 1sg",
       "intro": "Three specialized first-person pronouns: 'kata' (we two — dual inclusive, speaker + one other), 'kanaku' (to me/for me — oblique prepositional form), and 'sake' (I myself — emphatic). Together these fill out the Kapampangan pronoun system beyond the basic 'ku' and 'tamu'.",
-      "wordIds": ["gram-kata", "gram-kanaku", "gram-sake"],
+      "wordIds": [
+        "gram-kata",
+        "gram-kanaku",
+        "gram-sake"
+      ],
       "exercises": [
         {
           "id": "gram-L10-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"kata\" mean?",
-          "wordIds": ["gram-kata"],
+          "wordIds": [
+            "gram-kata"
+          ],
           "answerId": "gram-kata"
         },
         {
@@ -1344,7 +1505,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"kanaku\" mean?",
-          "wordIds": ["gram-kanaku"],
+          "wordIds": [
+            "gram-kanaku"
+          ],
           "answerId": "gram-kanaku"
         },
         {
@@ -1352,7 +1515,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"sake\" mean?",
-          "wordIds": ["gram-sake"],
+          "wordIds": [
+            "gram-sake"
+          ],
           "answerId": "gram-sake"
         },
         {
@@ -1360,7 +1525,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"to me\" or \"for me\"?",
-          "wordIds": ["gram-kanaku"],
+          "wordIds": [
+            "gram-kanaku"
+          ],
           "answerId": "gram-kanaku"
         },
         {
@@ -1368,7 +1535,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"we two\" or \"the two of us\"?",
-          "wordIds": ["gram-kata"],
+          "wordIds": [
+            "gram-kata"
+          ],
           "answerId": "gram-kata"
         },
         {
@@ -1376,7 +1545,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Munta kata king palengke.",
-          "wordIds": ["gram-kata"],
+          "wordIds": [
+            "gram-kata"
+          ],
           "accepted": [
             "the two of us will go to the market",
             "the two of us will go to the market.",
@@ -1391,7 +1562,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Para kanaku ya iti.",
-          "wordIds": ["gram-kanaku"],
+          "wordIds": [
+            "gram-kanaku"
+          ],
           "accepted": [
             "this is for me",
             "this is for me.",
@@ -1404,12 +1577,75 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Sake ku munta.",
-          "wordIds": ["gram-sake"],
+          "wordIds": [
+            "gram-sake"
+          ],
           "accepted": [
             "i myself will go",
             "i myself will go.",
             "i will go myself",
             "i will go myself."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gram-L11",
+      "title": "Remote Demonstrative: dita",
+      "theme": "pointing to things far away",
+      "intro": "'dita' is the Kapampangan remote demonstrative pronoun — it points to things far from both speaker and listener, equivalent to 'those (over there)'. The three-level system: 'iti' (this, near me), 'yan' (that, near you), 'dita' (those, far away).",
+      "wordIds": [
+        "gram-dita"
+      ],
+      "exercises": [
+        {
+          "id": "gram-L11-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"dita\" mean?",
+          "wordIds": [
+            "gram-dita"
+          ],
+          "answerId": "gram-dita"
+        },
+        {
+          "id": "gram-L11-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"those (far away)\"?",
+          "wordIds": [
+            "gram-dita"
+          ],
+          "answerId": "gram-dita"
+        },
+        {
+          "id": "gram-L11-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ninu la dita?",
+          "wordIds": [
+            "gram-dita"
+          ],
+          "accepted": [
+            "who are those",
+            "who are those?",
+            "who are those over there",
+            "who are those over there?"
+          ]
+        },
+        {
+          "id": "gram-L11-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Dita la reng anak.",
+          "wordIds": [
+            "gram-dita"
+          ],
+          "accepted": [
+            "those are the children",
+            "those are the children.",
+            "those ones are the children",
+            "those ones are the children."
           ]
         }
       ]

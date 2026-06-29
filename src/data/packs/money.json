@@ -365,6 +365,29 @@
         }
       ],
       "notes": "Base form of the Kapampangan verb for buying. Actor-focus form: meli (present/habitual). Past patient-focus form: sinali. 'Atin ku kwalta para seli' (I have money to buy). Attested in the Wikipedia Kapampangan article and multiple Kapampangan vocabulary sources."
+    },
+    {
+      "id": "mkt-lako",
+      "word": "lako",
+      "partOfSpeech": "noun",
+      "translations": [
+        "goods for sale",
+        "wares",
+        "merchandise",
+        "peddled goods"
+      ],
+      "relatedTagalog": "tinda / paninda",
+      "examples": [
+        {
+          "kp": "Maragul ya ing lako na king palengke.",
+          "en": "His wares at the market are plentiful."
+        },
+        {
+          "kp": "Atin dakal lako king tindahan.",
+          "en": "There are many goods in the store."
+        }
+      ],
+      "notes": "Refers to goods offered for sale, especially by a peddler or market vendor. Equivalent to Tagalog 'tinda' (goods for sale) or 'paninda'. Related verb: 'maglako' (to peddle/sell). A common word in market and trade contexts in Kapampangan. Confidence: high; attested in Kapampangan vocabulary sources."
     }
   ],
   "lessons": [
@@ -954,7 +977,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"sukli\" mean?",
-          "wordIds": ["mkt-sukli"],
+          "wordIds": [
+            "mkt-sukli"
+          ],
           "answerId": "mkt-sukli"
         },
         {
@@ -962,7 +987,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"debt\"?",
-          "wordIds": ["mkt-utang"],
+          "wordIds": [
+            "mkt-utang"
+          ],
           "answerId": "mkt-utang"
         },
         {
@@ -970,7 +997,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atin ku sukli king tindahan.",
-          "wordIds": ["mkt-sukli"],
+          "wordIds": [
+            "mkt-sukli"
+          ],
           "accepted": [
             "i have change at the store",
             "i have change at the store.",
@@ -985,14 +1014,18 @@
       "title": "Buying Things: seli",
       "theme": "purchasing and shopping",
       "intro": "'seli' is the base verb for buying in Kapampangan. The actor-focus form is 'meli' (present/habitual). When you say 'Seli me ing gulay', you are telling someone to buy the vegetables. 'Atin ku kwalta para seli' means 'I have money to buy things'.",
-      "wordIds": ["mkt-seli"],
+      "wordIds": [
+        "mkt-seli"
+      ],
       "exercises": [
         {
           "id": "mkt-8-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"seli\" mean?",
-          "wordIds": ["mkt-seli"],
+          "wordIds": [
+            "mkt-seli"
+          ],
           "answerId": "mkt-seli"
         },
         {
@@ -1000,7 +1033,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"to buy\"?",
-          "wordIds": ["mkt-seli"],
+          "wordIds": [
+            "mkt-seli"
+          ],
           "answerId": "mkt-seli"
         },
         {
@@ -1008,7 +1043,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Seli kami manuk king palengke.",
-          "wordIds": ["mkt-seli"],
+          "wordIds": [
+            "mkt-seli"
+          ],
           "accepted": [
             "we buy chicken at the market",
             "we buy chicken at the market.",
@@ -1021,12 +1058,62 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Seli me ing gulay.",
-          "wordIds": ["mkt-seli"],
+          "wordIds": [
+            "mkt-seli"
+          ],
           "accepted": [
             "buy the vegetables",
             "buy the vegetables.",
             "buy the vegetable",
             "buy the vegetable."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkt-9",
+      "title": "Goods for Sale: lako",
+      "theme": "market wares and merchandise",
+      "intro": "'lako' refers to goods offered for sale — wares, merchandise, or peddled items. 'Maragul ya ing lako na king palengke' means his wares at the market are plentiful. The related verb 'maglako' means to peddle or sell.",
+      "wordIds": [
+        "mkt-lako"
+      ],
+      "exercises": [
+        {
+          "id": "mkt-9-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"lako\" mean?",
+          "wordIds": [
+            "mkt-lako"
+          ],
+          "answerId": "mkt-lako"
+        },
+        {
+          "id": "mkt-9-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"goods for sale\" or \"wares\"?",
+          "wordIds": [
+            "mkt-lako"
+          ],
+          "answerId": "mkt-lako"
+        },
+        {
+          "id": "mkt-9-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin dakal lako king tindahan.",
+          "wordIds": [
+            "mkt-lako"
+          ],
+          "accepted": [
+            "there are many goods in the store",
+            "there are many goods in the store.",
+            "there is a lot of merchandise in the store",
+            "there is a lot of merchandise in the store.",
+            "there are many wares in the store",
+            "there are many wares in the store."
           ]
         }
       ]

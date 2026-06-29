@@ -211,6 +211,27 @@
         }
       ],
       "notes": "Spanish loanword from 'temperatura', shared across Philippine languages. Used in weather reports and health contexts."
+    },
+    {
+      "id": "dl-labhan",
+      "word": "labhan",
+      "partOfSpeech": "verb",
+      "translations": [
+        "to wash (clothes)",
+        "to do laundry"
+      ],
+      "relatedTagalog": "maglaba",
+      "examples": [
+        {
+          "kp": "Labhan ku ing damit ngeni.",
+          "en": "I will wash the clothes today."
+        },
+        {
+          "kp": "Labhan me ding damit mu.",
+          "en": "Wash your clothes."
+        }
+      ],
+      "notes": "The Kapampangan verb for washing clothes / doing laundry. Equivalent to Tagalog 'maglaba'. The root 'laba' is shared with Tagalog; the Kapampangan form takes the -an suffix in this usage. 'Labhan' refers specifically to washing garments, distinct from washing dishes (mangalinis) or bathing (maligo)."
     }
   ],
   "lessons": [
@@ -523,6 +544,54 @@
             "the temperature is high now.",
             "the temperature is hot now",
             "the temperature is hot now."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dl-4",
+      "title": "Laundry: labhan",
+      "theme": "household chores and daily tasks",
+      "intro": "'labhan' is the Kapampangan verb meaning to wash clothes or do laundry. 'Labhan ku ing damit ngeni' means I will wash the clothes today. It is related to Tagalog 'maglaba' and shares the root 'laba'.",
+      "wordIds": [
+        "dl-labhan"
+      ],
+      "exercises": [
+        {
+          "id": "dl-4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"labhan\" mean?",
+          "wordIds": [
+            "dl-labhan"
+          ],
+          "answerId": "dl-labhan"
+        },
+        {
+          "id": "dl-4-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"to wash clothes\"?",
+          "wordIds": [
+            "dl-labhan"
+          ],
+          "answerId": "dl-labhan"
+        },
+        {
+          "id": "dl-4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Labhan ku ing damit ngeni.",
+          "wordIds": [
+            "dl-labhan"
+          ],
+          "accepted": [
+            "i will wash the clothes today",
+            "i will wash the clothes today.",
+            "i am washing the clothes today",
+            "i am washing the clothes today.",
+            "i will do the laundry today",
+            "i will do the laundry today."
           ]
         }
       ]

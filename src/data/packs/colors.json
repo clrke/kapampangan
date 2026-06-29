@@ -373,7 +373,9 @@
       "id": "col-mapula",
       "word": "mapula",
       "partOfSpeech": "adjective",
-      "translations": ["red"],
+      "translations": [
+        "red"
+      ],
       "relatedTagalog": "pula",
       "examples": [
         {
@@ -386,6 +388,28 @@
         }
       ],
       "notes": "Tagalog-derived form of 'red' used alongside the native Kapampangan 'malutu'. Both forms are attested in Kapampangan speech; 'malutu' is the older native form while 'mapula' follows the Tagalog root 'pula'. Learners should know both."
+    },
+    {
+      "id": "col-makulay",
+      "word": "makulay",
+      "partOfSpeech": "adjective",
+      "translations": [
+        "colorful",
+        "vibrant",
+        "bright-colored"
+      ],
+      "relatedTagalog": "makulay",
+      "examples": [
+        {
+          "kp": "Makulay ya ing pista.",
+          "en": "The festival is colorful."
+        },
+        {
+          "kp": "Makulay ya ing damit na.",
+          "en": "Her dress is colorful."
+        }
+      ],
+      "notes": "From 'kulay' (color) with the ma- prefix forming a stative adjective meaning 'having color, colorful'. Shared with Tagalog 'makulay'. Used to describe anything vivid, multi-colored, or visually vibrant — fiestas, clothing, decorations. The ma- + root pattern is the standard Kapampangan and Tagalog adjective formation: makulay, maliwanag, maputi, etc."
     }
   ],
   "lessons": [
@@ -993,14 +1017,18 @@
       "title": "Red: mapula",
       "theme": "the Tagalog-derived red alongside native malutu",
       "intro": "'Mapula' is the Tagalog-derived word for red, used alongside the native Kapampangan 'malutu'. Both are attested in Kapampangan speech. Knowing 'mapula' helps when code-switching with Tagalog speakers.",
-      "wordIds": ["col-mapula"],
+      "wordIds": [
+        "col-mapula"
+      ],
       "exercises": [
         {
           "id": "col-7-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"mapula\" mean?",
-          "wordIds": ["col-mapula"],
+          "wordIds": [
+            "col-mapula"
+          ],
           "answerId": "col-mapula"
         },
         {
@@ -1008,7 +1036,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"red\" (Tagalog-derived form)?",
-          "wordIds": ["col-mapula"],
+          "wordIds": [
+            "col-mapula"
+          ],
           "answerId": "col-mapula"
         },
         {
@@ -1016,10 +1046,75 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Mapula ya ing bulaklak.",
-          "wordIds": ["col-mapula"],
+          "wordIds": [
+            "col-mapula"
+          ],
           "accepted": [
             "the flower is red",
             "the flower is red."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "col-8",
+      "title": "Colorful: makulay",
+      "theme": "vividness and multi-color",
+      "intro": "'makulay' means colorful or vibrant — full of color. It is formed from 'kulay' (color) with the ma- prefix. 'Makulay ya ing pista' means the festival is colorful.",
+      "wordIds": [
+        "col-makulay"
+      ],
+      "exercises": [
+        {
+          "id": "col-8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"makulay\" mean?",
+          "wordIds": [
+            "col-makulay"
+          ],
+          "answerId": "col-makulay"
+        },
+        {
+          "id": "col-8-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"colorful\"?",
+          "wordIds": [
+            "col-makulay"
+          ],
+          "answerId": "col-makulay"
+        },
+        {
+          "id": "col-8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Makulay ya ing pista.",
+          "wordIds": [
+            "col-makulay"
+          ],
+          "accepted": [
+            "the festival is colorful",
+            "the festival is colorful.",
+            "the fiesta is colorful",
+            "the fiesta is colorful."
+          ]
+        },
+        {
+          "id": "col-8-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Makulay ya ing damit na.",
+          "wordIds": [
+            "col-makulay"
+          ],
+          "accepted": [
+            "her dress is colorful",
+            "her dress is colorful.",
+            "his dress is colorful",
+            "his dress is colorful.",
+            "her clothes are colorful",
+            "her clothes are colorful."
           ]
         }
       ]
