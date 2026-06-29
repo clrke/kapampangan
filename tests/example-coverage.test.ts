@@ -68,7 +68,7 @@ const KP_BACKLOG = [
   'kapiganakan',
   'kasuyuan', 'keku',
   'kuwarta', 'labas', 'labhan', 'labuad', 'lagyan',
-  'lako', 'linisan',
+  'lako', 'laro', 'linisan',
   'lubu-lubu', 'lulusong', 'lumakad', 'lumalukbad', 'lumaluksad', 'lumwal', 'luto', 'lutuan',
   'mabilisan', 'magbayad', 'magbie', 'maging', 'magkayli',
   'magluto', 'magobra', 'magpakalugud', 'magsalita', 'maguimbal', 'magwanan', 'makapantag',
