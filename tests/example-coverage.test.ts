@@ -88,7 +88,7 @@ const KP_BACKLOG = [
   'sangdominggo', 'sasara', 'sinadsad', 'sinali',
   'sinalita', 'sinaul', 'susulat', 'susunud',
   'talaturung', 'tanaman', 'tang',
-  'tulog', 'tulungan', 'tumakbu', 'tumawag', 'tutuki', 'tutulung', 'tutulungan',
+  'tulog', 'tukud', 'tulungan', 'tumakbu', 'tumawag', 'tutuki', 'tutulung', 'tutulungan',
   'yang',
 ]
 
