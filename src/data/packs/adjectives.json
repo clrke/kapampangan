@@ -480,6 +480,78 @@
       "notes": "Kapampangan adjective/verb meaning full or filled. 'Pun na' means 'already full'. 'Pun me' is the imperative meaning 'fill it'. Related to Tagalog 'puno' (full). 'Baldi' (bucket) and 'danum' (water) are both defined Kapampangan words."
     },
     {
+      "id": "adj-mabala",
+      "word": "mabala",
+      "partOfSpeech": "adjective",
+      "translations": ["heavy", "weighty", "serious"],
+      "relatedTagalog": "mabigat",
+      "examples": [
+        {
+          "kp": "Mabala ya ing bag na.",
+          "en": "Her bag is heavy."
+        },
+        {
+          "kp": "Mabala ya ing trabahu na ngeni.",
+          "en": "Her work today is heavy/serious."
+        }
+      ],
+      "notes": "Native Kapampangan adjective meaning heavy, weighty, or serious. Used for physical weight ('mabala ing bag') and figurative weight ('mabala ing trabahu'). Equivalent to Tagalog 'mabigat'."
+    },
+    {
+      "id": "adj-mabangis",
+      "word": "mabangis",
+      "partOfSpeech": "adjective",
+      "translations": ["fierce", "wild", "ferocious", "dangerous"],
+      "relatedTagalog": "mabangis",
+      "examples": [
+        {
+          "kp": "Mabangis ya ing asu.",
+          "en": "The dog is fierce."
+        },
+        {
+          "kp": "Mabangis ya ing manuk.",
+          "en": "The rooster is aggressive."
+        }
+      ],
+      "notes": "Kapampangan adjective for fierce, wild, or dangerous animals and people. Shared form with Tagalog 'mabangis'."
+    },
+    {
+      "id": "adj-mabatu",
+      "word": "mabatu",
+      "partOfSpeech": "adjective",
+      "translations": ["hard", "stony", "rocky"],
+      "relatedTagalog": "matigas / bato",
+      "examples": [
+        {
+          "kp": "Mabatu ya ing dalan.",
+          "en": "The road is rocky."
+        },
+        {
+          "kp": "Mabatu ya ing pader.",
+          "en": "The wall is hard."
+        }
+      ],
+      "notes": "From 'batu' (stone) + ma- prefix. Describes something with the quality of stone: hard, rocky, or stony. Equivalent to Tagalog 'matigas' (hard) or 'mabato' (stony)."
+    },
+    {
+      "id": "adj-mabeyak",
+      "word": "mabeyak",
+      "partOfSpeech": "adjective",
+      "translations": ["wide", "broad", "expansive", "open"],
+      "relatedTagalog": "malawak",
+      "examples": [
+        {
+          "kp": "Mabeyak ya ing dalan.",
+          "en": "The road is wide."
+        },
+        {
+          "kp": "Mabeyak ya ing palayan.",
+          "en": "The rice field is expansive."
+        }
+      ],
+      "notes": "Kapampangan adjective emphasizing breadth and openness. Variant: 'mabiyak'. Differs from 'malapad' (flat/wide surface); 'mabeyak' stresses open expanse. Equivalent to Tagalog 'malawak'."
+    },
+    {
       "id": "adj-keraklan",
       "word": "keraklan",
       "partOfSpeech": "determiner",
@@ -1312,6 +1384,106 @@
             "the majority of them are happy.",
             "most of them are cheerful",
             "most of them are cheerful."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj-11",
+      "title": "Heavy, Fierce, Hard & Wide",
+      "theme": "weight, danger, texture, and space",
+      "intro": "Four 'ma-' adjectives covering physical properties and demeanor: 'mabala' (heavy/serious), 'mabangis' (fierce/wild), 'mabatu' (hard/rocky, from batu meaning stone), and 'mabeyak' (wide/expansive). Notice that 'mabeyak' differs from 'malapad' — it stresses openness rather than flat surface area.",
+      "wordIds": ["adj-mabala", "adj-mabangis", "adj-mabatu", "adj-mabeyak"],
+      "exercises": [
+        {
+          "id": "adj-11-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mabala\" mean?",
+          "wordIds": ["adj-mabala"],
+          "answerId": "adj-mabala"
+        },
+        {
+          "id": "adj-11-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mabangis\" mean?",
+          "wordIds": ["adj-mabangis"],
+          "answerId": "adj-mabangis"
+        },
+        {
+          "id": "adj-11-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mabatu\" mean?",
+          "wordIds": ["adj-mabatu"],
+          "answerId": "adj-mabatu"
+        },
+        {
+          "id": "adj-11-mc4",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mabeyak\" mean?",
+          "wordIds": ["adj-mabeyak"],
+          "answerId": "adj-mabeyak"
+        },
+        {
+          "id": "adj-11-mc5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"heavy\" or \"serious\"?",
+          "wordIds": ["adj-mabala"],
+          "answerId": "adj-mabala"
+        },
+        {
+          "id": "adj-11-mc6",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"fierce\" or \"wild\"?",
+          "wordIds": ["adj-mabangis"],
+          "answerId": "adj-mabangis"
+        },
+        {
+          "id": "adj-11-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mabala ya ing bag na.",
+          "wordIds": ["adj-mabala"],
+          "accepted": [
+            "her bag is heavy",
+            "her bag is heavy.",
+            "his bag is heavy",
+            "his bag is heavy."
+          ]
+        },
+        {
+          "id": "adj-11-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mabangis ya ing asu.",
+          "wordIds": ["adj-mabangis"],
+          "accepted": [
+            "the dog is fierce",
+            "the dog is fierce.",
+            "the dog is ferocious",
+            "the dog is ferocious.",
+            "the dog is wild",
+            "the dog is wild."
+          ]
+        },
+        {
+          "id": "adj-11-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mabeyak ya ing palayan.",
+          "wordIds": ["adj-mabeyak"],
+          "accepted": [
+            "the rice field is wide",
+            "the rice field is wide.",
+            "the rice field is expansive",
+            "the rice field is expansive.",
+            "the rice field is broad",
+            "the rice field is broad."
           ]
         }
       ]

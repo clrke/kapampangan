@@ -368,6 +368,24 @@
         }
       ],
       "notes": "Confirmed in tagaloglang.com and pdfcoffee vocabulary sources as the Kapampangan word for 'ugly' (Tagalog pangit). Used in contrast with malagu and masanting."
+    },
+    {
+      "id": "col-mapula",
+      "word": "mapula",
+      "partOfSpeech": "adjective",
+      "translations": ["red"],
+      "relatedTagalog": "pula",
+      "examples": [
+        {
+          "kp": "Mapula ya ing bulaklak.",
+          "en": "The flower is red."
+        },
+        {
+          "kp": "Mapula ya ing damit na.",
+          "en": "Her dress is red."
+        }
+      ],
+      "notes": "Tagalog-derived form of 'red' used alongside the native Kapampangan 'malutu'. Both forms are attested in Kapampangan speech; 'malutu' is the older native form while 'mapula' follows the Tagalog root 'pula'. Learners should know both."
     }
   ],
   "lessons": [
@@ -966,6 +984,42 @@
             {
               "wordId": "col-matua"
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "col-7",
+      "title": "Red: mapula",
+      "theme": "the Tagalog-derived red alongside native malutu",
+      "intro": "'Mapula' is the Tagalog-derived word for red, used alongside the native Kapampangan 'malutu'. Both are attested in Kapampangan speech. Knowing 'mapula' helps when code-switching with Tagalog speakers.",
+      "wordIds": ["col-mapula"],
+      "exercises": [
+        {
+          "id": "col-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"mapula\" mean?",
+          "wordIds": ["col-mapula"],
+          "answerId": "col-mapula"
+        },
+        {
+          "id": "col-7-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"red\" (Tagalog-derived form)?",
+          "wordIds": ["col-mapula"],
+          "answerId": "col-mapula"
+        },
+        {
+          "id": "col-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mapula ya ing bulaklak.",
+          "wordIds": ["col-mapula"],
+          "accepted": [
+            "the flower is red",
+            "the flower is red."
           ]
         }
       ]

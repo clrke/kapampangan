@@ -391,6 +391,24 @@
         }
       ],
       "notes": "Derived from Spanish 'domingo' (Sunday), which in Kapampangan became the word for both Sunday (duminggu) and a week unit (linggu). Parallel to Tagalog 'linggo' for week."
+    },
+    {
+      "id": "time-panaun",
+      "word": "panaun",
+      "partOfSpeech": "noun",
+      "translations": ["season", "era", "period", "age"],
+      "relatedTagalog": "panahon",
+      "examples": [
+        {
+          "kp": "Ing panaun ning uran malugay ya.",
+          "en": "The rainy season is long."
+        },
+        {
+          "kp": "King panaun nang ngeni.",
+          "en": "In this day and age."
+        }
+      ],
+      "notes": "Kapampangan temporal noun meaning season, era, or period. A variant of 'panahon' (already in this pack) with a distinct Kapampangan phonological form. 'Panaun ning uran' = rainy season. 'King panaun nang ngeni' = in this day and age / in modern times."
     }
   ],
   "lessons": [
@@ -1040,6 +1058,46 @@
             "it has been three weeks already.",
             "three weeks already",
             "three weeks."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time-8",
+      "title": "Season & Era: panaun",
+      "theme": "temporal scope — seasons, eras, and periods",
+      "intro": "'Panaun' is the Kapampangan form of 'panahon' meaning season, era, or period of time. Use it to talk about seasons ('panaun ning uran' = rainy season) or epochs ('king panaun nang ngeni' = in this day and age).",
+      "wordIds": ["time-panaun"],
+      "exercises": [
+        {
+          "id": "time-8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"panaun\" mean?",
+          "wordIds": ["time-panaun"],
+          "answerId": "time-panaun"
+        },
+        {
+          "id": "time-8-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"season\" or \"era\"?",
+          "wordIds": ["time-panaun"],
+          "answerId": "time-panaun"
+        },
+        {
+          "id": "time-8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ing panaun ning uran malugay ya.",
+          "wordIds": ["time-panaun"],
+          "accepted": [
+            "the rainy season is long",
+            "the rainy season is long.",
+            "the rainy season is lengthy",
+            "the rainy season is lengthy.",
+            "the rainy season is slow",
+            "the rainy season is slow."
           ]
         }
       ]

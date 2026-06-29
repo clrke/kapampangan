@@ -455,6 +455,60 @@
         }
       ],
       "notes": "Shared Philippine word ultimately from Sanskrit 'viyaya' or related root, conveying grace, blessing, or divine gift. Used in religious and everyday contexts. Both Kapampangan and Tagalog use 'biyaya' for God's blessing or a benefactor's grace."
+    },
+    {
+      "id": "ev-entabladu",
+      "word": "entabladu",
+      "partOfSpeech": "noun",
+      "translations": ["stage", "platform", "raised floor"],
+      "relatedTagalog": "entablado",
+      "examples": [
+        {
+          "kp": "Maragul ya ing entabladu.",
+          "en": "The stage is big."
+        },
+        {
+          "kp": "Munta ya king entabladu ing lalaki.",
+          "en": "The man goes up on stage."
+        }
+      ],
+      "notes": "From Spanish 'entablado' (planked floor/stage). Refers to a raised platform or stage, commonly used for performances, ceremonies, and public events. Widely used in Kapampangan alongside Tagalog 'entablado'."
+    },
+    {
+      "id": "ev-pamasahe",
+      "word": "pamasahe",
+      "partOfSpeech": "noun",
+      "translations": ["fare", "transportation cost", "passage fee"],
+      "relatedTagalog": "pamasahe",
+      "examples": [
+        {
+          "kp": "Magkanu ing pamasahe?",
+          "en": "How much is the fare?"
+        },
+        {
+          "kp": "Atin ku pamasahe para king byahe.",
+          "en": "I have fare for the trip."
+        }
+      ],
+      "notes": "Tagalog-derived word widely used in Kapampangan for transportation fare. Refers to the cost of a trip by bus, jeepney, tricycle, or any vehicle. 'Magkanu ing pamasahe?' is a standard question when boarding any form of public transport."
+    },
+    {
+      "id": "ev-panalung",
+      "word": "panalung",
+      "partOfSpeech": "noun",
+      "translations": ["prize", "reward", "winnings"],
+      "relatedTagalog": "premyo / panalo",
+      "examples": [
+        {
+          "kp": "Maragul ya ing panalung da.",
+          "en": "Their prize is big."
+        },
+        {
+          "kp": "Atin panalung king laro.",
+          "en": "There is a prize in the game."
+        }
+      ],
+      "notes": "From the root 'nalung' (to win). 'Manalung' = to win; 'panalung' = the prize/winnings. Used for competitions, games, and contests. Equivalent to Tagalog 'panalo' (winnings) or 'premyo' (prize)."
     }
   ],
   "lessons": [
@@ -1025,6 +1079,94 @@
           "pairs": [
             {"wordId": "ev-bag"},
             {"wordId": "ev-biyaya"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-7",
+      "title": "Stage, Fare & Prize",
+      "theme": "public life: performances, transport, and competition",
+      "intro": "Three words for public life: 'entabladu' (stage/platform, from Spanish 'entablado'), 'pamasahe' (fare/transportation cost), and 'panalung' (prize/winnings, from the root manalung meaning to win). These come up at festivals, on jeepneys, and at competitions.",
+      "wordIds": ["ev-entabladu", "ev-pamasahe", "ev-panalung"],
+      "exercises": [
+        {
+          "id": "ev-7-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"entabladu\" mean?",
+          "wordIds": ["ev-entabladu"],
+          "answerId": "ev-entabladu"
+        },
+        {
+          "id": "ev-7-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"pamasahe\" mean?",
+          "wordIds": ["ev-pamasahe"],
+          "answerId": "ev-pamasahe"
+        },
+        {
+          "id": "ev-7-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"panalung\" mean?",
+          "wordIds": ["ev-panalung"],
+          "answerId": "ev-panalung"
+        },
+        {
+          "id": "ev-7-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"fare\" or \"transportation cost\"?",
+          "wordIds": ["ev-pamasahe"],
+          "answerId": "ev-pamasahe"
+        },
+        {
+          "id": "ev-7-mc5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"stage\" or \"platform\"?",
+          "wordIds": ["ev-entabladu"],
+          "answerId": "ev-entabladu"
+        },
+        {
+          "id": "ev-7-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Magkanu ing pamasahe?",
+          "wordIds": ["ev-pamasahe"],
+          "accepted": [
+            "how much is the fare",
+            "how much is the fare?",
+            "how much is the transportation cost",
+            "how much is the transportation cost?"
+          ]
+        },
+        {
+          "id": "ev-7-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing panalung da.",
+          "wordIds": ["ev-panalung"],
+          "accepted": [
+            "their prize is big",
+            "their prize is big.",
+            "their winnings are big",
+            "their winnings are big."
+          ]
+        },
+        {
+          "id": "ev-7-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing entabladu.",
+          "wordIds": ["ev-entabladu"],
+          "accepted": [
+            "the stage is big",
+            "the stage is big.",
+            "the platform is big",
+            "the platform is big."
           ]
         }
       ]

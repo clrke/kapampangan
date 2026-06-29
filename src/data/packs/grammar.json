@@ -567,6 +567,60 @@
         }
       ],
       "notes": "An alternative 2nd-person plural absolutive pronoun alongside 'kayu'. Derived from Proto-Malayo-Polynesian *kamu(ʔ) (you plural), making it the etymologically older form. In contemporary Kapampangan, 'kayu' is more standard and also carries the polite singular function; 'kamu' appears in informal speech and in older or more traditional registers. Learners should prioritize 'kayu' but recognize 'kamu' when encountered."
+    },
+    {
+      "id": "gram-kata",
+      "word": "kata",
+      "partOfSpeech": "pronoun",
+      "translations": ["we two", "the two of us"],
+      "relatedTagalog": "tayong dalawa",
+      "examples": [
+        {
+          "kp": "Munta kata king palengke.",
+          "en": "The two of us will go to the market."
+        },
+        {
+          "kp": "Atin kata trabahu ngeni.",
+          "en": "The two of us have work today."
+        }
+      ],
+      "notes": "First-person dual inclusive pronoun — speaker plus exactly one other person. Equivalent to Tagalog 'tayong dalawa'. Distinct from 'tamu' (we inclusive, more than two) and 'kami' (we exclusive). Relatively rare in modern speech but important for completeness."
+    },
+    {
+      "id": "gram-kanaku",
+      "word": "kanaku",
+      "partOfSpeech": "pronoun",
+      "translations": ["to me", "for me", "mine"],
+      "relatedTagalog": "sa akin",
+      "examples": [
+        {
+          "kp": "Ibili me kanaku ing libru.",
+          "en": "Buy me the book."
+        },
+        {
+          "kp": "Para kanaku ya iti.",
+          "en": "This is for me."
+        }
+      ],
+      "notes": "Oblique (prepositional) first-person singular pronoun. Used after prepositions like 'para' (for) and directional verbs. Equivalent to Tagalog 'sa akin'. Contrast with 'ku' (absolutive/genitive I/my)."
+    },
+    {
+      "id": "gram-sake",
+      "word": "sake",
+      "partOfSpeech": "pronoun",
+      "translations": ["I (emphatic)", "me (myself)"],
+      "relatedTagalog": "ako mismo",
+      "examples": [
+        {
+          "kp": "Sake ku munta.",
+          "en": "I myself will go."
+        },
+        {
+          "kp": "Para sake ya iti.",
+          "en": "This is for me myself."
+        }
+      ],
+      "notes": "Emphatic first-person singular pronoun. Used when the speaker wants to stress personal agency or contrast: 'I (and not someone else)'. Equivalent to Tagalog 'ako mismo'. Often appears with 'ku' in the same clause: 'Sake ku...' = 'I myself...'."
     }
   ],
   "lessons": [
@@ -1266,6 +1320,96 @@
             "are you all happy now?",
             "are you happy now",
             "are you happy now?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gram-L10",
+      "title": "Dual & Oblique: kata, kanaku, sake",
+      "theme": "dual inclusive pronoun, oblique 1sg, and emphatic 1sg",
+      "intro": "Three specialized first-person pronouns: 'kata' (we two — dual inclusive, speaker + one other), 'kanaku' (to me/for me — oblique prepositional form), and 'sake' (I myself — emphatic). Together these fill out the Kapampangan pronoun system beyond the basic 'ku' and 'tamu'.",
+      "wordIds": ["gram-kata", "gram-kanaku", "gram-sake"],
+      "exercises": [
+        {
+          "id": "gram-L10-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kata\" mean?",
+          "wordIds": ["gram-kata"],
+          "answerId": "gram-kata"
+        },
+        {
+          "id": "gram-L10-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kanaku\" mean?",
+          "wordIds": ["gram-kanaku"],
+          "answerId": "gram-kanaku"
+        },
+        {
+          "id": "gram-L10-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"sake\" mean?",
+          "wordIds": ["gram-sake"],
+          "answerId": "gram-sake"
+        },
+        {
+          "id": "gram-L10-mc4",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"to me\" or \"for me\"?",
+          "wordIds": ["gram-kanaku"],
+          "answerId": "gram-kanaku"
+        },
+        {
+          "id": "gram-L10-mc5",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"we two\" or \"the two of us\"?",
+          "wordIds": ["gram-kata"],
+          "answerId": "gram-kata"
+        },
+        {
+          "id": "gram-L10-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta kata king palengke.",
+          "wordIds": ["gram-kata"],
+          "accepted": [
+            "the two of us will go to the market",
+            "the two of us will go to the market.",
+            "we two will go to the market",
+            "we two will go to the market.",
+            "let's go to the market",
+            "let's go to the market."
+          ]
+        },
+        {
+          "id": "gram-L10-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Para kanaku ya iti.",
+          "wordIds": ["gram-kanaku"],
+          "accepted": [
+            "this is for me",
+            "this is for me.",
+            "it is for me",
+            "it is for me."
+          ]
+        },
+        {
+          "id": "gram-L10-tr3",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sake ku munta.",
+          "wordIds": ["gram-sake"],
+          "accepted": [
+            "i myself will go",
+            "i myself will go.",
+            "i will go myself",
+            "i will go myself."
           ]
         }
       ]
