@@ -451,7 +451,7 @@
       "relatedTagalog": "ampalaya",
       "examples": [
         {
-          "kp": "Maniaman ya ing karela.",
+          "kp": "Manyaman ya ing karela.",
           "en": "The bitter gourd is delicious."
         },
         {
@@ -1216,7 +1216,7 @@
           "id": "food-9-tr1",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Maniaman ya ing tinape.",
+          "prompt": "Manyaman ya ing tinape.",
           "wordIds": ["food-tinape"],
           "accepted": [
             "the bread is delicious",
