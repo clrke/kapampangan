@@ -386,6 +386,24 @@
       "notes": "Tagalog-origin spelling variant of native Kapampangan 'asu'. Both forms are used in modern Kapampangan writing; 'aso' reflects Tagalog influence while 'asu' is the traditional Kapampangan form."
     },
     {
+      "id": "anim-ilaga",
+      "word": "ilaga",
+      "partOfSpeech": "noun",
+      "translations": ["rat", "mouse"],
+      "relatedTagalog": "daga / ilaga",
+      "examples": [
+        {
+          "kp": "Atin ilaga king bale mi.",
+          "en": "There is a rat in our house."
+        },
+        {
+          "kp": "Maragul ya ing ilaga.",
+          "en": "The rat is big."
+        }
+      ],
+      "notes": "Native Kapampangan word for rat or mouse. Distinct variant from 'dagis'; 'ilaga' appears in many modern and informal Kapampangan texts and is cognate with Tagalog 'ilaga'."
+    },
+    {
       "id": "anim-elepante",
       "word": "elepante",
       "partOfSpeech": "noun",
@@ -1013,6 +1031,44 @@
             {
               "wordId": "anim-kamaru"
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anim-8",
+      "title": "The Rat",
+      "theme": "ilaga — rat/mouse",
+      "intro": "'ilaga' is the Kapampangan word for rat or mouse. While 'dagis' is another attested form, 'ilaga' is widely used in modern Kapampangan and is cognate with Tagalog 'ilaga'.",
+      "wordIds": ["anim-ilaga"],
+      "exercises": [
+        {
+          "id": "anim-8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"ilaga\" mean?",
+          "wordIds": ["anim-ilaga"],
+          "answerId": "anim-ilaga"
+        },
+        {
+          "id": "anim-8-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"rat\"?",
+          "wordIds": ["anim-ilaga"],
+          "answerId": "anim-ilaga"
+        },
+        {
+          "id": "anim-8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin ilaga king bale mi.",
+          "wordIds": ["anim-ilaga"],
+          "accepted": [
+            "there is a rat in our house",
+            "there is a mouse in our house",
+            "there is a rat in our home",
+            "there is a mouse in our home"
           ]
         }
       ]

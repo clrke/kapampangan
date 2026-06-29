@@ -442,6 +442,24 @@
         }
       ],
       "notes": "The Kapampangan form of the common Philippine word for bread. The root derives from 'tapay' (to knead). The Kapampangan spelling 'tinape' reflects the characteristic vowel shift from Tagalog 'tinapay'. Widely attested in Kapampangan culinary writing and already appears in example sentences in other lessons in this pack."
+    },
+    {
+      "id": "food-karela",
+      "word": "karela",
+      "partOfSpeech": "noun",
+      "translations": ["bitter gourd", "ampalaya", "bitter melon"],
+      "relatedTagalog": "ampalaya",
+      "examples": [
+        {
+          "kp": "Maniaman ya ing karela.",
+          "en": "The bitter gourd is delicious."
+        },
+        {
+          "kp": "Atin kami karela king tanaman.",
+          "en": "We have bitter gourd in the garden."
+        }
+      ],
+      "notes": "The Kapampangan word for bitter gourd (Momordica charantia). Known as 'ampalaya' in Tagalog. A staple vegetable in Kapampangan cooking, used in dishes like pinakbet and ginataan. 'Karela' is the Kapampangan form; the word ultimately traces to Sanskrit via trade routes."
     }
   ],
   "lessons": [
@@ -1205,6 +1223,45 @@
             "the bread is delicious.",
             "the bread is tasty",
             "the bread is tasty."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "food-10",
+      "title": "Bitter Gourd",
+      "theme": "karela — bitter gourd / ampalaya",
+      "intro": "'karela' is the Kapampangan word for bitter gourd (known as 'ampalaya' in Tagalog). It is a beloved vegetable in Kapampangan cooking despite its strong bitter taste.",
+      "wordIds": ["food-karela"],
+      "exercises": [
+        {
+          "id": "food-10-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"karela\" mean?",
+          "wordIds": ["food-karela"],
+          "answerId": "food-karela"
+        },
+        {
+          "id": "food-10-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"bitter gourd\"?",
+          "wordIds": ["food-karela"],
+          "answerId": "food-karela"
+        },
+        {
+          "id": "food-10-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maniaman ya ing karela.",
+          "wordIds": ["food-karela"],
+          "accepted": [
+            "the bitter gourd is delicious",
+            "the bitter melon is delicious",
+            "the ampalaya is delicious",
+            "the bitter gourd is tasty",
+            "the bitter melon is tasty"
           ]
         }
       ]

@@ -410,6 +410,24 @@
         }
       ],
       "notes": "The standard Kapampangan word for head hair. The Kapampangan form 'buhuk' contrasts with Tagalog 'buhok'. Confirmed in multiple Kapampangan body-parts vocabulary lists and the Dialects101 Kapampangan body parts resource. Refers specifically to hair of the head."
+    },
+    {
+      "id": "body-balat",
+      "word": "balat",
+      "partOfSpeech": "noun",
+      "translations": ["skin", "peel", "bark", "hide"],
+      "relatedTagalog": "balat / balat (balat ng prutas)",
+      "examples": [
+        {
+          "kp": "Maluad ya ing balat na.",
+          "en": "His/her skin is smooth."
+        },
+        {
+          "kp": "Maitum ya ing balat ning prutas.",
+          "en": "The skin of the fruit is dark."
+        }
+      ],
+      "notes": "Native Kapampangan word shared with Tagalog. Means skin (of a person or animal), peel (of fruit), or bark (of a tree). The same root covers skin and outer covering broadly."
     }
   ],
   "lessons": [
@@ -1105,6 +1123,43 @@
             "her hair is black.",
             "his hair is black",
             "his hair is black."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "body-9",
+      "title": "Skin & Peel",
+      "theme": "balat — skin, peel, bark",
+      "intro": "'balat' means skin (of a person or animal), peel (of fruit), or bark (of a tree). It is a shared Philippine word covering all kinds of outer coverings.",
+      "wordIds": ["body-balat"],
+      "exercises": [
+        {
+          "id": "body-9-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"balat\" mean?",
+          "wordIds": ["body-balat"],
+          "answerId": "body-balat"
+        },
+        {
+          "id": "body-9-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"skin\"?",
+          "wordIds": ["body-balat"],
+          "answerId": "body-balat"
+        },
+        {
+          "id": "body-9-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maluad ya ing balat na.",
+          "wordIds": ["body-balat"],
+          "accepted": [
+            "his skin is smooth",
+            "her skin is smooth",
+            "his/her skin is smooth"
           ]
         }
       ]

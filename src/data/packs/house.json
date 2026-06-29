@@ -430,6 +430,60 @@
         }
       ],
       "notes": "Two related meanings from the same Spanish loanword 'sala': (1) the living room or main reception room of a house; (2) a mistake, fault, or offense. In context, 'king sala' (in the living room) vs 'ginawa karing sala' (done in error). Equivalent to Tagalog 'sala' (living room / mistake)."
+    },
+    {
+      "id": "house-kulambung",
+      "word": "kulambung",
+      "partOfSpeech": "noun",
+      "translations": ["mosquito net"],
+      "relatedTagalog": "kulambo",
+      "examples": [
+        {
+          "kp": "Atin ku kulambung king kwartu ku.",
+          "en": "I have a mosquito net in my room."
+        },
+        {
+          "kp": "Mayap ya ing kulambung para king bengi.",
+          "en": "A mosquito net is good for the night."
+        }
+      ],
+      "notes": "Native Kapampangan word for mosquito net. Attested in Kapampangan texts in the phrase 'kulambung panyalang yamuk' (mosquito net to ward off mosquitoes). The Tagalog equivalent is 'kulambo'. Essential item in tropical households."
+    },
+    {
+      "id": "house-puerta",
+      "word": "puerta",
+      "partOfSpeech": "noun",
+      "translations": ["door", "gate", "doorway"],
+      "relatedTagalog": "pinto / puerta",
+      "examples": [
+        {
+          "kp": "Sara me ing puerta.",
+          "en": "Close the door."
+        },
+        {
+          "kp": "Buklat me ing puerta.",
+          "en": "Open the door."
+        }
+      ],
+      "notes": "Spanish loanword (puerta = door/gate). Used in Kapampangan alongside the native 'pasbul'. 'puerta' often refers to a larger gate or main door, while 'pasbul' is the general door/entrance. Shared with Tagalog 'puerta'."
+    },
+    {
+      "id": "house-suluk",
+      "word": "suluk",
+      "partOfSpeech": "noun",
+      "translations": ["corner", "nook", "angle"],
+      "relatedTagalog": "sulok",
+      "examples": [
+        {
+          "kp": "Atyu ya king suluk ning kwartu.",
+          "en": "It is in the corner of the room."
+        },
+        {
+          "kp": "Atin kang libru king suluk.",
+          "en": "There is a book in the corner."
+        }
+      ],
+      "notes": "Native Kapampangan word for corner or nook. Cognate with Tagalog 'sulok'. Can refer to a physical corner of a room, a nook, or any angular space. Attested in the animals pack ('Mekita ku ing babagwa king suluk')."
     }
   ],
   "lessons": [
@@ -1118,6 +1172,78 @@
             "the yard of our house is big.",
             "our house's yard is big",
             "our house's yard is big."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "house-9",
+      "title": "Door, Net & Corner",
+      "theme": "puerta, kulambung, suluk — household essentials",
+      "intro": "'puerta' (door/gate, from Spanish) and 'kulambung' (mosquito net) are household essentials. 'suluk' means corner or nook — that spot in a room where things collect.",
+      "wordIds": [
+        "house-puerta",
+        "house-kulambung",
+        "house-suluk"
+      ],
+      "exercises": [
+        {
+          "id": "house-9-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"puerta\" mean?",
+          "wordIds": ["house-puerta"],
+          "answerId": "house-puerta"
+        },
+        {
+          "id": "house-9-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kulambung\" mean?",
+          "wordIds": ["house-kulambung"],
+          "answerId": "house-kulambung"
+        },
+        {
+          "id": "house-9-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"suluk\" mean?",
+          "wordIds": ["house-suluk"],
+          "answerId": "house-suluk"
+        },
+        {
+          "id": "house-9-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sara me ing puerta.",
+          "wordIds": ["house-puerta"],
+          "accepted": [
+            "close the door",
+            "close the gate",
+            "shut the door",
+            "shut the gate"
+          ]
+        },
+        {
+          "id": "house-9-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atyu ya king suluk ning kwartu.",
+          "wordIds": ["house-suluk"],
+          "accepted": [
+            "it is in the corner of the room",
+            "he is in the corner of the room",
+            "she is in the corner of the room"
+          ]
+        },
+        {
+          "id": "house-9-ma1",
+          "type": "matching",
+          "wordIds": ["house-puerta", "house-kulambung", "house-suluk"],
+          "pairs": [
+            {"wordId": "house-puerta"},
+            {"wordId": "house-kulambung"},
+            {"wordId": "house-suluk"}
           ]
         }
       ]

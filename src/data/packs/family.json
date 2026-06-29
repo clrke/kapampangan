@@ -397,6 +397,42 @@
       "notes": "Also spelled 'taw'. The phrase 'Tau Kapampangan' is used to describe Kapampangan people as an ethnic group."
     },
     {
+      "id": "fam-ina",
+      "word": "ina",
+      "partOfSpeech": "noun",
+      "translations": ["mother", "mom"],
+      "relatedTagalog": "ina / nanay",
+      "examples": [
+        {
+          "kp": "Mayap ya ing ina ku.",
+          "en": "My mother is good."
+        },
+        {
+          "kp": "Munta ya king bale ing ina ku.",
+          "en": "My mother goes home."
+        }
+      ],
+      "notes": "Generic Kapampangan/Philippine word for mother, shared with Tagalog 'ina'. The Kapampangan-specific form 'Ima' is also common; 'ina' is the pan-Philippine root form and appears in formal, literary, and everyday contexts."
+    },
+    {
+      "id": "fam-pari",
+      "word": "pari",
+      "partOfSpeech": "noun",
+      "translations": ["priest", "father (clergy)"],
+      "relatedTagalog": "pari / padre",
+      "examples": [
+        {
+          "kp": "Mayap ya ing pari mi.",
+          "en": "Our priest is good."
+        },
+        {
+          "kp": "Munta ya king simbahan ing pari.",
+          "en": "The priest goes to church."
+        }
+      ],
+      "notes": "Spanish loanword from 'padre'. Widely used in Kapampangan communities where the Catholic Church has deep roots. Refers to a Catholic priest or religious father."
+    },
+    {
       "id": "fam-talaturu",
       "word": "talaturu",
       "partOfSpeech": "noun",
@@ -1006,6 +1042,77 @@
             {
               "wordId": "fam-tau"
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fam-8",
+      "title": "Mother & Priest",
+      "theme": "ina and pari — community figures",
+      "intro": "'ina' is the pan-Philippine word for mother, sharing roots with Tagalog 'ina'. 'pari' is the word for priest (from Spanish 'padre') — an important figure in Catholic Kapampangan communities.",
+      "wordIds": [
+        "fam-ina",
+        "fam-pari"
+      ],
+      "exercises": [
+        {
+          "id": "fam-8-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"ina\" mean?",
+          "wordIds": ["fam-ina"],
+          "answerId": "fam-ina"
+        },
+        {
+          "id": "fam-8-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"pari\" mean?",
+          "wordIds": ["fam-pari"],
+          "answerId": "fam-pari"
+        },
+        {
+          "id": "fam-8-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"priest\"?",
+          "wordIds": ["fam-pari"],
+          "answerId": "fam-pari"
+        },
+        {
+          "id": "fam-8-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Mayap ya ing ina ku.",
+          "wordIds": ["fam-ina"],
+          "accepted": [
+            "my mother is good",
+            "my mother is well",
+            "my mom is good",
+            "my mom is well"
+          ]
+        },
+        {
+          "id": "fam-8-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Munta ya king simbahan ing pari.",
+          "wordIds": ["fam-pari"],
+          "accepted": [
+            "the priest goes to church",
+            "the priest goes to the church",
+            "the father goes to church",
+            "the father goes to the church"
+          ]
+        },
+        {
+          "id": "fam-8-ma1",
+          "type": "matching",
+          "wordIds": ["fam-ina", "fam-pari"],
+          "pairs": [
+            {"wordId": "fam-ina"},
+            {"wordId": "fam-pari"}
           ]
         }
       ]

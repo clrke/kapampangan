@@ -254,6 +254,24 @@
         }
       ],
       "notes": "'Wala' negates existence — 'Wala ku pera' (I have no money). Contrast with 'ali'/'e' which negate verbs and adjectives. Shared with Tagalog. Confidence: very high."
+    },
+    {
+      "id": "pl-kanto",
+      "word": "kanto",
+      "partOfSpeech": "noun",
+      "translations": ["street corner", "corner", "intersection"],
+      "relatedTagalog": "kanto",
+      "examples": [
+        {
+          "kp": "Atyu ya king kanto.",
+          "en": "He/she is at the street corner."
+        },
+        {
+          "kp": "Munta ka king kanto.",
+          "en": "Go to the street corner."
+        }
+      ],
+      "notes": "Spanish loanword from 'canto' (corner). Used widely in Filipino languages including Kapampangan. Refers to a street corner or intersection point. In everyday Kapampangan speech, people say 'king kanto' (at the corner) as a casual meeting place reference."
     }
   ],
   "lessons": [
@@ -700,6 +718,45 @@
             "there is nobody at home.",
             "there is no one at home",
             "there is no one at home."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pl-4",
+      "title": "The Street Corner",
+      "theme": "kanto — street corner, intersection",
+      "intro": "'kanto' is the Kapampangan (and Filipino) word for street corner, borrowed from Spanish 'canto'. In everyday speech, 'king kanto' (at the corner) is a common meeting-place phrase.",
+      "wordIds": ["pl-kanto"],
+      "exercises": [
+        {
+          "id": "pl-4-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kanto\" mean?",
+          "wordIds": ["pl-kanto"],
+          "answerId": "pl-kanto"
+        },
+        {
+          "id": "pl-4-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"street corner\"?",
+          "wordIds": ["pl-kanto"],
+          "answerId": "pl-kanto"
+        },
+        {
+          "id": "pl-4-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atyu ya king kanto.",
+          "wordIds": ["pl-kanto"],
+          "accepted": [
+            "he is at the street corner",
+            "she is at the street corner",
+            "he/she is at the street corner",
+            "he is at the corner",
+            "she is at the corner"
           ]
         }
       ]

@@ -226,6 +226,24 @@
         }
       ],
       "notes": "Adjective/stative predicate meaning 'small, little, young'. Used for people (especially children) and small things. 'Guagua pa' (still little/still young) is a common phrase. The Tagalog equivalent is 'maliit' (small) or 'bata' (young). Not to be confused with the place name Guagua (a town in Pampanga)."
+    },
+    {
+      "id": "adj-sagiwa",
+      "word": "sagiwa",
+      "partOfSpeech": "adjective",
+      "translations": ["fresh", "cool", "refreshing"],
+      "relatedTagalog": "sariwa / malamig",
+      "examples": [
+        {
+          "kp": "Sagiwa ya ing danum.",
+          "en": "The water is fresh/cool."
+        },
+        {
+          "kp": "Sagiwa ya ing panahon ngeni.",
+          "en": "The weather is refreshing today."
+        }
+      ],
+      "notes": "Native Kapampangan adjective meaning fresh, cool, or refreshing. Used for water, food, weather, and sensations. Attested in the Wikivoyage phrasebook as 'prutas sagiwa' (fresh fruit). The Tagalog equivalent is 'sariwa' (fresh) or 'malamig' (cool/cold)."
     }
   ],
   "lessons": [
@@ -628,6 +646,46 @@
             "my little sibling is still small.",
             "my younger sibling is still small",
             "my younger sibling is still small."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj-5",
+      "title": "Fresh & Cool",
+      "theme": "sagiwa — fresh, cool, refreshing",
+      "intro": "'sagiwa' describes something fresh, cool, or refreshing — water, weather, or food. It is a native Kapampangan adjective equivalent to Tagalog 'sariwa' (fresh) or 'malamig' (cool).",
+      "wordIds": ["adj-sagiwa"],
+      "exercises": [
+        {
+          "id": "adj-5-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"sagiwa\" mean?",
+          "wordIds": ["adj-sagiwa"],
+          "answerId": "adj-sagiwa"
+        },
+        {
+          "id": "adj-5-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"fresh\" or \"refreshing\"?",
+          "wordIds": ["adj-sagiwa"],
+          "answerId": "adj-sagiwa"
+        },
+        {
+          "id": "adj-5-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Sagiwa ya ing danum.",
+          "wordIds": ["adj-sagiwa"],
+          "accepted": [
+            "the water is fresh",
+            "the water is fresh.",
+            "the water is cool",
+            "the water is cool.",
+            "the water is refreshing",
+            "the water is refreshing."
           ]
         }
       ]

@@ -419,6 +419,42 @@
         }
       ],
       "notes": "Spanish loanword from 'cuento' (story/tale). Kapampangan form 'kwentu' vs. Tagalog 'kwento' — reflecting the Kapampangan final-vowel shift."
+    },
+    {
+      "id": "ev-bag",
+      "word": "bag",
+      "partOfSpeech": "noun",
+      "translations": ["bag", "purse", "handbag"],
+      "relatedTagalog": "bag / bag",
+      "examples": [
+        {
+          "kp": "Atin ku bag ku king trabahu.",
+          "en": "I have my bag at work."
+        },
+        {
+          "kp": "Maragul ya ing bag na.",
+          "en": "Her bag is big."
+        }
+      ],
+      "notes": "English loanword widely used in Kapampangan and Filipino languages. Refers to a bag, purse, or handbag. The English form 'bag' is the standard usage, reflecting the heavy English influence on modern Kapampangan vocabulary."
+    },
+    {
+      "id": "ev-biyaya",
+      "word": "biyaya",
+      "partOfSpeech": "noun",
+      "translations": ["grace", "blessing", "gift", "favor"],
+      "relatedTagalog": "biyaya",
+      "examples": [
+        {
+          "kp": "Dakal a biyaya para keka.",
+          "en": "Many blessings for you."
+        },
+        {
+          "kp": "Salamat king biyaya mu.",
+          "en": "Thank you for your blessing."
+        }
+      ],
+      "notes": "Shared Philippine word ultimately from Sanskrit 'viyaya' or related root, conveying grace, blessing, or divine gift. Used in religious and everyday contexts. Both Kapampangan and Tagalog use 'biyaya' for God's blessing or a benefactor's grace."
     }
   ],
   "lessons": [
@@ -918,6 +954,77 @@
             "the movie is good.",
             "the film is good",
             "the film is good."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ev-6",
+      "title": "Bag & Blessing",
+      "theme": "bag and biyaya — everyday carry and grace",
+      "intro": "'bag' is the English loanword used for a bag or purse. 'biyaya' is a deeper word meaning grace, blessing, or gift — used in both religious and everyday contexts. Together they show the range of Kapampangan borrowing: from English practicality to Sanskrit spirituality.",
+      "wordIds": [
+        "ev-bag",
+        "ev-biyaya"
+      ],
+      "exercises": [
+        {
+          "id": "ev-6-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"bag\" mean?",
+          "wordIds": ["ev-bag"],
+          "answerId": "ev-bag"
+        },
+        {
+          "id": "ev-6-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"biyaya\" mean?",
+          "wordIds": ["ev-biyaya"],
+          "answerId": "ev-biyaya"
+        },
+        {
+          "id": "ev-6-mc3",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"blessing\" or \"grace\"?",
+          "wordIds": ["ev-biyaya"],
+          "answerId": "ev-biyaya"
+        },
+        {
+          "id": "ev-6-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing bag na.",
+          "wordIds": ["ev-bag"],
+          "accepted": [
+            "her bag is big",
+            "his bag is big",
+            "her bag is big.",
+            "his bag is big."
+          ]
+        },
+        {
+          "id": "ev-6-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Dakal a biyaya para keka.",
+          "wordIds": ["ev-biyaya"],
+          "accepted": [
+            "many blessings for you",
+            "many blessings for you.",
+            "many blessings to you",
+            "many blessings to you."
+          ]
+        },
+        {
+          "id": "ev-6-ma1",
+          "type": "matching",
+          "wordIds": ["ev-bag", "ev-biyaya"],
+          "pairs": [
+            {"wordId": "ev-bag"},
+            {"wordId": "ev-biyaya"}
           ]
         }
       ]
