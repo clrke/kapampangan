@@ -458,6 +458,28 @@
         }
       ],
       "notes": "Refers to the cotton plant and its fiber. Shared with Tagalog 'bulak'. Cotton was historically cultivated in lowland Pampanga and woven into cloth. Distinct from 'bulaklak' (flower), though both share the 'bulak' root."
+    },
+    {
+      "id": "nat-ipil",
+      "word": "Ipil",
+      "partOfSpeech": "noun",
+      "translations": [
+        "ipil tree",
+        "ironwood",
+        "hardwood"
+      ],
+      "relatedTagalog": "ipil",
+      "examples": [
+        {
+          "kp": "Masikan ya ing dutung ning ipil.",
+          "en": "The wood of the ipil tree is strong."
+        },
+        {
+          "kp": "Maragul ya ing ipil king bunduk.",
+          "en": "The ipil tree on the mountain is big."
+        }
+      ],
+      "notes": "A pan-Philippine hardwood tree (Intsia bijuga, Moluccan ironwood), prized for its dense, durable timber. A native Austronesian term shared with Tagalog, not a borrowing."
     }
   ],
   "lessons": [
@@ -1303,6 +1325,61 @@
             "the cotton plantation is large.",
             "the cotton garden is large",
             "the cotton garden is large."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nat-10",
+      "title": "Hardwood of the Forest: ipil",
+      "theme": "trees and timber",
+      "intro": "'Ipil' is a hardwood tree (Intsia bijuga) valued for its dense, durable wood. It is a native Austronesian word found across Philippine languages.",
+      "wordIds": [
+        "nat-ipil"
+      ],
+      "exercises": [
+        {
+          "id": "nat-10-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What is an \"ipil\"?",
+          "wordIds": [
+            "nat-ipil"
+          ],
+          "answerId": "nat-ipil"
+        },
+        {
+          "id": "nat-10-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word names a hardwood tree?",
+          "wordIds": [
+            "nat-ipil"
+          ],
+          "answerId": "nat-ipil"
+        },
+        {
+          "id": "nat-10-fb1",
+          "type": "fill-blank",
+          "prompt": "Masikan ya ing dutung ning ____. (The wood of the ipil tree is strong.)",
+          "wordIds": [
+            "nat-ipil"
+          ],
+          "answerId": "nat-ipil"
+        },
+        {
+          "id": "nat-10-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maragul ya ing ipil king bunduk.",
+          "wordIds": [
+            "nat-ipil"
+          ],
+          "accepted": [
+            "the ipil tree on the mountain is big",
+            "the ipil tree on the mountain is big.",
+            "the ipil tree in the mountain is big",
+            "the ipil tree in the mountain is big."
           ]
         }
       ]

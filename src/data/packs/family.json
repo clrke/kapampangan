@@ -525,6 +525,27 @@
         }
       ],
       "notes": "From 'suyu' (to love, to court) with the ka--an circumfix forming a noun meaning one's romantic partner or sweetheart. Compare 'kaluguran' (beloved/friend, already in this pack) which is broader; 'kasuyuan' is specifically romantic. Attested in Kapampangan literary and everyday vocabulary."
+    },
+    {
+      "id": "fam-inda",
+      "word": "Inda",
+      "partOfSpeech": "noun",
+      "translations": [
+        "mother",
+        "mother (literary)"
+      ],
+      "relatedTagalog": "ina",
+      "examples": [
+        {
+          "kp": "I inda ku malagu ya.",
+          "en": "My mother is beautiful."
+        },
+        {
+          "kp": "Masaya ya i inda ku.",
+          "en": "My mother is happy."
+        }
+      ],
+      "notes": "A reference term for one's mother, more formal or literary in register than the everyday 'Ima' (mom). Traditionally not used as direct address — Kapampangans address their mother as 'Ima' or 'Má'. Compare 'indu', the reverent/figurative form used for the motherland and the Virgin Mary."
     }
   ],
   "lessons": [
@@ -1337,6 +1358,59 @@
             "her sweetheart is beautiful.",
             "his beloved is beautiful",
             "his beloved is beautiful."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fam-10",
+      "title": "Another Word for Mother: inda",
+      "theme": "mother — registers and reverence",
+      "intro": "Kapampangan has several words for mother. 'Inda' is a more formal or literary term of reference, alongside everyday 'Ima' (mom) and the reverent 'indu' (used for the motherland and the Virgin Mary).",
+      "wordIds": [
+        "fam-inda"
+      ],
+      "exercises": [
+        {
+          "id": "fam-10-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"inda\" mean?",
+          "wordIds": [
+            "fam-inda"
+          ],
+          "answerId": "fam-inda"
+        },
+        {
+          "id": "fam-10-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word is a (literary) term for \"mother\"?",
+          "wordIds": [
+            "fam-inda"
+          ],
+          "answerId": "fam-inda"
+        },
+        {
+          "id": "fam-10-fb1",
+          "type": "fill-blank",
+          "prompt": "I ____ ku malagu ya. (My mother is beautiful.)",
+          "wordIds": [
+            "fam-inda"
+          ],
+          "answerId": "fam-inda"
+        },
+        {
+          "id": "fam-10-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Masaya ya i inda ku.",
+          "wordIds": [
+            "fam-inda"
+          ],
+          "accepted": [
+            "my mother is happy",
+            "my mother is happy."
           ]
         }
       ]

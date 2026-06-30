@@ -708,6 +708,28 @@
         }
       ],
       "notes": "Distal/remote demonstrative pronoun meaning 'those (far from both speaker and listener)'. Part of the Kapampangan tri-level demonstrative system: 'iti' (this, near speaker), 'iyan'/'yan' (that, near listener), 'dita' (those, remote from both). 'Dita' is the plural/general remote form. Compare 'ita' (that one, singular remote). Equivalent to Tagalog 'yoon' (remote) or 'iyon'."
+    },
+    {
+      "id": "gram-ri",
+      "word": "ri",
+      "partOfSpeech": "particle",
+      "translations": [
+        "(plural personal marker)",
+        "and company",
+        "and the others"
+      ],
+      "relatedTagalog": "sina",
+      "examples": [
+        {
+          "kp": "Munta la ri Juan.",
+          "en": "Juan and the others went."
+        },
+        {
+          "kp": "Atyu la ri Pedro king bale.",
+          "en": "Pedro and the others are at the house."
+        }
+      ],
+      "notes": "Plural personal article marking a named person together with their associates ('X and company'). The d~/r~ variant 'di' is interchangeable; 'ring' and 'ding' are the same marker with the '-ng' linker attached before a following word."
     }
   ],
   "lessons": [
@@ -1646,6 +1668,61 @@
             "those are the children.",
             "those ones are the children",
             "those ones are the children."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gram-L12",
+      "title": "People in the Plural: ri / di",
+      "theme": "plural personal markers",
+      "intro": "'Ri' (and its twin 'di') marks a named person together with their companions — 'Juan and the others'. Add the '-ng' linker and you get the familiar 'ring' / 'ding'.",
+      "wordIds": [
+        "gram-ri"
+      ],
+      "exercises": [
+        {
+          "id": "gram-L12-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does the marker \"ri\" (as in \"ri Juan\") signal?",
+          "wordIds": [
+            "gram-ri"
+          ],
+          "answerId": "gram-ri"
+        },
+        {
+          "id": "gram-L12-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which marker means \"X and company\" before a name?",
+          "wordIds": [
+            "gram-ri"
+          ],
+          "answerId": "gram-ri"
+        },
+        {
+          "id": "gram-L12-fb1",
+          "type": "fill-blank",
+          "prompt": "Munta la ____ Juan. (Juan and the others went.)",
+          "wordIds": [
+            "gram-ri"
+          ],
+          "answerId": "gram-ri"
+        },
+        {
+          "id": "gram-L12-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atyu la ri Pedro king bale.",
+          "wordIds": [
+            "gram-ri"
+          ],
+          "accepted": [
+            "pedro and the others are at the house",
+            "pedro and the others are at the house.",
+            "pedro and company are at the house",
+            "pedro and company are at the house."
           ]
         }
       ]

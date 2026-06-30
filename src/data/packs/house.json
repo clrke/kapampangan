@@ -417,7 +417,12 @@
       "id": "house-sala",
       "word": "sala",
       "partOfSpeech": "noun",
-      "translations": ["living room", "sala", "mistake", "fault"],
+      "translations": [
+        "living room",
+        "sala",
+        "mistake",
+        "fault"
+      ],
       "relatedTagalog": "sala / sala (sala)",
       "examples": [
         {
@@ -435,7 +440,9 @@
       "id": "house-kulambung",
       "word": "kulambung",
       "partOfSpeech": "noun",
-      "translations": ["mosquito net"],
+      "translations": [
+        "mosquito net"
+      ],
       "relatedTagalog": "kulambo",
       "examples": [
         {
@@ -453,7 +460,11 @@
       "id": "house-puerta",
       "word": "puerta",
       "partOfSpeech": "noun",
-      "translations": ["door", "gate", "doorway"],
+      "translations": [
+        "door",
+        "gate",
+        "doorway"
+      ],
       "relatedTagalog": "pinto / puerta",
       "examples": [
         {
@@ -471,7 +482,11 @@
       "id": "house-suluk",
       "word": "suluk",
       "partOfSpeech": "noun",
-      "translations": ["corner", "nook", "angle"],
+      "translations": [
+        "corner",
+        "nook",
+        "angle"
+      ],
       "relatedTagalog": "sulok",
       "examples": [
         {
@@ -484,6 +499,29 @@
         }
       ],
       "notes": "Native Kapampangan word for corner or nook. Cognate with Tagalog 'sulok'. Can refer to a physical corner of a room, a nook, or any angular space. Attested in the animals pack ('Mekita ku ing babagwa king suluk')."
+    },
+    {
+      "id": "house-tukud",
+      "word": "Tukud",
+      "partOfSpeech": "noun",
+      "translations": [
+        "post",
+        "pillar",
+        "support",
+        "prop"
+      ],
+      "relatedTagalog": "tukod / haligi",
+      "examples": [
+        {
+          "kp": "Masikan ya ing tukud na ning bale.",
+          "en": "The post of the house is strong."
+        },
+        {
+          "kp": "Matulid ya ing tukud.",
+          "en": "The post is straight."
+        }
+      ],
+      "notes": "Native Austronesian term (from Proto-Austronesian *tukud), not borrowed from Tagalog; it can also act as a verb 'to prop up'. The Tagalog cognate is 'tukod'; the related 'haligi' means pillar."
     }
   ],
   "lessons": [
@@ -1110,14 +1148,18 @@
       "title": "The Living Room and Mistakes",
       "theme": "sala — two meanings",
       "intro": "'sala' is both a room and a concept: it means the living room (from Spanish) and also a mistake or fault. 'Atin larawan da king sala' (They have pictures in the living room). 'Ginawa karing sala' (done by mistake).",
-      "wordIds": ["house-sala"],
+      "wordIds": [
+        "house-sala"
+      ],
       "exercises": [
         {
           "id": "house-7-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does 'sala' mean in 'king sala'?",
-          "wordIds": ["house-sala"],
+          "wordIds": [
+            "house-sala"
+          ],
           "answerId": "house-sala"
         },
         {
@@ -1125,7 +1167,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atin larawan da king sala.",
-          "wordIds": ["house-sala"],
+          "wordIds": [
+            "house-sala"
+          ],
           "accepted": [
             "they have pictures in the living room",
             "they have pictures in the living room.",
@@ -1150,7 +1194,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"bakuran\" mean?",
-          "wordIds": ["house-bakuran"],
+          "wordIds": [
+            "house-bakuran"
+          ],
           "answerId": "house-bakuran"
         },
         {
@@ -1158,7 +1204,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"bucket\"?",
-          "wordIds": ["house-baldi"],
+          "wordIds": [
+            "house-baldi"
+          ],
           "answerId": "house-baldi"
         },
         {
@@ -1166,7 +1214,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maragul ya ing bakuran ning bale mi.",
-          "wordIds": ["house-bakuran"],
+          "wordIds": [
+            "house-bakuran"
+          ],
           "accepted": [
             "the yard of our house is big",
             "the yard of our house is big.",
@@ -1192,7 +1242,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"puerta\" mean?",
-          "wordIds": ["house-puerta"],
+          "wordIds": [
+            "house-puerta"
+          ],
           "answerId": "house-puerta"
         },
         {
@@ -1200,7 +1252,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"kulambung\" mean?",
-          "wordIds": ["house-kulambung"],
+          "wordIds": [
+            "house-kulambung"
+          ],
           "answerId": "house-kulambung"
         },
         {
@@ -1208,7 +1262,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"suluk\" mean?",
-          "wordIds": ["house-suluk"],
+          "wordIds": [
+            "house-suluk"
+          ],
           "answerId": "house-suluk"
         },
         {
@@ -1216,7 +1272,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Sara me ing puerta.",
-          "wordIds": ["house-puerta"],
+          "wordIds": [
+            "house-puerta"
+          ],
           "accepted": [
             "close the door",
             "close the gate",
@@ -1229,7 +1287,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Atyu ya king suluk ning kwartu.",
-          "wordIds": ["house-suluk"],
+          "wordIds": [
+            "house-suluk"
+          ],
           "accepted": [
             "it is in the corner of the room",
             "he is in the corner of the room",
@@ -1239,11 +1299,76 @@
         {
           "id": "house-9-ma1",
           "type": "matching",
-          "wordIds": ["house-puerta", "house-kulambung", "house-suluk"],
+          "wordIds": [
+            "house-puerta",
+            "house-kulambung",
+            "house-suluk"
+          ],
           "pairs": [
-            {"wordId": "house-puerta"},
-            {"wordId": "house-kulambung"},
-            {"wordId": "house-suluk"}
+            {
+              "wordId": "house-puerta"
+            },
+            {
+              "wordId": "house-kulambung"
+            },
+            {
+              "wordId": "house-suluk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "house-10",
+      "title": "Holding It Up: tukud",
+      "theme": "posts, pillars, and structural support",
+      "intro": "'Tukud' is a post, pillar, or prop — the support that keeps a structure from sagging or falling. It is a native Kapampangan word descended from Proto-Austronesian, not borrowed from Tagalog.",
+      "wordIds": [
+        "house-tukud"
+      ],
+      "exercises": [
+        {
+          "id": "house-10-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"tukud\" mean?",
+          "wordIds": [
+            "house-tukud"
+          ],
+          "answerId": "house-tukud"
+        },
+        {
+          "id": "house-10-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"post\" or \"pillar\"?",
+          "wordIds": [
+            "house-tukud"
+          ],
+          "answerId": "house-tukud"
+        },
+        {
+          "id": "house-10-fb1",
+          "type": "fill-blank",
+          "prompt": "Masikan ya ing ____ na ning bale. (The post of the house is strong.)",
+          "wordIds": [
+            "house-tukud"
+          ],
+          "answerId": "house-tukud"
+        },
+        {
+          "id": "house-10-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Matulid ya ing tukud.",
+          "wordIds": [
+            "house-tukud"
+          ],
+          "accepted": [
+            "the post is straight",
+            "the post is straight.",
+            "the pillar is straight",
+            "the pillar is straight."
           ]
         }
       ]

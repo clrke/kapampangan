@@ -447,7 +447,11 @@
       "id": "food-karela",
       "word": "karela",
       "partOfSpeech": "noun",
-      "translations": ["bitter gourd", "ampalaya", "bitter melon"],
+      "translations": [
+        "bitter gourd",
+        "ampalaya",
+        "bitter melon"
+      ],
       "relatedTagalog": "ampalaya",
       "examples": [
         {
@@ -460,6 +464,26 @@
         }
       ],
       "notes": "The Kapampangan word for bitter gourd (Momordica charantia). Known as 'ampalaya' in Tagalog. A staple vegetable in Kapampangan cooking, used in dishes like pinakbet and ginataan. 'Karela' is the Kapampangan form; the word ultimately traces to Sanskrit via trade routes."
+    },
+    {
+      "id": "food-malat",
+      "word": "Malat",
+      "partOfSpeech": "adjective",
+      "translations": [
+        "salty"
+      ],
+      "relatedTagalog": "maalat",
+      "examples": [
+        {
+          "kp": "Malat ya ing asan.",
+          "en": "The fish is salty."
+        },
+        {
+          "kp": "Malat ya ing danum ning dagat.",
+          "en": "The seawater is salty."
+        }
+      ],
+      "notes": "Native Kapampangan 'ma-' + root 'lat'. Note the contrast with Tagalog 'maalat', which needs an extra linking vowel before the vowel-initial root 'alat'."
     }
   ],
   "lessons": [
@@ -1209,7 +1233,9 @@
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"tinape\" mean?",
-          "wordIds": ["food-tinape"],
+          "wordIds": [
+            "food-tinape"
+          ],
           "answerId": "food-tinape"
         },
         {
@@ -1217,7 +1243,9 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Manyaman ya ing tinape.",
-          "wordIds": ["food-tinape"],
+          "wordIds": [
+            "food-tinape"
+          ],
           "accepted": [
             "the bread is delicious",
             "the bread is delicious.",
@@ -1232,14 +1260,18 @@
       "title": "Bitter Gourd",
       "theme": "karela — bitter gourd / ampalaya",
       "intro": "'karela' is the Kapampangan word for bitter gourd (known as 'ampalaya' in Tagalog). It is a beloved vegetable in Kapampangan cooking despite its strong bitter taste.",
-      "wordIds": ["food-karela"],
+      "wordIds": [
+        "food-karela"
+      ],
       "exercises": [
         {
           "id": "food-10-mc1",
           "type": "multiple-choice",
           "direction": "kp-to-en",
           "prompt": "What does \"karela\" mean?",
-          "wordIds": ["food-karela"],
+          "wordIds": [
+            "food-karela"
+          ],
           "answerId": "food-karela"
         },
         {
@@ -1247,7 +1279,9 @@
           "type": "multiple-choice",
           "direction": "en-to-kp",
           "prompt": "Which word means \"bitter gourd\"?",
-          "wordIds": ["food-karela"],
+          "wordIds": [
+            "food-karela"
+          ],
           "answerId": "food-karela"
         },
         {
@@ -1255,13 +1289,70 @@
           "type": "translate",
           "direction": "kp-to-en",
           "prompt": "Maniaman ya ing karela.",
-          "wordIds": ["food-karela"],
+          "wordIds": [
+            "food-karela"
+          ],
           "accepted": [
             "the bitter gourd is delicious",
             "the bitter melon is delicious",
             "the ampalaya is delicious",
             "the bitter gourd is tasty",
             "the bitter melon is tasty"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "food-11",
+      "title": "Tastes: malat (salty)",
+      "theme": "describing flavour",
+      "intro": "'Malat' means salty. Unlike Tagalog 'maalat', Kapampangan forms it simply as 'ma-' + 'lat'.",
+      "wordIds": [
+        "food-malat"
+      ],
+      "exercises": [
+        {
+          "id": "food-11-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"malat\" mean?",
+          "wordIds": [
+            "food-malat"
+          ],
+          "answerId": "food-malat"
+        },
+        {
+          "id": "food-11-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"salty\"?",
+          "wordIds": [
+            "food-malat"
+          ],
+          "answerId": "food-malat"
+        },
+        {
+          "id": "food-11-fb1",
+          "type": "fill-blank",
+          "prompt": "____ ya ing asan. (The fish is salty.)",
+          "wordIds": [
+            "food-malat"
+          ],
+          "answerId": "food-malat"
+        },
+        {
+          "id": "food-11-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Malat ya ing danum ning dagat.",
+          "wordIds": [
+            "food-malat"
+          ],
+          "accepted": [
+            "the seawater is salty",
+            "the seawater is salty.",
+            "the sea water is salty",
+            "the sea water is salty."
           ]
         }
       ]
