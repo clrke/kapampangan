@@ -730,6 +730,28 @@
         }
       ],
       "notes": "Plural personal article marking a named person together with their associates ('X and company'). The d~/r~ variant 'di' is interchangeable; 'ring' and 'ding' are the same marker with the '-ng' linker attached before a following word."
+    },
+    {
+      "id": "gram-kayi",
+      "word": "kayi",
+      "partOfSpeech": "noun",
+      "translations": [
+        "so-and-so",
+        "whatchamacallit",
+        "thingamajig"
+      ],
+      "relatedTagalog": "kuwan",
+      "examples": [
+        {
+          "kp": "Nukarin ya ing kayi?",
+          "en": "Where is the whatchamacallit?"
+        },
+        {
+          "kp": "Atin ku kayi para keka.",
+          "en": "I have a thingy for you."
+        }
+      ],
+      "notes": "A placeholder noun for a person or thing whose name is forgotten, unknown, or deliberately left unsaid — the Kapampangan equivalent of Tagalog 'kuwan' and English 'whatchamacallit'. Famously flexible: it can even be verbalized (e.g. 'kinayi'), so a whole sentence can run on 'kayi' alone. Do not confuse it with 'kayli' (left/direction). It often appears after the remote demonstrative in 'ketang kayi' = 'that whatchamacallit'."
     }
   ],
   "lessons": [
@@ -1723,6 +1745,63 @@
             "pedro and the others are at the house.",
             "pedro and company are at the house",
             "pedro and company are at the house."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gram-L13",
+      "title": "The Universal Placeholder: kayi",
+      "theme": "naming the unnameable",
+      "intro": "'Kayi' is Kapampangan's all-purpose placeholder — 'so-and-so', 'whatchamacallit', 'thingy'. Reach for it when a name escapes you; it mirrors Tagalog 'kuwan'. (Don't confuse it with 'kayli', meaning 'left'.)",
+      "wordIds": [
+        "gram-kayi"
+      ],
+      "exercises": [
+        {
+          "id": "gram-L13-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"kayi\" mean?",
+          "wordIds": [
+            "gram-kayi"
+          ],
+          "answerId": "gram-kayi"
+        },
+        {
+          "id": "gram-L13-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word is a placeholder meaning \"whatchamacallit / so-and-so\"?",
+          "wordIds": [
+            "gram-kayi"
+          ],
+          "answerId": "gram-kayi"
+        },
+        {
+          "id": "gram-L13-fb1",
+          "type": "fill-blank",
+          "prompt": "Nukarin ya ing ____? (Where is the whatchamacallit?)",
+          "wordIds": [
+            "gram-kayi"
+          ],
+          "answerId": "gram-kayi"
+        },
+        {
+          "id": "gram-L13-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Atin ku kayi para keka.",
+          "wordIds": [
+            "gram-kayi"
+          ],
+          "accepted": [
+            "i have a thingy for you",
+            "i have a thingy for you.",
+            "i have a whatchamacallit for you",
+            "i have a whatchamacallit for you.",
+            "i have something for you",
+            "i have something for you."
           ]
         }
       ]
