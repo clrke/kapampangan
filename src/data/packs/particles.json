@@ -211,9 +211,10 @@
       "translations": [
         "your (singular)",
         "by you",
-        "you (genitive/non-subject)"
+        "you (genitive/non-subject)",
+        "only / just (limiter)"
       ],
-      "relatedTagalog": "mo",
+      "relatedTagalog": "mo (pronoun) / lang (limiter)",
       "examples": [
         {
           "kp": "Nanu ya ing lagyu mu?",
@@ -230,9 +231,13 @@
         {
           "kp": "Malyari mu lang palitan dening pera ku?",
           "en": "Can you exchange my money for me?"
+        },
+        {
+          "kp": "Metung mu.",
+          "en": "Just one."
         }
       ],
-      "notes": "2nd-person singular genitive/non-subject (ng-set) enclitic pronoun. Marks possession ('your') or the actor of a non-topic action ('by you'). Equivalent to Tagalog 'mo'. Not to be confused with the particle 'mu' meaning 'only/just', which is a separate homophone sometimes noted in older Kapampangan texts but rare in modern speech. Confidence: very high."
+      "notes": "Two distinct homophones share the form 'mu'. (1) The 2nd-person singular genitive/non-subject (ng-set) enclitic pronoun — marks possession ('your') or the actor of a non-topic action ('by you'), equivalent to Tagalog 'mo': 'lagyu mu' = your name. (2) A separate, very common limiter particle meaning 'only / just / merely', equivalent to Tagalog 'lang': 'Metung mu' = 'just one'. This limiter stacks after 'na' (now/already) as 'na mu' = 'just … now' (fixed order na → mu). Confidence: very high — both senses attested; the limiter is listed among the core lexical particles in Forman's Kapampangan Grammar Notes (1971)."
     },
     {
       "id": "part-ke",
@@ -2366,6 +2371,109 @@
             "please close the door.",
             "please, close the door",
             "please, close the door."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-L15",
+      "title": "Stacking Particles: na (now/already) + mu (only/just)",
+      "theme": "Two separate enclitic particles and how they combine as 'na mu'",
+      "intro": "'Na' and 'mu' are two SEPARATE particles — not a fixed unit. 'Na' means 'now / already' (a change of state, like Tagalog 'na'): 'Mapagal na ku' = 'I'm tired now'. 'Mu' is the limiter 'only / just / merely' (like Tagalog 'lang'): 'Metung mu' = 'just one'. Don't confuse this limiter 'mu' with the identical-sounding pronoun 'mu' = 'your / you'. Each particle stands on its own, and they can stack — always in the order na → mu, never mu → na — to mean 'just … now': 'Ini na mu' = 'just this one now'.",
+      "wordIds": [
+        "na",
+        "part-mu"
+      ],
+      "exercises": [
+        {
+          "id": "part-L15-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"na\" express in \"Mapagal na ku\" (I'm tired ___)?",
+          "wordIds": [
+            "na"
+          ],
+          "answerId": "na"
+        },
+        {
+          "id": "part-L15-mc2",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "In \"Metung mu,\" what does the limiter \"mu\" mean?",
+          "wordIds": [
+            "part-mu"
+          ],
+          "answerId": "part-mu"
+        },
+        {
+          "id": "part-L15-fb1",
+          "type": "fill-blank",
+          "prompt": "Tapos ____. (It's done already.)",
+          "wordIds": [
+            "na"
+          ],
+          "answerId": "na"
+        },
+        {
+          "id": "part-L15-fb2",
+          "type": "fill-blank",
+          "prompt": "Metung ____. (Just one — only / just.)",
+          "wordIds": [
+            "part-mu"
+          ],
+          "answerId": "part-mu"
+        },
+        {
+          "id": "part-L15-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Takbu na ka!",
+          "wordIds": [
+            "na"
+          ],
+          "accepted": [
+            "run now",
+            "run now!",
+            "run already",
+            "run already!",
+            "you run now",
+            "you run now!"
+          ]
+        },
+        {
+          "id": "part-L15-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Ini na mu.",
+          "wordIds": [
+            "na",
+            "part-mu"
+          ],
+          "accepted": [
+            "just this one now",
+            "just this one now.",
+            "just this now",
+            "just this now.",
+            "this is the only one left",
+            "this is the only one left.",
+            "only this one now",
+            "only this one now."
+          ]
+        },
+        {
+          "id": "part-L15-ma1",
+          "type": "matching",
+          "wordIds": [
+            "na",
+            "part-mu"
+          ],
+          "pairs": [
+            {
+              "wordId": "na"
+            },
+            {
+              "wordId": "part-mu"
+            }
           ]
         }
       ]
