@@ -173,9 +173,10 @@
       "partOfSpeech": "noun",
       "translations": [
         "grandmother",
-        "grandparent"
+        "grandparent",
+        "grandchild"
       ],
-      "relatedTagalog": "lola",
+      "relatedTagalog": "lola / apo",
       "examples": [
         {
           "kp": "Maragul ing Apu ku.",
@@ -184,9 +185,13 @@
         {
           "kp": "Apu ku ing migluto.",
           "en": "My grandmother is the one who cooked."
+        },
+        {
+          "kp": "Malagu ya ing Apu ku.",
+          "en": "My grandchild is beautiful."
         }
       ],
-      "notes": "Chinese loanword. Can also mean 'grandchild' in some contexts, and 'Impu' is used for maternal grandmother specifically. Commonly used for grandmother."
+      "notes": "Chinese loanword in its 'grandmother' sense; 'Impu' is used for maternal grandmother specifically. Like Ilocano 'apo' and several other Philippine languages, 'Apu' is also used reciprocally for 'grandchild' — the same word covers both directions of the relationship, disambiguated by context. Commonly used for grandmother."
     },
     {
       "id": "fam-bapa",

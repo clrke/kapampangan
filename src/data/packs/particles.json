@@ -1105,6 +1105,28 @@
         }
       ],
       "notes": "A politeness particle meaning 'please' used when making polite requests. From 'suyo' (to implore, to beg a favor) with the paki- prefix forming a request softener. Equivalent to Tagalog 'pakiusap' or the 'paki-' prefix on verbs. Placed at the beginning of a request clause to soften the command. More formal and earnest than just using 'pu'. Confidence: high; attested in Kapampangan phrase sources."
+    },
+    {
+      "id": "part-maski",
+      "word": "maski",
+      "partOfSpeech": "conjunction",
+      "translations": [
+        "even if",
+        "although",
+        "no matter"
+      ],
+      "relatedTagalog": "kahit / maski",
+      "examples": [
+        {
+          "kp": "Maski dakal la reng gastus, manyad ya pa.",
+          "en": "Even if there are a lot of expenses, he/she still pays."
+        },
+        {
+          "kp": "Maski maranup ya, e ya mamangan.",
+          "en": "Even though he/she is hungry, he/she doesn't eat."
+        }
+      ],
+      "notes": "From Spanish 'mas que'. A concessive conjunction shared across many Philippine languages (Tagalog, Bikol, Sambal, and others each independently borrowed the same Spanish source) rather than a Tagalog-only intrusion — it appears in native Kapampangan-language prose (e.g. SunStar Pampanga's Kapampangan-language column). Confidence: medium-high."
     }
   ],
   "lessons": [

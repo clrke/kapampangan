@@ -388,6 +388,49 @@
         }
       ],
       "notes": "Refers to goods offered for sale, especially by a peddler or market vendor. Equivalent to Tagalog 'tinda' (goods for sale) or 'paninda'. Related verb: 'maglako' (to peddle/sell). A common word in market and trade contexts in Kapampangan. Confidence: high; attested in Kapampangan vocabulary sources."
+    },
+    {
+      "id": "mkt-gastus",
+      "word": "Gastus",
+      "partOfSpeech": "noun",
+      "translations": [
+        "expense",
+        "expenses",
+        "cost"
+      ],
+      "relatedTagalog": "gastos",
+      "examples": [
+        {
+          "kp": "Dakal la reng gastus mi ngeni.",
+          "en": "We have a lot of expenses now."
+        },
+        {
+          "kp": "Ninu ing manyad king gastus?",
+          "en": "Who will pay for the expenses?"
+        }
+      ],
+      "notes": "From Spanish 'gasto(s)'. Naturalized Kapampangan spelling follows the regular -os→-us loanword vocalism (cf. Tagalog 'gastos'), distinct from a mere spelling variant. Attested in native Kapampangan-language prose (SunStar Pampanga). Confidence: high."
+    },
+    {
+      "id": "mkt-kuryenti",
+      "word": "Kuryenti",
+      "partOfSpeech": "noun",
+      "translations": [
+        "electricity",
+        "electric power"
+      ],
+      "relatedTagalog": "kuryente",
+      "examples": [
+        {
+          "kp": "Mal ya ing kuryenti ngeni.",
+          "en": "Electricity is expensive now."
+        },
+        {
+          "kp": "Kailangan mu ing kuryenti.",
+          "en": "You need electricity."
+        }
+      ],
+      "notes": "From Spanish 'corriente'. Naturalized Kapampangan spelling follows the regular -e→-i loanword vocalism (cf. Tagalog 'kuryente'), distinct from a mere spelling variant. Attested in native Kapampangan-language prose (SunStar Pampanga). Confidence: high."
     }
   ],
   "lessons": [
@@ -1114,6 +1157,128 @@
             "there is a lot of merchandise in the store.",
             "there are many wares in the store",
             "there are many wares in the store."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkt-10",
+      "title": "Family Expenses: gastus, kuryenti, maski",
+      "theme": "Everyday bills and obligations",
+      "intro": "'Gastus' (expenses) and 'kuryenti' (electricity) are everyday words for household bills — both naturalized from Spanish, following Kapampangan's regular vowel-shift pattern for loanwords (gasto(s)→gastus, corriente→kuryenti). 'Maski' (even if/although) is a concessive word used across many Philippine languages, including Kapampangan, to say something happens 'no matter what' or 'even though'.",
+      "wordIds": [
+        "mkt-gastus",
+        "mkt-kuryenti",
+        "part-maski"
+      ],
+      "exercises": [
+        {
+          "id": "mkt-10-mc1",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"gastus\" mean?",
+          "wordIds": [
+            "mkt-gastus"
+          ],
+          "answerId": "mkt-gastus"
+        },
+        {
+          "id": "mkt-10-mc2",
+          "type": "multiple-choice",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"electricity\"?",
+          "wordIds": [
+            "mkt-kuryenti"
+          ],
+          "answerId": "mkt-kuryenti"
+        },
+        {
+          "id": "mkt-10-mc3",
+          "type": "multiple-choice",
+          "direction": "kp-to-en",
+          "prompt": "What does \"maski\" express in a sentence?",
+          "wordIds": [
+            "part-maski"
+          ],
+          "answerId": "part-maski"
+        },
+        {
+          "id": "mkt-10-tr1",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Dakal la reng gastus mi ngeni.",
+          "wordIds": [
+            "mkt-gastus"
+          ],
+          "accepted": [
+            "we have a lot of expenses now",
+            "we have a lot of expenses now.",
+            "we have many expenses now",
+            "we have many expenses now."
+          ]
+        },
+        {
+          "id": "mkt-10-tr2",
+          "type": "translate",
+          "direction": "kp-to-en",
+          "prompt": "Maski dakal la reng gastus, manyad ya pa.",
+          "wordIds": [
+            "part-maski"
+          ],
+          "accepted": [
+            "even if there are a lot of expenses, he still pays",
+            "even if there are a lot of expenses, he still pays.",
+            "even if there are a lot of expenses, she still pays",
+            "even if there are a lot of expenses, she still pays.",
+            "even if there are a lot of expenses, he/she still pays",
+            "even if there are a lot of expenses, he/she still pays."
+          ]
+        },
+        {
+          "id": "mkt-10-fb1",
+          "type": "fill-blank",
+          "prompt": "Mal ya ing ____ ngeni. (Electricity is expensive today.)",
+          "wordIds": [
+            "mkt-kuryenti"
+          ],
+          "answerId": "mkt-kuryenti"
+        },
+        {
+          "id": "mkt-10-fb2",
+          "type": "fill-blank",
+          "prompt": "Ninu ing manyad king ____? (Who will pay for the expenses?)",
+          "wordIds": [
+            "mkt-gastus"
+          ],
+          "answerId": "mkt-gastus"
+        },
+        {
+          "id": "mkt-10-fb3",
+          "type": "fill-blank",
+          "prompt": "____ maranup ya, e ya mamangan. (Even though he/she is hungry, he/she doesn't eat.)",
+          "wordIds": [
+            "part-maski"
+          ],
+          "answerId": "part-maski"
+        },
+        {
+          "id": "mkt-10-ma1",
+          "type": "matching",
+          "wordIds": [
+            "mkt-gastus",
+            "mkt-kuryenti",
+            "part-maski"
+          ],
+          "pairs": [
+            {
+              "wordId": "mkt-gastus"
+            },
+            {
+              "wordId": "mkt-kuryenti"
+            },
+            {
+              "wordId": "part-maski"
+            }
           ]
         }
       ]
