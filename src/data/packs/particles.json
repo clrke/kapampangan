@@ -2420,8 +2420,8 @@
         {
           "id": "part-L15-mc2",
           "type": "multiple-choice",
-          "direction": "kp-to-en",
-          "prompt": "In \"Metung mu,\" what does the limiter \"mu\" mean?",
+          "direction": "en-to-kp",
+          "prompt": "Which word means \"only / just\" in \"Metung mu\" (just one)?",
           "wordIds": [
             "part-mu"
           ],
@@ -2480,22 +2480,6 @@
             "this is the only one left.",
             "only this one now",
             "only this one now."
-          ]
-        },
-        {
-          "id": "part-L15-ma1",
-          "type": "matching",
-          "wordIds": [
-            "na",
-            "part-mu"
-          ],
-          "pairs": [
-            {
-              "wordId": "na"
-            },
-            {
-              "wordId": "part-mu"
-            }
           ]
         }
       ]
