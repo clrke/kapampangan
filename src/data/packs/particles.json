@@ -1037,7 +1037,7 @@
           "en": "I am returning now."
         }
       ],
-      "notes": "Common Kapampangan/Philippine word for returning or going back. In Kapampangan, 'balik' is the base form used as an imperative and in everyday speech. Actor-focus: 'muli' or 'bumalik' in some dialects, but 'balik' is widely used directly. Also functions adverbially meaning 'again' or 'back'."
+      "notes": "Inherited from Proto-Malayo-Polynesian *balik — a cognate of Tagalog 'balik', not a borrowing from it. Attested in Kapampangan since Bergano's Vocabulario de la lengua Pampanga (1732): 'BALIC ... neutral verb of Mi, mibalic, to return, to go back'. Forman's Kapampangan Dictionary (1971) gives the affixed forms magbalik 'return', ibalik 'return something', balikan 'return to somewhere'. The near-synonym 'muli' (from the root 'uli') is equally native and means returning specifically to one's home or place of origin. 'pasibayu' means 'again / anew', not 'return'."
     },
     {
       "id": "part-eme",
@@ -2228,7 +2228,7 @@
       "id": "part-L13",
       "title": "Return & Later: balik and pota",
       "theme": "motion and time",
-      "intro": "'balik' means to return or go back — 'Balik ka king bale' means go back home. 'pota' is the temporal word for later — 'Munta ku pota' means I will go later. (Not 'mamaya' — that's the Tagalog word; Kapampangan phrasebooks and the 1974 UCLA Kapampangan word list both give 'pota' for 'later', and 'mamaya' isn't attested as native Kapampangan.) Together 'balik' and 'pota' let you talk about comings and goings across time.",
+      "intro": "'balik' means to return or go back — 'Balik ka king bale' means go back home. It is native Kapampangan, inherited from Proto-Malayo-Polynesian *balik and recorded in Bergano's 1732 Vocabulario de la lengua Pampanga as 'mibalic'; Tagalog 'balik' is a cousin, not its source. 'pota' is the temporal word for later — 'Munta ku pota' means I will go later. (Not 'mamaya' — that's the Tagalog word; Kapampangan phrasebooks and the 1974 UCLA Kapampangan word list both give 'pota' for 'later', and 'mamaya' isn't attested as native Kapampangan.) Together 'balik' and 'pota' let you talk about comings and goings across time.",
       "wordIds": [
         "part-balik",
         "time-pota"
