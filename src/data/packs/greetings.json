@@ -78,7 +78,7 @@
           "en": "I'm saying goodbye now!"
         },
         {
-          "kp": "Paalam, Tatang. Balik naku mamaya.",
+          "kp": "Paalam, Tatang. Balik naku pota.",
           "en": "Goodbye, Father. I'll be back later."
         }
       ],
@@ -248,7 +248,7 @@
           "en": "See you next time!"
         },
         {
-          "kp": "Paalam na, Mikit tana mamaya.",
+          "kp": "Paalam na, Mikit tana pota.",
           "en": "Goodbye, see you later."
         }
       ],
@@ -512,7 +512,7 @@
         {
           "id": "greet-2-fb2",
           "type": "fill-blank",
-          "prompt": "____ (Goodbye), Tatang. Balik naku mamaya.",
+          "prompt": "____ (Goodbye), Tatang. Balik naku pota.",
           "wordIds": [
             "greet-paalam"
           ],

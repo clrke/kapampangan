@@ -879,7 +879,7 @@
           "en": "Let's go to church."
         },
         {
-          "kp": "Paalam na, Mikit tana mamaya.",
+          "kp": "Paalam na, Mikit tana pota.",
           "en": "Goodbye, let's meet again later."
         }
       ],
@@ -1038,29 +1038,6 @@
         }
       ],
       "notes": "Common Kapampangan/Philippine word for returning or going back. In Kapampangan, 'balik' is the base form used as an imperative and in everyday speech. Actor-focus: 'muli' or 'bumalik' in some dialects, but 'balik' is widely used directly. Also functions adverbially meaning 'again' or 'back'."
-    },
-    {
-      "id": "part-mamaya",
-      "word": "mamaya",
-      "partOfSpeech": "adverb",
-      "translations": [
-        "later",
-        "soon",
-        "in a while",
-        "shortly"
-      ],
-      "relatedTagalog": "mamaya",
-      "examples": [
-        {
-          "kp": "Munta ku mamaya.",
-          "en": "I will go later."
-        },
-        {
-          "kp": "Mamaya na ku balik.",
-          "en": "I will return later."
-        }
-      ],
-      "notes": "Temporal adverb meaning 'later', 'soon', or 'in a while'. Shared with Tagalog where 'mamaya' carries the same temporal meaning. Often placed at the start or end of a clause. 'Mamaya na' intensifies the sense of 'soon/shortly'."
     },
     {
       "id": "part-eme",
@@ -2249,12 +2226,12 @@
     },
     {
       "id": "part-L13",
-      "title": "Return & Later: balik and mamaya",
+      "title": "Return & Later: balik and pota",
       "theme": "motion and time",
-      "intro": "'balik' means to return or go back — 'Balik ka king bale' means go back home. 'mamaya' is the temporal word for later or soon — 'Munta ku mamaya' means I will go later. Together they let you talk about comings and goings across time.",
+      "intro": "'balik' means to return or go back — 'Balik ka king bale' means go back home. 'pota' is the temporal word for later — 'Munta ku pota' means I will go later. (Not 'mamaya' — that's the Tagalog word; Kapampangan phrasebooks and the 1974 UCLA Kapampangan word list both give 'pota' for 'later', and 'mamaya' isn't attested as native Kapampangan.) Together 'balik' and 'pota' let you talk about comings and goings across time.",
       "wordIds": [
         "part-balik",
-        "part-mamaya"
+        "time-pota"
       ],
       "exercises": [
         {
@@ -2271,21 +2248,21 @@
           "id": "part-L13-mc2",
           "type": "multiple-choice",
           "direction": "kp-to-en",
-          "prompt": "What does \"mamaya\" mean?",
+          "prompt": "What does \"pota\" mean?",
           "wordIds": [
-            "part-mamaya"
+            "time-pota"
           ],
-          "answerId": "part-mamaya"
+          "answerId": "time-pota"
         },
         {
           "id": "part-L13-mc3",
           "type": "multiple-choice",
           "direction": "en-to-kp",
-          "prompt": "Which word means \"later\" or \"soon\"?",
+          "prompt": "Which word means \"later\"?",
           "wordIds": [
-            "part-mamaya"
+            "time-pota"
           ],
-          "answerId": "part-mamaya"
+          "answerId": "time-pota"
         },
         {
           "id": "part-L13-tr1",
@@ -2308,9 +2285,9 @@
           "id": "part-L13-tr2",
           "type": "translate",
           "direction": "kp-to-en",
-          "prompt": "Munta ku mamaya.",
+          "prompt": "Munta ku pota.",
           "wordIds": [
-            "part-mamaya"
+            "time-pota"
           ],
           "accepted": [
             "i will go later",
