@@ -685,7 +685,7 @@
           "en": "OK, I will take it."
         }
       ],
-      "notes": "Discourse particle/interjection expressing agreement or permission — 'okay', 'go ahead', 'alright'. Shared with Tagalog, from Spanish 'sigue' (continue). Used at the start of a response or to give approval."
+      "notes": "Discourse particle/interjection expressing agreement or permission — 'okay', 'go ahead', 'alright'. Borrowed from Spanish 'sigue' (continue) — attested in Kapampangan usage in the Wikivoyage phrasebook ('Sige, kunan ke.' = 'Okay, I'll take it.') and kaikki.org's Kapampangan entry. Used at the start of a response or to give approval."
     },
     {
       "id": "part-alang",
@@ -725,7 +725,7 @@
           "en": "The path going to the mountain is rough."
         }
       ],
-      "notes": "Directional particle meaning 'going to' or 'toward a destination'. Always followed by 'king/keng + destination'. Used both as a verb complement ('lumakad papunta king bale' = walked toward the house) and as a postmodifier of a noun phrase ('dalan papunta king bunduk' = path to the mountain). Shared with Tagalog."
+      "notes": "Directional particle meaning 'going to' or 'toward a destination'. Always followed by 'king/keng + destination'. Used both as a verb complement ('lumakad papunta king bale' = walked toward the house) and as a postmodifier of a noun phrase ('dalan papunta king bunduk' = path to the mountain). Attested in Kapampangan-tagged usage (Tatoeba: 'Mag-táxi ka papuntá king hotél.'); the Wikivoyage phrasebook also uses the related nominalized form 'pamunta', so both coexist in real usage."
     },
     {
       "id": "part-kailangan",
@@ -747,7 +747,7 @@
           "en": "I need a mosquito net for the mosquitoes."
         }
       ],
-      "notes": "Modal predicate expressing necessity or need — 'to need', 'it is necessary'. Shared with Tagalog (from Malay 'kailangan'). Follows predicate-initial word order: 'Kailangan ku [ing/ning object]'. Compare 'bisa' (to want/can) and 'uling' (because/reason). Widely used in modern Kapampangan speech."
+      "notes": "Modal predicate expressing necessity or need — 'to need', 'it is necessary'. Native derivation: ka- + ilang + -an, per Wiktionary's Kapampangan entry — not from Malay, despite a surface resemblance to Malay 'kehilangan' (a distant cognate, not the source). Follows predicate-initial word order: 'Kailangan ku [ing/ning object]'. Compare 'bisa' (to want/can) and 'uling' (because/reason). Widely used in modern Kapampangan speech."
     },
     {
       "id": "part-ampo",
@@ -784,7 +784,7 @@
           "en": "I think I am sick."
         }
       ],
-      "notes": "Epistemic modal particle expressing uncertainty or conjecture — 'I think', 'probably', 'it seems'. Placed after the predicate phrase. Shared with Tagalog (where it carries the same meaning). In Kapampangan it softens a statement to indicate the speaker is not fully certain."
+      "notes": "Epistemic modal particle expressing uncertainty or conjecture — 'I think', 'probably', 'it seems'. Placed after the predicate phrase. Attested and fully nativized in Kapampangan (kaikki.org: 'Aliku yata makapunta ken' = 'I may not be able to go there', with derived forms 'aliyata', 'eyata'). Linguistic literature on Kapampangan clitics notes it was historically borrowed from Tagalog, but it now functions as native Kapampangan morphology, not a code-switch. In Kapampangan it softens a statement to indicate the speaker is not fully certain."
     },
     {
       "id": "part-wari",
@@ -925,7 +925,7 @@
           "en": "\"Thank you very much!\" \"You're welcome.\""
         }
       ],
-      "notes": "Discourse particle used to introduce a reciprocal or contrasting element. Four main uses: (1) reciprocal — 'Mayap ka naman' (And you?); (2) 'you're welcome' in the set phrase 'Alang nanu naman' (It's nothing / You're welcome); (3) additive 'also/too'; (4) mild contrast 'on the other hand'. Shared with Tagalog where 'naman' carries the same functions. Extremely frequent in conversation."
+      "notes": "Discourse particle used to introduce a reciprocal or contrasting element. Four main uses: (1) reciprocal — 'Mayap ka naman' (And you?); (2) 'you're welcome' in the set phrase 'Alang nanu naman' (It's nothing / You're welcome); (3) additive 'also/too'; (4) mild contrast 'on the other hand'. Attested in Kapampangan (kaikki.org Kapampangan entry, etymology 'na' + 'man', with its own particle/adverb/interjection senses). Extremely frequent in conversation."
     },
     {
       "id": "part-kayabe",
@@ -1014,7 +1014,7 @@
           "en": "I am already tired, so I will go now."
         }
       ],
-      "notes": "Conjunction meaning 'so, therefore, that's why'. Introduces a result or consequence clause. Shared with Tagalog where 'kaya' carries the same function. Also has a secondary meaning as a noun meaning 'ability/capability' but the conjunction use is primary in everyday speech."
+      "notes": "Conjunction meaning 'so, therefore, that's why'. Introduces a result or consequence clause. Attested in Kapampangan (Wiktionary Kapampangan entry 'kaya' < ka + ya; independent usage: 'Masanting ya, kaya dakal la ring makan keti' = 'It is good, that is why there is so much food here.'). Note: a distinct clitic 'kaya' expressing epistemic doubt ('perhaps/I wonder') is separately documented as Tagalog-borrowed — don't conflate it with this causal-conjunction sense."
     },
     {
       "id": "part-balik",
