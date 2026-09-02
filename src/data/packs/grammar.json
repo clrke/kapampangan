@@ -468,16 +468,22 @@
       "partOfSpeech": "pronoun",
       "translations": [
         "you all",
-        "you (plural actor)"
+        "you (plural actor)",
+        "your (plural)",
+        "your (polite singular)"
       ],
-      "relatedTagalog": "kayo",
+      "relatedTagalog": "kayo / ninyo",
       "examples": [
         {
           "kp": "Saupan yu ku pu.",
           "en": "Please help me."
+        },
+        {
+          "kp": "Nanung lagyu yu?",
+          "en": "What is your name? (plural, or singular to an elder)"
         }
       ],
-      "notes": "2nd person plural actor enclitic — marks 'you all' as the topic/agent of the sentence. The short actor form of 'kayu'. Used post-verbally: 'Saupan yu ku' (You all help me). Contrast with 'kayu' (the full independent form, used in predicate position)."
+      "notes": "'yu' does double duty. (1) 2nd person plural actor/absolutive enclitic — marks 'you all' as the topic/agent of the sentence. The short actor form of 'kayu'. Used post-verbally: 'Saupan yu ku' (You all help me). (2) A separate genitive (ng-set) pronoun 'your' — the possessive counterpart to 'mu' (2sg 'your'), parallel to how the ergative set runs ku/mu/na/ta/mi/yu/da (Wikipedia's Kapampangan grammar table; Drakieness Kapampangan grammar page). Just as 'kayu' can politely address a single elder/respected person (see gram-kayu), genitive 'yu' inherits the same politeness extension: 'lagyu yu' can mean 'your name' either to a group or respectfully to one elder — explicitly documented in the Wikibooks Kapampangan course ('the corresponding possessive pronoun, your, is yu instead of mu' when addressing several people or one elder). Contrast with 'kayu' (the full independent absolutive form, used in predicate position)."
     },
     {
       "id": "gram-mo",
